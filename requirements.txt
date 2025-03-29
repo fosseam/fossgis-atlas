@@ -1,0 +1,24 @@
+# Core
+jupyterlab
+notebook
+ipykernel
+
+# Web & Parsing
+requests
+beautifulsoup4
+lxml
+
+# Datenverarbeitung
+pandas
+numpy
+
+# Visualisierung
+matplotlib
+plotly
+
+# Optional: YouTube + CLI Parsing
+yt-dlp
+
+# Optional: Geo/Mapping (später ggf. aktivieren)
+# geopandas
+# ipyleaflet

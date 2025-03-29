@@ -35,6 +35,7 @@ exports/       → Snapshots & final CSVs
 docs/          → Project description, phase model, tree views, etc.
 requirements.txt
 README.md
+liesmich.md
 ```
 
 ## Contribute & Collaborate

@@ -1,5 +1,7 @@
 # FOSSGIS Atlas – Meta-Landscape zu den Konferenzen
 
+🇺🇳 🇺🇸 🇬🇧 (eng) -> readme.md  
+
 Mit anderen Worten eine Art Konferenzkartografierung 2025++.
 
 Also ein kuratiertes, datengetriebenes Meta-Archiv der FOSSGIS-Konferenzen – strukturiert, visualisiert, verlinkt.
@@ -33,7 +35,27 @@ exports/       → Snapshots & finale CSVs
 docs/          → Projektbeschreibung, Phasenmodell, Tree-Views etc.
 requirements.txt
 README.md
+liesmich.md
 ```
+
+
+## Mögliche Abhängigkeiten
+
+| Paket           | Zweck                                        |
+|------------------|---------------------------------------------|
+| `jupyterlab`     | Dein UI, läuft auch über Binder              |
+| `requests`       | Für Pretalx- und media.ccc-Downloads         |
+| `beautifulsoup4` | HTML-Scraping von media.ccc + YouTube        |
+| `pandas`         | Tabellenstruktur für Masterdataset           |
+| `plotly`         | Interaktive Visualisierung                   |
+| `yt-dlp`         | YouTube-Metadaten extrahieren ohne API-Key   |
+
+
+**Optional:** Geo/Mapping (später ggf. aktivieren)
+- geopandas
+- ipyleaflet
+
+
 
 ## Mitmachen & Beiträge
 
