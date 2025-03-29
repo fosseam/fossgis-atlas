@@ -24,7 +24,8 @@ Possible data sources:
 
 ## Launch Notebook (via Binder)
 
-tbd.
+https://mybinder.org/v2/gh/fosseam/fossgis-atlas/main?labpath=notebooks/0_fossgis_atlas_main.ipynb
+
 
 ## Project Structure
 
