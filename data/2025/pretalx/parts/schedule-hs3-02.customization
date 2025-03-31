@@ -1,0 +1,617 @@
+{
+  "day": 2,
+  "date": "2025-03-27",
+  "room": "HS3 (S1)",
+  "events": [
+    {
+      "guid": "09e25d1f-05a8-53f6-9c15-ab313223686c",
+      "code": "C98S8V",
+      "id": 58261,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/C98S8V/world_map_road_pavedness_bUzEve5.png",
+      "date": "2025-03-27T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58261-anreicherung-von-straendaten-mittels-deep-learning-methoden-und-mapillary-bildern",
+      "url": "https://pretalx.com/fossgis2025/talk/C98S8V/",
+      "title": "Anreicherung von Straßendaten mittels Deep-Learning-Methoden und Mapillary Bildern",
+      "subtitle": "",
+      "track": "Rasterdaten und Fernerkundung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Wir haben einen globalen Datensatz zu Straßeneigenschaften (\"befestigt\" oder \"unbefestigt\") mithilfe von KI-Methoden erstellt, basierend auf 105 Millionen Bildern von Mapillary . Unser Ansatz kombiniert SWIN-Transformer-Vorhersagen des Straßenbelags mit einer CLIP-Filterung minderwertiger Bilder. Der Datensatz deckt 36 % des weltweiten Straßennetzes ab, wobei die Abdeckung in Städten höher ist. Er kann in der Stadtplanung, im Katastrophenmanagement, in der Logistik genutzt werden.",
+      "description": "Wir haben einen offenen Datensatz mit globaler Abdeckung über Straßeneigenschaften (“befestigt” oder “unbefestigt”)  veröffentlicht, der aus 105 Millionen Bildern von der weltweit größten crowdsourcing-basierten Street-View-Plattform Mapillary abgeleitet wurde. Wir nutzen einen hybriden Deep-Learning-Ansatz, der SWIN-Transformer nutzt, um die Straßenbedeckung vorherzusagen und mit einer CLIP-und-DL-Segmentierung zur Filterung von Bildern niedriger Qualität kombiniert ist. Die Vorhersagen zur Straßendecke sind mit OpenStreetMap (OSM) Straßendaten abgeglichen und zusammengeführt.\r\n\r\nUnsere Ergebnisse liefern Einblicke in die räumliche Verteilung der Mapillary-Daten und der Straßenbedeckung auf Kontinent- und Länderebene. Im Vergleich zu OSM, erweitert unser Datensatz die Verfügbarkeit globaler Informationen über Straßenbedeckung um über 3 Millionen Kilometer und repräsentiert nun etwa 36 % der Gesamtlänge des weltweiten Straßennetzes.\r\n\r\nDie meisten Regionen zeigen eine mäßige bis hohe Abdeckung mit befestigten Straßen (60-80 %), aber in bestimmten Gebieten Afrikas und Asiens wurden signifikant niedrigere Werte festgestellt. Stadtgebiete tendieren zu einer nahezu vollständigen “Pavedness”, während ländliche Regionen eine größere Variabilität aufweisen.\r\n\r\nDie Validierung des Modells gegenüber OSM-Daten erreichte F1-Scores für gepflasterte Straßen zwischen 91 und 97 % über die Kontinente hinweg. Aufbauend auf der Arbeit von Mapillary und deren Beitragenden sowie der Anreicherung von OSM-Straßenattributen bietet unsere Arbeit wertvolle Erkenntnisse für Anwender in der Stadtplanung, im Katastrophenmanagement, in der Logistikoptimierung und unterstützt verschiedene Nachhaltigkeitsziele (SDGs).\r\n\r\nIn unserer Analyse haben wir bisher ausschließlich Daten von Mapillary genutzt. Je nach Anwendungsregion könnte es interessant sein, in der Zukunft weitere Street-View-Platformen zu betrachten. Gerade Alternativen wie Panoramax (https://panoramax.fr/) haben in den vergangenen Monaten vorwiegend in Europa an Beliebtheit gewonnen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "E8WPXD",
+          "name": "Benjamin Herfort",
+          "avatar": "https://pretalx.com/media/avatars/E8WPXD_ejcU0nR.jpg",
+          "biography": "Benjamin Herfort arbeitet als Wissenschaftler im HeiGIT (Heidelberg Institute for Geoinformation Technology) und beschäftigt sich dort vor allem damit wie OpenStreetMap (OSM) Daten (und andere Crowdsourcing Daten) in der humanitären Hilfe genutzt werden können. Ein weiterer Schwerpunkt liegt auf der Entwicklung von Methoden und Indikatoren zur Analyse der Zuverlässigkeit und Qualität von OSM Daten.",
+          "public_name": "Benjamin Herfort",
+          "guid": "1b84f69d-26b6-5fac-87ab-ec6a29b3fab0",
+          "url": "https://pretalx.com/fossgis2025/speaker/E8WPXD/"
+        },
+        {
+          "code": "RPNZFL",
+          "name": "Sukanya Randhawa",
+          "avatar": "https://pretalx.com/media/avatars/RPNZFL_y7hpHu9.png",
+          "biography": "Ich bin ein GeoAI-Forscher und meine Arbeit konzentriert sich auf die Entwicklung innovativer georäumlicher Datensätze und Tools, die KI mit multimodalen Daten kombinieren, um aussagekräftige, datengesteuerte Erkenntnisse zu liefern. Derzeit arbeite ich als AI Lead for Good bei HeiGIT an KI-gesteuerten Projekten, die sich mit Herausforderungen in den Bereichen intelligente Mobilität, humanitäre Hilfe und Klimaschutz befassen.",
+          "public_name": "Sukanya Randhawa",
+          "guid": "a4fb576b-973c-5b66-b4f5-26775ffbbbc0",
+          "url": "https://pretalx.com/fossgis2025/speaker/RPNZFL/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/C98S8V/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/C98S8V/",
+      "attachments": [
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/C98S8V/resources/FOSSGIS_2025_H_syXUdUb.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "285ad6bd-bcd7-51da-8e7c-8e39c10e08eb",
+      "code": "CMDAGS",
+      "id": 58250,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/CMDAGS/versiegelung_8GNIhBI.png",
+      "date": "2025-03-27T09:35:00+01:00",
+      "start": "09:35",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58250-versiegelungsanalyse-zur-bioklimatischen-bewertung-von-stadtgebieten",
+      "url": "https://pretalx.com/fossgis2025/talk/CMDAGS/",
+      "title": "Versiegelungsanalyse zur bioklimatischen Bewertung von Stadtgebieten",
+      "subtitle": "",
+      "track": "Rasterdaten und Fernerkundung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Für eine bioklimatische Bewertung des Stadtgebietes Düsseldorf wurde der Grad der Versiegelung erfasst, wobei verschiedene Arten von vollversiegelten, teilversiegelten und unversiegelten Flächen unterschieden wurden. Zusätzlich wurde hohe Vegetation über diesen Flächen erfasst. Für diese Klassifikation wurde ein neuronales Netz (U-Net) trainiert und auf die Jahre 2021, 2022 und 2023 angewendet.",
+      "description": "Im Rahmen einer bioklimatischen Bewertung aller Siedlungs- und Verkehrsflächen sowie Grün- und\r\nFreiflächen im Stadtgebiet Düsseldorf wurde der Grad der Versiegelung erfasst. Hierbei sollten verschiedene Arten von vollversiegelten, teilversiegelten und unversiegelten Flächen erfasst werden. Zusätzlich wurde hohe Vegetation über den verschiedenen Oberflächenklassen bestimmt. Für die Umsetzung wurde eine automatisierte, auf Methoden der Künstlichen Intelligenz (KI) gestützte\r\nErfassung und Klassifizierung entwickelt. Konkret wurden zwei U-Nets (CNNs) entwickelt und trainiert, einmal für die Oberflächen und einmal für hohe Vegetation. Diese Ergebnisse wurden anschließend kombiniert, um Informationen über den Versiegelungsgrad, hohe Vegetation und die Oberflächenklasse unter dieser hohen Vegetation zu erhalten. Für diese Analysen wurden Digitiale Orthophotos, digitale Oberflächenmodelle und digitale Geländemodelle als Eingangsdaten verwendet. Um Veränderungen im Grad der Versiegelung abschätzen zu können, wurden diese Analysen für die Jahre 2021, 2022 und 2023 durchgeführt und miteinander verglichen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "PF9FWU",
+          "name": "Markus Metz",
+          "avatar": null,
+          "biography": "Markus Metz promovierte an der Universität Oldenburg in Biologie und kam über Biogeographie zu GIS und Fernerkundung und ist ein langjähriger Entwickler der Kern-Komponenten von GRASS GIS. Bei mundialis ist er der Spezialist für alle Themen rund um Fernerkundung.",
+          "public_name": "Markus Metz",
+          "guid": "192f7442-a382-51a4-b693-70070f1e94ec",
+          "url": "https://pretalx.com/fossgis2025/speaker/PF9FWU/"
+        },
+        {
+          "code": "PWHYD7",
+          "name": "Markus Eichhorn",
+          "avatar": "https://pretalx.com/media/avatars/PWHYD7_G0DfQQt.jpg",
+          "biography": "Markus studierte Geoinformatik am ifgi der Universität Münster. Über die GIS-Entwicklung entdeckte er seine Leidenschaft für Geodaten und entwickelte sich zu einem Experten im Bereich Geomarketing, Fernerkundung und dem strategischem Einsatz von Geodaten. Er ist Level C IPMA-zertifizierter Projektmanager und Geschäftsführer der mundialis GmbH & Co. KG.",
+          "public_name": "Markus Eichhorn",
+          "guid": "35251f80-0d25-5279-ab34-be4d06e408e6",
+          "url": "https://pretalx.com/fossgis2025/speaker/PWHYD7/"
+        },
+        {
+          "code": "FFJ333",
+          "name": "Victoria-Leandra Brunn",
+          "avatar": null,
+          "biography": "Datenanalystin und Anwendungsentwicklerin im Bereich Fernerkundung bei mundialis",
+          "public_name": "Victoria-Leandra Brunn",
+          "guid": "05f2e703-9809-5bf1-9c08-06bfa403ec16",
+          "url": "https://pretalx.com/fossgis2025/speaker/FFJ333/"
+        },
+        {
+          "code": "3HPSZE",
+          "name": "Anika Weinmann",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Anika Weinmann",
+          "guid": "61d55604-30c0-5b0e-87d8-0ec5dd2f5390",
+          "url": "https://pretalx.com/fossgis2025/speaker/3HPSZE/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/CMDAGS/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/CMDAGS/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien als PDF update",
+          "url": "/media/fossgis2025/submissions/CMDAGS/resources/FOSSGIS_2025_V_xTlAVxD.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "37d4a316-9235-57c5-93ad-291d261ca3b2",
+      "code": "EXCUFQ",
+      "id": 58081,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/EXCUFQ/SEAL_Qn2OBQA.jpg",
+      "date": "2025-03-27T10:00:00+01:00",
+      "start": "10:00",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58081-ermittlung-von-versiegelten-flachen-als-komplexe-aufgabe-projekt-seal",
+      "url": "https://pretalx.com/fossgis2025/talk/EXCUFQ/",
+      "title": "Ermittlung von versiegelten Flächen als komplexe Aufgabe (Projekt SEAL)",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Die Kartierung von Flächenversiegelungen wird für immer mehr Bereiche relevant. Bei der Auswahl vorzugsweise freier Daten und Software besteht eine Vielfalt von Möglichkeiten. Im Rahmen des hier beschriebenen Projektes wird eine Prozesskette so organisiert, dass die einzelnen Datenquellen, Prozessschritte (manuelle Datenerfassung, GIS-Analysen, KI) und (Zwischen-)Ergebnisse flexibel kombinierbar sind. Das hierfür entworfene Rahmenwerk sowie erste Zwischenergebnisse werden vorgestellt.",
+      "description": "Eine verursachergerechte Gebührenermittlung für die Beseitigung von Niederschlagswasser ist die initiale Motivation zur Ermittlung der versiegelten Flächen. Die Niedersachsen Wasser als Tochter des Oldenburgisch Ostfriesischen Wasserverbandes (OOWV) nimmt sich dieser Aufgabe unter Einsatz des freien Geoinformationssystems QGIS, freien KI-Tools sowie verschiedensten Datenquellen an. Frei zugängliche Geodaten wie Orthofotos, DGM, ALKIS, ATKIS und OSM sollen in Kombination mit eigenen Daten (Abwassernetze, SAP Kundendaten) herangezogen werden, um daraus verwertbare Aussagen bezüglich des Flächenversiegelungsgrads abzuleiten. \r\nDie zur Lösung dieser Anforderung ersonnene Prozess-Architektur muss aufgrund der sehr heterogenen Daten und Aufgaben sowohl methodisch als auch datentechnisch ein breites Spektrum abdecken. Dennoch soll es möglich sein, die Daten und Prozesse anhand vereinheitlichter Eigenschaften oder Metadaten (Volumen, Struktur, Format und Herkunft für die Daten; Input-Daten, Berechnungsaufwand, Skalierbarkeit und Ergebnis für die Prozesse) formal gleichförmig zu beschreiben. Nur auf diese Weise lassen sich Aufwände zuverlässig quantifizieren und ggf. auch für andere Gebiete realistisch schätzen. Skalierungspotentiale, etwa durch mehr Personal, schnellere Algorithmen, leistungsfähigere Hardware etc. können so ebenfalls bestimmt werden. \r\nIm Laufe des Projektes werden umfangreiche Ground-Truth-Daten durch manuelle Kartierung erhoben. Sie sollen im Projekt als Referenzdaten dienen, gegen die dann verschiedene Auswerteverfahren, insbesondere auch Methoden des Machine Learnings, validiert werden. Für verschiedene Methoden können dann die erreichbare Qualität gegen den jeweils erforderlichen Aufwand abgewogen werden. Von entscheidendem praktischen Nutzen wird dabei die geschätzte Zuverlässigkeit gesehen, mit der die Versiegelungsklasse einer Teilfläche bestimmt wurde. Auf diese Weise sollen manuelle Prüfungen der automatischen Klassifizierungen nach möglichst objektiven Kriterien priorisiert werden. \r\nNeben der ursprünglichen Zielsetzung der Gebührenermittlung zeichnen sich bereits jetzt weitere Anwendungsfälle wie Kapazitätsplanungen für Abwasserleitungen, Starkregenvorsorge oder die Ermittlung von Entsiegelungspotentialen ab. Die vorgestellte Architektur soll auch diesem Umstand Rechnung tragen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "93NBMM",
+          "name": "Peter Lorkowski",
+          "avatar": "https://pretalx.com/media/avatars/93NBMM_CxjjdvR.jpg",
+          "biography": "Dipl.-Ing. Vermessungswesen\r\nM. Sc. Geodäsie und Geoinformation\r\nPromotion im Bereich Geostatistik (A System Architecture for the Monitoring of Continuous Phenomena by Sensor Data Streams)\r\nProjekterfahrung in den Bereichen GIS, Datenbanken, Software-Engineering, Wissensmanagement",
+          "public_name": "Peter Lorkowski",
+          "guid": "8e254404-247e-563e-b2be-5cb329d952fa",
+          "url": "https://pretalx.com/fossgis2025/speaker/93NBMM/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/EXCUFQ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/EXCUFQ/",
+      "attachments": []
+    },
+    {
+      "guid": "89527e9f-5e7c-5979-ba05-eea88896f57f",
+      "code": "SSKY3J",
+      "id": 58065,
+      "logo": null,
+      "date": "2025-03-27T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58065-verarbeitung-offener-satellitendaten-mit-freier-software-fur-die-visuelle-anwendung",
+      "url": "https://pretalx.com/fossgis2025/talk/SSKY3J/",
+      "title": "Verarbeitung offener Satellitendaten mit freier Software für die visuelle Anwendung",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Was steckt dahinter, wenn man in einem interaktiven Kartendienst im Internet die Satellitenbild-Ebene betrachtet?  Dieser Vortrag gibt einen Einblick auf Grundlage von 20 Jahren praktischer Erfahrung in der Produktion derartiger Darstellungen.",
+      "description": "Satellitenbild-Darstellungen sind heute in öffentlich zugänglichen Kartendiensten allgegenwärtig und beliebt.  Und viele dieser Bilder basieren zumindest teilweise auf offenen Satellitendaten.  Anders als bei kartographischen Darstellungen werden jedoch die praktischen Verfahren zur Produktion solcher Visualisierungen öffentlich sehr wenig diskutiert.\r\n\r\nDieser Vortrag erläutert zunächst die Rolle und Geschichte von Luft- und Satellitenbild-Ebenen in Kartendiensten als eigene Visualisierungsform zwischen originären Fotos und kartographischen Darstellungen und gibt einen Überblick über die grundsätzlichen Herausforderungen bei der Satellitenbild-Verarbeitung für diese Anwendung.\r\n\r\nDarauf aufbauend wird der Stand der Technik im Bereich großräumiger Satellitenbild-Zusammenstellungen erläutert was Methoden, Datenquellen und Qualität der Ergebnisse betrifft.\r\n\r\nDaneben werden einige der speziellen Probleme bei der Verwendung offener Datenquellen und der Nutzung freier Software in diesem Bereich anhand konkreter Beispiele erläutert.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "YZJFGM",
+          "name": "Christoph Hormann",
+          "avatar": "https://pretalx.com/media/avatars/YZJFGM_kScxW6k.png",
+          "biography": "Christoph Hormann ist freiberuflicher Grafik-Designer, Methoden-Entwickler und Berater im Bereich der Produktion von Darstellungen der Erdoberfläche - von realistischen 3D-Ansichten bis zu klassischen Landkarten.  Themenfelder sind dabei vor allem die Gestaltung von Vorprodukten für Visualisierungen wie die Generalisierung von Geodaten und die Produktion von Satellitenbild-Zusammenstellungen, vermarktet unter dem Namen _Imagico.de Geovisualisierungen_. Daneben berate ich Kunden zu Fragen in diesen Bereichen. Mein Schwerpunkt und meine Expertise liegen dabei in der Verwendung offener Geodaten unter Nutzung von Freier und Open Source Software.",
+          "public_name": "Christoph Hormann",
+          "guid": "e8af0eb7-f921-50f8-8f2c-7320ed39f403",
+          "url": "https://pretalx.com/fossgis2025/speaker/YZJFGM/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/SSKY3J/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/SSKY3J/",
+      "attachments": []
+    },
+    {
+      "guid": "79d19a53-fa9f-5ebf-ad34-a227d51e8028",
+      "code": "SKAB7Q",
+      "id": 65696,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/SKAB7Q/kawesqar_ohsome_planet_1_adyaGAd.png",
+      "date": "2025-03-27T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:05",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-65696-ohsome-planet-osm-daten-aus-geoparquet",
+      "url": "https://pretalx.com/fossgis2025/talk/SKAB7Q/",
+      "title": "ohsome-planet: OSM Daten aus GeoParquet",
+      "subtitle": "",
+      "track": null,
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Kurze Vorstellung des ohsome-planet Tools, mit dem man OSM Daten einfach und schnell ins GeoParquet Format umwandeln kann.",
+      "description": "Das ohsome-planet Tool wandelt OSM (history) PBF Dateien ins GeoParquet-Format um. Dabei werden die Geometrien für Nodes, Ways und Relations erstellt. Optional kann man Informationen aus OSM Changesets (z.B. Hashtags, Editor) und administrative Grenzen (z.B. Länder, Stadtteilgrenzen) joinen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "E8WPXD",
+          "name": "Benjamin Herfort",
+          "avatar": "https://pretalx.com/media/avatars/E8WPXD_ejcU0nR.jpg",
+          "biography": "Benjamin Herfort arbeitet als Wissenschaftler im HeiGIT (Heidelberg Institute for Geoinformation Technology) und beschäftigt sich dort vor allem damit wie OpenStreetMap (OSM) Daten (und andere Crowdsourcing Daten) in der humanitären Hilfe genutzt werden können. Ein weiterer Schwerpunkt liegt auf der Entwicklung von Methoden und Indikatoren zur Analyse der Zuverlässigkeit und Qualität von OSM Daten.",
+          "public_name": "Benjamin Herfort",
+          "guid": "1b84f69d-26b6-5fac-87ab-ec6a29b3fab0",
+          "url": "https://pretalx.com/fossgis2025/speaker/E8WPXD/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/SKAB7Q/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/SKAB7Q/",
+      "attachments": []
+    },
+    {
+      "guid": "a4312468-9cb6-59af-82fc-2c4d8dc96be8",
+      "code": "T9HNWG",
+      "id": 65697,
+      "logo": null,
+      "date": "2025-03-27T11:50:00+01:00",
+      "start": "11:50",
+      "duration": "00:05",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-65697-fluttermap-foss-maps-fur-iphone-android",
+      "url": "https://pretalx.com/fossgis2025/talk/T9HNWG/",
+      "title": "Flutter_map: FOSS-Maps für iPhone & Android",
+      "subtitle": "",
+      "track": null,
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Spontan eingereichte Lightning Talks. Jeder kann einen Vortrag halten, Registrierung erfolgt an einer entsprechenden Pinnwand im Foyer.",
+      "description": "Spontan eingereichte Lightning Talks. Jeder kann einen Vortrag halten, Registrierung erfolgt an einer entsprechenden Pinnwand im Foyer.\r\nListe der Vortragenden mit Titel folgt, sobald wir den vom Zettel ins Programm übertragen haben.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "ZVSC7Q",
+          "name": "Tobias Neumann",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Tobias Neumann",
+          "guid": "e55c179f-9c7a-5c21-8334-6ea5765a32f1",
+          "url": "https://pretalx.com/fossgis2025/speaker/ZVSC7Q/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/T9HNWG/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/T9HNWG/",
+      "attachments": []
+    },
+    {
+      "guid": "0a1cae75-3e9f-5fae-82df-58163a13a875",
+      "code": "PDF7NN",
+      "id": 58254,
+      "logo": null,
+      "date": "2025-03-27T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58254-klimaanpassungsrelevante-vegetationsindikatoren-mit-hilfe-von-sentinel-2-zeitreihen",
+      "url": "https://pretalx.com/fossgis2025/talk/PDF7NN/",
+      "title": "Klimaanpassungsrelevante Vegetationsindikatoren mit Hilfe von Sentinel-2 Zeitreihen",
+      "subtitle": "",
+      "track": "Rasterdaten und Fernerkundung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Im Vortrag wird die Methodik zur Herleitung von Vegetationsindikatoren wie Grünvolumen und Beschirmungsgrad auf Grundlage von Satellitendaten vorgestellt. Außerdem werden weiterführende Analysen für klimaanpassungsrelevante Fragestellungen präsentiert. Die Indikatoren werden jährlich aktuell bereitgestellt und ermöglichen aufbauende Analysen auch außerhalb des urbanen Kontexts. Methodik und Daten stehen unter CC BY-NC und GPL-V.3 zur Verfügung.",
+      "description": "Im Kontext des Klimawandels erkennen immer mehr Gemeinden ihre Verantwortung, Maßnahmen zur Anpassung an den Klimawandel in ihre Konzepte zur Stadtentwicklung zu integrieren. Vegetationsindikatoren wie das Grünvolumen und der Beschirmungsgrad können eine bedeutende Rolle bei der Reduzierung von bspw. städtischen Wärmeinseln spielen. Im Rahmen des UrbanGreenEye-Projekts entwickeln wir Fernerkundungsindikatoren basierend auf Satellitendaten, die ein regelmäßiges Monitoring von Gemeinden in ganz Deutschland ermöglichen. Sentinel-2 liefert dafür wöchentlich multispektrale Daten mit einer räumlichen Auflösung von bis zu 10 Metern und ist kostenlos verfügbar. Bei der Klassifizierung von Satellitenbildzeitreihen haben sich DeepLearning-Algorithmen, einschließlich Transformer-Modelle, als wirksam erwiesen. Häufig mangelt es KI-Modellen an der Fähigkeit, auf räumlich und zeitlich unterschiedliche Bedingungen übertragen zu werden. Deshalb wurden Ansätze zur Verbesserung der Generalisierungsfähigkeit wissenschaftlich untersucht und zur Herleitung der Indikatoren optimiert. Die Indikatoren ermöglichen eine Vielzahl von weiterführenden Anwendungen, auch außerhalb des kommunalen Kontexts. \r\nIndikatoren werden als Rasterdatensätze unter CC BY-NC (non commercial) bereitgestellt und Algorithmen stehen unter General Public License auf GitHub zur Verfügung.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "Z8VNTT",
+          "name": "Benjamin Stöckigt",
+          "avatar": "https://pretalx.com/media/avatars/Z8VNTT_50La0CU.jpg",
+          "biography": "Geodaten und KI-Modelle können einen großen Mehrwert für raum/zeitliche Analysen bieten. Ich liebe die Forschung und Entwicklung von KI basierten Methoden in verschiedenen Bereichen wie Bildverarbeitung, Zeitreihenanalyse und Sprachverarbeitung.",
+          "public_name": "Benjamin Stöckigt",
+          "guid": "773a83e1-73de-5368-8dc4-33f658f2aca2",
+          "url": "https://pretalx.com/fossgis2025/speaker/Z8VNTT/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/PDF7NN/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/PDF7NN/",
+      "attachments": [
+        {
+          "title": "Präsentationsfolien V2 PDF",
+          "url": "/media/fossgis2025/submissions/PDF7NN/resources/20250327_FOSSG_L3cyZM7.pdf",
+          "type": "related"
+        },
+        {
+          "title": "Präsentationsfolien PDF",
+          "url": "/media/fossgis2025/submissions/PDF7NN/resources/20250327_FOSSG_EdFbq9z.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "1da76693-37e9-551d-9346-e13190b1dc91",
+      "code": "GZU79C",
+      "id": 58119,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/GZU79C/HLBK_Plugin_PKmzldF.png",
+      "date": "2025-03-27T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58119-landesweite-datenerfassungen-organisieren-und-effizient-gestalten-mit-qgis",
+      "url": "https://pretalx.com/fossgis2025/talk/GZU79C/",
+      "title": "Landesweite Datenerfassungen organisieren und effizient gestalten mit QGIS",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "In diesem Vortrag wird die Entwicklung eines komplexen QGIS-Plugin vorgestellt, das den Prozess einer landesweiten Datenerhebung, mit einer Vielzahl an Einzelaufträgen, vereinfacht und standardisiert. In der Vergangenheit erforderten diese einzelnen Datenerfassungsaufträge eine umfangreiche manuelle Vorbereitung, Datenvalidierung und Integration in einen zentralen Datenbestand. Am Beispiel der Hessischen Lebensraum- und Biotopkartierung demonstrieren wir das Potential maßgeschneiderter Plugins.",
+      "description": "Bei landesweiten naturschutzfachlichen Datenerhebungen, i.d.R. von Länderfachbehörden beauftragt, müssen eine Vielzahl von Aufträgen organisiert werden. Das umfasst unter anderem die Bereitstellung von Datengrundlagen, die Sicherstellung der Integrität der erhobenen Daten nach einheitlichen Kriterien und schlussendlich die zeitnahe Überführung in den zentralen, landesweiten Datenbestand.\r\nIn der Vergangenheit verursachten diese Anforderungen erheblichen Aufwand, indem Einzelaufträge individuell vorbereitet und Kartierungsergebnisse im Einzelnen geprüft und in den zentralen Datenbestand überführt werden mussten.\r\nMit einem speziell für diese Zwecke entwickelten QGIS-Plugin konnten wir mittlerweile nicht nur die eigentliche Datenerfassung vereinfachen, sondern gleichzeitig auch die begleitenden Arbeitsschritte systematisieren und deutlich effizienter gestalten. Dabei übernimmt das Plugin eine Vielzahl von Aufgaben, u.a.:\r\n•\tunterstützt es bei der Auftragsverwaltung\r\n•\tgeneriert individuelle QGIS Projekte für die einzelnen Erfasser mit vorgeladenen Layern aus verschiedenen Quellen, systematisierter Stilisierung und Strukturierung\r\n•\tstellt den Erfassern verschiedene Digitalisierungswerkzeuge zur Verfügung\r\n•\tsteuert durch interaktive Eingabemasken die Erhebung untereinander abhängiger Sachdaten\r\n•\tprüft mit QGIS-, Python- und Datenbanktechnologien die Daten schon bei der Erfassung und verhindert sowohl die Eingabe unzulässiger Geo- als auch Sachdaten\r\n•\tstellt dabei dem Nutzer gleichzeitig Informationen über Mängel und Fehler in den Daten für die Behebung bereit\r\n•\tbietet vertiefte, themenbezogene Prüffunktionen für die Erfasser\r\n•\tverfügt über automatisierte Exportfunktionen für verschiedene Karten, Berichte und Daten\r\n•\tkann Datengrundlagen zentral gesteuert aktualisieren\r\n\r\nIn diesem Vortrag wollen wir die Vereinfachung aufzeigen, die dieses Plugin ermöglicht hat und zentrale Funktionalitätselemente vorstellen. Wir beleuchten zudem, welche Möglichkeiten QGIS in diesem Anwendungsbereich bietet. Außerdem gehen wir auf die Herausforderungen bei der Entwicklung einer solch komplexen Software ein und zeigen wie wir Probleme gelöst haben.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "NJ9SF9",
+          "name": "Gordon Schlolaut",
+          "avatar": null,
+          "biography": "Gordon leitet bei geoSYS Projekte zur QGIS-Entwicklung, Geodatenbanken und Geostatistik. Und darüber hinaus beschäftigt er sich mit Visual Effects und Animationen.",
+          "public_name": "Gordon Schlolaut",
+          "guid": "486b9569-f642-5a2e-9700-c750182d8725",
+          "url": "https://pretalx.com/fossgis2025/speaker/NJ9SF9/"
+        },
+        {
+          "code": "8JTZXX",
+          "name": "Ingo Pfisterer",
+          "avatar": null,
+          "biography": "Diplom-Forstwirt (Univ.)\r\nWissenschaftlicher Mitarbeiter in der Abteilung Naturschutz des Hessischen Landesamtes für Naturschutz, Umwelt und Geologie (HLNUG).",
+          "public_name": "Ingo Pfisterer",
+          "guid": "03473799-6dec-5f18-b429-a043aa2729d4",
+          "url": "https://pretalx.com/fossgis2025/speaker/8JTZXX/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/GZU79C/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/GZU79C/",
+      "attachments": [
+        {
+          "title": "Powerpoint-Präsentation des Vortrages",
+          "url": "/media/fossgis2025/submissions/GZU79C/resources/fossgis_2025__vqO3H0L.pptx",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "60cce4b8-43eb-5170-bfdf-5751da1e97b8",
+      "code": "7GENB7",
+      "id": 58217,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/7GENB7/Screenshot_2024-11-05_14_5WRIEYe.png",
+      "date": "2025-03-27T14:50:00+01:00",
+      "start": "14:50",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58217-qgis-im-glasfaser-ausbau-der-deutschen-telekom",
+      "url": "https://pretalx.com/fossgis2025/talk/7GENB7/",
+      "title": "QGIS im Glasfaser-Ausbau der Deutschen Telekom",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Der Anschluss von Haushalten mit Glasfaser durch die Deutsche Telekom ist zu einem hohen Grad automatisiert und wird massiv durch den Einsatz von Geodaten und freier Software gestützt. Ein wichtiger Schritt im Planungsprozess ist die sog. Detailplanung für ein Ausbaugebiet bei der mittels QGIS und dem entwickelten Plugin “Plan[Goo]” der Trassenverlauf, die Kosten und der benötigte Materialeinsatz bestimmt werden. Der Vortrag gibt einen Überblick über den gesamten Prozess und Plan[Goo].",
+      "description": "2017 hat sich die Deutsche Telekom auf den Weg gemacht, den Glasfaserplanungsprozess zu revolutionieren und, wo immer möglich, zu automatisieren. Das Ziel damals: ab 2021 sollten 2 Millionen Haushalte pro Jahr mit Glasfaser versorgt werden. Mittlerweile sind über 8 Mio. Haushalte angeschlossen und bis 2030 sollen es alle 41,5 Mio. Haushalte sein. Der Planungsprozess umfasst die Aufnahme von Daten vor Ort (Bilder, Laserscandaten), die Berechnung der Trassenführung, die Erstellung von Unterlagen für Städte und Gemeinden, eine detaillierte Planung inklusive der Material- und Kostenberechnung sowie eine 3D-Aufnahme der gebauten Trassen und Überführung in die Bestandsdokumentation. Das alles verlangt einen massiven Einsatz von Geodaten, deren Prozessierung und Visualisierung für Planer, Genehmiger und Tiefbauer. \r\n\r\nNach einer allgemeinen Übersicht zu dem Planungsprozess, wird der Schwerpunkt des Vortrags auf der Verwendung von QGIS und dem Plugin “Plan[Goo]” liegen, womit wichtige Schritte im Planungsprozess bedient werden. Neben der grundlegenden Nutzung zur Visualisierung von Planungsständen, wird eine Detailplanung durchgeführt, die zwar nicht automatisiert werden kann, bei der aber Aufgaben effizient durchgeführt werden können. Mit Plan[Goo] werden Plantrassen gezeichnet, Plantrassen mit ihren Inhalten der benötigten Rohre und Glasfaserkabel erweitert, Glasfaser-Netzverteiler positioniert und vieles mehr. Plan[Goo] wird sowohl für den eigenfinanzierten Ausbau der Deutschen Telekom sowie für den geförderten Ausbau des Bundes und anderen Kooperationen zur Planung genutzt. Zur Bauausführung werden Exporte angeboten, die der „Bauakte“ angehangen werden können. Zusätzlich wird Plan[Goo] in der Netzdokumentation verwendet, um die tatsächlich gebaute Infrastruktur einfacher und schneller zu zeichnen. Über Schnittstellen kann der dokumentierte Bereich zu anderen Systemen übertragen werden.\r\n\r\nNeben der reinen Nutzung und Erweiterung von QGIS bestehen Aktivitäten, Entwicklungen für das Plugin als Open Source zu veröffentlichen, hierzu wird abschließend ein Stand und Ausblick gegeben werden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "U7GFXK",
+          "name": "Felix von Studsinske",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Felix von Studsinske",
+          "guid": "b8af1d19-3519-51a8-bfc0-94b85a1f6977",
+          "url": "https://pretalx.com/fossgis2025/speaker/U7GFXK/"
+        },
+        {
+          "code": "ANUDMS",
+          "name": "Torsten Drey",
+          "avatar": "https://pretalx.com/media/avatars/ANUDMS_1BZqBDa.png",
+          "biography": "Geograph, Fahrrad- und GIS-Enthusiast\r\n\r\nSeit vielen Jahren in verschiedenen Rollen bei der Deutschen Telekom aktiv, immer mit dem Fokus auf Geodaten & GIS im Bereich Mobilfunk und Festnetzplanung.\r\nSeit 2022 bin ich System-Architekt für die Geodateninfrastruktur der Telekom und thematisch u.a. mit dem FTTH-Rollout beschäftigt für den Geoinformationen unerlässlich sind.",
+          "public_name": "Torsten Drey",
+          "guid": "12e923f0-45b0-5686-bd91-5115e7e9bc4c",
+          "url": "https://pretalx.com/fossgis2025/speaker/ANUDMS/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/7GENB7/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/7GENB7/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien \"QGIS im Glasfaser-Ausbau der Deutschen Telekom\" FOSSGIS2025 Münster",
+          "url": "/media/fossgis2025/submissions/7GENB7/resources/Vortrag_FOSSGI_cIpQrJ2.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "6b7bc3b9-2fe9-5fd5-bbf9-f1dce48d64c8",
+      "code": "ULMKYJ",
+      "id": 58221,
+      "logo": null,
+      "date": "2025-03-27T15:25:00+01:00",
+      "start": "15:25",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58221-web-trifft-desktop",
+      "url": "https://pretalx.com/fossgis2025/talk/ULMKYJ/",
+      "title": "Web trifft Desktop",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Mit realen Anwendungsfällen in QGIS und QField zeigen wir, wie das Django-Framework konsumierbare Geodatenebenen als OGC API - Features-Endpunkte erzeugen kann. Indem sowohl das Datenmodell als auch die Geschäftslogik in Python mit dem Django-ORM definiert werden, lassen sich Herausforderungen umgehen, die häufig bei herkömmlichen Datenbankansätzen auftreten. Auf diese Weise demonstrieren wir, wie die Nutzung von Django zu interessanten Perspektiven für solche Anwendungen führen kann.",
+      "description": "In der GIS-Welt bedeutet der Aufbau einer Geschäftsanwendungslogik oft die Verwendung eines \"Thick Database\"-Ansatzes. Das heisst, die Geschäftslogik wird in SQL geschrieben und in der Datenbank ausgeführt oder im Frontend implementiert. Während dieser Ansatz einfach einzurichten ist, hat er insbesondere für Entwickler und Wartungsverantwortliche solcher Anwendungen Schwächen gezeigt. Versionskontrolle, Änderungsmanagement, Modularisierung oder Anpassung, Unit-Tests und die Lesbarkeit des Codes sind einige der Hauptprobleme.\r\n\r\nWir werden die Verwendung von Django, einem Python-Web-Framework, demonstrieren, um konsumierbare Geodatenebenen zu erstellen und Django-Modelle zur Definition des Datenmodells und der Geschäftslogik zu verwenden. Dazu haben wir eine Bibliothek namens Django-OAPIF entwickelt, die auf dem Django REST Framework basiert. Mit einem einfachen Decorator um ein Django-Modell herum wird sie OGC API - Features-Endpunkte bereitstellen, den OGC-Standard zur Veröffentlichung von Vektordaten über eine REST-API. Die Bibliothek ermöglicht CRUD-Operationen, Filterung und kann in einem Desktop-Client wie QGIS oder in Webmapping Bibliotheken wie OpenLayers verwendet werden.\r\n\r\nWir werden einen Vergleich der Ansätze mit Django-OAPIF und PostGIS nebeneinander anstellen und die Herausforderungen, denen wir derzeit begegnen, insbesondere in Bezug auf die Leistung, sowie die Chancen, die die Nutzung von Django für GIS-Anwendungen eröffnet, diskutieren.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "WH9FMD",
+          "name": "Matthias Kuhn",
+          "avatar": "https://pretalx.com/media/avatars/WH9FMD_kGyiPKm.jpg",
+          "biography": "Seit über 10 Jahren QGIS Kernenetwickler und erster Hauptentwickler von QField.\r\nAls CTO von OPENGIS.ch halte ich die Fäden von Desktop, Web und Mobilentwicklung in unserem Entwicklerteam zusammen.\r\nSeit 20 Jahren faszinieren mich die Möglichkeiten von Open-Source Entwicklung und wie man dadurch einen nachhaltigen Mehrwert generieren kann.",
+          "public_name": "Matthias Kuhn",
+          "guid": "4f0ade89-0e84-5f7a-bb0d-aa195948ed8e",
+          "url": "https://pretalx.com/fossgis2025/speaker/WH9FMD/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Web meets Desktop",
+          "url": "https://docs.google.com/presentation/d/1MDfZiwgHxYCzOSchNLBl8F46_zhbZqIRq9snBsNJRUE/edit?usp=sharing",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/ULMKYJ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/ULMKYJ/",
+      "attachments": []
+    },
+    {
+      "guid": "a6e84e82-d82d-5ce2-8f01-87aef4b8475c",
+      "code": "7RFUX7",
+      "id": 56980,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/7RFUX7/ZV_03578_crop_fLCsmLD.JPG",
+      "date": "2025-03-27T16:45:00+01:00",
+      "start": "16:45",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-56980-wie-konnen-openstreetmap-und-qgis-einen-wegewart-unterstutzen",
+      "url": "https://pretalx.com/fossgis2025/talk/7RFUX7/",
+      "title": "Wie können OpenStreetMap und QGIS einen Wegewart unterstützen?",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "OpenStreetMap und QGIS unterstützen Wegewarte bei der Pflege von Wegen durch präzise Kartierung, Visualisierung und Analyse. OSM ermöglicht das Erfassen und Aktualisieren von Wegen sowie das Hinzufügen von Wegedetails und touristischem Inventar entlang des Weges. Mit QGIS lassen sich diese Daten analysieren und mit weiteren GIS Daten verknüpfen. Weitere Tools erleichtern zudem den mobilen Einsatz und fördern die Zusammenarbeit durch Datenaustausch und Crowdsourcing.",
+      "description": "Als langjähriger aktiver Mapper bei OpenStreetMap und kürzlich zum ehrenamtlich berufenen Wanderwegewart möchte ich in diesem Praxisbericht zeigen, wie OpenStreetMap, QGIS und weitere Tools aus dem OSM Kosmos einen Wegewart bei seinen Aufgaben unterstützen können.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "VQU3EX",
+          "name": "Harald Hartmann",
+          "avatar": "https://pretalx.com/media/avatars/VQU3EX_tTSeBmW.JPG",
+          "biography": "Seit 2014 aktiver Mapper bei OpenStreetMap, seit 2024 ehrenamtlicher Wanderwegewart.\r\nAls  IT Allrounder mit Schwerpunkt Softwareentwicklung beschäftige ich mich gerne mit den digitalen Werkzeugen im OpenStreetMap- und QGIS-Kosmos.",
+          "public_name": "Harald Hartmann",
+          "guid": "43b9bdcd-1e0d-56df-a8ee-d2169c99d357",
+          "url": "https://pretalx.com/fossgis2025/speaker/VQU3EX/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/7RFUX7/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/7RFUX7/",
+      "attachments": [
+        {
+          "title": "Folien (PDF)",
+          "url": "/media/fossgis2025/submissions/7RFUX7/resources/FOSSGIS_2025_H_iI04dFb.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "df47e97c-3a9d-560c-ad4f-c18b5ae1509b",
+      "code": "BSFUYJ",
+      "id": 58096,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/BSFUYJ/xhain-parkraum-map-atlas_cj6a19m.png",
+      "date": "2025-03-27T17:20:00+01:00",
+      "start": "17:20",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58096-parkraumdaten-aus-osm-mit-der-verwaltung-pflegen-praxisbericht",
+      "url": "https://pretalx.com/fossgis2025/talk/BSFUYJ/",
+      "title": "Parkraumdaten aus OSM mit der Verwaltung pflegen (Praxisbericht)",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Seit zwei Jahren kooperiert die Berliner OSM-Community mit dem Bezirksamt Friedrichshain-Kreuzberg, um hochwertige Daten zum Parkraum bereitzustellen. Dieser neuartige Ansatz zeigt Potenziale auf, wie Herausforderungen in der Nutzung von OSM-Daten für amtliche Zwecke. Nach der initialen Datenerhebung geht es darum, Prozesse zu etablieren, um die Daten aktuell zu halten. In diesem Praxisbericht berichten wir über unsere Erfahrungen in der Kooperation sowie bei der gemeinsamen Datenpflege.",
+      "description": "Seit 2021 arbeitet die OSM-Verkehrswende-Gruppe daran, hochwertige und aktuelle Daten zum Parken im öffentlichen Raum auf Basis von OpenStreetMap zu erzeugen (parkraum.osm-verkehrswende.org).\r\n\r\nIn dieser Zeit konnten wir verschiedene Erfahrungen zur Datenerfassung sammeln – bspw. über die Community, über Apps wie StreetComplete und über beauftragte Mapping-Projekte. Eine besondere Stärke der Datenhaltung in OpenStreetMap gegenüber herkömmlichen Verfahren, wie regelmäßigen Neubefahrungen, ist jedoch die fortlaufende und einfache Aktualisierung der Daten. Im Rahmen unserer Kooperation mit dem Bezirksamt Friedrichshain-Kreuzberg in Berlin haben wir verschiedene Ansätze erprobt, um die Aktualisierung der Daten zu systematisieren und in die dazugehörigen Verwaltungsabläufe zu integrieren.\r\n\r\nIn diesem Praxisbericht wollen wir Erfahrungen aus verschiedenen Projekten besprechen, wie OpenStreetMap und Verwaltungen kooperieren können, um OpenStreetMap-Daten für alle Nutzungsgruppen aktuell zu halten.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "JA8G33",
+          "name": "Tobias Jordans",
+          "avatar": "https://pretalx.com/media/avatars/JA8G33_kvrTgBQ.jpg",
+          "biography": "Tobias möchte mit guten Geodaten und Werkzeugen die Verkehrswende beschleunigen. Er arbeitet in verschiedenen Projekten daran, das Potential von OpenStreetMap für aktuelle, einheitliche und offene Daten zu heben. Dafür hat er Mitte 2019 die OSM-Verkehrswende-Community mitgegründet. Seit Ende 2021 arbeitet er bei FixMyCity als Entwickler an den Produkten TILDA Radverkehr und TILDA Parkraum sowie ähnlichen Projekten. Auf OSM, GitHub und Mastodon findet ihr ihn als @tordans.",
+          "public_name": "Tobias Jordans",
+          "guid": "c0893e62-0b58-5109-b479-4d8a6107c5cb",
+          "url": "https://pretalx.com/fossgis2025/speaker/JA8G33/"
+        },
+        {
+          "code": "JYBMSF",
+          "name": "Alex Seidel",
+          "avatar": "https://pretalx.com/media/avatars/JYBMSF_HOdbCZr.jpg",
+          "biography": "Alex ist OSM-Mapper aus Berlin mit besonderer Freude am urbanen Micro-Mapping in seinem Wohnbezirk Neukölln. Einen Schwerpunkt bilden dabei Verkehrsinfrastrukturen und die Verkehrswende, die er auch im Rahmen der Berliner OSM-Verkehrswendegruppe begleitet. Auf OSM findet ihr Alex als Supaplex030.",
+          "public_name": "Alex Seidel",
+          "guid": "1f656bbf-26fa-5285-acff-e367aee6cc60",
+          "url": "https://pretalx.com/fossgis2025/speaker/JYBMSF/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Wiki-Seite als Sammlung von Verwaltungs-Accounts die Hinweise hinterlassen",
+          "url": "https://wiki.openstreetmap.org/wiki/Verkehrswende-Meetup/OSM-Notes-Verwaltung",
+          "type": "related"
+        },
+        {
+          "title": "Vortrag als Google Presentation",
+          "url": "https://docs.google.com/presentation/d/1DEBfSFY9M4L0E9rmhs--6nXy5LdbkTZO0m_vxWfWxb4/edit?usp=sharing",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/BSFUYJ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/BSFUYJ/",
+      "attachments": [
+        {
+          "title": "Vortrag FOSSGIS 2025 Parkraumdaten mit Verwaltung pflegen",
+          "url": "/media/fossgis2025/submissions/BSFUYJ/resources/FOSSGIS_2025_V_2CcGZ3W.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "549c2214-28f7-57dd-b084-0bafd210362c",
+      "code": "AQN9NJ",
+      "id": 57806,
+      "logo": null,
+      "date": "2025-03-27T17:55:00+01:00",
+      "start": "17:55",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-57806-brouter-und-brouter-web-fur-anfanger-und-fortgeschrittene",
+      "url": "https://pretalx.com/fossgis2025/talk/AQN9NJ/",
+      "title": "BRouter und BRouter-Web für Anfänger und Fortgeschrittene",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "BRouter ist das flexibelste Werkzeug für Streckenplanung auf Basis von OSM-Daten und seit 10 Jahren besonders bei Radfahrern und Wanderern beliebt. Wir geben zunächst eine Einführung in die wichtigsten Verwendungsarten, sowohl mobil als auch am heimischen PC, und richten uns dabei auch an Neu-Einsteiger. Im zweiten Teil des Vortrags geht es dann um spannende Neu-Enwicklungen, insbesondere um die Berücksichtigung von Umgebungseigenschaften für noch bessere Routing-Ergebnisse.",
+      "description": "BRouter ist das flexibelste Werkzeug für Streckenplanung auf Basis von OSM-Daten und seit 10 Jahren besonders bei Radfahrern und Wanderern beliebt. Wir geben zunächst eine Einführung in die wichtigsten Verwendungsarten, sowohl mobil als auch am heimischen PC, und richten uns dabei auch an Neu-Einsteiger. Im zweiten Teil des Vortrags geht es dann um spannende Neu-Enwicklungen, insbesondere um die Berücksichtigung von Umgebungseigenschaften für noch bessere Routing-Ergebnisse.\r\n\r\nSeit einem Jahr stellt der Fossgis e.V. eine leistungsfähige und hochverfügbare IT-Infrastruktur für die Datenvorverarbeitung und den Betrieb des BRouter-Servers und verwandter Dienste zur Verfügung. Dadurch wurde die aufwändige Berechnung der \"Pseudotags\", auf denen die Berücksichtigung der Umgebungseigenschaften beruht, möglich gemacht. Ausserdem ist BRouter damit fit für die weiter wachsende Benutzer-Basis, die auch wegen der nun erreichten Servicequalität und Hochverfügbarkeit weiter wächst. Auch andere Angebote wie \"bikerouter\" oder \"LoRouter\" bieten Routing-Dienste auf Basis von BRouter, Darüber hinaus wird BRouter auch in grossem Umfang komplett offline auf mobilen Geräten verwendet.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "QEQGUU",
+          "name": "Arndt Brenschede",
+          "avatar": null,
+          "biography": "Ich bin promovierter Physiker und seit 27 Jahren als IT-Spezialist in der Finanzindustrie tätig. Als ich vor über 10 Jahren das BRouter-Projekt ins Leben rief war meine Motivation, den damaligen eklatanten Mangel an wirklich praxistauglicher Fahrrad-Routenplanung zu beheben. Die Schnittstelle zu meiner beruflichen Tätigkeit und gleichzeitig die technische Herausforderung war dabei die hochperformante Verarbeitung grosser Datenmengen mit Hilfe von Java und relationalen Datenbanken. Meine Leidenschaft für's Radfahren ist bis heute nicht erloschen, aber ergänzt um Wandern und die effiziente Routen- und Ladeplanung für Elektroautos.",
+          "public_name": "Arndt Brenschede",
+          "guid": "43edd2d2-3d49-52e7-a3ef-4641d61b5440",
+          "url": "https://pretalx.com/fossgis2025/speaker/QEQGUU/"
+        },
+        {
+          "code": "EE8L9K",
+          "name": "Serge Bellina",
+          "avatar": null,
+          "biography": "Als IT-Qualitätsingenieur konnte ich beruflich Erfahrung mit Datenbanken und Systemoptimierung sammeln.\r\nAls Hobby-Radfahrer war ich seit Jahren an die Fahrrad-Navigation interessiert.\r\nJetzt als Rentner finde Zeit, an diese Systeme mitzuwirken, und setze dabei meine IT Kenntnisse ein.\r\nSicherheit auf dem Rad (insbesondere für Rennradfahrer), eigene / optionale Kriterien zur Routenberechnung, Energieeffizientes Computing (bei der PseudoTag Berechnung /  Routing) zählen zu meinen Prioritäten.",
+          "public_name": "Serge Bellina",
+          "guid": "ef0403fb-6e80-5e60-ad58-1a92de9b88c5",
+          "url": "https://pretalx.com/fossgis2025/speaker/EE8L9K/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/AQN9NJ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/AQN9NJ/",
+      "attachments": [
+        {
+          "title": "BRouter und BRouter-Web für Anfänger und Fortgeschrittene",
+          "url": "/media/fossgis2025/submissions/AQN9NJ/resources/Brouter_Fossgi_aTDNdjB.pdf",
+          "type": "related"
+        }
+      ]
+    }
+  ]
+}

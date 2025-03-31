@@ -1,0 +1,305 @@
+{
+  "room": "ws1",
+  "events": [
+    {
+      "guid": "59f4a3fe-dfe8-5dff-a89f-c7eae1aea429",
+      "code": "QBGJFW",
+      "id": 57853,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/QBGJFW/geoserver_logo_nkjZIHJ_0IGqZ91.png",
+      "date": "2025-03-26T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "01:30",
+      "room": "WS1 (106)",
+      "slug": "fossgis2025-57853-einfuhrung-geoserver",
+      "url": "https://pretalx.com/fossgis2025/talk/QBGJFW/",
+      "title": "Einführung GeoServer",
+      "subtitle": "",
+      "track": "Offene Standards, z.B. INSPIRE, OGC",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Dieser Workshop hat eine Einführung in die entscheidenden Konzepte und Funktionen des GeoServers zum Ziel und wird sich auf die wichtigsten Schritte der Publizierung eines eigenen WMS und WFS fokussieren.",
+      "description": "Der GeoServer ist ein weit verbreiteter und einfach zu verwaltender Open-Source-Kartenserver, der die wichtigsten Standards des OGC wie WMS, WMTS, WFS, WCS oder die OGC API unterstützt. Er ermöglicht dabei die Veröffentlichung von Geodaten- und Kartendiensten aus zahlreichen Datenquellen wie den gängigen Datenbanken, dem GeoPackage oder dem (Cloud Optimized) GeoTIFF Format und ist durch diese breite Unterstützung von Inputdaten vielseitig einsetzbar. Die Verwaltung der Konfiguration wird durch seine übersichtliche Benutzeroberfläche erleichtert.\r\n\r\nDieser Workshop hat eine Einführung in die entscheidenden Konzepte und Funktionen des GeoServers zum Ziel und wird sich auf die wichtigsten Schritte der Publizierung eigener Kartendienste fokussieren. Dabei werden die Teilnehmenden eigene Vektor- und Rasterdaten für den optimalen Einsatz im GeoServer vorbereiten, Daten aus diversen Quellen einbinden, diese als WMS und WFS Dienste bereitstellen und Layerstile über SLD (Styled Layer Descriptor) definieren.\r\n\r\nZielgruppe sind alle Interessierten, die die Möglichkeiten vom GeoServer kennenlernen wollen. Vorkenntnisse im GeoServer sind nicht notwendig.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "U7QH7V",
+          "name": "Daniel Koch",
+          "avatar": "https://pretalx.com/media/avatars/U7QH7V_06PJsee.jpg",
+          "biography": "Lead Developer der terrestris GmbH & Co. KG aus Bonn und OpenSource Enthusiast. Kernentwickler GeoStyler, react-geo, SHOGun.",
+          "public_name": "Daniel Koch",
+          "guid": "5f30477d-5255-5a79-b790-297e0afa021b",
+          "url": "https://pretalx.com/fossgis2025/speaker/U7QH7V/"
+        },
+        {
+          "code": "AUVC9D",
+          "name": "Nils Bühner",
+          "avatar": "https://pretalx.com/media/avatars/AUVC9D_JsLvLtC.jpg",
+          "biography": "Informatiker und langjähriger Software-Engineer bei terrestris mit viel Erfahrung in Einsatz und Verwendung des GeoServers.",
+          "public_name": "Nils Bühner",
+          "guid": "cea600d6-4b98-5a2f-9704-6bb32b56a560",
+          "url": "https://pretalx.com/fossgis2025/speaker/AUVC9D/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/QBGJFW/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/QBGJFW/",
+      "attachments": []
+    },
+    {
+      "guid": "2519f521-b74c-51a4-918e-9778e2a7fe2d",
+      "code": "MLVVYZ",
+      "id": 57815,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/MLVVYZ/postgis-logo_zqqQaDs.png",
+      "date": "2025-03-26T16:30:00+01:00",
+      "start": "16:30",
+      "duration": "01:30",
+      "room": "WS1 (106)",
+      "slug": "fossgis2025-57815-postgresql-postgis-workshop-fur-einsteiger",
+      "url": "https://pretalx.com/fossgis2025/talk/MLVVYZ/",
+      "title": "PostgreSQL / PostGIS Workshop für Einsteiger",
+      "subtitle": "",
+      "track": "Grundlagen Open-Source-GIS und OpenStreetMap",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Dieser Workshop gibt Einsteiger:innen den ersten Einstieg in die Geodatenhaltung mit PostgreSQL/PostGIS.\r\nDie ersten Schritte für den Umgang mit räumlichen Daten in der Datenbank werden erlernt.\r\nEinfache SQLs werden erläutert und erstellt, das Datenmodell vermittelt und Visualisierung, Datenimport, Schnittstellen sowie Geodatenviewer werden behandelt.",
+      "description": "Dieser Workshop gibt Einsteiger:innen den ersten Einstieg in die Geodatenhaltung mit PostgreSQL/PostGIS.\r\nDie ersten Schritte für den Umgang mit räumlichen Daten in der Datenbank werden erlernt.\r\nEinfache SQLs werden erläutert und erstellt, das Datenmodell vermittelt und Visualisierung, Datenimport, Schnittstellen sowie Geodatenviewer werden behandelt.\r\n\r\nEinführung PostgreSQL / PostGIS\r\nVorstellung der Möglichkeiten (Vektordaten, Rasterdaten)\r\nDatenmodell\r\nVisualisierung von Daten mit QGIS\r\nEintauchen in die Welt der PostGIS-Funktionen",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "7FCWE3",
+          "name": "Jörg Thomsen",
+          "avatar": "https://pretalx.com/media/avatars/7FCWE3_lLYj1oe.jpg",
+          "biography": "Jörg Thomsen arbeitet seit dem Ende des letzten Jahrhunderts mit freier GI-Software und hat bereits die FOSSGIS-Konferenz mitgestaltet, als sie noch MapServer Anwender-Konferenz hieß.\r\n\r\nIn den vergangenen 20 Jahren hat Jörg Thomsen zahlreiche WebGIS-Projekte umgesetzt und noch mehr Teilnehmern in seinen Workshops und Schulungen die Themen PostgreSQL und PostGIS, MapServer, GeoServer, QGIS, QGIS Server und Mapbender näher gebracht.\r\n\r\nJörg Thomsen arbeitet bei der WhereGroup in Berlin und ist Dozent der [FOSS Academy] (https://www.foss-academy.com), dem Schulungsinstitut der WhereGroup (https://www.wheregroup.com)\r\n\r\nJörg Thomsen ist im FOSSGIS e.V. und der OSGeo Foundation (http://osgeo.org) aktiv.",
+          "public_name": "Jörg Thomsen",
+          "guid": "c7728c17-cafb-5488-a430-1929346e5bfb",
+          "url": "https://pretalx.com/fossgis2025/speaker/7FCWE3/"
+        },
+        {
+          "code": "9JU8BJ",
+          "name": "Annika Fröde",
+          "avatar": "https://pretalx.com/media/avatars/9JU8BJ_LgcEgXZ.jpg",
+          "biography": "Während ihres Studiums der Geophysik und Geoinformatik an der TU Bergakademie Freiberg lernte Annika Fröde den Umgang mit vielfältigen Geodaten kennen. Seit 2022 ist sie bei der WhereGroup GmbH am Standort Berlin als GIS-Expertin angestellt, wo sie an umfangreichen GIS-Projekten für verschiedene Kunden arbeitet.",
+          "public_name": "Annika Fröde",
+          "guid": "71094487-dbcd-5cd2-bbf0-02cd49aa79ab",
+          "url": "https://pretalx.com/fossgis2025/speaker/9JU8BJ/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/MLVVYZ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/MLVVYZ/",
+      "attachments": []
+    },
+    {
+      "guid": "0a6b4273-a811-5a1a-a557-4a441f880873",
+      "code": "88RUFW",
+      "id": 58291,
+      "logo": null,
+      "date": "2025-03-27T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "01:30",
+      "room": "WS1 (106)",
+      "slug": "fossgis2025-58291-geodatenverarbeitung-mit-triggern-und-views-im-geopackage",
+      "url": "https://pretalx.com/fossgis2025/talk/88RUFW/",
+      "title": "Geodatenverarbeitung mit Triggern und Views im Geopackage",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Das Geopackage kann nicht nur Daten verpacken sondern ganz schnell im Hintergrund  Arbeit verrichten, die  anschließend im QGIS wie Zauberei sichtbar wird. \r\nIm Workshop schreiben wir  Trigger und Views , die dynamische Auswertungen, Aggregierungen und auch Geodaten-Verarbeitung mit Puffern, Verschneidungen und Verschmelzungen umsetzen. Räumliche Indexe werden genutzt.\r\nGrundlegende SQL-Kenntnisse und Erfahrungen mit QGIS sind notwendig\r\nDie TN bekommen ein Skript mit den Beispielabfragen.",
+      "description": "Das Geopackage kann nicht nur Daten verpacken sondern ganz schnell im Hintergrund  Arbeit verrichten, die  anschließend im QGIS wie Zauberei sichtbar wird.  Die Verschneidung zweier Layer  aktualisiert sich, wenn die Quell-Layer geändert werden, ohne das ein weiterer Prozess aufgerufen werden muss. Aggregierungen und Auswertungen sind stets auf dem Stand. \r\nIm Workshop schreiben wir  Trigger und Views , die dynamische Auswertungen, Aggregierungen und auch Geodaten-Verarbeitung mit Puffern, Verschneidungen und Verschmelzungen umsetzen. Räumliche Indexe werden genutzt.\r\nGrundlegende SQL-Kenntnisse und Erfahrungen mit QGIS sind notwendig für den Workshop.\r\nDie TN bekommen ein Skript mit den Beispielabfragen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "3EU98S",
+          "name": "Claas Leiner",
+          "avatar": "https://pretalx.com/media/avatars/3EU98S_IX1oqNW.JPG",
+          "biography": "Claas Leiner arbeitet freiberuflich in Kassel und\r\nbietet Schulungen, Dienstleistungen und Support rund um die freien Geoinformationssysteme QGIS, GRASS, SpatiaLite, Postgis sowie GDAL/OGR an und hat einen kleinen ALKIS-Konverter auf Basis von ogr2ogr und SpatialLite geschrieben. Desweiteren bearbeitet er Aufträge zu Geodatenaufbereitung, -analysen sowie thematische Kartografie. Häufig geht es darum, komplexe Arbeitsabläufe für Anwender/innen zu strukturieren und zu vereinafachen.\r\nBesonders verbunden ist er mit QGIS - als Mitglied des QGIS-Anwendervereins QGIS-DE, als Mitorganisator der ersten QGIS-DEAnwendertreffen sowie als Bronze-Sponsor des Projektes",
+          "public_name": "Claas Leiner",
+          "guid": "151f4e1a-5595-5673-87bc-a191035d303f",
+          "url": "https://pretalx.com/fossgis2025/speaker/3EU98S/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Workshop Daten und Skript",
+          "url": "https://gkg-leiner.de/wp-content/uploads/2025/03/FOSSGIS_2025_ZaubernGeopackage-1.zip",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/88RUFW/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/88RUFW/",
+      "attachments": [
+        {
+          "title": "Workshop-Daten und Skript",
+          "url": "/media/fossgis2025/submissions/88RUFW/resources/FOSSGIS_2025_Z_xBFYh8m.zip",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "410f3faf-45d7-5611-847f-2f9c1bdd5f2f",
+      "code": "YGQEJA",
+      "id": 57850,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/YGQEJA/docker-logo_OaKEAJP.png",
+      "date": "2025-03-27T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "01:30",
+      "room": "WS1 (106)",
+      "slug": "fossgis2025-57850-orchestrierung-einer-gdi-uber-container-images",
+      "url": "https://pretalx.com/fossgis2025/talk/YGQEJA/",
+      "title": "Orchestrierung einer GDI über Container Images",
+      "subtitle": "",
+      "track": "Grundlagen Open-Source-GIS und OpenStreetMap",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Dieser Workshop wird den Teilnehmenden eine Einführung in die wichtigsten Konzepte von Container Images am Beispiel einer GDI bestehend aus OpenSource Komponenten geben.",
+      "description": "Container Images haben sich in vielen Bereichen zu einem äußerst nützlichen Werkzeug für den isolierten Betrieb von Anwendungen über Containerisierung herausgestellt und mittlerweile mehr als nur bewährt. Die gängigen Tools, um diese Images zu verwalten sind u.a. Docker oder Podman. Vorteile von Containern sind dabei u.a. die Plattformunabhängigkeit, die Isolation von Anwendungen und deren Abhängigkeiten an externe Systembibliotheken, die Versionierbarkeit und nicht zuletzt das einfache Deployment auf verteilte Zielplattformen. Hierauf aufbauend können Container bei der Skalierbarkeit und dem Updateprozess von Applikationen in allen verfügbaren Umgebungen, z.B. der Test-, Staging- und Produktivumgebung unterstützen. Für EntwicklerInnen stellen Container eine hervorragende Ergänzung des Development-Setups dar, indem z.B. ähnliche Bedingungen wie auf Produktivsystemen ohne großen Aufwand hergestellt werden können.\r\n\r\nDieser Workshop soll den Teilnehmenden zunächst eine kurze Einführung in Container Images geben. Hier werden neben den Grundkonzepten (u.a. Dockerfile, Container, Image, Registry, …) einige hilfreiche Informationen zu Installation und Konfiguration gegeben. Anschließend wird sukzessive eine leicht verständliche GDI, bestehend aus einer PostGIS-Datenbank, eines GeoServers und eines WebGIS erstellt. Dabei wird besonders auf die Kommunikation der Services untereinander, typische Konfigurationsoptionen sowie Erweiterungsmöglichkeiten eingegangen.\r\n\r\nZielgruppe des Workshops sind (GDI-)AdministratorInnen, AnwenderInnen, EntwicklerInnen und EntscheiderInnen, die Interesse an Container Images und deren Nutzung in den unterschiedlichen Umgebungen und Lebenszyklen einer GDI oder auch im alltäglichen Gebrauch haben.\r\n\r\nKenntnisse über Container Images, Docker, Podman oder die verwendeten Komponenten der Beispiel-GDI sind nicht zwingend erforderlich.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "U7QH7V",
+          "name": "Daniel Koch",
+          "avatar": "https://pretalx.com/media/avatars/U7QH7V_06PJsee.jpg",
+          "biography": "Lead Developer der terrestris GmbH & Co. KG aus Bonn und OpenSource Enthusiast. Kernentwickler GeoStyler, react-geo, SHOGun.",
+          "public_name": "Daniel Koch",
+          "guid": "5f30477d-5255-5a79-b790-297e0afa021b",
+          "url": "https://pretalx.com/fossgis2025/speaker/U7QH7V/"
+        },
+        {
+          "code": "AUVC9D",
+          "name": "Nils Bühner",
+          "avatar": "https://pretalx.com/media/avatars/AUVC9D_JsLvLtC.jpg",
+          "biography": "Informatiker und langjähriger Software-Engineer bei terrestris mit viel Erfahrung in Einsatz und Verwendung des GeoServers.",
+          "public_name": "Nils Bühner",
+          "guid": "cea600d6-4b98-5a2f-9704-6bb32b56a560",
+          "url": "https://pretalx.com/fossgis2025/speaker/AUVC9D/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/YGQEJA/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/YGQEJA/",
+      "attachments": []
+    },
+    {
+      "guid": "d2d1ea44-6c39-55be-99de-939466ac53bb",
+      "code": "UTJZAH",
+      "id": 58664,
+      "logo": null,
+      "date": "2025-03-27T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "01:30",
+      "room": "WS1 (106)",
+      "slug": "fossgis2025-58664-qgis-programmierung-ohne-python-vorkenntnisse",
+      "url": "https://pretalx.com/fossgis2025/talk/UTJZAH/",
+      "title": "QGIS-Programmierung ohne Python-Vorkenntnisse",
+      "subtitle": "",
+      "track": "Grundlagen Open-Source-GIS und OpenStreetMap",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Dieser Workshop zeigt anhand von ganz einfachen Beispielen was PyQGIS ist und warum es sich lohnen könnte sich in das Thema einzuarbeiten.",
+      "description": "Dieser Workshop zeigt anhand von ganz einfachen Beispielen was PyQGIS ist und warum es sich lohnen könnte sich in das Thema einzuarbeiten.\r\n\r\nWenn du QGIS benutzt hast sicherlich schon von Python oder PyQGIS gehört. Aber du findest, dass das alles sehr kryptisch aussieht? Du fragst dich: Ist das was für mich? Lohnt es sich Zeit dafür zu investieren? Und vor allem: Was genau kann ich überhaupt damit anfangen?\r\n\r\nDieser Workshop zeigt anhand von ganz einfachen Beispielen was PyQGIS ist und warum es sich lohnen könnte sich in das Thema einzuarbeiten.\r\n\r\nNein, du musst keine Python-Vorkenntnisse haben (darfst du aber natürlich). Und du wirst in diesen 90 Minuten weder zum Python-Profi noch zum PyQGIS-Profi. Aber du wirst nach Hause gehen und mehr lernen wollen, weil Python und PyQGIS ganz toll sind und du in diesem Workshop lernst warum :-)",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "BQQK8K",
+          "name": "Numa Gremling",
+          "avatar": null,
+          "biography": "Numa leitet bei geoSYS nationale und internationale Projekte in den Bereichen GIS und Softwareentwicklung an denen er auch aktiv mitentwickelt (Schwerpunkte Webmapping, mobile Entwicklung, QGIS Plugins). Er ist Autor des Buchs Leaflet Cookbook - Recipes for Creating Dynamic Web Maps (Locate Press).",
+          "public_name": "Numa Gremling",
+          "guid": "b93e6837-6ad3-59f1-8c89-593a9a3c96ce",
+          "url": "https://pretalx.com/fossgis2025/speaker/BQQK8K/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/UTJZAH/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/UTJZAH/",
+      "attachments": []
+    },
+    {
+      "guid": "33959932-8bd2-50ca-a66e-53ab07cd2eb3",
+      "code": "G7ZDZU",
+      "id": 57865,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/G7ZDZU/mapproxy_lZkVbDG.png",
+      "date": "2025-03-27T16:45:00+01:00",
+      "start": "16:45",
+      "duration": "01:30",
+      "room": "WS1 (106)",
+      "slug": "fossgis2025-57865-mapproxy-workshop-optimierung-und-beschleunigung-von-web-map-services",
+      "url": "https://pretalx.com/fossgis2025/talk/G7ZDZU/",
+      "title": "MapProxy Workshop - Optimierung und Beschleunigung von Web Map Services",
+      "subtitle": "",
+      "track": "Grundlagen Open-Source-GIS und OpenStreetMap",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Der Workshop richtet sich an alle, die mit Hilfe von MapProxy Dienste cachen und optimieren möchten. Es wird ein Hauptaugenmerk auf die klassischen Anwendungsfälle gelegt, zu denen vor allem das Einbinden von Layern und das Erstellen und Prüfen des Caches zählt. Anhand praktischer Übungen lernen die Teilnehmer nicht nur die Konfiguration von MapProxy via Layer, Cache, Source und Grids kennen, sondern erhalten auch zahlreiche Praxistipps und Hintergrundinformationen.",
+      "description": "MapProxy ist im Open Source Bereich seit vielen Jahren bekannt als funktionsreiche und performante Caching Lösung für verschiedene Dienste wie z.B. WMS oder WMTS. Im einfachsten Anwendungsfall dient MapProxy als Proxy für bestimmte Dienste, um diese beispielsweise separiert vom Intranet im Internet zur Verfügung zu stellen. Hauptfunktion ist jedoch das manuelle oder automatisierte „Caching“ von Diensten, um diese performant auszuliefern. Hierzu bringt MapProxy eine Fülle an Optionen und Konfigurationsmöglichkeiten mit, um verschiedenste Ansprüche zu erfüllen.\r\n\r\nIm Workshop erlernen die Teilnehmer den grundsätzlichen Umgang mit MapProxy, die Anpassung der Konfigurationsdateien, der „Demo“-Oberfläche und den relevanten Befehlen auf der Kommandozeile. Darüber hinaus wird ein Einblick in den erweiterten Funktionsumfang der Software gewährt und zur Anschaulichkeit einige Spezial-Konfigurationen demonstriert. Anhand eines konkreten Beispieldienstes soll die Einrichtung von den sogenannten „caches“, „grids“, „sources“ und „layers“ erlernt werden. Zentrale Bestandteile nehmen zudem die Themen Maßstäbe und Auflösungen, Kartenprojektionen und auch manuelles oder automatisiertes Caching („Seeding“) ein, die zu einem grundlegenden Verständnis der Materie führen sollen.\r\n\r\nAm Ende des Workshops sollte jeder Teilnehmer die grundsätzlichen Konzepte und Konfigurationsmöglichkeiten kennen und dazu in der Lage sein, beliebige Dienste sinnvoll über MapProxy zu cachen und somit zu beschleunigen.",
+      "recording_license": "",
+      "do_not_record": true,
+      "persons": [
+        {
+          "code": "Z3QG7M",
+          "name": "Hannes Blitza",
+          "avatar": "https://pretalx.com/media/avatars/Z3QG7M_uIfvgpo.jpg",
+          "biography": null,
+          "public_name": "Hannes Blitza",
+          "guid": "5ce5d0bc-d4fa-5560-a24d-b55ada143190",
+          "url": "https://pretalx.com/fossgis2025/speaker/Z3QG7M/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/G7ZDZU/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/G7ZDZU/",
+      "attachments": []
+    },
+    {
+      "guid": "9424bfa4-013f-55e7-a23f-fa78527d955c",
+      "code": "ZMG8T3",
+      "id": 58088,
+      "logo": null,
+      "date": "2025-03-28T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "01:30",
+      "room": "WS1 (106)",
+      "slug": "fossgis2025-58088-qfield-in-der-praxis-feldarbeit-leicht-gemacht",
+      "url": "https://pretalx.com/fossgis2025/talk/ZMG8T3/",
+      "title": "QField in der Praxis - Feldarbeit leicht gemacht",
+      "subtitle": "",
+      "track": "Grundlagen Open-Source-GIS und OpenStreetMap",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Dieser Workshop gibt eine einführung in QField und QField Cloud. Wir helfen Euch beim Aufsetzen des ersten Projekts, gehen in die Praxis und erheben die ersten Daten in Münster",
+      "description": "In diesem Workshop werden die Grundlagen von QField und QField Cloud präsentiert, die mühelose Feldarbeit ermöglichen. Durch einen einfachen Klick, wird ein QGIS Projekt verpackt und via die QField Cloud an Mobilgeräte gesendet, das nach dem lokalen Download verändert und bearbeitet werdenn. Das Ziel dieses Workshops ist es ein einfaches QGIS Projekt zu erstellen, ein QField Cloud Account zu erstellen und die ersten Daten via QField zu erheben. Die TeilnehmerInnen können eigene Projekte mitbringen und als Beispiel benutzen. Grundkenntnisse in QGIS sind wünschenswert, aber nicht zwingend erforderlich. Teilnehmende werden gebeten, eigene Laptops mitzubringen und die App QField auf Ihrem Smartphone oder Tablet vorinstalliert zu haben. Die App ist auf sowohl für iOS und Android verfügbar.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "RPFBCT",
+          "name": "Berit Mohr",
+          "avatar": "https://pretalx.com/media/avatars/RPFBCT_15rRVCf.png",
+          "biography": "Berit Mohr ist ein GIS Enthusiast, die Open-Source Software fördert und unterstützt. Seit Oktober 2024 arbeitet sie bei OpenGIS.CH als GIS Spezialistin, wo sie berät, schult und Entwicklungsprojekte betreut. Mit ihrer vieljährigen Erfahrung im Entwicklungszusammenarbeitskontext, bringt sie eine globale Sichtweise mit und verfügt über ein erstaunliches Talent, verschiedene Sprachen zu übersetzen und zu vermitteln. \r\nIn ihrer Freizeit ist ihre beste Freundin das Fahrrad, der Garten und die Berge. Jede freie Minute verbringt sie, wenn es irgendwie geht, im Grünen.",
+          "public_name": "Berit Mohr",
+          "guid": "47c7f1e2-7abf-5c66-974a-78217c153c5d",
+          "url": "https://pretalx.com/fossgis2025/speaker/RPFBCT/"
+        },
+        {
+          "code": "ZQG9MC",
+          "name": "Michael Schmuki",
+          "avatar": "https://pretalx.com/media/avatars/ZQG9MC_tAwsSax.jpg",
+          "biography": "- Full-Stack GeoNinja @ [OPENGIS.ch](https://opengis.ch)\r\n- Web-Kartografie Lehrer @ [Baugewerbliche Berufsschule Zürich](https://www.bbzh.ch/)\r\n- [@boardend](https://github.com/boardend) auf GitHub",
+          "public_name": "Michael Schmuki",
+          "guid": "b81992e1-b2ce-5c88-880d-968d27eabfb5",
+          "url": "https://pretalx.com/fossgis2025/speaker/ZQG9MC/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/ZMG8T3/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/ZMG8T3/",
+      "attachments": []
+    }
+  ]
+}

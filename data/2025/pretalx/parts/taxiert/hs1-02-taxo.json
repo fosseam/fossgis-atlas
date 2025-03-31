@@ -1,0 +1,207 @@
+[
+  {
+    "id": 58123,
+    "title": "Der Digitale Zwilling - so wertvoll wie eine Karte im Maßstab 1:1",
+    "track": "Geodatenmanagement",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "3D-Stadtmodelle & virtuelle Zwillinge",
+      "position": "03|02|02",
+      "tags": [
+        "Digital Twin",
+        "Smart City",
+        "Modellierung",
+        "Abstraktion",
+        "3D"
+      ]
+    }
+  },
+  {
+    "id": 58084,
+    "title": "Der Wuppertaler Weg vom Geoportal zum Digitalen Zwilling",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "3D-Stadtmodelle & virtuelle Zwillinge",
+      "position": "03|02|02",
+      "tags": [
+        "Digital Twin",
+        "Geoportal",
+        "CesiumJS",
+        "Open Source",
+        "Stadtplanung"
+      ]
+    }
+  },
+  {
+    "id": 58083,
+    "title": "Masterportal - Liegenschaftsauskunft ONLIKA 4.0 mit Keycloak und BundID",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Kartenserver (MapServer, GeoServer)",
+      "position": "01|04|02",
+      "tags": [
+        "Masterportal",
+        "Liegenschaftskataster",
+        "Keycloak",
+        "OGC",
+        "WebGIS"
+      ]
+    }
+  },
+  {
+    "id": 57855,
+    "title": "FOSSGIS bei OpenCode.de",
+    "track": "Offene Standards, z.B. INSPIRE, OGC",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Digitale Souveränität & Open Source Kultur",
+      "position": "04|01|01",
+      "tags": [
+        "Open Source",
+        "Verwaltung",
+        "Digital Sovereignty",
+        "ZenDiS",
+        "OpenCode"
+      ]
+    }
+  },
+  {
+    "id": 58037,
+    "title": "XPlanung mit Open Source Software",
+    "track": "Offene Standards, z.B. INSPIRE, OGC",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "INSPIRE, WMS/WFS/WCS",
+      "position": "01|02|01",
+      "tags": [
+        "XPlanung",
+        "OGC",
+        "Open Source",
+        "Raumplanung",
+        "Kubernetes"
+      ]
+    }
+  },
+  {
+    "id": 57514,
+    "title": "Modellgetriebene XPlanung: von UML zur OGC API for Features",
+    "track": "Offene Standards, z.B. INSPIRE, OGC",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "INSPIRE, WMS/WFS/WCS",
+      "position": "01|02|01",
+      "tags": [
+        "XPlanung",
+        "OGC API",
+        "UML",
+        "Pydantic",
+        "ldproxy",
+        "Geo-APIs"
+      ]
+    }
+  },
+  {
+    "id": 57887,
+    "title": "Kinder, Karten, Open Source",
+    "track": "Ausbildung, Lehre, Open Science",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "GIS in Lehre, Schule & Hochschule",
+      "position": "04|01|02",
+      "tags": [
+        "OpenStreetMap",
+        "Bildung",
+        "Kinder",
+        "Lehre",
+        "Open Source"
+      ]
+    }
+  },
+  {
+    "id": 58025,
+    "title": "OpenStreetMap ist doch vollständig …",
+    "track": "OpenStreetMap",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Qualitätssicherung",
+      "position": "02|01|02",
+      "tags": [
+        "OSM",
+        "Mapping",
+        "Qualität",
+        "Datenlücken",
+        "Reiseanalyse"
+      ]
+    }
+  },
+  {
+    "id": 58235,
+    "title": "Overpass Turbo goes PostGIS",
+    "track": "OpenStreetMap",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "PostGIS, SpatiaLite, GeoPackage",
+      "position": "02|04|01",
+      "tags": [
+        "PostGIS",
+        "Overpass",
+        "OpenStreetMap",
+        "Backend",
+        "Rapid Prototyping"
+      ]
+    }
+  },
+  {
+    "id": 57945,
+    "title": "Automatische Veredelung von offenen Nahe-Echtzeit-Daten",
+    "track": "Raum-zeitliche Analysen und Modelle",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Satellitendaten (Sentinel, Landsat)",
+      "position": "02|03|01",
+      "tags": [
+        "Echtzeitdaten",
+        "Wetter",
+        "Satelliten",
+        "Versicherung",
+        "Hydrologie"
+      ]
+    }
+  },
+  {
+    "id": 56913,
+    "title": "Amtliche Satellitenpositionierung 2.0",
+    "track": "Routing und Mobilität",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Satellitendaten (Sentinel, Landsat)",
+      "position": "02|03|01",
+      "tags": [
+        "GNSS",
+        "Open Data",
+        "SAPOS",
+        "Geopositionierung",
+        "PPP-RTK"
+      ]
+    }
+  },
+  {
+    "id": 58105,
+    "title": "Neue Methoden zur autarken Indoor-Positionsbestimmung",
+    "track": "Routing und Mobilität",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Drohnen & Photogrammetrie",
+      "position": "02|03|02",
+      "tags": [
+        "Indoor Mapping",
+        "Navigation",
+        "Sensorfusion",
+        "BKG",
+        "Notfälle"
+      ]
+    }
+  }
+]

@@ -1,0 +1,390 @@
+{
+  "day": 1,
+  "date": "2025-03-26",
+  "room": "HS3 (S1)",
+  "events": [
+    {
+      "guid": "9c91e5fa-8c56-5d62-b241-7365544e7900",
+      "code": "ZVWA9T",
+      "id": 58166,
+      "logo": null,
+      "date": "2025-03-26T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58166-geopandas-als-tool-zur-basiskartenaktualisierung",
+      "url": "https://pretalx.com/fossgis2025/talk/ZVWA9T/",
+      "title": "GeoPandas - als Tool zur Basiskartenaktualisierung",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Die Grundlagenkarte der Stadtwerke München ist eine Sammlung von Daten aus verschiedenen Quellen wie amtlichen Daten und eigenen Erhebungen. Sie umfasst ca. 14.000 km² und wird mit PostGIS verwaltet. 2024 wurden die ETL-Prozesse auf eine Open Source Lösung basierend auf Python und GeoPandas migriert, um die Flexibilität und Performance zu erhöhen. Die Transformationen werden auf einem Kubernetes-Cluster ausgeführt, wodurch der Import von mehreren Tagen auf 6 Stunden reduziert werden konnte.",
+      "description": "GeoPandas - als Tool zur Basiskartenaktualisierung\r\n\r\nMarkus Gruber, Markus Albrecht\r\n\r\nDie Basiskarte (GEOBASISDATEN) der Stadtwerke München ist eine Vermengung von verschiedensten Datenquellen, welche den Bedürfnissen des Netzinformationssystems entsprechen. Hauptsächlich besteht die Basiskarte aus amtlichen Daten (ALKIS, DFK, …) vom Staatlichen Vermessungsamt, aus Zulieferer Daten von Fremdfirmen, OpenData oder selbst erfassten Daten der Fortführung und Planung der Stadtwerke München. \r\n\r\nDie Daten werden in unterschiedlichsten Formaten geliefert (XML, SHAPE, CSV) und werden erst in vorgelagerten PostgreSQL Schema und von diesen in das PostgreSQL Ziel Schema BK importiert. \r\n\r\nDie Basiskarte der SWM beinhaltet eine Fläche von ca. 14.000 qkm. Das Datenmodell wurde für den Anforderungen der SWM entwickelt, es enthält 67 Tabellen und ca. 30 Mio. Objekte. Sie ist die Datenbasis im Netzinformationssystem, in QGIS Anwendungen oder in Java REST Schnittstellen wie der Adress-Service. \r\n\r\nDer Vollimport wurde in der Vergangenheit mit verschiedensten ETL Tools aus dem Open Source oder kommerziellen Bereich mehr oder weniger zufriedenstellend durchgeführt. Anfang 2024 erfolgte in nur drei Monaten die Migration der bestehenden ETL Transformationen vom Kaufprodukt hin zur Open Source Python / GeoPandas Lösung, mit dem Ziel, wesentlich mehr Flexibilität und Performance zu gewinnen.\r\n\r\nDie Transformationen müssen in einer komplexen Prozesskette seriell, oder wenn möglich, parallel ausgeführt werden, so dass ein performanter Import mit allen Abhängigkeiten und Prioritäten erfolgreich durchgeführt werden kann. Mittels der der Open Source Python-Bibliothek Dask werden diese Aufgaben für paralleles und verteiltes Rechnen sichergestellt. Dask ist einfach zu verwenden und im Python Code einzubinden.\r\n\r\nDie Ausführung der Transformationen erfolgt auf der Open-Source Kubernetes Cluster, welcher on premise bei den SWM betrieben wird. Aufgrund der Skalierbarkeit ist es uns gelungen den bisherigen Import Prozess der Basiskarte von mehreren Tagen auf 6 Stunden zu reduzieren. Aufgrund der hohen Flexibilität von GeoPandas können jetzt neue Anforderungen im Bereich von Geo-Daten Schnittstellen oder Auswertungen problemlos implementiert werden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "BGPJQG",
+          "name": "Markus Gruber",
+          "avatar": "https://pretalx.com/media/avatars/BGPJQG_gQFdc6i.jpg",
+          "biography": "Markus Gruber entwickelt seit über 25 Jahren am Geografischen Netzinformationssysytem NIS der Stadtwerke München GmbH. Aufgrund seiner vielen Schnittstellenprojekte wurde er großer Befürworter der Open-Source Lösungen und war maßgeblich bei der Einführung der PostgreSQL Datenhaltung und QGIS bei den SWM beteiligt. Seit vielen Jahren arbeitet Markus Gruber im Team mit großem Erfolg an innovativen Lösungen, auf Basis von zukunftsfähigen Technologien, wie z.B. PostgreSQL, Java oder Python / GeoPandas. Markus liebt seinen Beruf aber auch das Klettern und Skitourengehen in seiner bayrischen Heimat, wo er auch als Gemeinderat tätig ist.",
+          "public_name": "Markus Gruber",
+          "guid": "57b6fa14-f049-5dfe-b5f3-295d4e086008",
+          "url": "https://pretalx.com/fossgis2025/speaker/BGPJQG/"
+        },
+        {
+          "code": "B8M7ZH",
+          "name": "Markus Albrecht",
+          "avatar": "https://pretalx.com/media/avatars/B8M7ZH_2vc8DCl.jpg",
+          "biography": "Architekt bei den Stadtwerken München im Bereich der Geo- und Netzinformationssysteme.",
+          "public_name": "Markus Albrecht",
+          "guid": "cbed28d0-7842-5ad4-a756-fb125f01fcae",
+          "url": "https://pretalx.com/fossgis2025/speaker/B8M7ZH/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/ZVWA9T/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/ZVWA9T/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/ZVWA9T/resources/vortrag-basisk_iS2nlgb.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "92b17d42-dbd7-5eee-bc8b-7db30f1cd7b9",
+      "code": "UWYEXY",
+      "id": 58285,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/UWYEXY/aviary_fossgis_7ThoPHN.png",
+      "date": "2025-03-26T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58285-aviary-ein-generisches-python-framework-zur-ki-inferenz-fur-fernerkundungsdaten",
+      "url": "https://pretalx.com/fossgis2025/talk/UWYEXY/",
+      "title": "aviary - ein generisches Python-Framework zur KI-Inferenz für Fernerkundungsdaten",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "aviary ist ein generisches Python-Framework, das die Inferenz von KI-Modellen für Fernerkundungsdaten vereinfacht.\r\nEs bietet verschiedene Pipelines mit austauschbaren, erweiterbaren Komponenten. Neben der Nutzung als Python-Package können vorgefertigte Pipelines über die Kommandozeile verwendet werden.\r\nKünftig sollen vortrainierte Modelle für diverse Anwendungsfälle sowie\r\nspeziell auf Fernerkundungsdaten trainierte Foundation-Modelle bereitgestellt werden.",
+      "description": "Wir, das [*geospaitial lab*](https://github.com/geospaitial-lab) der *Westfälischen Hochschule*, sind ein Forschungsteam für Künstliche Intelligenz und kommunale Geoinformationen und haben in den letzten Jahren verschiedene Auftragsforschungen und Förderprojekte im Bereich automatisierter Auswertung von Mobile-Mapping-Daten und Luftbildern umgesetzt.\r\nDarunter war eine Auftragsforschung des *Kreises Recklinghausen*, in der versiegelte Flächen aus Luftbildern abgeleitet werden sollten. Dazu wurde ein KI-Modell trainiert und eine entsprechende Software (adois) entwickelt, mit der sich die KI-Inferenz ausführen lässt.\r\n\r\nBei adois handelt es sich jedoch um eine prototypische Implementierung, die beispielsweise nur die Einbindung von Luftbildern über einen Web Map Service erlaubt und nicht als generische Lösung konzipiert wurde.\r\nAls der *Regionalverband Ruhr* uns daraufhin beauftragt hat, adois auch mit lokalen Daten anwendbar zu machen, haben wir uns daher entschieden, die Software neu zu konzipieren und zu entwickeln.\r\n\r\nDaraus ist aviary entstanden - ein neues Framework, das uns und anderen Forscher:innen und Anwender:innen in der Geoinformatik die Nutzung von KI-Modellen erleichtern soll - schließlich wollen wir uns aufs Forschen, Entwickeln und Trainieren konzentrieren.\r\n\r\nDie Inferenz von KI-Modellen hat verschiedenste Anforderungen, folgt jedoch stets einem ähnlichen Ablauf:\r\n\r\n- **Definition des Prozessierungsbereichs**: Welcher Bereich soll ausgewertet werden?\r\n- **Definition der Eingangsdaten**: Woher kommen die Eingangsdaten? Liegen sie lokal vor, werden sie über einen Web Service abgerufen oder sind sie in der Cloud?\r\n- **Definition der Vorverarbeitung der Eingangsdaten**: Wie werden die Eingangsdaten vorverarbeitet?\r\n- **Definition des KI-Modells**: Welches KI-Modell soll verwendet werden?\r\n- **Definition des Exports**: Wohin werden die Ergebnisse exportiert? Werden sie lokal gespeichert oder in die Cloud hochgeladen?\r\n\r\naviary abstrahiert diese Schritte und bietet Pipelines, die aus verschiedenen Komponenten bestehen.\r\nDiese Komponenten sind austausch- und erweiterbar, sodass Anwender:innen eigene Pipelines bauen und bei Bedarf Funktionalitäten hinzufügen können.\r\nDabei ist aviary so konzipiert, dass es möglichst effizient und skalierbar ist. Die Pipelines können beispielsweise auf einem lokalen Rechner oder je nach Bedarf in der Cloud ausgeführt werden.\r\n\r\nNeben der Möglichkeit, aviary als Python-Package zu nutzen, können Anwender:innen auch vorgefertigte Pipelines über die Kommandozeile verwenden.\r\nDazu werden deklarative Konfigurationsdateien verwendet, mit denen die Pipelines auf einfache Weise definiert werden können. Dies macht aviary auch ohne Programmierkenntnisse nutzbar.\r\n\r\nDas Modell zur Ableitung versiegelter Flächen aus Luftbildern wurde in aviary integriert.\r\nWeitere Modelle und Pipelines sollen folgen, darunter auch vortrainierte Modelle für diverse Anwendungsfälle sowie speziell auf Fernerkundungsdaten trainierte Foundation-Modelle.\r\nDies soll im Rahmen unserer Forschungstätigkeiten in [*URBAN.KI*](https://www.linkedin.com/company/urban-ki), der Deutschen KI-Initiative für Kommunen, umgesetzt werden.\r\n\r\nBei Interesse ist die Dokumentation vorab unter [geospaitial-lab.github.io/aviary](https://geospaitial-lab.github.io/aviary) zu finden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "Z7SWKH",
+          "name": "Marius Maryniak",
+          "avatar": "https://pretalx.com/media/avatars/Z7SWKH_nXsfEvZ.jpg",
+          "biography": "Machine Learning Engineer with a passion for geospatial data | geospaitial lab | URBAN.KI",
+          "public_name": "Marius Maryniak",
+          "guid": "5d2d2c72-03bb-5786-a6e9-2b340bd8a59c",
+          "url": "https://pretalx.com/fossgis2025/speaker/Z7SWKH/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/UWYEXY/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/UWYEXY/",
+      "attachments": []
+    },
+    {
+      "guid": "181c0515-1600-518b-9285-ecdb9050fef2",
+      "code": "VXTHU9",
+      "id": 58092,
+      "logo": null,
+      "date": "2025-03-26T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58092-superset-business-intelligence-meets-cartography",
+      "url": "https://pretalx.com/fossgis2025/talk/VXTHU9/",
+      "title": "Superset - Business Intelligence meets Cartography",
+      "subtitle": "",
+      "track": "Kartographie und Visualisierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Superset ist eine der meistgenutzten Open-Source Tools im Bereich der Business Intelligence (BI). Wir haben Superset um die Erstellung thematischer Karten erweitert, wodurch auch raum-zeitliche Aspekte besser analysiert werden können. In diesem Vortrag zeigen wir, wie sowohl Kartodiagramme, Choroplethenkarten, sowie Proportional Symbol Maps in Superset erstellt und für raum-zeitliche Analysen verwendet werden können.",
+      "description": "In diesem Vortrag wird das Open-Source-Tool Apache Superset vorgestellt, das als beliebte BI-Plattform vielseitige Datenvisualisierungen und interaktive Dashboards ermöglicht. Unsere Erweiterung fokussiert sich auf die Integration von Geodatenvisualisierungen und die Unterstützung raum-zeitlicher Analysen, was besonders für geografisch geprägte Anwendungen wie Stadtplanung und Umweltschutz wertvoll ist.\r\n\r\nDurch unsere Implementierung können u.a. folgende thematischen Kartentypen in Superset genutzt werden: Kartodiagramme, Choroplethenkarten und Proportional Symbol Maps.\r\n\r\nMit diesen Kartentypen wird es möglich, zeitliche Trends und geografische Muster gleichzeitig zu analysieren. Der Vortrag zeigt praktische Anwendungsbeispiele, die das Potenzial der erweiterten Superset-Funktionalität für die Datenanalyse in der Business Intelligence unterstreichen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "RTASYG",
+          "name": "Jan Suleiman",
+          "avatar": "https://pretalx.com/media/avatars/RTASYG_LWn7Uam.jpg",
+          "biography": null,
+          "public_name": "Jan Suleiman",
+          "guid": "5e87329d-5486-5d90-b1d1-6ad93fde058b",
+          "url": "https://pretalx.com/fossgis2025/speaker/RTASYG/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Präsentation / Folien",
+          "url": "https://terrestris.github.io/fossgis2025/talks/2025-03-26-suleiman-superset.html",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/VXTHU9/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/VXTHU9/",
+      "attachments": []
+    },
+    {
+      "guid": "68bf91c7-60cc-5f63-86dd-787f519aefdc",
+      "code": "E8EPG3",
+      "id": 57948,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/E8EPG3/Historische_Karte_d2ffdeg.png",
+      "date": "2025-03-26T14:50:00+01:00",
+      "start": "14:50",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-57948-visualisierung-von-historischen-schiffsrouten-mit-unscharfer-datengrundlage",
+      "url": "https://pretalx.com/fossgis2025/talk/E8EPG3/",
+      "title": "Visualisierung von historischen Schiffsrouten mit unscharfer Datengrundlage",
+      "subtitle": "",
+      "track": "Kartographie und Visualisierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Im Forschungsverbund DiViAS (www.divias.de) werden Quellen wie Logbücher und Journale aus dem 18./19. Jh. ausgewertet und analysiert. Im Fokus dieses Vortrags stehen dabei verschiedene Möglichkeiten der Visualisierung von Schiffsrouten mit unscharfer Datengrundlage, welche mit QGIS und Mapbox erstellt werden. Grundlage für die kartographische Darstellung ist eine KI-gestützte Extraktion von unscharfen Orts- und Zeitangaben aus diesen Quellen und deren Modellierung in einer PostgreSQL-Datenbank.",
+      "description": "Im Forschungsverbund DiViAS werden bislang kaum verknüpfte wissenschaftliche Methoden und Praktiken in der Digitalisierung, Forschung und Repräsentation von Sammlungsgut aus kolonialen Kontexten und deren Bewegungen in einem zukunftsweisenden transdisziplinären Forschungsprofil systematisch zusammengeführt. Den Ausgangspunkt bilden die großen Sammlungen und archivalischen Überlieferungen des Landesmuseums Natur und Mensch Oldenburg und des Akademie-Projekts Prize Papers, deren Entstehungskontexte eng mit europäischer Expansion und Kolonialismus verbunden sind. Bei den zu visualisierenden Schiffsrouten handelt es sich zum einen um deutsche Strafexpeditionen in der Bismarcksee im heutigen Papua-Neuguinea aus dem 19. Jahrhundert und zum anderen um Handels- und Kaperfahrten europäischer Seemächte aus dem 18. Jahrhundert. Die aufgezeichneten Logbücher, Berichte und Journale werden transkribiert und mithilfe von Sprachmodellen und Verfahren des Natural Language Processing, wie der Named Entity Recognition, nach Orts- und Zeitangaben durchsucht. Zusätzlich werden räumliche und zeitliche Präpositionen wie „nach“ oder „bei“ extrahiert.\r\n\r\nEine große Herausforderung stellt die inhärente Unschärfe dar, die sich sowohl auf Geometrien (z. B. Schiffsrouten, Orte) als auch auf Zeitangaben bezieht. Ursächlich für die Unschärfe können beispielsweise Messfehler bei der Positionsbestimmung, ungenaue Angaben oder Datenlücken sein. Die Unschärfe in Standortbeschreibungen kann, abhängig von der textlichen Beschreibung, vielfältige Ausprägungen annehmen. Daher werden zunächst sogenannte Möglichkeitsräume definiert, die die gesamte räumliche Ausdehnung der entsprechend einer Ortsbeschreibung möglichen Standorte umfassen. Zur visuellen Kommunikation von Unschärfe werden anschließend mittels QGIS Ansätze der kartographischen Symbolisierung unter Nutzung visueller Variablen (z. B. Blurring, Transparenz) herangezogen, aber auch Möglichkeiten dynamischer Effekte wie Animationen exploriert.\r\n\r\nUm den unterschiedlichen Ansprüchen verschiedener Nutzergruppen bei der Erkundung der visualisierten Informationen gerecht zu werden, werden unterschiedliche kartographische Aufbereitungen der Inhalte auf OSM-Basis aber auch unter Verwendung einer frei zugänglichen historischen Kartenbasis genutzt. So ergeben sich z. B. durch die Anwendung narrativer Techniken beim kartenbasierten Storymapping mit Mapbox unter Nutzung der Schnittstellen zum raumzeitlichen Datenmanagement mit PostgreSQL/PostGIS neue Möglichkeiten der Vermittlung von historischen Zusammenhängen. Im Rahmen des Vortrags werden verschiedene Arten der kartographischen Repräsentation von raumzeitlicher Unschärfe gezeigt und deren Anwendbarkeit in verschiedenen Nutzungskontexten diskutiert.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "7BQXBF",
+          "name": "Stefan Fuest",
+          "avatar": null,
+          "biography": "Stefan Fuest ist wissenschaftlicher Mitarbeiter am Institut für Kartographie und Geoinformatik (IKG) an der Leibniz Universität Hannover, Deutschland. Nach einem Bachelor- und Masterstudium der Geoinformatik in Münster hat er im Jahr 2024 am IKG seine Promotion im Bereich der visuellen Kommunikation von Routeninformationen mittels kartographischer Symbolisierung abgeschlossen. Seine Forschungsinteressen liegen in der Kartensymbolisierung, hier insbesondere die Visualisierung von raumzeitlicher Unschärfe, sowie in kognitiven Aspekten bei der kartenbasierten Visualisierung.",
+          "public_name": "Stefan Fuest",
+          "guid": "424b47e9-a400-5147-b577-8649f7c4a0e4",
+          "url": "https://pretalx.com/fossgis2025/speaker/7BQXBF/"
+        },
+        {
+          "code": "ABZDNQ",
+          "name": "Andreas Gollenstede",
+          "avatar": "https://pretalx.com/media/avatars/ABZDNQ_B0ZrVTd.jpg",
+          "biography": "Bis 1998 Studium des Vermessungswesens an der TU Braunschweig und der Universität Hannover mit der Vertiefungsrichtung \"Kartographie\" und der Diplomarbeit im Fachgebiet \"Photogrammetrie\"; gefolgt vom Referendariat in Niedersachsen mit zweitem Staatsexamen im Bereich \"Vermessungs- und Liegenschaftswesen\" im Jahr 2000.\r\n\r\nAnschließend Mitarbeit in verschiedenden Forschungsprojekten in der Abteilung Geoinformation der Jade Hochschule in Oldenburg. Parallel dazu im Jahr 2005 Gründung eines Ingenieurbüros mit den thematischen Schwerpunkten \"Touristische Informationssysteme\" und \"Erstellung von Freizeitkarten und Reiseführern\" unter der Nutzung von Freier und Open Source Software. Bis heute touristische Projekte vornehmlich in Deutschland und Island.\r\n\r\nSeit 2006 externer Lehrbeauftragter und ab 2015 für acht Jahre Lehrkraft für besondere Aufgaben für \"Kartographie und Geoinformatik\" am Institut für Angewandte Photogrammetrie und Geoinformatik (IAPG) der Jade Hochschule. Daneben fünf Jahre lang Lehrkraft im Fach \"Datenbanken\" für Auszubildende der \"Vermessungstechnik\" an einer Berufsschule in Oldenburg. Bis heute nebenher Durchführung von QGIS-Schulungen für diverse Zielgruppen.\r\n\r\nZur Zeit als Wissenschaftlicher Mitarbeiter am IAPG tätig. Ein Forschungsschwerpunkt ist die Modellierung von raumzeitlicher Unschärfe in PostgreSQL/PostGIS-Datenbanken.",
+          "public_name": "Andreas Gollenstede",
+          "guid": "69c33d1b-d3a3-5844-98be-9f1add1a2308",
+          "url": "https://pretalx.com/fossgis2025/speaker/ABZDNQ/"
+        },
+        {
+          "code": "EPNXNX",
+          "name": "Jennifer Tadge",
+          "avatar": "https://pretalx.com/media/avatars/EPNXNX_SIDRvX1.jpg",
+          "biography": "Jennifer Tadge studierte Ethnologie und Arabistik an der Universität Leipzig sowie Museologie an der Hochschule für Technik, Wirtschaft und Kultur Leipzig. Seit 2014 forscht sie in der ethnologischen Sammlung des Landesmuseums Natur und Mensch Oldenburg. Dort arbeitete sie u.a. zu den Provenienzen menschlicher Überreste außereuropäischer Herkunft und zu einem Objekt aus dem Königreich Benin. Derzeit beendet sie ihr Promotionsprojekt zum Thema „Koloniale Sammelpraktiken in militärischen Kontexten“, das von Prof. Dr. Dagmar Freist am Institut für Geschichte der Carl von Ossietzky Universität Oldenburg betreut wird. In ihrem aktuellen Projekt widmet sie sich der Erforschung der Erwerbungsumstände von Sammlungsgut aus kolonialen Kontexten aus Ozeanien im Landesmuseum Natur und Mensch Oldenburg im Rahmen des Verbundprojekts Digitalisierung, Visualisierung und Analyse von Sammlungsgut (DiViAS).",
+          "public_name": "Jennifer Tadge",
+          "guid": "095486bb-75c1-5d45-8e95-b4567951b702",
+          "url": "https://pretalx.com/fossgis2025/speaker/EPNXNX/"
+        },
+        {
+          "code": "EMFMXC",
+          "name": "Maximilian Herbers",
+          "avatar": "https://pretalx.com/media/avatars/EMFMXC_dlcnKHw.jpg",
+          "biography": "Maximilian Herbers ist Geoinformatiker und wissenschaftlicher Mitarbeiter im Forschungsverbund DiViAS an der Jade Hochschule. Seine Forschungsinteressen liegen in den Bereichen Geoinformatik, Spatial Humanities und Geospatial Data Science, insbesondere in Techniken der Verarbeitung natürlicher Sprache, der Modellierung historischer Geodaten sowie deren Analyse und Anwendung in raum-zeitlichen Kontexten.",
+          "public_name": "Maximilian Herbers",
+          "guid": "eadeb8b5-c680-511f-b34e-1733a03963ef",
+          "url": "https://pretalx.com/fossgis2025/speaker/EMFMXC/"
+        },
+        {
+          "code": "FQQSQT",
+          "name": "Rieke Marie Kaiser",
+          "avatar": null,
+          "biography": "Rieke Marie Kaiser ist Historikerin und Wissenschaftliche Mitarbeiterin im Forschungsverbund DiViAS. Ihr Forschungsinteresse liegt in der Frühen Neuzeit im Bereich der maritimen Geschichte und Digital Humanities.",
+          "public_name": "Rieke Marie Kaiser",
+          "guid": "0c164888-5eb9-538d-a7fa-b6b6bf6133d3",
+          "url": "https://pretalx.com/fossgis2025/speaker/FQQSQT/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/E8EPG3/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/E8EPG3/",
+      "attachments": []
+    },
+    {
+      "guid": "f3d46494-e49b-5601-a139-36910b6324d8",
+      "code": "YTFJYY",
+      "id": 58126,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/YTFJYY/Screenshot_2024-11-04_at_dkw1RBX.png",
+      "date": "2025-03-26T16:30:00+01:00",
+      "start": "16:30",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58126-die-leistungsfahigkeit-groer-sprachmodelle-fur-geoparsing-aufgaben",
+      "url": "https://pretalx.com/fossgis2025/talk/YTFJYY/",
+      "title": "Die Leistungsfähigkeit großer Sprachmodelle für Geoparsing-Aufgaben",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Vortrag mit Paper im Academic Track",
+      "language": "de-formal",
+      "abstract": "Wir präsentieren einen Geoparsing-Workflow, der Name Entity Recognition und Geokodierung kombiniert, um Ortsangaben inklusive Hausnummern aus Texten zu extrahieren und in einem WebGIS zu visualisieren. Wir haben moderne großer Sprachmodelle (LLM) wie Meta Llama3.1-70b-instruct und Mistral-large wurden getestet und dabei herausgefunden, dass ein hybrider Open-Source-Ansatz bis zu 90 % der Standorte korrekt erkennt - womit der Ansatz besser ist als Anthropic Claude und ChatGPT o1-preview.",
+      "description": "Geoparsing ist ein Prozess, der Name Entity Recognition (NER) und Geocoding kombiniert, um Freitext zu verarbeiten und in ihnen geolokalisierte Begriffe zu identifizieren, die dann mit Geocoder API in in räumliche Koordinaten umgewandelt werden. Das Forschungsprojekt erfolgt im Rahmen einer Kooperation mit dem Landesbetrieb Immobilienmanagement und Grundvermögen Hamburg (LIG) und verfolgt das übergeordnete Ziel, einen Geoparsing-Workflow zur Verarbeitung der Open-Source-Datenbank des Hamburger Parlaments („Bürgerschaft“) zu entwickeln (Dally et al., 2024). Konkret sollen Immobiliengrundstücke erfasst werden, die in der öffentlichen Diskussion stehen – für die eine große Vielzahl von PDF-Dateien verarbeitet und in einem WebGIS-System visualisiert werden sollen. Um die Routineaufgaben des LIG zu erfüllen, ist ein leistungsfähiger Geoparsing-Workflow notwendig, dessen 1) Ortserkennung auch Hausnummern enthalten sollte, und 2) eine genaue Kodierung der räumlichen Kartenkoordinaten sicherstellt. \r\nIn einer früheren Projektphase wurde das flair/ner-german-large Modell zur Standortbestimmung verwendet (Mellow & Chang, 2023) und der Fokus der Untersuchung auf eine lokale Zeitung (\"Elbewochenblatt\") gelegt. Allerdings wurde festgestellt, dass das Flair-Modell nicht in der Lage ist, vollständige Adressen einschließlich Hausnummern zu ermitteln. Daher eruieren wir jetzt die funktionalen Möglichkeiten aktuellerer LLM-Modelle. Um präziser einschätzen zu können, wie viele Ortsbegriffe erkannt werden, haben wir einen Validierungsworkflow entwickelt (einschließlich eines Prozesses zur räumlichen Verknüpfung mehrerer geokodierter Punktkoordinaten), der automatisch den Prozentsatz der von jedem Modell erkannten Ortsbegriffe vergleicht und berechnet.\r\nMit der schnellen Entwicklung von Large Language Models (LLM) ist es einfach geworden, entsprechende Ortslisten zu extrahieren – die Ergebnisqualität aber blieb bisher eine offene Frage. Dieser akademische Vortrag konzentriert sich daher auf die Qualität dieser Open-Source-LLMs, von denen wir haben Meta Llama3.1-70b-instruct und Mistral-large-2 getestet haben, um sie mit Claude-sonnet-3.5-new und OpenAI o1-preview zu vergleichen.\r\nFür die Geokodierung verwenden wir OpenSource Geocoder: Nominatim und Mapbox Geocoder API. Für die Adressen mit Hausnummern ziehen wir zusätzlich die die vom Landesbetrieb Geoinformation und Vermessung (LGV) offiziell veröffentlichten Adressen der Stadt Hamburg heran. \r\nDas Ergebnis der Untersuchung zeigt, dass ein hybrider Open-Source-Ansatz bis zu 90% eindeutige Standorte aus dem Text gewinnen kann, einschließlich der vollständigen Adresse mit Hausnummern. Claude erreicht hingegen nur 53%, o1-preview 60%. Wir haben auch festgestellt, dass LLM bei der Extraktion der Namen von Institutionen (z.B. Schulen) ohne Adressangabe in den Texten eingeschränkt ist.\r\n\r\nIm Anschluss an die NER-Validierung wird sich das Projekt in naher Zukunft dem Fine-tune eines Open-Source-Sprachmodells widmen. Dabei ist eine Entscheidung darüber zu treffen, ob das Modell – in Abhängigkeit von der Verfügbarkeit von GPU-Ressourcen – mit der Parametergröße 7b oder 70b verwendet wird. Das mittelfristige Ziel ist die Entwicklung eines Chatbots, der in der Lage ist, Fragen zu konkreten den Themen der Stadtentwicklung wie z.B. „Verdichtung“, „Vorkaufsrecht“ und „Magistralenplanung“ zu beantworten.\r\n\r\n#### Einreichung im Akademic Track\r\nZenodo-DOI: https://zenodo.org/records/14616472",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "XGDV88",
+          "name": "Juiwen Chang (Ariel)",
+          "avatar": "https://pretalx.com/media/avatars/XGDV88_Ai74TA3.JPG",
+          "biography": "Juiwen, auch bekannt als Ariel, stammt aus Taiwan und hat sich über viele Jahren hinweg an FOSSGIS sowie den open soure GIS Communities beteiligt. Sie nahm erstmals an der FOSS4G in Nottingham im Jahr 2013 teil, wobei sie ein akademisches Stipendium erhielt. Nach ihrem Umzug nach Deutschland war sie weiterhin aktiv in der FOSSGIS-Community und hielt Vorträge und Workshops bei der FOSSGIS und der FOSS4G Europe im Jahr 2018 sowie bei der FOSS4G im Jahr 2022.\r\nAriel ist seit 2017 als Wissenschaftliche Mitarbeiterin an der Hafencity Universität Hamburg (HCU) tätig.",
+          "public_name": "Juiwen Chang (Ariel)",
+          "guid": "a4ca476c-2b9a-5596-b31a-43779e064d23",
+          "url": "https://pretalx.com/fossgis2025/speaker/XGDV88/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/YTFJYY/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/YTFJYY/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/YTFJYY/resources/Leistungsfahig_RrIsTrq.pdf",
+          "type": "related"
+        },
+        {
+          "title": "LIG Flyer English",
+          "url": "/media/fossgis2025/submissions/YTFJYY/resources/LIG_flyerview_GOsHkXS.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "b7e5c448-485c-5d42-8048-4e4f38482413",
+      "code": "C3NNCS",
+      "id": 58109,
+      "logo": null,
+      "date": "2025-03-26T17:05:00+01:00",
+      "start": "17:05",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58109-entwicklung-eines-llm-basierten-assistenten-fur-die-suche-nach-geodaten",
+      "url": "https://pretalx.com/fossgis2025/talk/C3NNCS/",
+      "title": "Entwicklung eines LLM-basierten Assistenten für die Suche nach Geodaten",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Unser Vortrag stellt ein innovatives, Framework zur Verbesserung der Geodatensuche vor. Durch die Kombination von Large Language Models, dialogbasierter Nutzerinteraktion und semantischer Suche sollen die Limitierungen traditioneller, metadatenbasierter Suchsysteme überwunden werden. Das System ermöglicht eine präzisere Erfassung von Nutzeranforderungen und kann sowohl Metadaten als auch die eigentlichen Geodatenattribute durchsuchen, was die Qualität der Suchergebnisse deutlich verbessert.",
+      "description": "In Geodaten- und Forschungsdateninfrastrukturen (GDI/FDI) basiert die Datensuche primär auf Metadaten. Diese Suchfunktionalität wird hierbei über Metadatenkataloge oder Open Data Portale wie [CKAN](https://ckan.org/) oder [GeoNetwork](https://geonetwork-opensource.org/) realisiert. Diese Dienste bieten eine Volltextsuche zur Identifikation relevanter Metadatensätze, die durch Suchfacetten und Filter ergänzt werden kann (Hervey et al., 2020). Die implementierte Volltextsuche beruht dabei auf einem lexikalischen Ansatz, der auf die exakte Übereinstimmung von Wörtern oder Phrasen zwischen Suchanfragen und Metadatensätzen basiert (Formal et al., 2022). \r\nDie lexikale Suche weist jedoch bedeutende Einschränkungen auf:\r\n●\tSuchende müssen die spezifische Terminologie der Metadaten kennen und die richtigen Suchbegriffe verwenden, um relevante Ergebnisse zu erhalten. Diese Fachkenntnis ist besonders in interdisziplinären Portalen nicht selbstverständlich.\r\n●\tSprachliche Variationen in den Suchanfragen – etwa durch Tippfehler, Abkürzungen, Synonyme oder Akronyme – können die Ergebnisqualität erheblich beeinträchtigen (vgl. „vocabualary mismatch problem“ (Furnas et al., 1987)).\r\n\r\nZur Bewältigung dieser Herausforderungen existieren verschiedene Lösungsansätze. Die Integration kontrollierter Vokabulare oder Ontologien ermöglicht beispielsweise das Vorschlagen verwandter Suchbegriffe wie Synonyme im Rahmen der Volltextsuche (Jiang et al., 2019). Zudem eröffnen aktuelle Entwicklungen im Bereich neuronaler Netze und Sprachmodelle neue Möglichkeiten, die Semantik von Suchanfragen und -ergebnissen zu erfassen und deren Relevanz präziser zu bestimmen (Thakur et al., 2021). Entsprechende Anwendungen im Kontext der (Geo-)Metadatensuche wurden bereits entwickelt (Wetzel and Mäs, 2024).\r\nAllerdings garantiert selbst die erfolgreiche Identifikation relevanter Metadatensätze nicht, dass die zugehörigen Datensätze den Anforderungen der Suchenden entsprechen. Mögliche Ursachen hierfür sind:\r\n●\tUnzureichende Repräsentation der Datensatzinhalte und -eigenschaften in den Metadaten.\r\n●\tUnvollständige oder ungenaue Metadaten.\r\n●\tSpezifische Nutzeranforderungen, die in den verfügbaren Metadaten nicht erfasst sind.\r\n\r\nWir wollen in diesem Vortrag ein Large Language Model (LLM) basiertes Framework vorstellen, das entwickelt wurde, um diese verbleibenden Herausforderungen anzugehen. Das Framework implementiert einen innovativen, dialogorientierten Suchansatz. Es ist dabei bewusst für die Integration verschiedener Open-Source-Sprachmodelle ausgelegt. Neben proprietären Modellen können insbesondere freie LLMs wie [Llama](https://www.llama.com/) oder [Mixtral](https://mistral.ai/news/mixtral-of-experts/) eingebunden werden. Das System kombiniert einen Chatbot für die Interaktion in natürlicher Sprache mit einem semantischen Suchindex für Geodaten und deren Metadaten. Anders als bei konventionellen Suchsystemen ermöglicht dieser Ansatz eine präzise Erfassung der Nutzeranforderungen durch interaktiven Dialog. Der Chatbot kann gezielt Rückfragen stellen, um Suchintentionen zu klären und spezifische Anforderungen zu konkretisieren. Durch die Integration eines speziellen Suchindex, optimiert für die semantische Indexierung (Vektordatenbank), können sowohl die eigentlichen Geodaten als auch deren Metadaten gespeichert und durchsucht werden. Dies ermöglicht eine semantische Suche nach den in den Daten vorhandenen Attributen oder Features.\r\n\r\nEin konkretes Beispiel verdeutlicht die Vorteile dieses Ansatzes: Bei der Suche nach \"Krankenhäusern mit Notaufnahme\" werden nicht nur Datensätze gefunden, die diese Begriffe in ihren Metadaten enthalten. Vielmehr können auch die in den Geodaten selbst vorhandenen Attribute wie \"emergency=yes\" oder \"healthcare=hospital\" für die Suche genutzt werden. Der Chatbot kann dabei gezielt nach weiteren Anforderungen fragen, etwa ob bestimmte Fachabteilungen benötigt werden. Diese Informationen werden dann mit den tatsächlich in den Daten vorhandenen Attributen abgeglichen.\r\nDies ermöglicht es, auch implizite oder komplexe Zusammenhänge zwischen Suchanfragen und verfügbaren Datensätzen zu erkennen und somit die Diskrepanz zwischen Nutzeranforderungen und Datenverfügbarkeit zu minimieren. \r\n\r\nReferenzen:\r\n●\tFormal, T., Piwowarski, B., & Clinchant, S. (2022). Match Your Words! A Study of Lexical Matching in Neural Information Retrieval. Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13186 LNCS, 120–127. https://doi.org/10.1007/978-3-030-99739-7_14\r\n●\tFurnas, G. W., Landauer, T. K., Gomez, L. M., & Dumais, S. T. (1987). The Vocabulary Problem in Human-System Communication. Communications of the ACM, 30(11), 964–971. https://doi.org/10.1145/32206.32212\r\n●\tHervey, T., Lafia, S., & Kuhn, W. (2020). Search Facets and Ranking in Geospatial Dataset Search. Leibniz International Proceedings in Informatics, LIPIcs, 177(5), 1–5. https://doi.org/10.4230/LIPIcs.GIScience.2021.I.5\r\n●\tJiang, S., Hagelien, T. F., Natvig, M., & Li, J. (2019). Ontology-Based Semantic Search for Open Government Data. Proceedings - 13th IEEE International Conference on Semantic Computing, ICSC 2019, 7–15. https://doi.org/10.1109/ICOSC.2019.8665522\r\n●\tThakur, N., Reimers, N., Rücklé, A., Srivastava, A., & Gurevych, I. (2021). BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models. NeurIPS. http://arxiv.org/abs/2104.08663\r\n●\tWetzel, S., & Mäs, S. (2024). Context-Aware Search for Environmental Data Using Dense Retrieval. ISPRS International Journal of Geo-Information, 13(11), 380. https://doi.org/10.3390/ijgi13110380",
+      "recording_license": "",
+      "do_not_record": true,
+      "persons": [
+        {
+          "code": "ECSXLV",
+          "name": "Simeon Wetzel",
+          "avatar": null,
+          "biography": "Seit 2021 Wissenschaftlicher Mitarbeiter und PhD Student an der Professur für Geoinformatik, Technische Universität Dresden.\r\nPublikationen: [siehe hier](https://fis.tu-dresden.de/portal/de/researchers/simeon-wetzel(e03b5766-8ec7-4f0c-9f0f-e9990387caff).html)\r\nLaufendes Projekt: [KlimaKonform](https://klimakonform.uw.tu-dresden.de/)",
+          "public_name": "Simeon Wetzel",
+          "guid": "035ef25f-7253-5960-81c4-d9a8f9b3a099",
+          "url": "https://pretalx.com/fossgis2025/speaker/ECSXLV/"
+        },
+        {
+          "code": "KM7MHS",
+          "name": "Matthes Rieke",
+          "avatar": "https://pretalx.com/media/avatars/KM7MHS_JnLsHTt.jpg",
+          "biography": "Mathes Rieke ist Geschäftsführer der 52°North Spatial Information Research GmbH. Seine Expertise reicht von Standardisierungs-Prozessen im Geo-IT-Sektor bis hin zu Architektur-Konzepten für die effiziente Prozessierung von Geodaten.",
+          "public_name": "Matthes Rieke",
+          "guid": "ed181eb9-4a78-5b0c-ab85-8f1b9f86c4e0",
+          "url": "https://pretalx.com/fossgis2025/speaker/KM7MHS/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/C3NNCS/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/C3NNCS/",
+      "attachments": []
+    },
+    {
+      "guid": "fa05954a-aa6c-500f-9313-5c0db631f0a6",
+      "code": "YAT3KQ",
+      "id": 58175,
+      "logo": null,
+      "date": "2025-03-26T17:40:00+01:00",
+      "start": "17:40",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58175-kunstliche-intelligenz-als-unterstutzung-in-geografische-applikationen",
+      "url": "https://pretalx.com/fossgis2025/talk/YAT3KQ/",
+      "title": "Künstliche Intelligenz als Unterstützung in geografische Applikationen",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "In dieser Präsentation zeigen wir die Ergebnisse von zwei POCs, welche wir mit dem Large Language Models (LLM) Open Source Python Framework “LangChain” durchgeführt haben. Mittels LLM (wie GPT) zeigen wir, wie eine geographische Anwendung durch künstliche Intelligenz benutzerfreundlicher und zugänglicher wird. Auch im Hintergrund arbeiten wir mit künstlicher Intelligenz, um die Anreicherung und die Indexierung von Metadaten zu verbessern und zu automatisieren.",
+      "description": "Wir haben uns die Frage gestellt, wie man das Potenzial von Künstlicher Intelligenz in Form von Sprachmodellen wie GPT in der Geoinformatik nutzen kann, um geografische Anwendungen benutzerfreundlicher und auch für Laien zugänglich zu machen. Denn ist man nicht vertraut mit den geographischen Fachbegriffen oder der Applikation, treten oft Fragen auf wie:\r\nWelchen Layer muss ich aktivieren, um die Daten auf der Karte zu sehen, die mich interessieren? Wo versteckt sich die Funktion, um etwas auf der Karte zu zeichnen?\r\n\r\nDaraus ergaben sich drei Bereiche, die wir in diesem Vortrag erläutern möchten. Anhand von zwei verschiedenen Proof of Concepts (POC), welche wir mit zwei Kunden in diesen Bereichen umsetzen, werden funktionierende Beispiele gezeigt.\r\n\r\nZum einen wird der Einsatz von Large Language Models (LLM) für die Suche in geographischen Anwendungen gezeigt, zum anderen die Steuerung einer Anwendung über Text bzw. Sprache, das sogenannte Conversational User Interface (CUI). Eine dritte Anwendung ist die Verwendung von Sprachmodellen zur Unterstützung der Metadatengenerierung.\r\n\r\nDen letzten Teil dieses Vortrags werden wir der Frage widmen: \"Wie testet man eine Anwendung, die LLMs verwendet?\" Eine Frage, die uns bei der Durchführung der oben genannten POCs immer wieder beschäftigt.  Denn wie stellt man fest, ob sich der Aufwand lohnt und die Suche wirklich ein besseres Ergebnis liefert? Oder ob die erzeugten Metadaten brauchbar sind.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "FBCY3J",
+          "name": "Marion Baumgartner",
+          "avatar": "https://pretalx.com/media/avatars/FBCY3J_sgiLe4W.png",
+          "biography": "Softwareentwicklerin und Geo-Daten Ingenieurin bei Camptocamp SA. Mehr Infos unter https://www.linkedin.com/in/marion-baumgartner-b1897b26/",
+          "public_name": "Marion Baumgartner",
+          "guid": "6cab8e61-3784-5baa-8597-b475862b6ba0",
+          "url": "https://pretalx.com/fossgis2025/speaker/FBCY3J/"
+        },
+        {
+          "code": "PKT7JK",
+          "name": "Andrea Borghi",
+          "avatar": null,
+          "biography": "Ich arbeite für CampToCamp SA als DevOps-Ingenieur, spezialisiert auf die Bereitstellung und den Betrieb geografischer Anwendungen.\r\nIch bin ein OpenSource-Enthusiast und ziehe es vor, mit anderen zusammenzuarbeiten, um Dinge voranzubringen.\r\nMein Motto: „Keiner von uns ist so gut wie wir alle“.",
+          "public_name": "Andrea Borghi",
+          "guid": "a3454736-1d21-50ee-96c5-7e2080cbd527",
+          "url": "https://pretalx.com/fossgis2025/speaker/PKT7JK/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/YAT3KQ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/YAT3KQ/",
+      "attachments": []
+    },
+    {
+      "guid": "67ec8dd7-ee89-5a80-b1a1-5e74eaac213b",
+      "code": "FBUVBG",
+      "id": 57193,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/FBUVBG/Bildschirmfoto_2024-11-0_iywHb0R.png",
+      "date": "2025-03-26T18:15:00+01:00",
+      "start": "18:15",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-57193-experimente-mit-open-data-und-ki-geodaten-fur-alle-nicht-nur-fur-profis",
+      "url": "https://pretalx.com/fossgis2025/talk/FBUVBG/",
+      "title": "Experimente mit Open Data und KI: Geodaten für alle, nicht nur für Profis?",
+      "subtitle": "",
+      "track": "Open Data, Datenschutz und Lizenzen",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Im Rahmen der aktuellen Diskussion zur Nutzung von KI-Sprachmodellen untersuchen wir in einem Proof of Concept, wie KI im Zusammenspiel mit offenen Geodaten eingesetzt werden kann. Kann KI dabei unterstützen, frei verfügbare Daten besser aufzufinden, verständlicher zu machen, ihre Relevanz für spezifische Projekte zu bewerten oder ganz neue Ideen zu entwickeln? Oder eröffnet sie gar die Möglichkeit, neue Nutzendengruppen außerhalb der traditionellen Geodaten-Expert:innenkreise anzusprechen?",
+      "description": "Für ein Forschungsprojekt die Folgen des Klimawandels im städtischen Raum verstehen?\r\nFür die Arbeit im Stadtplanungsamt die Verkehrsinfrastruktur auf einer Karte präsentieren?\r\nFür eine Kunstinstallation die Geometrien aller Berliner Bezirksregionen auf ein Poster drucken?\r\n\r\nFür all diese und viele weitere Vorhaben benötigen wir... Geodaten! Das Land Berlin verfügt zum Glück über eine standardisierte Geodateninfrastruktur und über einen enormen Schatz an offen verfügbaren räumlichen Daten, die für eine Vielzahl von Personen und Vorhaben relevant sein können. Der Zugang zu Geodaten oder auch das Verständnis der Daten ist dabei jedoch Expert:innen mit Wissen über Geodatenstandards, Verwaltungsjargon und fachspezifischen Vorwissen vorbehalten. \r\n\r\nKann KI helfen diese Daten schneller zu finden und zu verstehen? Aus dieser Fragestellung heraus wurde der GeoExplorer entwickelt. Er ist ein Teil einer Machbarkeitsanalyse rund um Open Data und KI. Wie gut das funktioniert und was wir bisher daraus gelernt haben, stellen wir in diesem Impulsvortrag vor. \r\n\r\nAls Open Data Informationsstelle Berlin, ein Projekt der gemeinnützigen Technologiestiftung Berlin erproben wir seit 2018 mit prototypischen Open Source Anwendungen neue Technologien und innovative Ansätze und zeigen das Potential offener Geodaten auf.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "SJWXDA",
+          "name": "Klemens Maget",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Klemens Maget",
+          "guid": "b7126ed5-2d9a-573f-afef-fa90255dbb56",
+          "url": "https://pretalx.com/fossgis2025/speaker/SJWXDA/"
+        },
+        {
+          "code": "RLZJZM",
+          "name": "Lisa Stubert",
+          "avatar": "https://pretalx.com/media/avatars/RLZJZM_jBRbHu9.png",
+          "biography": "Lisa Stubert leitet den Bereich Public Data des CityLAB Berlin der Technologiestiftung Berlin und ist Projektleiterin der Open Data Informationsstelle Berlin. Als studierte Geoinformatikerin und Umweltwissenschaftlerin mit Fokus auf Datenanalyse untersucht und entwickelt sie Prozesse rund um das Management (offener) Daten und prototypische Ansätze für datenbasierte Services und Entscheidungsfindung im Kontext der Verwaltungsdigitalisierung.",
+          "public_name": "Lisa Stubert",
+          "guid": "ba2d56a3-3852-538c-9273-e8d20a8b3bf9",
+          "url": "https://pretalx.com/fossgis2025/speaker/RLZJZM/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/FBUVBG/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/FBUVBG/",
+      "attachments": []
+    }
+  ]
+}

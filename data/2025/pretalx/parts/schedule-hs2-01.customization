@@ -1,0 +1,396 @@
+{
+  "day": 1,
+  "date": "2025-03-26",
+  "room": "HS2 (S10)",
+  "events": [
+    {
+      "guid": "0ae6c0d7-ef28-54c4-8a96-2acf09e888d0",
+      "code": "LHS8C9",
+      "id": 58113,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/LHS8C9/spatial-io-logo_IMUzMQz.jpg",
+      "date": "2025-03-26T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58113-spatial-io-cloud-basierte-open-source-losung-zur-verwaltung-raumlicher-daten",
+      "url": "https://pretalx.com/fossgis2025/talk/LHS8C9/",
+      "title": "spatial.IO - Cloud-basierte Open-Source-Lösung zur Verwaltung räumlicher Daten",
+      "subtitle": "",
+      "track": "Geodatenmanagement",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Mit zunehmenden Datenmengen im Bereich der Umweltsystemforschung steigt die Notwendigkeit für geeignete Dateninfrastrukturen zur automatisierten Verwaltung und Repräsentation der Daten. In diesem Vortrag stellen wir die Open-Source-Lösung [**spatial.IO**](https://doi.org/10.5281/zenodo.10391523) des Helmholtz-Zentrums für Umweltforschung (UFZ) vor, welche unabhängig von bestehenden IT-Infrastrukturen überall betrieben werden kann.",
+      "description": "Mit zunehmenden Datenmengen im Bereich der Umweltsystemforschung steigt die Notwendigkeit für geeignete Dateninfrastrukturen zur automatisierten Verwaltung und Repräsentation der Daten. Damit Wissenschaffende weiter Forschung betreiben können ohne sich mit dem Datenchaos herumschlagen zu müssen, sind standardisierte Lösungen zur Speicherung, Prozessierung, Veröffentlichung und Darstellung von räumlichen Daten notwendig.\r\n\r\nDas Helmholtz-Zentrum für Umweltforschung (UFZ) hat [**spatial.IO**](https://doi.org/10.5281/zenodo.10391523) entwickelt, eine modulare Anwendung zur Verwaltung, Speicherung, Verfügbarstellung und Visualisierung von räumlichen Daten. [**spatial.IO**](https://doi.org/10.5281/zenodo.10391523) kann unabhängig von bestehenden IT-Infrastrukturen überall betrieben werden. Die Anwendung beinhaltet einen integrierten Cloud-Speicher, GeoServer, GeoNetwork, FROST-Server und ein individuell konfigurierbares WebGIS. Alle Komponenten sind über automatisierte Prozesse verknüpft und eine Web-Anwendung bietet eine nutzenden-freundliche Verwaltung.\r\n\r\nIn diesem Vortrag stellen wir die Anwendung [**spatial.IO**](https://doi.org/10.5281/zenodo.10391523) vor. Funktionalität und Aufbau von [**spatial.IO**](https://doi.org/10.5281/zenodo.10391523) werden detailliert dargestellt. Es wird erklärt, wie die Anwendung auf jedem System gehostet werden kann, Beispiele für die WebGIS-Komponente gezeigt und eine Einführung in die Nutzung gegeben.\r\n\r\n[**spatial.IO**](https://doi.org/10.5281/zenodo.10391523) Key Features:\r\n- Modularer Aufbau mit Docker\r\n- zentraler Cloud-Speicher (S3)\r\n- ein Admin-Frontend zur einfachen Verwaltung aller Daten\r\n- FROST-Server zur Speicherung von Sensor-Daten und der Schnittstelle SensorThings API (STA)\r\n- ein GeoServer zur Bereistellung von OGC Web Services\r\n- ein GeoNetwork als Metadatenkatalog\r\n- WebGIS-Template zur einfachen Erstellung von eigenen Viewern\r\n- automatisierte Prozesse zwischen allen Komponenten\r\n\r\nPublikation: https://doi.org/10.5281/zenodo.10391523\r\nBeispiel WebGIS: https://web.app.ufz.de/gdi/forest\r\nCode-Repository: https://codebase.helmholtz.cloud/ufz-sdi/spatialio",
+      "recording_license": "",
+      "do_not_record": true,
+      "persons": [
+        {
+          "code": "MRHBDJ",
+          "name": "Rebekka Lange",
+          "avatar": null,
+          "biography": "Wissenschaftlich-technische Mitarbeiterin\r\nResearch Data Management (RDM)\r\nHelmholtz-Zentrum für Umweltforschung (UFZ) Leipzig",
+          "public_name": "Rebekka Lange",
+          "guid": "0ef1fef0-77f5-58e7-b66c-c6746be2805c",
+          "url": "https://pretalx.com/fossgis2025/speaker/MRHBDJ/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/LHS8C9/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/LHS8C9/",
+      "attachments": []
+    },
+    {
+      "guid": "451345f9-a77c-5b48-a741-5526ce65fed8",
+      "code": "PDRTAE",
+      "id": 57279,
+      "logo": null,
+      "date": "2025-03-26T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57279-eoapi-eine-skalierbare-geodateninfrastruktur",
+      "url": "https://pretalx.com/fossgis2025/talk/PDRTAE/",
+      "title": "eoAPI - eine skalierbare Geodateninfrastruktur",
+      "subtitle": "",
+      "track": "Geodatenmanagement",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "In diesem Vortrag geht es um eoAPI, ein Open-Source-Baukasten zur schnellen Bereitstellung einer skalierbaren Geodateninfrastruktur auf Grundlage der STAC-Spezifikation. eoAPI ermöglicht die einfache Auffindbarkeit und breite Nutzung von Erdbeobachtungsdaten. Es werden ihre leistungsstarken Funktionen sowie die Komponenten TiTiler, Tipg, pgSTAC und stac-fastapi erläutert.",
+      "description": "In diesem Vortrag wird eoAPI vorgestellt, es handelt sich um einen modularen Baukasten aus Open-Source-Komponenten zur schnellen Bereitstellung einer skalierbaren, cloud-basierten und offenen Geodateninfrastruktur auf Grundlage der STAC-Spezifikation. Erfahren Sie, wie Sie mit eoAPI sowohl kleine als auch große Archive von Erdbeobachtungsdaten schnell und einfach auffindbar und interoperabel machen und einer breiten Anwenderbasis zur Verfügung stellen können.\r\n\r\nDas Ökosystem von eoAPI wurde von Development Seed in Zusammenarbeit mit der NASA, Microsoft Planetary Computer und anderen Partnern entwickelt. Entsprechende Backends, die mit eoAPI laufen, liefern derzeit Metadaten für Milliarden von STAC-Elementen und generieren täglich dynamisch Hunderttausende von Bildkacheln.\r\n\r\nEs werden  die leistungsstarken Funktionen von eoAPI aufgezeigt und die einzelnen Komponenten wie TiTiler, Tipg, pgSTAC und stac-fastapi erläutert.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "CAGLKV",
+          "name": "Felix Delattre",
+          "avatar": "https://pretalx.com/media/avatars/CAGLKV_dUeLahY.jpg",
+          "biography": "Felix arbeitet als Geospatial Engineer bei Development Seed und hat sich auf die Entwicklung geographischer Software sowie deren Bereitstellung über Cloud-Server spezialisiert. Er entwickelt gerne Open-Source-Lösungen, die von jedem einfach eingesetzt werden können. Als Allrounder bringt er Expertise in Vektor- und Rasterdaten mit, hat eine Leidenschaft für Geodaten-APIs und ist versiert in der Systemadministration, von Linux-Servern bis hin zu Cloud-Infrastruktur.",
+          "public_name": "Felix Delattre",
+          "guid": "eadd59a1-ba85-529c-b17d-b34b6afd7065",
+          "url": "https://pretalx.com/fossgis2025/speaker/CAGLKV/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/PDRTAE/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/PDRTAE/",
+      "attachments": [
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/PDRTAE/resources/eoAPI-eine-ska_2Gitozr.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "b6189006-04e5-54f0-a9c6-f45c19b6044e",
+      "code": "CHX7PG",
+      "id": 57703,
+      "logo": null,
+      "date": "2025-03-26T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57703-automatischer-import-und-veroffentlichung-von-betriebsmittelgeometrien-mittels-pyqgis",
+      "url": "https://pretalx.com/fossgis2025/talk/CHX7PG/",
+      "title": "Automatischer Import und Veröffentlichung von Betriebsmittelgeometrien mittels PyQGIS",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Ziel von Versorgungsunternehmen ist ein minimaler Zeitraum zwischen Beendingung einer Baumaßnahme und Integration der Geodaten in die Leitungsauskunft. Eine Möglichkeit bietet die automatische Integration der Geometrien als Vorabauskunft. In der Umsetzung bei SachsenEnergie wurde für die Datenveröffentlichung ein ETL-Prozess auf QGIS/PyQGIS-Basis entwickelt, welcher differenziell und performant nächtlich die DXF-Daten in eine Datenbank überführt. Die Publikation der Daten erfolgt mittels WMS.",
+      "description": "Motivation\r\nVersorgungsunternehmen sind motiviert, den Zeitraum zwischen Beendigung einer Baumaßnahme und Aufnahme der neuen Betriebsmittel in die Leitungsauskunft möglichst gering zu halten. Fehlende Betriebsmittel in der Auskunft stellen eine Gefahr für die Beschädigung von Versorgungsinfrastruktur während einer Baumaßnahme dar. Der Prozess der als Grundlage für die Leitungsauskunft erfordert jedoch manuelle Aufwände und damit Zeit. Eine automatische Integration der Geometrien der eingemessenen Betriebsmittel ohne oder nur mit geringen Sachdaten in die Leitungsauskunft ersetzt nicht den Dokumentationsprozess, verringert aber die Zeit bis zur Veröffentlichung der Geometrien in der Leitungsauskunft.\r\n\r\nSystemvoraussetzungen\r\nDie GDI bei der SachsenEnergie ist durch den Einsatz verschiedener Technologien geprägt. Einmessdaten liegen im Format DXF vor, Betriebsmitteldaten werden im Smallworld GIS verwaltet, weitere Geodaten liegen in Oracle-Datenbanken. Zur Unterstützung von Geodatenanalysen und Publikation von Kartendiensten wird QGIS Desktop und Server eingesetzt. Mit der Nutzung der QGIS-Plattform als Schnittstellentechnologie wird die weitere Vertiefung des Einsatzes von QGIS bei der SachsenEnergie forciert.\r\n\r\nTechnischer Aufbau\r\n\r\nVorbemerkungen\r\nQGIS bietet die Funktion des Imports von DXF-Daten, welcher nicht direkt über die API verfügbar ist. Mittels PyQGIS wurde ein ETL-Prizess zur Überführung der Geometrien aus den DXF-Daten nach Oracle erstellt, welcher sich an der DXF-Import-Funktion orientiert. Die entsprechenden Daten im Oracle werden über den QGIS Server als WMS publiziert und an die Leitungsauskunft angebunden.\r\n\r\nDatenmodell\r\nFür die Speicherung der Einmessdaten wird ein relationales Modell aus drei Tabellen genutzt. Die Metadaten (u.a. Dateiname, Quellverzeichnis, Import-Datum) zu den DXF-Dateien werden in einer zentralen Tabelle gespeichert. Die Metadatentabelle ist die Grundlage für den differenziellen Datenabgleich. Über eine 1:n-Beziehung werden die Objektgeometrien in einer eigenen Tabelle gespeichert. Zusätzlich existiert eine weitere Tabelle zur Speicherung der Bounding Boxes, welche über eine 1:1-Beziehung zu den Metadaten verfügt. Die Bounding Boxes werden für die performante maßstabsabhängige Visualisierung als WMS benötigt. Beide Beziehungen sind mit einem Constraint versehen, sodass beim Löschen eines Metadatensatzes alle zugehörigen Objektgeometrien und die Bounding Box entfernt werden.\r\n\r\nETL-Prozess\r\nDie Besonderheit im Umgang mit DXF-Dateien im QGIS ist, dass diese als Container von Sublayern interpretiert werden. Es existiert ein Sublayer pro enthaltenem Geometrietyp sowie eine GeometryCollection. Auch die GeometryCollection enthält Sublayer für jeden enthaltenen Geometrietypen sowie erneut eine GeometryCollection, in welcher im Falle der SachsenEnergie keine weiteren Daten enthalten sind und ignoriert wird. Der Prozess hat im Minimum folgende Aufgaben zu erfüllen:\r\n- Auslesen aller DXF-Dateien aus den Quellverzeichnissen\r\n- Differenzieller Abgleich zwischen Metadaten und DXF-Dateien\r\n     - Metadatensätze löschen, für die es keine DXF-Dateien mehr gibt\r\n     - Metadatensätze für DXF-Dateien anlegen, die noch nicht in die Datenbank importiert wurden\r\n- Sublayer der neuen DXF-Dateien auslesen und importieren\r\n- Sublayer der GeometryCollection auslesen und importieren\r\n- Bounding Box aus den importieren Objektgeometrien berechnen und in die entsprechende Tabelle importieren\r\n\r\nWMS-Dienst\r\nDie Oracle-Tabellen werden in einem QGIS-Projekt eingebunden, mit Filtern und Kartensignaturen durch die Fachabteilungen versehen und anschließend als WMS publiziert. Für jede Anfrage an der Leitungsauskunft wird ein PDF-Plot erstellt. Bei der Ploterstellung werden GetMap-Requests an den QGIS Server um den Parameter DPI und dem Wert 300 erweitert, sodass die Qualität der gerenderten Kartenbilder der Einmessdaten den restlichen Inhalten des PDF-Plots entspricht.\r\n\r\nErgebnisse\r\nDurch die beschriebene Lösung war es möglich, den Zeitraum zwischen der Beendigung einer Baumaßnahme bis zu Veröffentlichung der Betriebsmittelgeometrien in der Leitungsauskunft signifikant zu verringern. Dadurch sinkt die Wahrscheinlichkeit der Beschädigung an Betriebsmitteln wegen fehlender Informationen in den Auskunftsplänen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "CMLGQY",
+          "name": "Philipp Opitz",
+          "avatar": "https://pretalx.com/media/avatars/CMLGQY_8fpWCaT.jpg",
+          "biography": "Studium der Karthographie und Geoinformatik an der HTW Dresden.\r\nSeit 2022 GDI-IT-Administration bei SachsenEnergie AG.",
+          "public_name": "Philipp Opitz",
+          "guid": "6ef45830-e512-597b-9887-661292990d2f",
+          "url": "https://pretalx.com/fossgis2025/speaker/CMLGQY/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/CHX7PG/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/CHX7PG/",
+      "attachments": [
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/CHX7PG/resources/fossgis_2025_o_RAP8WZG.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "7a4bcc0c-d9e9-5cc8-92ce-bbe0a39acc53",
+      "code": "9SDESW",
+      "id": 58278,
+      "logo": null,
+      "date": "2025-03-26T14:50:00+01:00",
+      "start": "14:50",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58278-qgis-werkzeuge-und-python",
+      "url": "https://pretalx.com/fossgis2025/talk/9SDESW/",
+      "title": "QGIS-Werkzeuge und Python",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Mit Python kann der Funktionsumfang von QGIS erweitert werden, aber es muss nicht immer ein QGIS-Plugin sein: Häufig lohnt es sich auch mit Python neue Werkzeuge in QGIS zu erstellen. Wie funktioniert das?",
+      "description": "In diesem Einführungsvortrag wird zunächst die Python-Schnittstelle der QGIS-Werkzeugkiste vorgestellt und es werden Möglichkeiten und Grenzen der Werkzeugentwicklung diskutiert (zum Beispiel im Vergleich zum Model Builder und zur Pluginentwicklung).\r\nAnschließend wird auf der Basis eines Templates in einem einfachen Codebeispiel ein neues QGIS-Werkzeug erstellt und gezeigt, an welchen Stellen Python-Code angepasst und was dabei beachtet werden muss.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "CVMUT3",
+          "name": "Isabelle Korsch",
+          "avatar": "https://pretalx.com/media/avatars/CVMUT3_x5rk6Ha.jpg",
+          "biography": "Isabelle Korsch ist Mathematikerin und arbeitet seit 2022 bei der WhereGroup in Berlin. Sie beschäftigt sich vor allem mit der Entwicklung von QGIS-Python-Plugins. Außerdem ist sie Dozentin bei der FOSS Academy (https://www.foss-academy.com).",
+          "public_name": "Isabelle Korsch",
+          "guid": "ffb1ae64-7ac0-57d0-867b-53bda6490fb5",
+          "url": "https://pretalx.com/fossgis2025/speaker/CVMUT3/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/9SDESW/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/9SDESW/",
+      "attachments": []
+    },
+    {
+      "guid": "529da619-550d-5658-8575-3fba360605da",
+      "code": "DN7PCA",
+      "id": 58127,
+      "logo": null,
+      "date": "2025-03-26T15:25:00+01:00",
+      "start": "15:25",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58127-schnupperkurs-das-potential-von-qgis-mit-der-python-konsole-freischalten",
+      "url": "https://pretalx.com/fossgis2025/talk/DN7PCA/",
+      "title": "Schnupperkurs: Das Potential von QGIS mit der Python-Konsole freischalten",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Programmierung mit Python ermöglicht es, sich eigene Werkzeuge in QGIS zu erstellen und so den Funktionsumfang von QGIS individuell zu erweitern und den eigenen Bedürfnissen anzupassen. Aber wie funktioniert das alles eigentlich und womit fängt man an? Dieser Vortrag gibt einen kurzen und verständlichen Überblick auch für alle ohne Programmier-Vorkenntnisse. Wir werden live ein kleines Werkzeug schreiben, an dem wir die grundlegenden Konzepte vorstellen und zeigen: es ist gar nicht so schwierig.",
+      "description": "Programmierung mit Python ermöglicht es, sich eigene Werkzeuge in QGIS zu erstellen und so den Funktionsumfang von QGIS individuell zu erweitern und den eigenen Bedürfnissen anzupassen. Aber wie funktioniert das alles eigentlich und womit fängt man an? Dieser Vortrag gibt einen kurzen und verständlichen Überblick auch für alle ohne Programmier-Vorkenntnisse. Wir werden live ein kleines Werkzeug schreiben, an dem wir die grundlegenden Konzepte vorstellen und zeigen: es ist gar nicht so schwierig.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "NJ9SF9",
+          "name": "Gordon Schlolaut",
+          "avatar": null,
+          "biography": "Gordon leitet bei geoSYS Projekte zur QGIS-Entwicklung, Geodatenbanken und Geostatistik. Und darüber hinaus beschäftigt er sich mit Visual Effects und Animationen.",
+          "public_name": "Gordon Schlolaut",
+          "guid": "486b9569-f642-5a2e-9700-c750182d8725",
+          "url": "https://pretalx.com/fossgis2025/speaker/NJ9SF9/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/DN7PCA/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/DN7PCA/",
+      "attachments": []
+    },
+    {
+      "guid": "348aac22-e9cc-58cc-8d56-f2b8eb30ef7d",
+      "code": "JABDMA",
+      "id": 57851,
+      "logo": null,
+      "date": "2025-03-26T16:30:00+01:00",
+      "start": "16:30",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57851-von-proprietar-zu-qgis",
+      "url": "https://pretalx.com/fossgis2025/talk/JABDMA/",
+      "title": "Von Proprietär zu QGIS",
+      "subtitle": "",
+      "track": "Grundlagen Open-Source-GIS und OpenStreetMap",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "QGIS erfreut sich einer großen Beliebtheit. Der Regionalverband Ruhr setzt QGIS schon seit einiger Zeit als Standard GIS-System ein. In diesem Vortrag sollen die Erfahrungen geteilt werden wie ein Umstieg von ArcGIS erfolgen kann. Dabei werden Aspekte wie Kosten, Features, Einbindung in eine vorhandene GDI betrachtet.",
+      "description": "Open-Source-Software im GIS-Bereich ist beim Regionalverband Ruhr seit Jahren etabliert. Ein Ausbau hin zu mehr freier Software und Abbau von proprietärer Software wird im Sinne der digitalen Souveränität vorangetrieben.\r\nDie voranschreitende Digitalisierung in der Öffentlichen Verwaltung führt dazu, dass immer mehr Verwaltungsmitarbeitende die Anforderung eines leistungsfähigen GIS an ihrem Arbeitsplatz haben. Der dafür nötige Ausbau der Lizenzen proprietärer Software stand dabei aufgrund von Wirtschaftlichkeitsbetrachtungen nicht im Fokus. \r\nDie Übertragbarkeit von Lösungen auf unsere Mitgliedskommunen, ohne dass hier weitere Lizenzkosten entstehen, sind ein weiterer zentraler Mehrwert.\r\nQGIS hat sich so in den letzten Jahren beim Regionalverband Ruhr und einigen Mitgliedskommunen zum Standard-GIS entwickelt.\r\nEine Migration zu einer neuen Software bedeutet aber auch immer eine intensive Planung und Kommunikation. Die Erfahrungen, die beim Regionalverband Ruhr gemacht wurden, sollen hier geteilt werden.\r\nFolgende Punkte sollen unter anderem betrachtet werden:\r\n    • Wirtschaftlichkeit \r\n    • Nutzungsszenarien\r\n    • Plugins\r\n    • Verknüpfung mit mobilen Anwendungen\r\nAber auch Grenzen und wo QGIS noch Nachholbedarf hat, sollen dargestellt werden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "BJKXQQ",
+          "name": "David Arndt",
+          "avatar": "https://pretalx.com/media/avatars/BJKXQQ_CEyKVuI.png",
+          "biography": "Diplom Geograph, seit Anfang 2014 beim Regionalverband Ruhr, Teamleiter für das Team Geodaten-Technik",
+          "public_name": "David Arndt",
+          "guid": "c0a61d13-2934-5198-821b-61ce941f3130",
+          "url": "https://pretalx.com/fossgis2025/speaker/BJKXQQ/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/JABDMA/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/JABDMA/",
+      "attachments": [
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/JABDMA/resources/2025_FOSSGIS-V_FBN0p4X.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "d27fc66d-6de2-5590-b357-a8938c4dae64",
+      "code": "8YA8A7",
+      "id": 58190,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/8YA8A7/Aufbau_der_Open-Source_G_3B1nLGy.png",
+      "date": "2025-03-26T17:05:00+01:00",
+      "start": "17:05",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58190-von-proprietar-zu-open-source-umstellung-der-kommunalen-gdi-bei-der-stadt-reutlingen",
+      "url": "https://pretalx.com/fossgis2025/talk/8YA8A7/",
+      "title": "Von proprietär zu Open-Source -Umstellung der kommunalen GDI bei der Stadt Reutlingen",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Die Stadt Reutlingen, eine Großstadt in Baden-Württemberg, stellte ihre kommunale Geodateninfrastruktur (GDI) von proprietärer auf Open-Source Software um. Ziel ist eine größere digitale Souveränität, Lizenzkostenreduktion und Unabhängigkeit von kommerziellen Anbietern. Im Vortrag wird die Vorgehensweise der Systemmigration und der Aufbau der neuen Open-Source GDI vorgestellt.",
+      "description": "Key Facts Stadt Reutlingen:\r\n\r\n•\tReutlingen eine der neun Großstädte Baden-Württembergs mit 118.000 Einwohnern \r\n•\tmehr als 2.600 städtische Mitarbeiterinnen und Mitarbeiter\r\n•\tDie Hochschulstadt und frühere Reichsstadt ist die größte Stadt und zugleich Kreisstadt des Landkreises Reutlingen\r\n•\tSie gehört zur Region Neckar-Alb und zur Metropolregion Stuttgart. Nahebei befindet sich die Mittelstadt Tübingen (12 Kilometer westlich), die nächste Großstadt ist Stuttgart (31 Kilometer nördlich)\r\n•\tMit der Spreuerhofstraße besitzt Reutlingen die engste Straße der Welt\r\n•\t17,5 Prozent der Gemarkung Reutlingens gehören zum Biosphärengebiet Schwäbische Alb, weshalb sich die Stadt auch als das „Tor zur Schwäbischen Alb“ bezeichnet\r\n\r\nKey Facts Sachgebiet GeoInformationsSystem der Stadt Reutlingen:\r\n\r\n•\tIm Baudezernat, Amt für Stadtentwicklung und Vermessung, Abteilung Vermessung \r\n•\tDie Stadt Reutlingen ist Untere Vermessungsbehörde in Baden-Württemberg\r\n•\tDas Geoinformationssystem wurde 1997 aufgebaut mit dem Liegenschaftskataster als erste Datenbank-Fachschale\r\n•\tTeam von 5 Personen\r\n•\tstadtinterner \"GIS-Dienstleister\"\r\n•\t250.000 interne Zugriffe auf das Web-GIS Auskunftssystem im Jahr\r\n•\tca. 75 Datenbankthemen\r\n•\tca. 29 Themen, welche von den Fachämtern über GIS-Schnittstellen fortgeführt werden\r\n•\tseit 2020 Geoportal im Internet für Bürger mit verschiedenen Themenkarten\r\n•\tUmstellung der GDI auf Open-Source Software von 2021 bis Ende 2024\r\n\r\nMotivation zur Umstellung auf Open-Source-Software:\r\n\r\n•\tAbhängigkeit der GDI an Autodesk durch amtliche Führung und Qualifizierung des Liegenschaftskatasters\r\n•\tÄnderungen in der Lizenzpolitik und stetig steigende Lizenzkosten\r\n•\tMit dem Wechsel der ALKIS Softwarelösung zur Lösung des Landes Baden-Württembergs, gab es keine Abhängigkeiten mehr zur bestehenden GIS-Software\r\n•\tSuche nach alternativer Software zum Aufbau einer modernen GDI\r\n•\tBei der Wahl der Systeme war es uns wichtig, zukünftig softwaretechnisch unabhängiger zu werden (Digitale Souveränität)\r\n•\tDie Datenmigration und Systemumstellung sollte in Eigenregie durchgeführt werden können - ohne Abhängigkeit von einem Hersteller oder Dienstleister\r\n•\tZiel war es auf eine möglichst unabhängige und lizenzkostengünstige GDI zu wechseln\r\n•\tDurch die Nutzung von Standards (OGC-konforme Geodatendienste) sollte eine zukunftssichere Infrastruktur geschaffen werden\r\n•\tSchnell fiel die Wahl auf eine freie, quelloffene Softwareumgebung\r\n\r\nSystemmigration:\r\n\r\n•\tAusgangslage war eine überwiegend proprietäre GDI. Sie bestand aus einer Oracle Datenbank, die mit verschiedenen Autodesk-Programmen administriert werden konnte. Die GDI bestand aus folgenden Hauptkomponenten:\r\no\tDatenbank (Oracle/Topobase) - Die Kartendarstellung für das Web-GIS Auskunftssystem erfolgte über die Software MapGuide Maestro und Autodesk Infrastructure Studio\r\no\tDatenaufbereitung (AutoCAD MAP 3D) - Über AutoCAD erfolgte auch die Einpflegung, Änderung und Löschung von Geoobjekten \r\no\tKartenserver (MapGuide Open Source) \r\no\tWeb-GIS (TBview) - Die aufbereiteten Daten wurden im Web-GIS Auskunftssystem den Benutzern bereitgestellt\r\n\r\n•\tErsetzten von drei Hauptkomponenten durch Open-Source-Produkte \r\no\tDatenbank -> PostgreSQL \r\no\tDatenaufbereitung & -fortführung -> QGIS\r\no\tKartenserver -> QGIS-Server\r\n\r\n•\t Themenweise Migration der Daten (entsprechend der Datenbank-Fachschalen)\r\n\r\n•\t ALKIS GIS-Datenbank -> PostNAS Suite\r\n\r\nVorgehen:\r\n\r\n1.\tDatenmigration von Oracle in PostgreSQL (PostGIS) \r\no\tDatenmigration war der Schwerpunkt einer Bachelorarbeit 2021/2022\r\no\tEs wurden die vorhandenen Daten in Oracle gesichtet und untersucht, um deren Struktur besser verstehen zu können und zu wissen, worauf bei der Datenmigration geachtet werden musste\r\no\tÜberlegen wie diese Anforderungen in PostgreSQL umgesetzt werden können (z.B. Topologie)\r\no\tAusarbeitung eines möglichst automatisierten Migrationsprozesses\r\no\tFür den Migrationsprozess wurde die Software FME verwendet. Diese Software war zu diesem Zeitpunkt schon mehrere Jahre bei der Stadtverwaltung Reutlingen im Einsatz\r\n\r\n2.\tStilisierung der Themen aus MapGuide in QGIS nachbilden\r\n\r\no\tkann durch Fachkraft/Azubi durchgeführt werden\r\no\tSymbole lagen als AutoCAD Block-Elemente vor\r\no\tSymbole werden in Inkscape als SVG-Datei neu erstellt\r\n\r\n3.\tPublikation der Themen mit QGIS-Server und MapProxy über WMS/WMTS \r\n\r\no\tQGIS Projekte können direkt über den Server publiziert werden\r\no\tfür gecachte Services wird MapProxy eingesetzt\r\n\r\n4.\tEinbindung der neu aufbereiteten Themen in Web-GIS (TBview)\r\n\r\no\tEinbinden von PostgreSQL-Datenbanken\r\no\tEinbinden von WMS/WMTS-Diensten\r\n\r\n5.\tUmstellung der (mobilen) Erfassungsmasken auf QGIS, QField oder weiterhin innerhalb TBview \r\n\r\no\tBeispiel Straßenschäden, Baumpflege, Friedhofsgrabverwaltung, Leerstand Gewerbe, Fahrradabstellanlagen …\r\n\r\nAufbau der Open-Source GDI (s. Bildanhang):\r\n\r\nVorstellung von Projekten:\r\n\r\nFriedhofskataster \r\no\tGeometrien der Gräber werden eigenständig von Fachamt über QGIS (Desktop) fortgeführt\r\no\tVerknüpfung von Datenbank aus Friedhofsverwaltungssoftware (mpsFIM) für Sachdaten\r\n\r\nBaumkataster \r\no\tKomplett eigenständige Lösung für die Baumkontrolle und -pflege\r\no\tMobile Datenerfassung mit QField\r\n\r\nAusblick\r\n•\tGeodatendienste im Internet\r\n•\tUmstellung weiterer Komponenten auf Open-Source?",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "LP8PQC",
+          "name": "Simon Kondic",
+          "avatar": null,
+          "biography": "GIS-Administrator\r\nSachgebietsleiter Geoinformationssystem bei der Stadt Reutlingen",
+          "public_name": "Simon Kondic",
+          "guid": "25af93cb-1ef2-5982-8b3a-592c9142112b",
+          "url": "https://pretalx.com/fossgis2025/speaker/LP8PQC/"
+        },
+        {
+          "code": "F7PUN8",
+          "name": "Linus Lambrecht",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Linus Lambrecht",
+          "guid": "e412688f-957e-56b0-bdeb-1423e50e6ac1",
+          "url": "https://pretalx.com/fossgis2025/speaker/F7PUN8/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Download-Link Stadt Reutlingen - Präsentation zur FOSSGIS 2025",
+          "url": "https://dateitransfer.reutlingen.de/?ShareToken=82106F4989149933FDF6053CAC0A254EAD36035D",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/8YA8A7/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/8YA8A7/",
+      "attachments": [
+        {
+          "title": "PDF - Präsentation zur FOSSGIS 2025",
+          "url": "/media/fossgis2025/submissions/8YA8A7/resources/Von_proprietar_IOZo3yw.pdf",
+          "type": "related"
+        },
+        {
+          "title": "PPT - Präsentation zur FOSSGIS 2025",
+          "url": "/media/fossgis2025/submissions/8YA8A7/resources/Von_proprietar_bQxa2Y3.ppt",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "f889de91-3f6b-5519-bae4-47512f4bb180",
+      "code": "HUSZBT",
+      "id": 57890,
+      "logo": null,
+      "date": "2025-03-26T17:40:00+01:00",
+      "start": "17:40",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57890-migration-eines-auskunftssystems-zu-einer-open-source-losung-mit-qgis",
+      "url": "https://pretalx.com/fossgis2025/talk/HUSZBT/",
+      "title": "Migration eines Auskunftssystems zu einer Open-Source Lösung mit QGIS",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Die Geodatenabteilung der Stadtwerke München nutzte GE Smallworld für ihr Netzinformationssystem, was aufgrund steigender Komplexität und Nutzerzahl zu hohen Kosten führte. Vor fünf Jahren begann die Migration zu NIS-QGIS, einer kostensparenden, auf QGIS-Desktop und PyQGIS-Plugins basierenden Open-Source-Lösung. Der Vortrag liefert einen Überblick über die neue Anwendung, Anwendungsfälle, Herausforderungen und Erkenntnisse.",
+      "description": "Seit vielen Jahren bot die Geodatenabteilung der Stadtwerke München GmbH ihren Nutzern in anderen Bereichen des Unternehmens (Wasser, Gas, Strom, etc.) ein Netzinformationssystem basierend auf GE Smallworld an. Diese Anwendung wurde in Zusammenarbeit mit einem Dienstleister unterstützt und betrieben, was erheblich zu den Gesamtkosten des Systems beitrug. Die unvermeidliche Zunahme der Komplexität, proportional zur ständig wachsenden Anzahl von Nutzern und Use-Cases, verbunden mit der konkurrierenden Natur der Interessen der verschiedenen Stakeholder, führte zu vielen Komplikationen, Ineffizienzen und letztendlich zu hohen Kosten.\r\n\r\nVor etwa fünf Jahren beschloss das Geodaten-Team, das System schrittweise zu modernisieren und auf eine Open-Source-Lösung zu migrieren. Eines der neuen Werkzeuge ist NIS-QGIS, eine Anwendung basierend auf QGIS-Desktop, PyQGIS-Plugins und einigen Back-End-Diensten, deren Ziel es war, die gesamte Funktionalität der alten Anwendung bereitzustellen sowie ein Werkzeug bereitzustellen, das einfacher und schneller aktualisiert und weiterentwickelt werden konnte und dabei Kosten senkt und „Time-to-Market“ erhöht. In diesem Vortrag geben wir einen Überblick über diese Anwendung, einige ihrer Hauptanwendungsfälle und Komponenten, Herausforderungen (sowohl gelöst als auch ungelöst) und die dabei gewonnenen Erkenntnisse.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "SZNVAN",
+          "name": "Victor Ali Lagoa",
+          "avatar": null,
+          "biography": "Software Entwickler, \r\nSWM – Stadtwerke München \r\nInformationstechnologie \r\nNetz- und Geoinformation",
+          "public_name": "Victor Ali Lagoa",
+          "guid": "167744e4-d0d1-5f1b-ac04-642344ac316b",
+          "url": "https://pretalx.com/fossgis2025/speaker/SZNVAN/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/HUSZBT/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/HUSZBT/",
+      "attachments": [
+        {
+          "title": "Präsentation (draft)",
+          "url": "/media/fossgis2025/submissions/HUSZBT/resources/slides-nis_qgi_0SpCS2V.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "3c9d8470-ddc8-5f5e-ada4-873c28334ef7",
+      "code": "CMJKJS",
+      "id": 57825,
+      "logo": null,
+      "date": "2025-03-26T18:15:00+01:00",
+      "start": "18:15",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57825-projekt-georg-bei-den-swm-mit-freier-software-zur-konzernweiten-geodatenplattform",
+      "url": "https://pretalx.com/fossgis2025/talk/CMJKJS/",
+      "title": "Projekt GEOrg bei den SWM: Mit Freier Software zur konzernweiten Geodatenplattform",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Mit freier Software aus dem QGIS-Universum bauen wir bei den Stadtwerken München eine konzernweite Geodatenplattform. Wir erzählen von unseren Erfahrungen bei der Integration verschiedener Anwendungen und der Etablierung von Open-Source Lösungen im Unternehmen.",
+      "description": "Bei den Stadtwerken München GmbH setzen unterschiedliche Abteilungen die freie Geodatensoftware QGIS ein. In der alltäglichen Arbeit entstehen hier immer wieder neue Anforderungen. Dazu gehört das gemeinsame Bearbeiten von Geodaten über Teamgrenzen hinweg, die Präsentation von Karten intern und gegenüber der Öffentlichkeit, sowie die Erfassung von Daten im Feld. Um Insellösungen zu vermeiden und technisches Wissen zu bündeln, wurde das Projekt “GEOrg” gestartet. Auf der konzernweiten Plattform werden Daten zentral in einer PostGIS Datenbank verwaltet, per Knopfdruck im QGIS-Webclient (QWC) veröffentlicht und mittels QFieldCloud auch direkt in der Datenbank erfasst. \r\n\r\nDurch den Aufbau der Plattform versprechen wir uns eine starke Vereinfachung in der Arbeit mit Geodaten bei den SWM. Dabei ist für uns der Open-Source Gedanke zentral. Mit dem Einsatz von QGIS und seinen Umfeldanwendungen setzen wir auf ein reifes Ökosystem mit einer aktiven Community. Dadurch sind wir nicht von einem einzelnen Hersteller abhängig und finden für quasi jeden Anwendungsfall eine passende Lösung. Die Offenheit der Anwendungen erlaubt uns außerdem, eigene Anpassungen an der eingesetzten Software vorzunehmen. Diese reichen von kleinen Änderungen an der Benutzeroberfläche bis hin zur vollständigen Entwicklung eigener Features. Allgemeingültige Entwicklungen tragen wir an die Community zurück und beteiligen uns damit aktiv an der Weiterentwicklung der Open-Source Projekte. In unserem Vortrag wollen wir einen Überblick über die Architektur unserer Anwendung geben und darlegen, wie uns Freie Software den eigenständigen Aufbau einer modernen Geodatenplattform ermöglicht.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "3AZARL",
+          "name": "Nina Röckelein",
+          "avatar": null,
+          "biography": "Ich war schon in jungen Jahren begeistert von FOSS. Nach dem Abschluss meines Informatikstudiums bin ich jetzt als Software-Entwicklerin mit Fokus Geodaten bei den Stadtwerken München tätig. Ich empfinde es als Privileg, im Berufsalltag hauptsächlich an der Umsetzung von FOSS-basierten Lösungen arbeiten zu dürfen.",
+          "public_name": "Nina Röckelein",
+          "guid": "4712d34a-d873-534c-9317-68bf01654427",
+          "url": "https://pretalx.com/fossgis2025/speaker/3AZARL/"
+        },
+        {
+          "code": "B9H3ZW",
+          "name": "Benedikt Seidl",
+          "avatar": "https://pretalx.com/media/avatars/B9H3ZW_b8BcJTq.jpg",
+          "biography": "Ich arbeite als Softwareentwickler bei den Stadtwerken München im Bereich der Geo- und Netzinformation und bringe an verschiedenen Stellen meine Erfahrungen in der Open Source Entwicklung ein.",
+          "public_name": "Benedikt Seidl",
+          "guid": "548e9ebe-064e-55ea-9f86-43bdaab3d603",
+          "url": "https://pretalx.com/fossgis2025/speaker/B9H3ZW/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/CMJKJS/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/CMJKJS/",
+      "attachments": [
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/CMJKJS/resources/slides-georg-e_IinZGbS.pdf",
+          "type": "related"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "day": 1,
+  "date": "2025-03-26",
+  "room": "HS1 (Aula)",
+  "events": [
+    {
+      "guid": "a86fdf0b-fc3e-53bb-9e5b-d1fcdc62d4d6",
+      "code": "KYBVS8",
+      "id": 59156,
+      "logo": null,
+      "date": "2025-03-26T10:00:00+01:00",
+      "start": "10:00",
+      "duration": "00:10",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-59156-eroffnung",
+      "url": "https://pretalx.com/fossgis2025/talk/KYBVS8/",
+      "title": "Eröffnung",
+      "subtitle": "",
+      "track": null,
+      "type": "Sonstiges",
+      "language": "de-formal",
+      "abstract": "Feierliche Eröffnung der Konferenz durch Vertreter des FOSSGIS e.V. mit wertvollen Hinweisen zum Ablauf und der Organisation.",
+      "description": "- Jörg Thomsen  - Eröffnung der Konferenz 2025 in Münster durch den Vorsitzenden des FOSSGIS e.V.\r\n- Grußworte und Organisatorisches zur FOSSGIS 2025 \r\n- Ankündigung der Highlights und Keynotes der diesjährigen Veranstaltung",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/KYBVS8/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/KYBVS8/",
+      "attachments": [
+        {
+          "title": "Folien Eröffnung",
+          "url": "/media/fossgis2025/submissions/KYBVS8/resources/eroeffnung_fos_knrMk93.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "990f654c-83a7-5267-a324-59ace1df89bc",
+      "code": "CLP393",
+      "id": 65632,
+      "logo": null,
+      "date": "2025-03-26T10:10:00+01:00",
+      "start": "10:10",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-65632-keynote-und-begruung",
+      "url": "https://pretalx.com/fossgis2025/talk/CLP393/",
+      "title": "Keynote und Begrüßung",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Begrüßung durch den Parlamentarischen Staatssekretär des Ministeriums für Heimat, Kommunales, Bau und Digitalisierung des Landes Nordrhein-Westfalen, Josef Hovenjuergen.",
+      "description": "Der Parlamentarische Staatssekretär im Ministerium für Heimat, Kommunales, Bau und Digitalisierung des Landes Nordrhein-Westfalen, Josef Hovenjuergen wird die Teilnehmenden begrüßen und einen Keynotevortrag halten.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "TDHYCP",
+          "name": "Josef Hovenjuergen",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Josef Hovenjuergen",
+          "guid": "0fef9c47-ef47-5696-98e2-12b55731ba92",
+          "url": "https://pretalx.com/fossgis2025/speaker/TDHYCP/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/CLP393/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/CLP393/",
+      "attachments": []
+    },
+    {
+      "guid": "5d19cae1-b39c-50a9-b1bf-ca18a902b2e5",
+      "code": "YWSPKY",
+      "id": 57803,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/YWSPKY/Kompass_transp_GcCz3p2.png",
+      "date": "2025-03-26T10:30:00+01:00",
+      "start": "10:30",
+      "duration": "01:00",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-57803-25-jahre-fossgis-e-v-eine-zeitreise-durch-das-vereinsleben",
+      "url": "https://pretalx.com/fossgis2025/talk/YWSPKY/",
+      "title": "25. Jahre FOSSGIS e.V. - eine Zeitreise durch das Vereinsleben",
+      "subtitle": "",
+      "track": "25 Jahre FOSSGIS e.V.",
+      "type": "Sonstiges",
+      "language": "de-formal",
+      "abstract": "Die AG-25 hat sich überlegt einen Vortragsblock für den Eröffnungsblock zu organisieren, in dem einige Mitglieder Erinnerungen, Erfahrungen oder Highlights aus der Vereinsarbeit teilen. Angelehnt ans Lightningtalk-Format wird ein Feuerwerk aus 25ig Jahren FOSSGIS e.V. gezündet, untermalt mit Geschichten, Bildern und Fotos.",
+      "description": "Im Beitrag sollen verschiedene Mitglieder und Aktive aus dem FOSSGIS e.V. Aktivitäten, Highlights, Erinnerungen, Erfahrungen, Geschichten aus der Vereinsarbeit teilen. Angelehnt ans Lightningtalk-Format wird ein Feuerwerk aus 25ig Jahren FOSSGIS e.V. gezündet, untermalt mit Geschichten, Bildern und Fotos.   \r\n\r\n### Ziel des Vortrags\r\n- den FOSSGIS e.V. präsentieren\r\n- Aktivitäten des FOSSGIS e.V. präsentieren\r\n- auf das 25. Jubiläum hinweisen\r\n- neue Menschen gewinnen mitzuwirken",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "NJE77L",
+          "name": "Katja Haferkorn",
+          "avatar": "https://pretalx.com/media/avatars/NJE77L_euEt32x.jpg",
+          "biography": "- Geographin\r\n- Koordinierungsstelle FOSSGIS e.V.",
+          "public_name": "Katja Haferkorn",
+          "guid": "d28653c2-43be-542c-bc2e-3de1f192fe62",
+          "url": "https://pretalx.com/fossgis2025/speaker/NJE77L/"
+        },
+        {
+          "code": "XYZKCB",
+          "name": "Maik",
+          "avatar": null,
+          "biography": "Openstreet-Mapper seit 2013. Seit 2021 im FOSSGIS aktiv und bei der Konferenz-Orga und im Programmkomitee tätig.\r\nDarüber hinaus regelmäßig bei Organisation und Durchführung von OSM-Ständen bei Veranstaltungen und Messen, Konferenzen dabei.",
+          "public_name": "Maik",
+          "guid": "34f88ff9-17e1-5ea1-a43c-e46ab40a34b7",
+          "url": "https://pretalx.com/fossgis2025/speaker/XYZKCB/"
+        },
+        {
+          "code": "NDPY7C",
+          "name": "Christopher Lorenz",
+          "avatar": "https://pretalx.com/media/avatars/NDPY7C_PdUa7wP.jpg",
+          "biography": "Schon viele Jahre bei OpenStreetMap aktiv und kümmere mich um die Community in Brandenburg und Berlin.",
+          "public_name": "Christopher Lorenz",
+          "guid": "e251a3f3-adca-56d8-92f0-de2c507ea7ab",
+          "url": "https://pretalx.com/fossgis2025/speaker/NDPY7C/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/YWSPKY/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/YWSPKY/",
+      "attachments": []
+    },
+    {
+      "guid": "f8c916ae-aa74-5945-b0dc-29ae9e5df35d",
+      "code": "LKLHWU",
+      "id": 58249,
+      "logo": null,
+      "date": "2025-03-26T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58249-eine-reise-durch-die-geoportale-deutschlands",
+      "url": "https://pretalx.com/fossgis2025/talk/LKLHWU/",
+      "title": "Eine Reise durch die Geoportale Deutschlands",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Im letzten Jahr musste ich Datensätze für Feldgrenzen in Deutschland finden. Was erst einmal einfach klingt endete mit einer Odyssee durch die verschiedensten Geoportale der Länder. Ich nehme euch auf dieser Reise mit und beschreibe, was mir bei der Reise aufgefallen ist und wie man diese Erfahrung in der Praxis verbessern könnte.",
+      "description": "Im letzten Jahr musste ich Datensätze für Feldgrenzen in Deutschland finden. Was erst einmal einfach klingt endete mit einer Odyssee durch die verschiedensten Geoportale der Länder. Ich nehme euch auf dieser Reise mit und beschreibe, was mir bei der Reise aufgefallen ist und wie man diese Erfahrung in der Praxis verbessern könnte.\r\n\r\nWir schauen, welche Länder die Daten verfügbar haben, wie man diese Daten erkunden kann, und vor welchen Problemen man im Endeffekt als Nutzer steht. Haltet euch fest und macht euch bereit für einen wilden Ritt...",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "NWJLBD",
+          "name": "Matthias Mohr",
+          "avatar": "https://pretalx.com/media/avatars/NWJLBD_HuSAXlE.jpeg",
+          "biography": "Ich bin ein freiberuflicher Softwareentwickler und Berater. Ich habe maßgeblich an der Definition der openEO-API-Spezifikation für interoperable Geoprozessierung in der Cloud mitgewirkt und betreue Teile des openEO-Ökosystems. Ebenso bin ich einer der Autoren der STAC-Spezifikation und betreue eine große Anzahl der Erweiterungen. Ich entwickle zudem STAC Browser und diverse JavaScript STAC Tools, außerdem betreue ich STAC Index. Neuerdings arbeite ich auch an einer Spezifikation für Feldblöcke, fiboa.",
+          "public_name": "Matthias Mohr",
+          "guid": "2591f8df-44ef-59f4-bdca-2f9834cd0b9e",
+          "url": "https://pretalx.com/fossgis2025/speaker/NWJLBD/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/LKLHWU/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/LKLHWU/",
+      "attachments": [
+        {
+          "title": "Präsentationsfolien (PDF)",
+          "url": "/media/fossgis2025/submissions/LKLHWU/resources/Eine_Reise_dur_lLf6cxo.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "ca1bc33a-40a9-511c-b861-05f23c2c6c69",
+      "code": "9X7HXE",
+      "id": 58280,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/9X7HXE/StGertraud_AEKb50a_Wa4hKpn.png",
+      "date": "2025-03-26T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58280-gis-schulprojekte-in-zusammenarbeit-mit-kommunalen-gebietskorperschaften",
+      "url": "https://pretalx.com/fossgis2025/talk/9X7HXE/",
+      "title": "GIS-Schulprojekte in Zusammenarbeit mit kommunalen Gebietskörperschaften",
+      "subtitle": "",
+      "track": "Ausbildung, Lehre, Open Science",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Zusammenarbeit zwischen einem technischen Gymnasium und den umliegenden kommunalen Körperschaften zur georeferenzierten Erfassung von Infrastrukturen. Im Rahmen eines einwöchigen Vermessungspraktikums vermessen Schüler/innen die Objekte und erfassen sie in einer georeferenzierten Datenbank. Grafische Darstellung und Datenhandling erfolgt mittels QGIS durch die Verbindung mit der Datenbank.",
+      "description": "Die Technologische Fachoberschule \"Oskar von Miller\" ist ein technisches Gymnasium in Meran in der nördlichsten italienischen Provinz Bozen mit der Spezialisierung \"Hoch-/Tiefbau\".  Im Rahmen des jährlichen Vermessungspraktikums führen die Schülerinnen und Schüler der Abiturklassen (Alter 18-19 Jahre) in Zusammenarbeit mit den umliegenden Gemeinden Feldvermessungen mit den üblichen Instrumenten und Verfahren der Vermessungstechnik (Tachymetrie und GPS) durch. Immer öfter wird dabei von den Auftraggebern der Wunsch geäußert, die Daten GIS-fähig zu erfassen. \r\n\r\nDer Vortrag besteht in der Vorstellung zweier solcher Projekte, welche im vergangenen und im laufenden Schuljahr durchgeführt wurden. Im Schuljahr 2023/24 wurden die Friedhöfe einer benachbarten Gemeinde in einem Friedhofs-Informationssystem erfasst: sämtliche Gräber wurden georeferenziert vermessen und in einer \"postGIS\"-Datenbank abgelegt. Zusätzlich wurden in der Datenbank die Daten der Verstorbenen und der Grabeigentümer erfasst und mit den Gräbern verknüpft. \r\nIm laufenden Schuljahr 2024/25 wurde für eine andere Gemeinde der obligatorische Lichtplan aktualisiert. Sämtliche öffentliche Beleuchtungskörper und die entsprechenden Leitungsstränge wurden georeferenziert erfasst und ebenfalls in einer \"postGIS\"-Datenbank abgelegt. \r\n\r\nIn beiden Fällen erfolgt die grafische Datendarstellung und der Export in übliche GIS-Formate mittels QGIS. Die Direktanbindung an die Datenbanken sorgt für Konsistenz im Datenbestand. Zusätzlich können mit dem QGIS-Plugin \"Qlr Browser\" die von der regionalen Kartografie-Behörde zur Verfügung gestellten Geodaten eingebunden und als separate Layer hinterlegt werden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "MSPX3Q",
+          "name": "Dietmar Holzner",
+          "avatar": "https://pretalx.com/media/avatars/MSPX3Q_TowDLaM.jpg",
+          "biography": "Ingenieur der Energietechnik, Praxislehrer für Vermessungstechnik an der Technologischen Fachoberschule \"Oskar von Miller\", Meran-Italien.",
+          "public_name": "Dietmar Holzner",
+          "guid": "284adddb-2692-5f9f-a77c-80794fdfc66e",
+          "url": "https://pretalx.com/fossgis2025/speaker/MSPX3Q/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/9X7HXE/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/9X7HXE/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien (PDF): GIS-Schulprojekte",
+          "url": "/media/fossgis2025/submissions/9X7HXE/resources/TFO_GISprojekt_BjFGl3C.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "be30a773-bda9-5096-955b-43b718d99f55",
+      "code": "XBXSVJ",
+      "id": 58131,
+      "logo": null,
+      "date": "2025-03-26T14:50:00+01:00",
+      "start": "14:50",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58131-open-data-in-d-perfekte-idee-halbherzige-umsetzung-ein-erfahrungsbericht",
+      "url": "https://pretalx.com/fossgis2025/talk/XBXSVJ/",
+      "title": "Open Data in D: Perfekte Idee, halbherzige Umsetzung? Ein Erfahrungsbericht.",
+      "subtitle": "",
+      "track": "Open Data, Datenschutz und Lizenzen",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Open Data ist gut, aber nur, wenn ...\r\nLange haben wir sie gefordert und darum gekämpft und zum Glück gibt es sie jetzt, diese deutschen offenen Geobasisdaten, in allen Bundesländern, aber mit unterschiedlicher Ausprägung. Mein persönlicher Erfahrungsbericht soll den aktuellen Status und das Verbesserungspotenzial zeigen und zur Diskussion zwischen Nutzern und Anbietern anregen .",
+      "description": "Der Vortrag soll den aktuellen Status zu deutschen offenen Geobasisdaten beschreiben und basiert auf meinen persönlichen Erfahrungen bei der Erstellung und Befüllung des QGIS-Plugins \"GeoBasis_Loader\" mit Open Data Quellen des Bundes und der Landesvermessungsämter. Vorgestellt werden der Status Quo, also, was ist schon gut und wo sollte (dringend) nachgebessert werden. Konstruktive Kritik ist gefragt, also wie können wir mit unseren Erfahrungen Input geben, was können und sollten wir fordern? Kriterien sind dabei z. B. die Verfügbarkeit, die Auffindbarkeit, Layerstrukturen, Visualisierung, Projektionen, Masstabsgrenzen, Stabilität, Performance, Formate sowie die fehlende Vereinheitlichung.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "T3NRW7",
+          "name": "Mike Elstermann",
+          "avatar": "https://pretalx.com/media/avatars/T3NRW7_8BmMr42.JPG",
+          "biography": "33 Jahre kommunale GIS-Erfahrung, 12 Jahre Geo-Blog #geoObserver, QGIS, GeoBasis_Loader, UMN-MapServer, PostgreSQL/PostGIS, GDAL, GeoServer, QGIS-Server, Open Data, DataViz, KomGIS+, HALgis, ...",
+          "public_name": "Mike Elstermann",
+          "guid": "596fd19a-5900-5b26-b45a-acc939617dca",
+          "url": "https://pretalx.com/fossgis2025/speaker/T3NRW7/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/XBXSVJ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/XBXSVJ/",
+      "attachments": [
+        {
+          "title": "FOSSGIS_2025_OpenDataGermany_Erfahrungsbericht_Elstermann_v02",
+          "url": "/media/fossgis2025/submissions/XBXSVJ/resources/FOSSGIS_2025_O_WF0BqPf.pdf",
+          "type": "related"
+        },
+        {
+          "title": "FOSSGIS_2025_OpenDataGermany_Erfahrungsbericht_Elstermann_v01",
+          "url": "/media/fossgis2025/submissions/XBXSVJ/resources/FOSSGIS_2025_O_Vddl8Rx.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "f30808f3-adc6-5f12-96f3-98b8e3729fc3",
+      "code": "J8PRK8",
+      "id": 58227,
+      "logo": null,
+      "date": "2025-03-26T15:25:00+01:00",
+      "start": "15:25",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58227-open-data-des-bkg-ii",
+      "url": "https://pretalx.com/fossgis2025/talk/J8PRK8/",
+      "title": "Open Data des BKG (II)",
+      "subtitle": "",
+      "track": "Open Data, Datenschutz und Lizenzen",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Das Bundesamt für Kartographie und Geodäsie (BKG) hat ein breites Open Data-Angebot, das auf der letzten FOSSGIS-Konferenz in Hamburg vorgestellt wurde. Was hat sich mit der Umsetzung der HVD-Verordnung an diesem Angebot getan?",
+      "description": "Im Vortrag wird kurz die Durchführungsverordnung 2023/138 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-Verordnung) vorgestellt. Ergänzend wird geschaut, ob durch sie neue „High-Value Datasets“ als Open Data zur Verfügung gestellt wurden und werden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "KKJNDY",
+          "name": "Joachim Eisenberg",
+          "avatar": "https://pretalx.com/media/avatars/KKJNDY_561GVWa.jpg",
+          "biography": "Ich bin Geograph, Geoinformatiker und OSM-begeistert. Nach langjähriger Forschung und Lehre am Institut für Physische Geographie der Goethe-Universität Frankfurt bin ich seit 2020 Mitarbeiter am Bundesamt für Kartographie und Geodäsie (BKG). Unter anderem arbeite ich dort an der Produktentwicklung neuer Geodaten, wenn möglich als Open Data.",
+          "public_name": "Joachim Eisenberg",
+          "guid": "0100fb13-9dd5-56f1-87ae-4ca4e876631d",
+          "url": "https://pretalx.com/fossgis2025/speaker/KKJNDY/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/J8PRK8/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/J8PRK8/",
+      "attachments": []
+    },
+    {
+      "guid": "640eaf75-b415-5941-87fd-553b4a631dbd",
+      "code": "GLEBGA",
+      "id": 57856,
+      "logo": null,
+      "date": "2025-03-26T16:30:00+01:00",
+      "start": "16:30",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-57856-small-seeds-foss-communities-starken",
+      "url": "https://pretalx.com/fossgis2025/talk/GLEBGA/",
+      "title": "Small seeds - FOSS Communities stärken!",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Mehr finanzielle Mittel für Freie und Open-Source-Software – die unendliche Geschichte. In einer von Start-ups, VC Funding und datensammelnden Apps geprägten Tech-Welt ist der Kampf um nachhaltige Finanzierungen für ethische Technologieprojekte besonders hart. Nach einigen großen Erfolgen für die Förderung von FOSS in den letzten Jahren geht es in diesem Vortrag nun darum, die kleinen, weniger sichtbaren zivilgesellschaftlichen Projekte nicht zu vergessen.",
+      "description": "Wie kann man Technologie nachhaltig finanzieren? Diese Antwort hören wir immer wieder: Infrastruktur und Maintenance fördern, und bitte unbedingt auch dieses eine Projekt unterstützen, das jemand in Nebraska ohne Dank seit 2003 am Laufen hält. Das ist fraglos alles sehr wichtig.  In diesem Vortrag wollen wir jedoch der Frage nachgehen, warum eine vielfältige Förderlandschaft, die auch die Unterstützung neuer Zielgruppen mit frischen Ideen ermöglicht, extrem wertvoll für FOSS-Communities sein kann.\r\n\r\nWie können wir bestehende Förderstrukturen nutzen, sie so zurechtbiegen und anpassen, dass sie den tatsächlichen Bedürfnissen der Communities gerecht werden? Wie können wir diese Strukturen sinnvoller für förderferne Projekte und Personen gestalten? Wie können wir Förderinfrastrukturen so aufbauen, dass sie mehr Vielfalt, neue Ideen und Inklusion in unsere Communities bringen? Und wie fördern wir dabei möglichst nachhaltig? \r\n\r\nHintergrund dieses Vortrags sind unsere Erfahrungen bei der Umsetzung des deutschen FOSS-Förderprogramms Prototype Fund, in dessen Rahmen wir gemeinsam mit dem Bundesministerium für Bildung und Forschung in den letzten acht Jahren fast 400 Projekte finanzieren konnten. Von Frontend-Apps wie [StreetComplete](https://streetcomplete.app/) bis zu Hintergrundinfrastruktur wie [OSM2PGSQL](https://osm2pgsql.org/generalization/) durften wir dabei auch zahlreiche Projekte aus der OSM Community unterstützen. Nach einer umfassenden internen und externen Evaluierung haben wir angesichts des Auslaufens der aktuellen Förderperiode im vergangenen Jahr eine neue, nachhaltigere Förderstruktur für sogenannte „early stage“-Innovationsprojekte konzipiert und aufgebaut.\r\n\r\nDieser Vortrag ist ein Aufruf an staatliche Institutionen, Geldgeber und andere Förderorganisationen, ihre Kräfte zu bündeln, über die Grenzen ihrer traditionellen Fördermodelle zu treten und ein breites und dynamisches Netzwerk von kleinen, vielfältigen und leichtgewichtigen Fördertöpfen zu schaffen, die den Bedürfnissen verschiedener Gruppen und Communities gerecht werden. Es ist eine Einladung an die Communities, gemeinsam ihre Bedürfnisse zu formulieren, um Strukturen aufzubauen, die ihre Arbeit auch wirklich unterstützen können. FOSS-Projekte, egal ob gut etabliert oder gerade erst im Entstehen, ob groß oder klein, bergen Hoffnung auf eine bessere Welt. Wir wollen ihnen die Unterstützung geben, die sie brauchen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "XBJYAZ",
+          "name": "Paul Robben",
+          "avatar": "https://pretalx.com/media/avatars/XBJYAZ_3BTcByL.png",
+          "biography": "Paul arbeitet beim Prototype Fund der Open Knowledge Foundation Deutschland e.V.",
+          "public_name": "Paul Robben",
+          "guid": "c82d3d78-2f2c-5446-baf8-3db2be91e112",
+          "url": "https://pretalx.com/fossgis2025/speaker/XBJYAZ/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/GLEBGA/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/GLEBGA/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/GLEBGA/resources/Small_Seeds_FO_aYZiix9.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "abb879a8-8472-57c9-a7fd-d21fffd8e430",
+      "code": "G98RWH",
+      "id": 58262,
+      "logo": null,
+      "date": "2025-03-26T17:05:00+01:00",
+      "start": "17:05",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58262-governance-von-open-source-software-im-offentlichen-sektor-make-buy-or-contribute",
+      "url": "https://pretalx.com/fossgis2025/talk/G98RWH/",
+      "title": "Governance von Open-Source-Software im öffentlichen Sektor: Make, Buy or Contribute?",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag mit Paper im Academic Track",
+      "language": "de-formal",
+      "abstract": "Die Governance von OSS im öffentlichen Sektor variiert stark: Während einige Projekte offen und kollaborativ sind, bleiben andere hierarchisch strukturiert. Dieser Beitrag untersucht, warum Behörden sich für oder gegen die Öffnung ihrer Softwareprojekte entscheiden. Die Untersuchung gibt Einblick in ausgewählte OSS-Projekte der öffentlichen Verwaltung und liefert einen Erklärungsansatz, warum Faktoren wie Unsicherheit, Innovationsdruck und normative Erwartungen die Entscheidung beeinflussen.",
+      "description": "Problemaufriss: Die Implementierungspartnerschaft des Masterportals, die bereits durch weitere verwaltungsnahe Projekte adaptiert wurde, gilt als Erfolgsmodell. Die Governance-Landschaft von Open-Source-Software (OSS) bleibt im öffentlichen Sektor allerdings weiterhin recht heterogen. Neben größeren Entwicklungsgemeinschaften, die kollaborativ die strategische und technische Weiterentwicklung des Projektes vorantreiben, bleiben andere Projekte faktisch hierarchisch mit keinen oder nur geringen Beteiligungsmöglichkeiten. Diese Arbeit zeichnet einen Erklärungsansatz, warum und inwieweit sich Behörden dafür entscheiden, OSS-Projekte in Richtung eines potenziellen Netzwerks zu öffnen beziehungsweise einem solchen beizutreten. Hierfür wurde im Rahmen einer multiplen Fallstudie neben dem Masterportal auch die Steuerung zwei weiterer verwaltungseigener OSS-Projekte untersucht.\r\n\r\nTheoretischer Hintergrund: Eine gemeinschaftliche Governance ermöglicht es Projektverantwortlichen, ein Softwareprodukt selbst herzustellen und gleichzeitig bei geringer Anreiz- und Kontrollintensität durch externe Beteiligte innerhalb der Projektgrenzen Innovationen zu akquirieren. Die Koordination solcher Projekte kostet allerdings Zeit und Ressourcen. Während in der Organisationsforschung der Transaktionskostenansatz (TKA) bislang weitreichend erklärt, wann sich Organisationen für Make (Eigenfertigung) oder Buy (Auslagerung) entscheiden, wurde das Erklärungsangebot auf offene Entwicklungsgemeinschaften bisher eher theoretisch und empirisch nur unzureichend angewandt. Ob es sich lohnt, das eigene Projekt zu öffnen, hängt im Sinne des TKA von Transaktionskosten ab, wie etwa Informations- und Suchkosten, Personalkosten oder Kosten für das Ausräumen rechtlicher Unsicherheiten. In der Softwareentwicklung können solche Kosten zum Beispiel aufgrund hochgradig spezifischer Software ausgelöst werden. Um ein breites, theoriegeleitetes Erklärungsangebot zu schaffen, werden darüber hinaus auch mögliche Einflussfaktoren aus der Ressourcenabhängigkeitstheorie und dem institutionellen Isomorphismus hinzugezogen.\r\n\r\nDatenerhebung: Methodischer Zugang bietet ein komparatives Fallstudiendesign, das die Steuerungsmodelle und ihre Einflussfaktoren innerhalb der ausgewählten Projekte untersucht. Zunächst wurden die Governance-Modi mittels qualitativer Inhaltsanalyse von Projektdokumenten analysiert und anschließend in semi-strukturierten Interviews mit Projektverantwortlichen und -beteiligten vertiefend erhoben. Die Interviews waren im weiteren Verlauf auch Ausgangspunkt für eine qualitative Erhebung der unabhängigen Variablen. Darüber hinaus gewährte eine Befragung unter den Mitgliedern der Implementierungspartnerschaft des Masterportals (n = 38) spannende quantitative Einblicke, die auch die Prüfung moderierender Variablen wie der Lokalität oder der Verwaltungsebene des beteiligten Mitglieds ermöglichte.\r\n\r\nErgebnisse: Die Ergebnisse zeigen, dass transaktionsspezifische Unsicherheiten über Nachnutzungspotenziale oder Überkomplexität der Software die Entscheidung in Richtung des OSS-Communityaufbaus hemmen. Gleichzeitig fördern hoher Innovationsdruck und normative Erwartungen eine stärkere Öffnung von Projekten. Die Studie liefert wertvolle Erkenntnisse für das Verständnis verwaltungseigener OSS-Strategien, zeigt aber auch für Projektverantwortliche die Bedeutung von Clustereffekten rund um Lead User auf. Die Ergebnisse leisten einen Beitrag, um das Verhalten von Behörden in OSS-Projekten zu erklären und darauf reagieren zu können.\r\n\r\n### Einreichung im Akademic Track\r\nZenodo-DOI: https://zenodo.org/records/14616445",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "H8NYRM",
+          "name": "Christian Weidner",
+          "avatar": "https://pretalx.com/media/avatars/H8NYRM_KrBV5LP.jpg",
+          "biography": "Christian Weidner ist Wirtschaftsinformatiker und arbeitet am Kompetenzzentrum Öffentliche IT (Fraunhofer-Institut FOKUS) in Berlin. Er forscht zu Verwaltungsinnovationen sowie Open-Source-Governance. Im Rahmen seiner Masterarbeit an der Universität Potsdam beschäftigte er sich aus organisationstheoretischer Sicht mit der Frage, warum und inwieweit sich öffentliche Einrichtungen für eine möglichst kollaborative bzw. offene Steuerung von Softwareentwicklungsprojekten entscheiden.\r\n\r\nLinkedIn: https://www.linkedin.com/in/c-weidner/\r\nResearchGate: https://www.researchgate.net/profile/Christian-Weidner-4\r\nORCID: https://orcid.org/0009-0009-7798-008X",
+          "public_name": "Christian Weidner",
+          "guid": "2fdecc10-5202-5e00-b079-fac27c956125",
+          "url": "https://pretalx.com/fossgis2025/speaker/H8NYRM/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/G98RWH/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/G98RWH/",
+      "attachments": [
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/G98RWH/resources/FOSSGIS_2025_p_NUMw6lx.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "f558bd6e-56bf-5b78-96fd-3b17b72d43a4",
+      "code": "VAHRBW",
+      "id": 58038,
+      "logo": null,
+      "date": "2025-03-26T17:40:00+01:00",
+      "start": "17:40",
+      "duration": "01:00",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58038-25-jahre-fossgis-e-v-was-haben-wir-geschafft-und-wo-wollen-wir-hin",
+      "url": "https://pretalx.com/fossgis2025/talk/VAHRBW/",
+      "title": "25 Jahre FOSSGIS e.V. - was haben wir geschafft und wo wollen wir hin",
+      "subtitle": "",
+      "track": "25 Jahre FOSSGIS e.V.",
+      "type": "Sonstiges",
+      "language": "de-formal",
+      "abstract": "Seit Juni 2021 beschäftigt sich die Arbeitsgruppe [\"Öffentliche Ausschreibungen mit FOSS\" des FOSSGIS e.V.](https://www.fossgis.de/wiki/AG_oeffentl_Ausschreibungen_FOSS) mit dem Thema der Beschaffung und Vergabe von IT-Lösungen auf Basis von FOSS. In dieser Dialogrunde wollen wir mit Vertreter:innen des FOSSGIS-Community über die Erfahrungen aus 25 Jahren Einsatz von Open Source Software in der öffentlichen Verwaltung diskutieren.",
+      "description": "Als der FOSSGIS-Verein vor 25 Jahren mit der Mission gestartet ist, den Einsatz von FOSS zu fördern, da waren die Erwartungen noch ganz andere als heute.\r\n\r\nDie Podiumsdiskussion wird einen Blick zurück in die Gründungszeit werfen und sich mit der Frage des warum und wozu beschäftigen. Es soll die wirtschaftliche und politische Entwicklung von Foss-GIS betrachtet sowie auch Fragen zu finanziellen Strukturen, Vergabe und Lehre nicht zu kurz kommen werden.\r\n\r\nWas sind die Herausforderungen und welche neuen Wege müssen beschritten werden, damit auch noch in 25 Jahren FOSS ein wichtiger Baustein in der digitalen öffentlichen Verwaltung in Deutschland ist?",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "L7ZM9P",
+          "name": "Niklas Alt",
+          "avatar": null,
+          "biography": "Niklas Alt ist wissenschaftlicher Mitarbeiter am Hessischen Institut für Landesgeschichte (HIL), Marburg mit Forschungsschwerpunkt Digital Humanities, Schwerpunkt Historische Karten.",
+          "public_name": "Niklas Alt",
+          "guid": "3e7d1cf1-81ad-5652-84fd-0bd441de5250",
+          "url": "https://pretalx.com/fossgis2025/speaker/L7ZM9P/"
+        },
+        {
+          "code": "3AVZYV",
+          "name": "Klaus Greve",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Klaus Greve",
+          "guid": "27291c6f-2541-55da-a71f-c50c42a2d294",
+          "url": "https://pretalx.com/fossgis2025/speaker/3AVZYV/"
+        },
+        {
+          "code": "7LJT7Z",
+          "name": "Stefan Sander",
+          "avatar": null,
+          "biography": "Ich leite seit 2019 das Ressort \"Vermessung, Katasteramt und Geodaten\" bei der Stadt Wuppertal. Wir führen das Liegenschaftskataster und sind innerhalb der Stadtverwaltung für nahezu alle Aspekte der raumbezogenen Datenverarbeitung zuständig. Davor war ich in Wuppertal in verschiedenen Funktionen mit dem Aufbau der Wuppertaler GDI und des themenübergreifenden Web-GIS WuNDa (Wuppertaler Navigations- und Datenmanagementsystem) befasst, zuletzt als Abteilungsleiter \"Informationsverarbeitung und Stadtkartographie\". Diese Infrastruktur basiert weitgehend auf Open-Source-Software.",
+          "public_name": "Stefan Sander",
+          "guid": "0b6b82ee-07b1-534c-b3ba-75db313331af",
+          "url": "https://pretalx.com/fossgis2025/speaker/7LJT7Z/"
+        },
+        {
+          "code": "QWKZFY",
+          "name": "Pirmin Kalberer",
+          "avatar": "https://pretalx.com/media/avatars/QWKZFY_oijwyqY.jpg",
+          "biography": "Pirmin Kalberer ist Mitgründer von Sourcepole in Zürich und trägt selbst als Entwickler zu verschiedenen Open Source GIS Projekten bei.",
+          "public_name": "Pirmin Kalberer",
+          "guid": "ce707060-77f8-5d41-861c-ab6cc9ecabc9",
+          "url": "https://pretalx.com/fossgis2025/speaker/QWKZFY/"
+        },
+        {
+          "code": "GN7SVH",
+          "name": "Andreas Hocevar",
+          "avatar": "https://pretalx.com/media/avatars/GN7SVH_6AyZVUo.png",
+          "biography": "Andreas ist Committer populärer JavaScript Open Source Projekte wie OpenLayers, proj4js oder ol-mapbox-style. Er teilt gerne sein Wissen auf Konferenzen, Universitäten oder bei Schulungen auf der ganzen Welt, und kennt als Geschäftsführer der w3geo GmbH in Wien neben der Entwicklerseite auch die Anwenderseite von Open Source Geospatial Software.",
+          "public_name": "Andreas Hocevar",
+          "guid": "f41c69d6-d6fa-585f-a156-c656bdb457fd",
+          "url": "https://pretalx.com/fossgis2025/speaker/GN7SVH/"
+        },
+        {
+          "code": "SW8ZFL",
+          "name": "Bernhard E. Reiter",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Bernhard E. Reiter",
+          "guid": "a10a053d-507e-559b-8b26-f9036f95c72e",
+          "url": "https://pretalx.com/fossgis2025/speaker/SW8ZFL/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/VAHRBW/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/VAHRBW/",
+      "attachments": []
+    }
+  ]
+}

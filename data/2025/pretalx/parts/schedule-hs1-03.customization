@@ -1,0 +1,455 @@
+{
+  "day": 3,
+  "date": "2025-03-28",
+  "room": "HS1 (Aula)",
+  "events": [
+    {
+      "guid": "2ce5674e-e5e3-5715-a1c3-d7e4b78372c9",
+      "code": "CLHF8T",
+      "id": 57964,
+      "logo": null,
+      "date": "2025-03-28T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-57964-foss-gis-foss-in-der-wind-und-solarbranche",
+      "url": "https://pretalx.com/fossgis2025/talk/CLHF8T/",
+      "title": "FOSS-GIS+FOSS in der Wind- und Solarbranche",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Mit QGIS und PostgreSQL / PostGIS / PostNAS am Anfang eines Wind- oder Solarparkprojekts können auch die Prozesse „nach der Karte“, vor allem für das Vertragsmanagement schneller, genauer, übersichtlicher, also effizienter gestaltet werden. Denn auch nach der Nutzung vom FOSS-GIS-Paket kann es mit FreeOpenSourceSoftware noch lange weitergehen. Dieser Praxisbericht zeigt, wie eine professionelle Zukunftsbranche für die Energieversorung eines Industrielands von FOSS profitieren kann.",
+      "description": "QGIS wird in der Projektierung von Wind- und Solarparks häufig schon verwendet. Doch nach der Identifizierung neuer Projektgebiete und der Erstellung von Karten ist meistens schon Schluss.\r\nBasierend auf einer zentralen PostgreSQL-PostGIS-Datenbank werden ALKIS-Daten nicht nur als Geodaten mit QGIS dargestellt und bearbeitet, sondern für das Vertragsmanagment die Fach-Daten, die keinen zwingenden geographischen Bezug haben (z.B. personenbezogene Daten von Grundtstückseigentümern oder daraus abgeleitete Vertrags- und Zahlungsdaten), können auf der selben Datenbank auch mittels Web-Browser verwaltet und mit weiteren projektrelevanten Informationen angereichert werden. Somit sind (proprietäre) Office-Programme zur Erstellung von Dokumenten oder zur Verwaltung der Nutzungsverträge - meist mit redundanter Datenhaltung - nicht mehr zwingend notwendig. Das bedeutet, dass von der ersten Projektidee für einen Wind- oder Solarpark bis zum späteren Betrieb die Nutzung von FOSS das Potential hat, alle Büroprozesse, insbesondere für das Vertragsmanagement abzubilden und zu dokumentieren.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "JDVRGL",
+          "name": "Lars Roskoden",
+          "avatar": "https://pretalx.com/media/avatars/JDVRGL_rtkUnXE.jpg",
+          "biography": "Lars Roskoden ist seit über zwanzig Jahren in der Energiebranche, seit 2008 im Windkraftgeschäft tätig und seit 2014 Mitglied im FOSSGIS e.V. Er ist QGIS-Anwender und OSM-Mapper. Neben dem großen gesellschaftlichen Thema Klimaschutz engagiert er sich nun verstärkt für die Digitalisierung. Dabei steht die Nutzung von OpenSource-Software im Mittelpunkt.",
+          "public_name": "Lars Roskoden",
+          "guid": "1d387b85-044c-54a4-9796-1671d6683429",
+          "url": "https://pretalx.com/fossgis2025/speaker/JDVRGL/"
+        },
+        {
+          "code": "77EQP8",
+          "name": "Björn Kilian",
+          "avatar": "https://pretalx.com/media/avatars/77EQP8_w1I1F41.jpg",
+          "biography": "Die Erstellung von umfangreichen Geodatenbanken und analoger und digitaler Kartenwerke ist in meiner Arbeit immer ein zentrales Thema. Die Herausforderung liegt dabei vor allem in dem schnellen Wandel der Technologien. Durch meine langjährige Arbeit mit topografischen Karten, Flurkarten, Grundbüchern, Seekarten etc. habe ich Transformation aus dem analogen Zeitalter in die digitale Welt miterlebt und mitgestaltet. Dieses Wissen gibt mir die Möglichkeit zukunftssichere Systeme fast ausschließlich nur mit OpenSource-Software zu gestalten und zu entwickeln.",
+          "public_name": "Björn Kilian",
+          "guid": "7aa9406b-e459-535b-b918-ebdaa96d18c9",
+          "url": "https://pretalx.com/fossgis2025/speaker/77EQP8/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/CLHF8T/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/CLHF8T/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/CLHF8T/resources/FOSSGIS_2025-0_3eF8Aeu.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "78a167b7-aee2-502c-8aa2-ecdd978cc9b6",
+      "code": "7YXNTQ",
+      "id": 56862,
+      "logo": null,
+      "date": "2025-03-28T09:35:00+01:00",
+      "start": "09:35",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-56862-unterstutzung-des-regionalen-naturschutzes-in-luxemburg-mit-open-source-gis-software",
+      "url": "https://pretalx.com/fossgis2025/talk/7YXNTQ/",
+      "title": "Unterstützung des regionalen Naturschutzes in Luxemburg mit Open Source GIS-Software",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Der regionale Zweckverband für Umwelt- und Naturschutz SIAS in Luxemburg (https://www.sias.lu/) plant Naturschutzmaßnahmen für seine 21 Mitgliedsgemeinden und begleitet deren Umsetzung. \r\n\r\nDie 16 Mitarbeiter des SIAS führen dabei z.B. Kartierungen des Großen Feuerfalters (Tagfalter) durch oder planen das Anlegen von Streuobstwiesen. Wie sie dabei von Open Source GIS-Software unterstützt werden, soll in diesem Vortrag erläutert werden.",
+      "description": "Im luxemburgischen regionalen Zweckverband für Umwelt- und Naturschutz SIAS hat sich die Anzahl der Mitgliedsgemeinden in den letzten 15 Jahren mehr als verdreifacht und die Anzahl der Mitarbeiter in den letzten fünf Jahren mehr als verdoppelt. Mit diesem Wachstum haben sowohl die Menge als auch die Vielfalt der Aufgaben stark zugenommen, was bei den Mitarbeitern zu dem Wunsch geführt hat eine Datenbank aufzubauen, um Informationen einfacher austauschen und Maßnahmen besser koordinieren zu können.\r\n\r\nIm Jahr 2022 wurde diese Aufgabe von den Mitarbeitern selbst gestartet. Dazu wurde nach dem Prinzip „Learning by Doing“ eine PostgreSQL-PostGIS-Datenbank sowie ein WebGIS zur einfachen Bearbeitung der Daten mit dem Webclient Lizmap aufgebaut. Inzwischen werden etwa 1600 Flächen, auf welchen der SIAS Maßnahmen umsetzt, über die Datenbank verwaltet. Dazu zählen das Pflanzen von Obstbäumen und Hecken, die Pflege von Streuobstwiesen oder das Anlegen von Gewässerrandstreifen. Auch für die Kartierung gefährdeter Tier- und Pflanzenarten wird die Datenbank genutzt, zum Beispiel für die Kartierung des Großen Feuerfalters auf ca. 300 Flächen.\r\n\r\nIm Vortrag wird u.a. auf die folgenden Punkte eingegangen: das komfortable Vorbereiten der Karten für das WebGIS mit dem QGIS-Plugin Lizmap oder die Nützlichkeit des engen Austauschs zwischen Nutzern der Anwendungen (PostgreSQL-PostGIS Datenbank, Lizmap WebGIS) und dem internen Management dieser Anwendungen (z.B. Erweiterung von Dropdown-Listen im WebGIS, Anpassen von Trigger-Funktionen der Datenbank). In der Zukunft würden wir gerne eine aktuell genutzte proprietäre Software zum Erstellen einer weiteren Web-Anwendung durch Open Source Software ersetzen und sind dazu sehr an Ideen zu möglichen Open Source Alternativen der FOSSGIS Besucher interessiert.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "Y9TG3D",
+          "name": "Tobias Mosthaf",
+          "avatar": null,
+          "biography": "Tobias ist Umweltingenieur und arbeitet seit 2021 bei einem luxemburgischen Zweckverband für Umwelt- und Naturschutz (https://www.sias.lu/). Im Jahr 2022 hat er dort eine PostgreSQL-PostGIS Datenbank aufgebaut und mit Lizmap einer Web GIS Anwendung dazu erstellt.",
+          "public_name": "Tobias Mosthaf",
+          "guid": "c2565f71-bdaa-5bd5-9e1d-85744d033528",
+          "url": "https://pretalx.com/fossgis2025/speaker/Y9TG3D/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/7YXNTQ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/7YXNTQ/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/7YXNTQ/resources/20240328_FOSSG_aSX81Q4.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "55ce4d55-c9f0-56cf-985c-6c78b64aa85d",
+      "code": "HKBZBW",
+      "id": 57057,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/HKBZBW/2024-10-18_fossgis-ausse_mrgZd2A.PNG",
+      "date": "2025-03-28T10:10:00+01:00",
+      "start": "10:10",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-57057-mit-qgis-zum-digitalen-prozess-1-gebaudeeigenschaften",
+      "url": "https://pretalx.com/fossgis2025/talk/HKBZBW/",
+      "title": "Mit QGIS zum digitalen Prozess 1 - Gebäudeeigenschaften",
+      "subtitle": "",
+      "track": "Geodatenmanagement",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "In der Ära der Digitalisierung rückt oft die Technologie, insbesondere digitale Dateiformate wie Word-Dokumente, Excel-Tabellen oder PDFs, in den Vordergrund. Doch bei genauerem Hinsehen wird deutlich, dass die eigentliche Revolution nicht nur in der bloßen Digitalisierung von Dateien liegt, sondern vielmehr im Durchdenken von Prozessen und der Implementierung von innovativen Methoden. Dabei kann QGIS und das Geodatenmanagement einen entscheidenden Beitrag leisten.",
+      "description": "Das erwartet Euch: \r\nIn dem Vortrag zeige ich, wie durch QGIS und das Geodatenmanagement die Digitalisierung eines ganzen Arbeitsprozesses erfolgreich durchgeführt werden kann. Dieses Praxisbeispiel stellt in dieser oder ähnlicher Form ein Arbeitsfeld in vielen Kreis-/Stadtverwaltungen dar. Es geht hierbei nicht um Erfassung von Geodaten, sondern um die Abbildung einzelner Schritte. Dabei steht die optimierte Nutzung von bereits vorhandenen (Geo-)Daten und (Geo-)Datenbanken im Vordergrund.\r\n\r\nUnd hier noch mal im Detail: \r\n\"Der Prozess der außendienstlichen Erfassung von Gebäudemerkmalen für die Wertermittlung war früher zeitintensiv und hat somit viele materielle sowie personelle Ressourcen beansprucht.\r\nDank einer detaillierten Erfassung der diversen Arbeitsschritte konnte QGIS so konfiguriert werden, dass die Programmierung eines Plugins nicht notwendig ist. Der große Umfang von Grundfunktionen in QGIS bietet ausreichend Mittel, um die zuvor erfassten Schritte optimiert abbilden zu können. \r\nDieser tatsächlich digital stattfindende Ansatz spart Zeit ein und bietet Mitarbeitenden mit weniger Berufserfahrung eine unkomplizierte und effektive Möglichkeit zur Datenerfassung. Gleichzeitig werden der Verbrauch von Papier und die Nutzung von Dienstwagen deutlich minimiert.\"",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "UNGNJN",
+          "name": "Marius Schäfer",
+          "avatar": "https://pretalx.com/media/avatars/UNGNJN_21ro0ZU.jpg",
+          "biography": "Marius ist Experte für Geodatenmanagement und versucht die Digitalisierung in der Verwaltung aktiv voran zu treiben. Sein Augenmerk liegt darauf, Fachbereiche mit digitalen (QGIS) Lösungen zu unterstützen, die ihre Arbeit effizienter und datenbasiert gestalten.\r\nWenn ein Projekt sein Interesse weckt, ist er mit Herzblut und 100 % Engagement dabei – man munkelt, er hätte schon mal freiwillig QGIS in den Urlaub mitgenommen.",
+          "public_name": "Marius Schäfer",
+          "guid": "d1a6ec29-e578-5f6e-a0dc-c64b43ded7bc",
+          "url": "https://pretalx.com/fossgis2025/speaker/UNGNJN/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/HKBZBW/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/HKBZBW/",
+      "attachments": [
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/HKBZBW/resources/2025-03-25_fos_bgKHLNM.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "c9f7cc4f-cf14-5e0a-a0f9-e16f2a0ed50f",
+      "code": "QVV7TB",
+      "id": 58013,
+      "logo": null,
+      "date": "2025-03-28T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58013-fehlende-burgersteige",
+      "url": "https://pretalx.com/fossgis2025/talk/QVV7TB/",
+      "title": "Fehlende Bürgersteige",
+      "subtitle": "",
+      "track": "OpenStreetMap",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Die Fähigkeit zum Fußgängerrouting gilt als ein nahezu Alleinstellungsmerkmal von OpenStreetMap. Doch tatsächlich haben über 50% aller Hauptstraßen in Deutschland keine Information zu Bürgersteigen irgendeiner Art.\r\n\r\nZeit zu Mappen! Ich habe in meiner Heimatstadt Wuppertal angefangen und setze die Arbeit in den Nachbarstädten fort. Welche Werkzeuge und Tagging-Stile ich versucht und welche Werkzeuge und Tagging-Style ich nachher genutzt habe, ist Gegenstand dieses Vortrages.",
+      "description": "Die Fähigkeit zum Fußgängerrouting gilt als ein nahezu Alleinstellungsmerkmal von OpenStreetMap. Diskussionen wie um Bürgersteig-Generierung und Flächenrouting vermitteln, dass die Datenversorgung bereits sehr gut sei. Und tatsächlich sind auch viele Routing-Engines und Apps aktiv, die die OpenStreetMap-Daten tatsächlich nutzen. Mein persönliches Highlight dafür ist die Zusammenarbeit mit der Dortmunder Community anlässlich des Kirchentags 2019 gewesen.\r\n\r\nDoch tatsächlich haben über 50% aller Hauptstraßen in Deutschland keine Information zu Bürgersteigen (weder `sidewalk`- noch `foot`-Tag noch einen parallelen Fuß-Way in den Daten).\r\n\r\nZeit, das Problem ganz praktisch durch Mappen anzugehen. Ich habe in meiner Heimatstadt Wuppertal angefangen und werde mich dann durch die Nachbarstädte arbeiten. Welche Werkzeuge und Tagging-Stile ich vorab in Betracht gezogen habe und welche Werkzeuge und Tagging-Style ich nachher genutzt haben, ist Gegenstand dieses Vortrages.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "KBTFX7",
+          "name": "Dr. Roland Olbricht",
+          "avatar": null,
+          "biography": "Roland ist seit über 15 Jahren vor allem bei OpenStreetMap aktiv. Seit über 10 Jahren ist er dabei als der Entwickler der Overpass API dabei und sitzt aktuell auch im Vorstand der globalen OpenStreetMap Foundation.\r\n\r\nPromoviert hat er in Mathematik. Er arbeitet bei der Firma MENTZ als Software-Entwickler für elektronische Fahrkarten.",
+          "public_name": "Dr. Roland Olbricht",
+          "guid": "f8681c3b-9bbc-589f-a792-ef6eb08a5aca",
+          "url": "https://pretalx.com/fossgis2025/speaker/KBTFX7/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/QVV7TB/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/QVV7TB/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/QVV7TB/resources/buergersteige__AJ9PpeU.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "23f7de03-9e02-5b9d-b2f1-c6e1d92e3fa2",
+      "code": "JZYBCA",
+      "id": 58094,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/JZYBCA/radinframap-org-map-atla_wJyg76y.png",
+      "date": "2025-03-28T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58094-radinfra-de-gute-daten-und-kampagnen-zur-radinfrastruktur-fur-ganz-deutschland",
+      "url": "https://pretalx.com/fossgis2025/talk/JZYBCA/",
+      "title": "radinfra.de – gute Daten und Kampagnen zur Radinfrastruktur für ganz Deutschland",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "OpenStreetMap bietet die einzigen flächendeckend verfügbaren und standardisierten Radinfrastrukturdaten in Deutschland. Um diese Daten für die Öffentlichkeit sowie für die planende Verwaltung zugänglich zu machen und systematisch zu verbessern, wurde radinfra.de entwickelt.",
+      "description": "Die neu veröffentlichte radinfra.de bietet aufbereitete Daten, Statistiken und Kampagnen zur Radinfrastruktur für ganz Deutschland. Dafür werden täglich Daten aus OpenStreetMap ausgewertet und aufbereitet.\r\n\r\nDaten zur Radinfrastruktur liegen in Deutschland sehr fragmentiert vor. Amtliche Daten sind nicht standardisiert, veraltet, ungenau oder gar nicht vorhanden. OSM bietet systematische Daten zur Radinfrastruktur, die fortlaufend aktuell gehalten werden können. Bisher wird dieses Potenzial nur ansatzweise genutzt, denn die Daten in OSM sind nicht einfach zugänglich und bedürfen weiterer Pflege und Detaillierung.\r\n\r\nUnter radinfra.de ist jetzt ein neuer Anlaufpunkt für alle entstanden, die sich für offene Radinfrastrukturdaten interessieren und mithelfen wollen, diese zu verbessern.\r\n\r\nEinheitliche Daten für ganz Deutschland: \r\nDank OpenStreetMap können für ganz Deutschland einheitliche Daten produziert werden, die sowohl beschilderte als auch unbeschilderte Radinfrastruktur abbilden. Dabei werden die Rohdaten aus OpenStreetMap aufbereitet, vereinheitlicht und nach Führungsform klassifiziert, um eine einfache Nutzung für Planungszwecke zu ermöglichen.\r\n\r\nTäglich aktuelle Daten: \r\nEine Stärke von OpenStreetMap ist ihr schneller Aktualisierungszyklus. Änderungen sind schon am nächsten Tag in den Daten zu sehen.\r\n\r\nKampagnen zur Datenpflege: \r\nNeben dem einfachen Zugang zu Radinfrastruktur-Daten ist die Datenpflege ein zweites Ziel des Projekts. Dafür werden aus den Daten verschiedene Kampagnen zur Aktualität, Vollständigkeit und Richtigkeit der Daten abgeleitet. Ziel ist es, die Daten immer weiter zu verbessern und Attribute wie Breiten und Oberflächen systematisch zu erfassen.\r\n\r\nDas Projekt ist Open Source und eine Kooperation der OSM-Verkehrswende-Community mit der FixMyCity GmbH. Die Prozessierung der Daten basiert auf dem Open Source-Projekt Radverkehrsatlas, das FixMyCity ebenfalls betreibt.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "JA8G33",
+          "name": "Tobias Jordans",
+          "avatar": "https://pretalx.com/media/avatars/JA8G33_kvrTgBQ.jpg",
+          "biography": "Tobias möchte mit guten Geodaten und Werkzeugen die Verkehrswende beschleunigen. Er arbeitet in verschiedenen Projekten daran, das Potential von OpenStreetMap für aktuelle, einheitliche und offene Daten zu heben. Dafür hat er Mitte 2019 die OSM-Verkehrswende-Community mitgegründet. Seit Ende 2021 arbeitet er bei FixMyCity als Entwickler an den Produkten TILDA Radverkehr und TILDA Parkraum sowie ähnlichen Projekten. Auf OSM, GitHub und Mastodon findet ihr ihn als @tordans.",
+          "public_name": "Tobias Jordans",
+          "guid": "c0893e62-0b58-5109-b479-4d8a6107c5cb",
+          "url": "https://pretalx.com/fossgis2025/speaker/JA8G33/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Vortrag als Google Presentation",
+          "url": "https://docs.google.com/presentation/d/1vMXgurdoQmPPwu4tn4_Yl86FT059L-f5LrkMRGKITSY/edit?usp=sharing",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/JZYBCA/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/JZYBCA/",
+      "attachments": [
+        {
+          "title": "Vortrag FOSSGIS 2025 radinfra.de",
+          "url": "/media/fossgis2025/submissions/JZYBCA/resources/FOSSGIS_2025_V_Ul1H9cO.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "6324e1cf-f36b-54cd-8a43-b47bb4dc03f5",
+      "code": "CPBTFG",
+      "id": 58143,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/CPBTFG/logo_b7w2SwZ.png",
+      "date": "2025-03-28T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58143-ptna-qualitatssicherung-fur-opnv-linien-in-openstreetmap",
+      "url": "https://pretalx.com/fossgis2025/talk/CPBTFG/",
+      "title": "PTNA: Qualitätssicherung für ÖPNV-Linien in OpenStreetMap",
+      "subtitle": "",
+      "track": "OpenStreetMap",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "ÖPNV Informationen werden in OSM mittels Route-Master-/Route-Relationen nach dem sogenannten PTv2-Schema modelliert.\r\n\r\nPTNA - Public Transport Network Analysis erlaubt eine Soll-Ist-Analyse  (OSM vs Realität) mit Hilfe einer CSV-Liste der existierenden Linie von Verkehrsverbünden.  Zusätzlich werden umfangreichen Qualitätsanalysen angewandt.\r\n\r\nDie Fortschritte seit der FOSSGIS 2020 werden vorgestellt.",
+      "description": "Die Webseite von PTNA - Public Transport Network Analysis wird vorgestellt (https://ptna.openstreetmap.de). Es wird erläutert wie Analysen für weitere Verkehrsverbünde aufgenommen werden können.\r\n\r\nDer Vortrag gibt einen Einblick in die Arbeiten für die Analyse von GTFS-Daten. GTFS-Daten können zum Einen zur Vorlage beim Mappen von Daten hilfreich sein: Positionen und andere Details von Haltestellen, Routen von Bussen, ... GTFS-Daten können zum Anderen aber auch als Input für einen Soll-Ist-Vergleich herangezogen werden. Diese GTFS-Daten können in die CSV-Liste der existierenden Linien und in OSMs Route-Master-/Route-Relationen eingetragen werden.\r\n\r\nIm Vortrag wird erläutert, wie und wo diese GTFS-Daten sinnvollerweise einzusetzen sind und welcher Nutzen hieraus gezogen werden kann.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "TU7NUW",
+          "name": "Toni Erdmann",
+          "avatar": "https://pretalx.com/media/avatars/TU7NUW_yjxdzR6.jpeg",
+          "biography": "ToniE: OpenStreetMap Mapper seit 2007. Entwickelt seit 2017 PTNA als Qualitätssicherungswerkzeug für ÖPNV-Daten in OSM.",
+          "public_name": "Toni Erdmann",
+          "guid": "c57013d8-944b-5b9d-9ea5-23f280535024",
+          "url": "https://pretalx.com/fossgis2025/speaker/TU7NUW/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/CPBTFG/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/CPBTFG/",
+      "attachments": [
+        {
+          "title": "Folien des Vortrages",
+          "url": "/media/fossgis2025/submissions/CPBTFG/resources/fossgis_2025_P_5qw6cHG.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "1f9caf4c-eab3-5513-9b23-302d1da9572c",
+      "code": "UYBXMX",
+      "id": 57896,
+      "logo": null,
+      "date": "2025-03-28T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-57896-koordinatenreferenzsysteme-fur-d-a-ch",
+      "url": "https://pretalx.com/fossgis2025/talk/UYBXMX/",
+      "title": "Koordinatenreferenzsysteme für D-A-CH",
+      "subtitle": "",
+      "track": "Ausbildung, Lehre, Open Science",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Die Eigenschaften und Unterschiede der alten und neuen Koordinatenreferenzsysteme aus der D-A-CH-Region werden mithilfe von spatialreference.org erklärt.",
+      "description": "In Deutschland, Österreich und der Schweiz gibt es verschiedene Koordinatenreferenzsysteme (CRS). Einige sind alt wie “DHDN / 3-degree Gauss-Kruger zone 3” oder “LV03”, einige neue wie “ETRS89/DREF91/2016 / UTM zone 32N (N-zE)” oder “LV95”. Die Eigenschaften der CRS und ihre Unterschiede werden erklärt.\r\n\r\nWir werden sehen, wie Koordinatenreferenzsysteme mit spatialreference.org (von PROJ) gefunden werden können. Außerdem werden die Unterschiede zwischen Pulkovo, DHDN, CH1903+, MGI und ETRS89 datums betrachtet.\r\n\r\nDes Weiteren werden die verschiedenen vertikalen Koordinatenreferenzsysteme der drei Länder wie “DHHN2016”, “LN02” oder “LHN95” beleuchtet.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "FPDQFC",
+          "name": "Javier Jimenez Shaw",
+          "avatar": "https://pretalx.com/media/avatars/FPDQFC_fLoqSiZ.jpeg",
+          "biography": "Bauingenieur und Softwareentwickler (hauptsächlich C++). Bei Pix4D beschäftigt er sich mit Koordinatenreferenzsystemen. In den letzten Jahren habe ich mich auf GIS konzentriert und zu GDAL und PROJ beigetragen.\r\nLiebe alte und schöne Karten.\r\n\r\nhttps://github.com/jjimenezshaw\r\nhttps://orcid.org/0000-0002-7227-9173",
+          "public_name": "Javier Jimenez Shaw",
+          "guid": "23956f66-0f56-5594-b50f-7b2b83107a72",
+          "url": "https://pretalx.com/fossgis2025/speaker/FPDQFC/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/UYBXMX/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/UYBXMX/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/UYBXMX/resources/Koordinatenref_zMexKg4.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "8178a23f-d8d7-56b1-bacf-4167a1292d3e",
+      "code": "ZX78NN",
+      "id": 58091,
+      "logo": null,
+      "date": "2025-03-28T14:45:00+01:00",
+      "start": "14:45",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58091-lebewohl-web-mercator",
+      "url": "https://pretalx.com/fossgis2025/talk/ZX78NN/",
+      "title": "Lebewohl Web Mercator",
+      "subtitle": "",
+      "track": "Kartographie und Visualisierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Die meisten heutigen Webkarten verwenden die [Web-Mercator-Projektion](https://de.wikipedia.org/wiki/Mercator-Projektion).\r\n\r\nDas Hauptproblem der Web-Mercator-Projektion ist die starke Verzerrung weit vom Äquator entfernter Flächen.",
+      "description": "2018 veröffentlichten Bojan Šavrič, Tom Patterson und Bernhard Jenny ihre Arbeit zur\r\n[Equal-Earth-Kartenprojektion](https://www.equal-earth.com/), einer flächentreuen\r\nProjektion für Weltkarten.\r\n\r\nDieser Vortrag zeigt, wie man die Equal-Earth-Kartenprojektion für Webkartographie mit verschiedenen Arten von Datenquellen nutzen kann.\r\n\r\nEine wachsende Sammlung von Informationen zur Verwendung von Equal Earth ist verfügbar unter [equal.bbox.earth](https://equal.bbox.earth/).",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "QWKZFY",
+          "name": "Pirmin Kalberer",
+          "avatar": "https://pretalx.com/media/avatars/QWKZFY_oijwyqY.jpg",
+          "biography": "Pirmin Kalberer ist Mitgründer von Sourcepole in Zürich und trägt selbst als Entwickler zu verschiedenen Open Source GIS Projekten bei.",
+          "public_name": "Pirmin Kalberer",
+          "guid": "ce707060-77f8-5d41-861c-ab6cc9ecabc9",
+          "url": "https://pretalx.com/fossgis2025/speaker/QWKZFY/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Folien",
+          "url": "https://pka.github.io/farewell-web-mercator/",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/ZX78NN/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/ZX78NN/",
+      "attachments": []
+    },
+    {
+      "guid": "fe4ad75c-83c7-51a5-a448-0302548bd714",
+      "code": "MXQXVT",
+      "id": 58136,
+      "logo": null,
+      "date": "2025-03-28T15:15:00+01:00",
+      "start": "15:15",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58136-ein-blick-in-die-koordinierungsstelle-des-fossgis-e-v",
+      "url": "https://pretalx.com/fossgis2025/talk/MXQXVT/",
+      "title": "Ein Blick in die Koordinierungsstelle des FOSSGIS e.V.",
+      "subtitle": "",
+      "track": "25 Jahre FOSSGIS e.V.",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Seit einigen Jahren gibt es im FOSSGIS e.V. die Koordinierungsstelle. Dort werden viele Dinge erledigt, die den Verein und die FOSSGIS-Konferenz betreffen. In diesem Vortrag unterhalten sich Katja und Jochen über ihre Arbeit in der Koordinierungsstelle des FOSSGIS e.V..",
+      "description": "Seit einigen Jahren gibt es im FOSSGIS e.V. die Koordinierungsstelle. Dort kümmern sich Katja und Jochen um viele Dinge, die den Verein und die FOSSGIS-Konferenz betreffen. Sie helfen die Arbeit der Ehrenamtlichen im Verein effektiver zu machen und gehen ans Telefon, wenn es klingelt. In diesem Vortrag unterhalten sich Katja, die versucht alle Themen zu überblicken  und Jochen, der sich OSM-spezifischen sowie technisch komplizierten Themen widmet über ihre Arbeit in der Koordinierungsstelle, geben einen Einblick in den Arbeitsalltag und erzählen, welche Themen derzeit (oder immer wieder) aktuell sind.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "NJE77L",
+          "name": "Katja Haferkorn",
+          "avatar": "https://pretalx.com/media/avatars/NJE77L_euEt32x.jpg",
+          "biography": "- Geographin\r\n- Koordinierungsstelle FOSSGIS e.V.",
+          "public_name": "Katja Haferkorn",
+          "guid": "d28653c2-43be-542c-bc2e-3de1f192fe62",
+          "url": "https://pretalx.com/fossgis2025/speaker/NJE77L/"
+        },
+        {
+          "code": "LULDTS",
+          "name": "Jochen Topf",
+          "avatar": "https://pretalx.com/media/avatars/LULDTS_VUTXCUd.jpg",
+          "biography": "Jochen Topf ist selbständiger Software-Entwickler mit Schwerpunkt auf OpenStreetMap. Seit 2008 ist er Mitglied im FOSSGIS e.V. Zwischen 2019 bis 2022 war er Schatzmeister des Vereins. Seit November 2023 arbeitet er in der Koordinierungsstelle des Vereins als OSM-Berater.",
+          "public_name": "Jochen Topf",
+          "guid": "4cf1fa0c-459e-5c68-8726-03ecf9f36c71",
+          "url": "https://pretalx.com/fossgis2025/speaker/LULDTS/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/MXQXVT/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/MXQXVT/",
+      "attachments": []
+    },
+    {
+      "guid": "a62cd470-da45-58c8-9f7c-7db9d91a1139",
+      "code": "WEXHKD",
+      "id": 59154,
+      "logo": null,
+      "date": "2025-03-28T15:40:00+01:00",
+      "start": "15:40",
+      "duration": "00:30",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-59154-abschlussveranstaltung",
+      "url": "https://pretalx.com/fossgis2025/talk/WEXHKD/",
+      "title": "Abschlussveranstaltung",
+      "subtitle": "",
+      "track": null,
+      "type": "Sonstiges",
+      "language": "de-formal",
+      "abstract": "Drei spannende Konferenztage gehen zu Ende. Ein gemeinsamer Abschluss soll erfolgen mit Rückblick auf die Konferenz und das Erlebte. Natürlich auch mit einem Ausblick auf kommende Veranstaltungen und die Konfernz im Jahr 2026.",
+      "description": "Drei spannende Konferenztage gehen zu Ende. Ein gemeinsamer Abschluss soll erfolgen mit Rückblick auf die Konferenz und das Erlebte. Natürlich auch mit einem Ausblick auf kommende Veranstaltungen und die Konfernz im Jahr 2026.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/WEXHKD/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/WEXHKD/",
+      "attachments": []
+    },
+    {
+      "guid": "2d42b063-b18d-5b41-9093-a12880ce979d",
+      "code": "QL9HPJ",
+      "id": 59155,
+      "logo": null,
+      "date": "2025-03-28T16:15:00+01:00",
+      "start": "16:15",
+      "duration": "01:15",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-59155-sektempfang-im-foyer",
+      "url": "https://pretalx.com/fossgis2025/talk/QL9HPJ/",
+      "title": "Sektempfang im Foyer",
+      "subtitle": "",
+      "track": null,
+      "type": "Sonstiges",
+      "language": "de-formal",
+      "abstract": "Der FOSSGIS e.V. lädt alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte herzlich zum Sektempfang zum Ausklang der FOSSGIS 2025 am FOSSGIS-Vereins-Stand ein.",
+      "description": "Der FOSSGIS e.V. lädt alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte nach dem Abschluss der Konferenz herzlich zum Sektempfang zum Ausklang der an \r\n den FOSSGIS-Vereins-Stand ein. Hier kann  man die Konferenz noch einmal Revue passieren lassen.",
+      "recording_license": "",
+      "do_not_record": true,
+      "persons": [],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/QL9HPJ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/QL9HPJ/",
+      "attachments": []
+    }
+  ]
+}

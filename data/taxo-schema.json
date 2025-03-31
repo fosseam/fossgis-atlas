@@ -1,0 +1,48 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Taxonomy Schema",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "primaries": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "position": { "type": "string" },
+            "name": { "type": "string" },
+            "secondaries": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "position": { "type": "string" },
+                  "name": { "type": "string" },
+                  "tertiaries": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "position": { "type": "string" },
+                        "name": { "type": "string" }
+                      },
+                      "required": ["position", "name"]
+                    }
+                  }
+                },
+                "required": ["position", "name"]
+              }
+            }
+          },
+          "required": ["position", "name"]
+        }
+      }
+    },
+    "required": ["id", "name", "primaries"]
+  }
+  

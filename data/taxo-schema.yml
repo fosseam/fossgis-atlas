@@ -1,0 +1,33 @@
+type: map
+mapping:
+  id:
+    type: str
+  name:
+    type: str
+  primaries:
+    type: seq
+    sequence:
+      - type: map
+        mapping:
+          position:
+            type: str
+          name:
+            type: str
+          secondaries:
+            type: seq
+            sequence:
+              - type: map
+                mapping:
+                  position:
+                    type: str
+                  name:
+                    type: str
+                  tertiaries:
+                    type: seq
+                    sequence:
+                      - type: map
+                        mapping:
+                          position:
+                            type: str
+                          name:
+                            type: str

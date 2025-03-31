@@ -1,0 +1,525 @@
+{
+  "day": 2,
+  "date": "2025-03-27",
+  "room": "HS2 (S10)",
+  "events": [
+    {
+      "guid": "7d7aced8-312e-543c-a191-d794ca4f13e9",
+      "code": "YJTBAB",
+      "id": 58195,
+      "logo": null,
+      "date": "2025-03-27T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58195-routing-aber-mehr-explorativ-statt-automatisch",
+      "url": "https://pretalx.com/fossgis2025/talk/YJTBAB/",
+      "title": "Routing, aber mehr explorativ statt automatisch",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Bei langen Zugreisen quer durch Europa ist auch immer ein bisschen der Weg das Ziel. Beim Planen solcher Reisen ist für mich der von Routingtools vorgeschlagene Reiseplan oft nur ein Ausgangspunkt. Ich möchte easy den Plan anpassen können, Verbindungen hin und her schieben, schauen, wie sich das auswirkt; vielleicht hier eine Übernachtung einlegen, oder dort;  vielleicht einen Umweg über eine Stadt, in der ich noch nie war. Genau dafür baue ich eine UI und von der möchte ich euch gern erzählen.",
+      "description": "Beim Planen langer Zugreisen quer durch Europa (z.B. Hamburg -> Sizilien) sind oft andere Kriterien wichtiger als die reine Reisezeit oder die Anzahl der Umstiege. Ich möchte eine bequeme Verbindung, mit genug Puffer, insbesondere bei Anbieterwechsel. Wenn eine Übernachtung unterwegs nötig ist, dann gern irgendwo wo ich noch nie war (aber dann gern dort mit Ankunft nicht so spät, damit ich noch Zeit habe, mich da umzuschauen). Aha, ein Reiseweg (nicht unbedingt der schnellste) führt über Zürich? Da kenn’ ich jemanden, wo ich übernachten kann! Ach, ich muss eh in Rom umsteigen? Mittagspause auf der Piazza, das klingt super! Kurz gesagt: bei solchen Reisen ist auch immer ein bisschen der Weg das Ziel.\r\n\r\nAll die genannten Kriterien sind sehr persönlich und ergeben sich teilweise erst während des Planungsprozesses. Existierende Routingtools erlauben mir zwar, meine Suchanfrage zu ändern wenn mir noch was eingefallen ist. Aber was ich eigentlich will ist, mit den Routingvorschlägen zu interagieren, sie zu verändern wie es für mich passt. Verbindungen hin und her schieben zu können, per drag&drop ausprobieren, was wäre, wenn ich diese Mittagspause in Rom einlegen würde, wie würde sich der Rest der Reise verschieben? Auf einer Karte explorieren zu können, welche Reisewege es überhaupt gibt und mir einfach mal ‘nen Umweg reinklicken, weil ich hab’ Bock und ich war da noch nie. \r\n\r\nIn meinem Projekt Trans-Europa-Planer (gefördert vom prototypefund) baue ich eine solches User Interface und untersuche verschiedene UX-Mechanismen zum interaktiven Erforschen, Hin- und Herschieben, Vergleichen von Reiserouten. Und ich untersuche, inwiefern ein solches Interface den Nutzer*innen tatsächlich dabei hilft, ihre eigenen, auf sie persönlich zugeschnittenen Zugreisen zu planen. Was dabei herausgekommen ist, darüber möchte ich gern in meinem Vortrag berichten.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "A7H8GZ",
+          "name": "Katharina Rasch",
+          "avatar": "https://pretalx.com/media/avatars/A7H8GZ_Q4wCyqf.jpg",
+          "biography": "Data scientist | software engineer | teacher\r\nPhD Computer Science\r\nFreelancer in Berlin",
+          "public_name": "Katharina Rasch",
+          "guid": "e565e62d-0042-5dba-a2c6-e0dd785eced0",
+          "url": "https://pretalx.com/fossgis2025/speaker/A7H8GZ/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/YJTBAB/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/YJTBAB/",
+      "attachments": [
+        {
+          "title": "slides",
+          "url": "/media/fossgis2025/submissions/YJTBAB/resources/ExplorativesRo_tbMf6tg.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "f735042b-e673-5d67-abcd-475e7a7db14b",
+      "code": "JKYHQE",
+      "id": 58082,
+      "logo": null,
+      "date": "2025-03-27T09:35:00+01:00",
+      "start": "09:35",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58082-flexibles-open-source-routing-mit-valhalla",
+      "url": "https://pretalx.com/fossgis2025/talk/JKYHQE/",
+      "title": "Flexibles Open Source Routing mit Valhalla",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Valhalla ist eine vielseitige Routing Engine für das OSM Ökosystem, die vor allem durch ihre Flexibilität und RAM-Effizienz glänzt. Dieser Vortrag setzt sich zusammen aus einer allgemeinen Einführung in Valhalla sowie Updates zu neuen und verbesserten Features.",
+      "description": "Valhalla hat als jüngeres Projekt in der OSM-Routing Welt vor allem durch sein flexibles Routing Aufmerksamkeit auf sich gezogen. Neben der Auswahl mehrerer Fahrzeugprofile ist vor allem die lange Liste an Parametern, mit denen Anfragen einzelne Anfragen zusätzlich angepasst werden können, ein Alleinstellungsmerkmal.\r\n\r\nIn diesem Vortrag werden einige grundlegende Konzepte, die Valhalla besonders machen, erläutert. Zudem werden einige Möglichkeiten aufgezeigt, wie Valhalla dank seiner Flexibilität an besondere Bedürfnisse angepasst werden kann. \r\n\r\nZuletzt werden neue und verbesserte Features vorgestellt,",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "JZWDXS",
+          "name": "Christian Beiwinkel",
+          "avatar": null,
+          "biography": "Open Source Geo Enthusiast und Softwareentwickler",
+          "public_name": "Christian Beiwinkel",
+          "guid": "9bde3beb-29c7-5856-b8f9-dc58c1e59837",
+          "url": "https://pretalx.com/fossgis2025/speaker/JZWDXS/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/JKYHQE/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/JKYHQE/",
+      "attachments": [
+        {
+          "title": "Slides",
+          "url": "/media/fossgis2025/submissions/JKYHQE/resources/valhalla_fossg_zDYDZAx.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "9e2c80cd-6b2a-5e0b-8d68-4a5ee00e6d61",
+      "code": "TJVVDZ",
+      "id": 58079,
+      "logo": null,
+      "date": "2025-03-27T10:00:00+01:00",
+      "start": "10:00",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58079-transitous-freies-public-transport-routing",
+      "url": "https://pretalx.com/fossgis2025/talk/TJVVDZ/",
+      "title": "Transitous - Freies Public Transport Routing",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Während es im OSM Umfeld eine Reihe Routing-Dienste für den Individualverkehr gibt, fehlte bisher ein freier und unabhängig betriebener Routing-Dienst für den öffentlichen Personenverkehr, der nicht auf einen engen räumlichen Bereich begrenzt ist. Transitous schließt diese Lücke.",
+      "description": "Routing-Dienste für den öffentlichen Personenverkehr werden häufig von Verkehrsanbietern betrieben, was einen inheränten Interessenkonflikt mit sich bringt. Unabhängig betriebene Dienste wie die Open Trip Planner Installationen in Herrenberg oder Norwegen zeigen, was im Bereich intermodales Routing ohne diesen Konflikt möglich wird.\r\n\r\nIn beiden Fällen hat man räumliche Grenzen zu berücksichtigen, was für Nutzende den Umgang mit zahllosen verschiedenen Apps und Webseiten bedeutet.\r\n\r\nMit zunehmender Verfügbarkeit freier Fahrplandaten und Verbesserungen der freien Routing-Software MOTIS kam eine anbieterunabhängige und räumlich unbegrenzte Alternative letztes Jahr in greifbare Nähe und die Arbeit an Transitous begann.\r\n\r\nZum Stand der Einreichung verarbeitet Transitous 1300 GTFS und GTFS-RT (Echtzeit-)Fahrplandatensätze aus 48 Ländern und wird von mehreren Apps genutzt, Trend stetig steigend.\r\n\r\nDieser Vortrag stellt vor, was Transitous leistet, wie es aufgebaut ist, wie sich weitere Gebiete bzw. Anbieter hinzufügen lassen und es sich in eigenen Anwendungen nutzen lässt.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "L3NTGV",
+          "name": "Volker Krause",
+          "avatar": "https://pretalx.com/media/avatars/L3NTGV_XKB3CMn.jpg",
+          "biography": "Volker beteiligt sich seit über 20 Jahren in der KDE Community an der Entwicklung freier Software und hat unter anderem an Komponenten für die Darstellung von Indoor-Karten, für das Routing in Innenräumen, für die Auswerten von Öffnungszeiten und für die Bereitstellen von OSM Rohdaten-Kacheln mitgewirkt und ist am Aufbau des freien Public Transport Routing Dienst Transitous beteiligt.",
+          "public_name": "Volker Krause",
+          "guid": "6dd040e3-abf0-5b1e-9aec-5da616cfd6a0",
+          "url": "https://pretalx.com/fossgis2025/speaker/L3NTGV/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/TJVVDZ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/TJVVDZ/",
+      "attachments": [
+        {
+          "title": "Slides",
+          "url": "/media/fossgis2025/submissions/TJVVDZ/resources/fossgis-konfer_3u7Kfq4.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "3774e54e-c469-5923-b794-c2f85a2b4ace",
+      "code": "HGUKFM",
+      "id": 57842,
+      "logo": null,
+      "date": "2025-03-27T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57842-barrierefreies-routing-mit-motis",
+      "url": "https://pretalx.com/fossgis2025/talk/HGUKFM/",
+      "title": "Barrierefreies Routing mit MOTIS",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "MOTIS v2 routet nicht nur die erste und letzte Meile auf OpenStreetMap Daten, sondern auch Umstiegswege. Um dies effizient auch für große Gebiete zu ermöglichen und Stockwerke korrekt zu behandeln, wurde ein skalierbarer, profilbasierter Router (OSR) entwickelt. Hierbei wird in der Verbindungssuche die zeitliche Verfügbarkeit von Aufzügen und Einstiegshilfen am Bahnhof berücksichtigt. Wege und andere Informationen werden nach Level unterteilt dargestellt.",
+      "description": "Die Berechnung von Umstiegen beim Routing im öffentlichen Verkehr benötigt insbesondere für mobilitätseingeschränkte Menschen eine höhere Präzision in den Daten als das, was Fahrplandaten in vielen Fällen heute bereitstellen. Um diese Lücke zu schließen, setzt MOTIS bei der Berechnung von Umstiegen auf OpenStreetMap Daten. Diese werden sowohl mit den Fahrplandaten als auch mit den Aufzugsdaten verknüpft. Da bisherige Routing Engines für eine weltweite Abdeckung einen hohen Speicherbedarf haben, wurde eine neues profilbasiertes Routing entwickelt, das durch ein effizientes Datenmodell mit sehr wenig RAM auskommt (aktuell ~16 GB Routing Daten für weltweite OSM Daten). Zusätzliche Profile können ohne zusätzlichen Speicherverbrauch umgesetzt werden. Beim Routing werden für mehrstöckige Bauwerken auch die Stockwerksinformation berücksichtigt. Die Wiederverwendung von OSM Knoten in mehreren Wegen auf verschiebenen Ebenen wird hierbei unterstützt. Das Routing kann zur Laufzeit Knoten ausschließen, was z.B. genutzt wird, um nicht verfügbare Aufzüge auszuschließen. Nach einer Verknüpfung der Fahrplandaten auf die OpenStreetMap Daten (hier ist insbesondere das Stockwerk relevant), werden alle Umsteigebeziehungen für alle Kombinationen von funktionierenden bzw. nicht funktionierenden Aufzügen berechnet und in den ÖV-Router eingespeist. Dieser kann nun zeitabhängig Fahrstuhlausfälle sowie die Verfügbarkeit von Einstiegshilfen berücksichtigen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "8VWUWV",
+          "name": "Felix Gündling",
+          "avatar": "https://pretalx.com/media/avatars/8VWUWV_qRFsJgB.jpeg",
+          "biography": "Dr. Felix Gündling leitet das MOTIS Projekt und beschäftigt sich seit mehr als 10 Jahren mit effizienten Optimierungsalgorithmen, primär im Bereich Mobilität.",
+          "public_name": "Felix Gündling",
+          "guid": "7ab846c0-2628-59f6-bbed-dbf65cfc475c",
+          "url": "https://pretalx.com/fossgis2025/speaker/8VWUWV/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/HGUKFM/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/HGUKFM/",
+      "attachments": [
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/HGUKFM/resources/FOSSGIS25_MOTI_773DYkd.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "b3e6187d-5ab1-599f-af67-58aa9c7b2c29",
+      "code": "CNJASE",
+      "id": 58295,
+      "logo": null,
+      "date": "2025-03-27T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58295-online-karten-fur-die-verkehrswende-mit-opendata-und-foss",
+      "url": "https://pretalx.com/fossgis2025/talk/CNJASE/",
+      "title": "Online-Karten für die Verkehrswende mit OpenData und FOSS",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Mit OpenData und freier/open-source Software lässt sich eine Online-Kartenanwendung bauen, mit der sich die Straßenraumaufteilung der Stadt Kiel darstellen und untersuchen lässt. Damit kann diese Online-Karte ein weiteres Werkzeug im Kampf für eine Verkehrswende sein.",
+      "description": "Aus der kritischen Kartographie wissen wir, dass Karten Machtinstrumente sind. Sie lassen sich im Rahmen von bspw. Gegenkarten / Counter-Maps damit auch nutzen, Gegenmacht aufzubauen bzw. alternative Bilder unserer Umwelt zu schaffen. Anhand eines Beispiels aus Kiel zeigt der Vortrag, wie sich mit OpenData und freier/open-source Software eine Online-(3D-)Karte erstellen lässt, mit dem sich die Aufteilung des Straßenraums im Stadtgebiet darstellen lässt. Mit einer solchen Kartendarstellung können Kämpfe für eine Verkehrswende unterstützt werden.\r\n\r\nUm die Kartenanwendung zu erstellen, benötigt es die genannten Daten zur Straßenraumaufteilung. Nach einer Anfrage via FragDenStaat stehen diese für die Stadt Kiel als OpenData zur Verfügung. Als Software wird eine Kartenanwendung für den Browser wie MapLibre benötigt und um die Daten zur Verfügung zu stellen, wird ein WMS-Server (bspw. QGIS-Server) und/oder TileServer benötigt.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "3GWJ3D",
+          "name": "Johanna Klitzschmüller",
+          "avatar": "https://pretalx.com/media/avatars/3GWJ3D_LMop6tq.jpg",
+          "biography": "Geographie-Studium an der CAU Kiel. Beruflich tätig als Verkehrsplanerin im ÖPNV. Politisch aktiv in der Klimabewegung. Initiatorin von GeoDatenGuerilla (https://geodaten-guerilla.net/).",
+          "public_name": "Johanna Klitzschmüller",
+          "guid": "32b8b175-fe3e-5046-9a0c-0802b50083a2",
+          "url": "https://pretalx.com/fossgis2025/speaker/3GWJ3D/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/CNJASE/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/CNJASE/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/CNJASE/resources/2025-03-27-FOS_bhNVLIL.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "72b0edfd-e88a-5559-bba4-0e2b97ba175c",
+      "code": "RSUJ3Z",
+      "id": 67092,
+      "logo": null,
+      "date": "2025-03-27T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-67092-querying-the-world-with-qlever",
+      "url": "https://pretalx.com/fossgis2025/talk/RSUJ3Z/",
+      "title": "Querying the world with QLever",
+      "subtitle": "",
+      "track": null,
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Spontan eingereichte Lightning Talks. Jeder kann einen Vortrag halten, Registrierung erfolgt an einer entsprechenden Pinnwand im Foyer.",
+      "description": "Spontan eingereichte Lightning Talks. Jeder kann einen Vortrag halten, Registrierung erfolgt an einer entsprechenden Pinnwand im Foyer.\r\nListe der Vortragenden mit Titel folgt, sobald wir den vom Zettel ins Programm übertragen haben.",
+      "recording_license": "",
+      "do_not_record": true,
+      "persons": [
+        {
+          "code": "KGRZXU",
+          "name": "Julian Mundhahs",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Julian Mundhahs",
+          "guid": "a72e2184-3029-5f67-8b22-62a25d876c4f",
+          "url": "https://pretalx.com/fossgis2025/speaker/KGRZXU/"
+        },
+        {
+          "code": "7EZWDX",
+          "name": "Ioannis Nezis",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Ioannis Nezis",
+          "guid": "0d06ecb7-1f22-5db6-8d8e-4a504570628e",
+          "url": "https://pretalx.com/fossgis2025/speaker/7EZWDX/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/RSUJ3Z/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/RSUJ3Z/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/RSUJ3Z/resources/slides_iWb5xqg.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "26d77197-9aec-5424-ba26-b709ca795d4e",
+      "code": "UKULHF",
+      "id": 57539,
+      "logo": null,
+      "date": "2025-03-27T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57539-fahrzeugortung-db-regio-mehr-als-gps",
+      "url": "https://pretalx.com/fossgis2025/talk/UKULHF/",
+      "title": "Fahrzeugortung DB Regio – mehr als GPS",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Der Praxisvortrag gibt einen Einblick in die Fahrzeugortung von DB Regio und zeigt, welche Open Source-Software in verschiedenen Anwendungsbereichen zum Einsatz kommt.",
+      "description": "Die Fahrzeugortung DB Regio (FzO-BO) hat die Aufgabe, Zug- und Fahrzeuginformationen entgegenzunehmen, in Echtzeit zu konsolidieren und an Abnehmer auszuliefern. Verarbeitet werden u. a. GPS-Positionsdaten, bestimmte Ereignisse (z. B. Türöffnung/Boarding, Ankunft und Abfahrt) und die Wagenreihung des Zuges (z. B. für Anzeigen am Bahnsteig). Die Daten werden in ein einheitliches Format konvertiert und nachgelagerten Diensten zur Verfügung gestellt. FzO-BO DB Regio bildet damit eine zentrale Drehscheibe zwischen einer Positionsmeldung aus dem Fahrzeug und den nutzenden Verfahren wie Störfallmanagement, Reisendeninformation (RIS) oder Fahrzeugeinsatzplanung.\r\n\r\nDer Vortrag gibt eine kurze Einführung in die Entstehung der Fahrzeugortung bei DB Regio, den aktuellen Stand der Entwicklung und zeigt dann, mit welchen Open Source-Komponenten das System arbeitet. Eingesetzt werden die Komponenten in der Kartenvisualisierung, in der Datenpflege und für verschiedene Algorithmen zur Erzeugung von Geodaten. Auch im Projekt selbst entwickelte GIS-Funktionalität wird erläutert.\r\n\r\nDer Vortrag richtet sich vor allem an Anwender, die Geodaten verarbeiten, als auch an Software-Entwickler im Bereich geometrischer Algorithmen. Und natürlich an alle Neugierigen und Bahn-Fans. Die Teilnehmer erhalten durch praxisnahe Beispiele aus einem komplexen und wichtigen System wertvolle Einblicke, die sie direkt in ihren Arbeitsalltag integrieren können.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "EBM7LH",
+          "name": "Stefan Kowski",
+          "avatar": "https://pretalx.com/media/avatars/EBM7LH_PVatOQK.png",
+          "biography": "Als Java- und JEE-Entwickler mit mehr als 30 Jahren Erfahrung in der Software-Entwicklung in den Branchen Verkehr, Mobilfunk und Automotive verfüge ich über umfassendes Fachwissen in der Entwicklung von komplexen, skalierbaren Anwendungen. Mein Schwerpunkt liegt in der Implementierung von Messaging-basierten Backend-Systemen, dem Einsatz von JEE-Technologien sowie der Integration von Webservices (SOAP/REST).\r\n\r\nEin besonderes Interesse hatte ich immer an Open Source-Software, insbesondere an allem, was mit Geodaten zu tun hat. Die Fahr­zeug­ortung DB Regio habe ich maßgeblich als Software-Architekt und Implementation Lead aufgebaut und betreut.",
+          "public_name": "Stefan Kowski",
+          "guid": "aa6a3f55-0c5a-5aab-a1e2-18de095292eb",
+          "url": "https://pretalx.com/fossgis2025/speaker/EBM7LH/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/UKULHF/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/UKULHF/",
+      "attachments": [
+        {
+          "title": "Präsentation (PDF-Version)",
+          "url": "/media/fossgis2025/submissions/UKULHF/resources/FOSSGIS_2025_K_ACc1T9y.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "fd8414c0-dce7-5588-960b-c0c263f051fd",
+      "code": "VKHZGR",
+      "id": 58239,
+      "logo": null,
+      "date": "2025-03-27T14:50:00+01:00",
+      "start": "14:50",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58239-dfs-deutsche-flugsicherung-open-source-und-sicherheit-bei-uas-ein-erfahrungsbericht",
+      "url": "https://pretalx.com/fossgis2025/talk/VKHZGR/",
+      "title": "DFS Deutsche Flugsicherung: Open Source und Sicherheit bei UAS? Ein Erfahrungsbericht",
+      "subtitle": "",
+      "track": "Geodatenmanagement",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Unmanned Aircraft Systems (UAS) etablieren sich als neue Verkehrsteilnehmer im Luftraum. Die DFS unterstützt deren sichere Integration durch die Bereitstellung relevanter Geodaten und setzt dabei auf freie Open Source Software (FOSS) im Geodatenmanagement. Fünf Jahre nach Gründung des Geodatenmanagement-Teams bieten wir Einblicke in Herausforderungen bei der Datenbereitstellung, die Akzeptanz und den Mehrwert von FOSS sowie die Entwicklung der gesetzlichen Rahmenbedingungen.",
+      "description": "Seit einigen Jahren etablieren sich neben dem klassischen Luftverkehr immer mehr „Unmanned Aircraft Systems“ (UAS), oder auch einfach Drohnen genannt, als neue Verkehrsteilnehmer im Luftraum. UAS lassen sich nahezu unbegrenzt einsetzen und finden Anwendung in Bereichen wie der Bauinspektion, sowie im Rettungs- und Transportwesen, wobei sich die Einsatzmöglichkeiten kontinuierlich erweitern. Die DFS ist ein privatrechtlich organisiertes Unternehmen im vollständigen Besitz des Bundes. Unsere Aufgabe ist es, den Luftverkehr in Deutschland zu kontrollieren, die Integration neuer Verkehrsteilnehmer zu unterstützen und gleichzeitig die Sicherheit im Luftraum für alle Teilnehmer zu gewährleisten.\r\n\r\nDrohnen dürfen nicht überall fliegen. Einheitliche Regeln für den Betrieb, Sicherheitsanforderungen und Zertifizierungen werden durch einen europäischen Gesetzesrahmen vorgegeben und zusätzlich durch die deutsche Luftverkehrsordnung ergänzt. Hier werden u.a. geografische Gebiete aufgelistet, in welchen ein Drohnenflug eingeschränkt bzw. nur unter bestimmten Voraussetzungen gestattet ist. Dazu zählen etwa Flughäfen und Flugplätze, Krankenhäuser, Naturschutzflächen und Anlagen zur Energieerzeugung. Die DFS ist für die Bereitstellung dieser Geodaten verantwortlich und veröffentlicht diese im Auftrag des BMDV auf der Digitalen Plattform für Unbemannte Luftfahrt (www.dipul.de).\r\n\r\nDie geografischen Gebiete sind im klassischen Sinne Geodaten, idealerweise Polygone, die das auszuweisende Objekt so realitätsgetreu wie möglich darstellen (möglichst bis zur Grundstücksgrenze). In der Realität passen die gesetzlichen Anforderungen, das Geodatenangebot und die Möglichkeiten der Prozessierung nicht immer überein. Daher wurde im Jahr 2019 ein Geodatenmanagement-Team bei der DFS gegründet, um dem Thema zu begegnen. GIS, Geodaten, OpenData und insbesondere freie und Open Source Software waren bis dahin Randthemen und wurden eher sicherheitskritisch betrachtet. Der etablierte Luftverkehr unterliegt seit Jahrzehnten einer nach und nach gewachsenen Regulierung, die z.B. auch für die Bereitstellung und Verwaltung von aeronautischen Daten und der dazu verwendeten Soft- und Hardwarekomponenten strenge Regeln und Zertifizierungen vorgibt (z.B. das „Vier-Augen-Prinzip“). Der junge Drohnenmarkt hingegen ist noch unreguliert und bot somit die Gelegenheit Open Source Software insbesondere aus dem GIS-Umfeld (QGIS, PostgreSQL, GeoServer) erstmals umfänglich zu nutzen.\r\n\r\nFünf Jahre nach der Gründung des Geodatenmanagement-Teams in der DFS möchten wir einen Einblick in die aktuellen Entwicklungen und Herausforderungen geben. Anhand eines konkreten Beispiels zeigen wir auf, welche spezifischen Hürden bei der Bereitstellung geografischer Gebiete für den UAS-Einsatz auftreten – von der Datenintegration bis zur kontinuierlichen Aktualisierung der Datengrundlage. Des Weiteren beleuchten wir den Einsatz von FOSS im Geodatenmanagement und zeigen, wie diese intern genutzt und wahrgenommen werden. Dabei geht es nicht nur um technische Aspekte, sondern auch um die Akzeptanz und den Mehrwert, den FOSS innerhalb der Organisation bietet.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "J8LYGS",
+          "name": "Vera Werner",
+          "avatar": null,
+          "biography": "-\tStudium Geographie Bachelor/Master\r\n-\tPromotion Geographie\r\n-\tSeit 2019 Geodatenmanagerin und seit 2021 Produktmanagerin für Geodaten \r\nbei der DFS Deutsche Flugsicherung",
+          "public_name": "Vera Werner",
+          "guid": "9eafd9ed-8f6c-5c77-8577-58a8426d4cb2",
+          "url": "https://pretalx.com/fossgis2025/speaker/J8LYGS/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/VKHZGR/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/VKHZGR/",
+      "attachments": []
+    },
+    {
+      "guid": "aaa82a22-6a8f-5f09-91b3-961a2f717d6c",
+      "code": "EPPEVU",
+      "id": 57031,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/EPPEVU/Baufeldverwaltung_nsnZP0J.JPG",
+      "date": "2025-03-27T15:25:00+01:00",
+      "start": "15:25",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57031-geodatenmanagement-in-einer-baubehorde-wna-nord-ostsee-kanal",
+      "url": "https://pretalx.com/fossgis2025/talk/EPPEVU/",
+      "title": "Geodatenmanagement in einer Baubehörde (WNA Nord Ostsee Kanal)",
+      "subtitle": "",
+      "track": "Geodatenmanagement",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Bauprojekte binden große Mengen an finanziellen, zeitlichen und personellen Ressourcen. Geodatenmanagement kann dabei helfen, diese effizient zu verwalten. Im fachlichen Kontext einer Baubehörde ist das Bewusstsein dafür nicht an allen Stellen gleich stark ausgeprägt, da es oft an GIS-Kenntnissen fehlt. Dieses Potenzial auszuschöpfen, ist eine Herausforderung. In diesem Vortrag, sollen die QGIS-Erweiterungen „Baufeldverwaltung“ und „Kampfmittelverwaltung“ vorgestellt werden.",
+      "description": "Erweiterungen in QGIS sind ein mächtiges Werkzeug, um Nutzern komplexe Funktionen bereitzustellen. Sie können aber auch für Nutzer eingesetzt werden, die weniger GIS-affin sind und so dabei helfen, dass Potenzial von Geodaten besser auszuschöpfen. Der Vortrag stellt dar, wie anwendungsbezogene QGIS-Erweiterungen eingesetzt werden können, um die Qualität der Planung bei komplexen Bauvorhaben zu steigern, in dem sie den Projektbeteiligten die benötigten Informationen bedarfsgerecht und einfach zugänglich präsentieren.\r\nDie erste Erweiterung „Baufeldverwaltung“ dient als raumbezogenes Projektmanagementtool. Mit ihm erhalten Maßnahmenträger Informationen darüber; wo, welche, Baustelle sich wann befindet und wer zuständig ist. Damit ist es möglich, die verschiedenen Maßnahmenträger bei der Sanierung der Schleusenanlage Kiel-Holtenau zu koordinieren und einen flüssigen und sicheren Bauablauf ohne Behinderungen sicherzustellen.\r\nIm Vorfeld einer Baumaßnahme ist eine Kampfmittelräumung und Sondierung notwendig. Die Vorgaben des Kampfmittelräumdienstes hinsichtlich der Freigabetiefe ändern sich im Laufe der Zeit. In der Konsequenz gibt entlang des Nord-Ostsee-Kanals eine große Anzahl von Untersuchungen für unterschiedliche Tiefen, die sich teilweise überlagern. „Kampfmittelverwaltung“ ist eine Erweiterung, die dazu dient, dies heterogenen Informationen anwendergerecht zu präsentieren, in dem sie den Nutzern jeweils in Echtzeit die größte Freigabetiefe für ein Gebiet darstellt. Ein Bericht mit aller vorliegenden Untersuchungen dieser Bereich wird auch erstellt.\r\nZiel der Entwicklung der Erweiterungen war es, einfach zu bedienende User Interfaces bereitzustellen, die nutzerseitig keine vertieften GIS-Kenntnisse voraussetzen.  So wurden zum Beispiel Hilfen und Hinweise integriert, die den Nutzer bei der Anwendung unterstützen oder eine Berichtsfunktion integriert, die eine Karte für einen selektierten Bereich im optimalen Maßstab abhängig von der Bildschirmauflösung erzeugt. \r\nEs ist wichtig zu erwähnen, dass die Produkte dieser Anwendungen für die Entscheidungsfindung des Managements genutzt werden können.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "J9MTFL",
+          "name": "Niny Zamora",
+          "avatar": "https://pretalx.com/media/avatars/J9MTFL_EwDrTHN.png",
+          "biography": "Ich bin Bauingenieurin, habe darüber hinaus einen Master in Geoinformatics and Photogrammetry und arbeite seit mehr als drei Jahren beim Wasserstraßenneubauamt Nord-Ostsee-Kanal in Kiel. Ich beschäftige mich u.a. mit Geodatenbanken, Datenmodellierung, räumlichen Analysen und GIS-Anwendungen in den Bereichen Bauwesen und Geotechnik.",
+          "public_name": "Niny Zamora",
+          "guid": "6a7f777c-af7b-58d5-a6df-b4f0ef0172a8",
+          "url": "https://pretalx.com/fossgis2025/speaker/J9MTFL/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/EPPEVU/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/EPPEVU/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/EPPEVU/resources/Geodatenmanage_1zVQEbR.pdf",
+          "type": "related"
+        },
+        {
+          "title": "Erweiterung Kampfmittelverwaltung",
+          "url": "/media/fossgis2025/submissions/EPPEVU/resources/Kampfmittel_TAHQlzY.jpg",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "6b7173a1-ef6b-5768-a2d5-db7cf0b9d92f",
+      "code": "3KP98N",
+      "id": 57307,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/3KP98N/Berit_Mohr_300x300_suyQs0b.png",
+      "date": "2025-03-27T16:45:00+01:00",
+      "start": "16:45",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57307-qfield-neue-strategie-und-anwendungspotentiale",
+      "url": "https://pretalx.com/fossgis2025/talk/3KP98N/",
+      "title": "QField: Neue Strategie und Anwendungspotentiale",
+      "subtitle": "",
+      "track": "Grundlagen Open-Source-GIS und OpenStreetMap",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Mit über 1 Million Downloads und 350.000 aktiven Benutzern wird QField als digitales öffentliches Gut anerkannt, dass die UN-Ziele für nachhaltige Entwicklung unterstützt.\r\nAnwendungsfälle aus der Praxis zeigen, wie FeldarbeiterInnen aus aller Welt, Ihre Datenlücken schließen, um qualifizierte und bewusste Entscheidungen zu treffen für das Wohl unserer Lebensgrundlagen und für eine nachhaltige Zukunft",
+      "description": "Erfahren Sie im Detail, wie QField die Feldarbeit für Einzelpersonen und Organisationen weltweit verändert. Mit über 1 Million Downloads und 350.000 aktiven Benutzern wird QField als digitales öffentliches Gut anerkannt und ist in jedem Kontext anwendbar. In dieser Sitzung präsentieren wir Anwendungsfälle aus der Praxis von Ozeanien bis Europa, wie gezielt fehlende Daten erhoben und in die weiteren Arbeitsschritte integriert werden. Wir geben einen Einblick in die Strategie von QField und wohin die weitere Reise geht. \r\nLernen Sie aus Erfolgsgeschichten aus verschiedenen Branchen und entdecken Sie, wie die nahtlose Integration von QField 3 mit QFieldCloud die Feldarbeit auf der ganzen Welt spürbar beeinflusst. Werden Sie Teil der Community und nehmen an der weiteren Reise teil.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "RPFBCT",
+          "name": "Berit Mohr",
+          "avatar": "https://pretalx.com/media/avatars/RPFBCT_15rRVCf.png",
+          "biography": "Berit Mohr ist ein GIS Enthusiast, die Open-Source Software fördert und unterstützt. Seit Oktober 2024 arbeitet sie bei OpenGIS.CH als GIS Spezialistin, wo sie berät, schult und Entwicklungsprojekte betreut. Mit ihrer vieljährigen Erfahrung im Entwicklungszusammenarbeitskontext, bringt sie eine globale Sichtweise mit und verfügt über ein erstaunliches Talent, verschiedene Sprachen zu übersetzen und zu vermitteln. \r\nIn ihrer Freizeit ist ihre beste Freundin das Fahrrad, der Garten und die Berge. Jede freie Minute verbringt sie, wenn es irgendwie geht, im Grünen.",
+          "public_name": "Berit Mohr",
+          "guid": "47c7f1e2-7abf-5c66-974a-78217c153c5d",
+          "url": "https://pretalx.com/fossgis2025/speaker/RPFBCT/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Link zu Google",
+          "url": "https://docs.google.com/presentation/d/1vx_VW4wxrBHMHPxCfFVZVSPc3EWWr-cylS0dqiPheQ4/edit?usp=sharing",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/3KP98N/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/3KP98N/",
+      "attachments": [
+        {
+          "title": "PPT_The_Future_Is_Green",
+          "url": "/media/fossgis2025/submissions/3KP98N/resources/The_future_is__IRpHPtw.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "4311af4b-b742-59be-947b-024b9641c518",
+      "code": "YFWGWE",
+      "id": 58026,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/YFWGWE/smash_logo_800_1RvQ6sU.png",
+      "date": "2025-03-27T17:20:00+01:00",
+      "start": "17:20",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58026-smash-stand-der-technik-der-digitalen-feldkartierungs-app",
+      "url": "https://pretalx.com/fossgis2025/talk/YFWGWE/",
+      "title": "SMASH, Stand der Technik der digitalen Feldkartierungs-app",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Diese Präsentation gibt einen Einblick in den Stand der Technik des SMASH-Ökosystems und seine aktuelle Roadmap. SMASH, die \"Smart Mobile App for Surveyor’s Happiness\", ist eine schnelle App für die digitale Feldkartierung.",
+      "description": "SMASH, die \"Smart Mobile App for Surveyor’s Happiness\", ist eine schnelle App für die digitale Feldkartierung. \r\nDie quelloffene Flutter-App für Android, IOS (und auf Anfrage auch für Linux, Macos und Windows) ist vollgepackt mit Funktionen, wie zum Beispiel: Geopackage- und PostGIS-Bearbeitung, Kalman-Filter für GPS-Logs, nativer Geotiff und Shapefile Support, Geojson-Visualisierung, SLD-Styling für Vektordatensätze.\r\n\r\nDas Web-Gegenstück zu SMASH ist der Survey Server, eine Webanwendung, die es Gruppen von Vermessern ermöglicht, die Datenerfassung zu zentralisieren. Die Benutzer können die Daten aus der App synchronisieren, aber auch spezielle Formulare und Projekte sowie Basiskarten und Datensätze herunterladen. Der Server basiert auf der gleichen Technologie wie die mobile App und visualisiert die Daten mit dem gleichen Look and Feel. \r\n\r\nIm letzten Jahr gab es einige wichtige Erweiterungen, wie z.B. die bidirektional synchronisierten Vektorebenen und den neuen Formbuilder, der sowohl auf dem Server als auch auf der mobilen Seite verfügbar ist.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "XRFCPL",
+          "name": "Antonello Andrea",
+          "avatar": "https://pretalx.com/media/avatars/XRFCPL_iDAi9oe.jpg",
+          "biography": "Andrea Antonello ist ein Umweltingenieur, der seit über 20 Jahren an der Entwicklung von freier geografischer Software arbeitet. Er ist der Entwickler der HortonMachine und Smash Projekte und Teil des Entwicklungsteams des k.LAB ARIES.Derzeit ist er als Vertragsprofessor für Fortgeschrittene Geomatik an der Freien Universität Bozen tätig.",
+          "public_name": "Antonello Andrea",
+          "guid": "ece14d7c-82e8-5863-be11-27db53272d94",
+          "url": "https://pretalx.com/fossgis2025/speaker/XRFCPL/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/YFWGWE/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/YFWGWE/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/YFWGWE/resources/SMASH_and_the__HKtJz8q.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "67ea2166-aa0a-5a9b-a469-bc6d04d34fc0",
+      "code": "YALH8U",
+      "id": 57817,
+      "logo": null,
+      "date": "2025-03-27T17:55:00+01:00",
+      "start": "17:55",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57817-merginmaps-mobile-geodatenerfassung-beim-regionalverband-ruhr",
+      "url": "https://pretalx.com/fossgis2025/talk/YALH8U/",
+      "title": "MerginMaps - Mobile Geodatenerfassung beim Regionalverband Ruhr",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Seit 2024 setzt der Regionalverband Ruhr (RVR) die Software MerginMaps ein.\r\nAuslöser war die gute Integrationsmöglichkeit in die GDI des RVR.\r\nWesentliche Funktionen \r\n- mobile Datenerfassung (Punkt, Linie, Fläche) im Gelände und Synchronisieren ins Backend\r\n- Weiterbearbeiten in QGIS mittels Plugin\r\n- Arbeiten auf einem gemeinsamen Datenbestand mit Erkennung von Konflikten\r\n- Versionierung aller Änderungen und dabei detaillierte Dokumentation",
+      "description": "Seit August 2024 setzt der Regionalverband Ruhr (RVR) die Software MerginMaps ein.\r\nEin Grund war die gute Integrationsmöglichkeit in die GDI des RVR. Hier setzen wir u.a. PostgreSQL als zentrale Geodatenbank, QGIS als hausweites Geoinformationssystem und Docker zur Bereitstellung von Anwendungen ein.\r\n\r\nBis Ende September wurde die Community Edition verwendet, dann erfolgte der Umstieg auf die (kostenpflichtige) Enterprise Edition. Ausschlaggebend dafür waren, \r\n- die finanzielle Unterstützung dieser OS-Software, \r\n- die Verfügbarkeit mehrerer Arbeitsbereiche in denen Mobilprojekte bereitgestellt werden können\r\n- sowie eine zusätzliche Editorrolle, die nur Daten erfassen/ändern kann, aber nicht das QGIS-Projekt modifizieren.\r\n\r\nNeben der MerginMaps-Webanwendung (Backend mit PostgreSQL und Frontend) wird am Büroarbeitsplatz ein QGIS-Plugin sowie auf dem Mobilgerät (beim RVR: iPad) eine Mobilanwendung installiert. Beide werden mit Zugriff auf die Webanwendung konfiguriert.\r\n\r\nWesentliche Funktionen von MerginMaps sind\r\n- mobile Datenerfassung (Punkt, Linie, Fläche - auch offline) im Gelände und Synchronisieren ins Backend\r\n- Weiterbearbeiten in QGIS mittels Plugin\r\n- Arbeiten auf einem gemeinsamen Datenbestand mit Erkennung von Konflikten\r\n- Versionierung aller Änderungen und dabei detaillierte Dokumentation der Erfassungsarbeit (wer hat wann was womit geändert?)\r\n\r\nDer Vortrag erläutert die Einführung von MerginMaps, die Konfiguration eines Projektes zur Baumkontrolle und die verteilte Nutzung des Systems durch mobile Endgeräte, QGIS-Büroarbeitsplätze und die Webanwendung.\r\n\r\nVortragender: Stefan Overkamp, Dipl. Ing. Raumplanung setzt seit 1992 Geoinformationssysteme ein.\r\nNach über 20 Jahren freiberuflicher Tätigkeit ist er seit 2018 beim Regionalverband Ruhr, Essen,\r\nu.a. für die Integration von Fachdaten in die Geodateninfrastruktur des RVR zuständig.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "ULLCGH",
+          "name": "Stefan Overkamp",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Stefan Overkamp",
+          "guid": "5319849c-bc98-54ba-b5ea-600c1987d555",
+          "url": "https://pretalx.com/fossgis2025/speaker/ULLCGH/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/YALH8U/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/YALH8U/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien Overkamp, Donnerstag, 27. März, 17:55 HS2 (S10) Praxisberichte",
+          "url": "/media/fossgis2025/submissions/YALH8U/resources/fossgis_2025_M_zFpVVGO.pdf",
+          "type": "related"
+        }
+      ]
+    }
+  ]
+}

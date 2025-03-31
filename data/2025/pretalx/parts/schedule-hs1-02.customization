@@ -1,0 +1,571 @@
+{
+  "day": 2,
+  "date": "2025-03-27",
+  "room": "HS1 (Aula)",
+  "events": [
+    {
+      "guid": "33b8054b-b05d-5e7e-9e9a-564eeeeaed88",
+      "code": "MCQWYX",
+      "id": 58123,
+      "logo": null,
+      "date": "2025-03-27T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58123-der-digitale-zwilling-so-wertvoll-wie-eine-karte-im-mastab-1-1",
+      "url": "https://pretalx.com/fossgis2025/talk/MCQWYX/",
+      "title": "Der Digitale Zwilling - so wertvoll wie eine Karte im Maßstab 1:1",
+      "subtitle": "",
+      "track": "Geodatenmanagement",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Digitale Zwillinge sind heute in aller Munde: Ein Allheilmittel für Probleme der räumlichen Modellierung. Aber stimmt das? Übersehen wir da nicht im Rausch des Machbaren die Frage nach dem Sinnvollen? \r\n\r\nEin \"Rant\" gegen die \"Landkarte im Maßstab 1:1\".",
+      "description": "Digitale Zwillinge sind heute in aller Munde: Ein Allheilmittel für die Probleme der räumlichen Modellierung, der Datenverfügbarkeit, der Datendarstellung, der Erzeugung von Erkenntnissen über \"das Wie vom Wo (und Wann)\" aus der Ferne, der Nähe, von oben, unten und der Seite. Also etwas, ohne das wir eigentlich nicht Denken, Planen und Entscheiden können. Ach was, nicht Leben können! So der Eindruck, der beim Lesen einer Geo-gefärbten LinkedIn-Timeline entstehen könnte.\r\n\r\nAber mal ehrlich, stimmt das eigentlich? Der zwanghafte Trieb nach mehr Realitätstreue beschert uns - abgesehen vom Wettrüsten in der Unterhaltungselektronik - eben auch immer mehr vollmundige Versprechungen über Smart Cities, Smart Buildings, BIM, Management jeglicher Form der Landnutzung oder -beobachtung; und das alles sei ab sofort wie durch Magie für alle verfügbar und immer wahr und immer aktuell und immer richtig.\r\n\r\nIn der von konkretem Detailwissen unbelasteten Höhenluft von Managementmeetings erzeugen diese Versprechen und Ahnungen ein erleichtertes Aufatmen. Endlich kann ein Tool angeschafft werden, mit dem lästige Probleme ganz einfach gelöst werden können. Am Besten mit KI drin, dann wird es noch besser. \r\n\r\nAber wie ist es denn in Wirklichkeit? Übersehen wir im Rausch des Machbaren nicht gern die Frage nach dem Sinnvollen? Neigen wir nicht oft genug dazu, zu vergessen, dass die Herausforderung beim Modellieren von Informationszusammenhängen darin besteht, nur das Wichtige zu behalten und das Unwichtige zu vergessen; die Kunst also vor allem eine des Weglassens ist? Der \"Digitale Zwilling\" erscheint da wie das Versprechen einer Landkarte im Maßstab 1:1. Auch wenn alle das haben wollten, würde es doch niemandem nützen (mal abgesehen davon, dass wir sie ja schon haben).\r\n\r\nLasst uns also mehr Reduktion und Abstraktion wagen. Lasst uns mutig weglassen. Und lasst uns aufhören, etwas Zwilling zu nennen, was keiner ist und vor allem keiner sein sollte!",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "BAJSBE",
+          "name": "Matthias Daues",
+          "avatar": "https://pretalx.com/media/avatars/BAJSBE_nCZjM2p.jpeg",
+          "biography": "Studierter Geograph, gelernter Vertriebler, erfahrener technischer Leiter für Geodaten und GIS-Systeme in einem großen Unternehmensumfeld. Meine Expertise liegt in der Konzeption und Pflege umfangreicher Datenbanken für räumliche Analysen, wobei ich technische und geschäftliche Sachverhalte miteinander verbinde. Mit Überzeugung setze ich ausschließlich auf Open-Source-Softwarelösungen.\r\n\r\nDie Faszination für Geoprozessierung, Datenbanken und GIS treibt mich an – besonders wenn Daten aus unterschiedlichen Quellen in Datenbank und Karte zusammenfinden und perfekt harmonieren. Neben meiner Tätigkeit bei einem großen deutschen Telekommunikationsunternehmen bin ich selbstständig unter dem Namen \"datenschoenheit\" tätig. Privat bin ich verheiratet und Vater von drei Kindern.\r\n\r\nLinkedIn: https://www.linkedin.com/in/matthiasdaues/",
+          "public_name": "Matthias Daues",
+          "guid": "3e9cd94a-189d-54f2-9502-d82d6db41a54",
+          "url": "https://pretalx.com/fossgis2025/speaker/BAJSBE/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/MCQWYX/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/MCQWYX/",
+      "attachments": [
+        {
+          "title": "Foliensatz",
+          "url": "/media/fossgis2025/submissions/MCQWYX/resources/der_digitale_z_GNN16oF.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "c4413aa0-aea2-51e7-a36e-a0ef12b8366d",
+      "code": "HFKGJ7",
+      "id": 58084,
+      "logo": null,
+      "date": "2025-03-27T09:35:00+01:00",
+      "start": "09:35",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58084-der-wuppertaler-weg-vom-geoportal-zum-digitalen-zwilling",
+      "url": "https://pretalx.com/fossgis2025/talk/HFKGJ7/",
+      "title": "Der Wuppertaler Weg vom Geoportal zum Digitalen Zwilling",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Die Stadt Wuppertal realisiert in einem bis Ende 2026 laufenden Förderprojekt einen Urbanen Digitalen Zwilling (UDZ), den \"DigiTal Zwilling\". In diesem Vortrag werden sie softwaretechnischen Herausforderungen und Lösungsansätze bei der Entwicklung der Anwendungskomponenten zum DigiTal Zwilling vorgestellt. Insbesondere entsteht eine generische Anwendung, die den Erwartungen an einen UDZ gerecht werden soll, aber auch die klassischen Anwendungsfälle eines kommunalen Geoportals bedienen soll.",
+      "description": "Der DigiTal Zwilling ist ein „System of Systems“. Insbesondere umfasst er eine Reihe an Open Source Web-Applikationen, die den DigiTal Zwilling für die Nutzerinnen und Nutzer erschließen. Diese Applikationen werden unter https://github.com/digital-twin-wuppertal-live projektbegleitend publiziert. Das Flaggschiff dieser Applikationen wird eine generische Anwendung sein, in der man sich seine Arbeitsumgebung aus allen Daten, Diensten und Funktionen des DigiTal Zwillings frei zusammenstellen kann. Diese Anwendung wird das bisher geführte Wuppertaler Geoportal ablösen, sie muss also auch die z. T. gesetzlichen Anforderungen an die Publikation von OGC-konformen Web-Services erfüllen.  Darüber hinaus werden einige Anwendungen für breitere Themenkomplexe (Fachzwillinge) und eine Vielzahl themenspezifischer Applikationen (Teilzwillinge) bereitgestellt. Im Vortrag werden die folgenden softwaretechnischen Aspekte thematisiert:\r\n\r\n    - Der DigiTal Zwilling als \"System of Systems\"\r\n    - Aufbau eines Monorepos und Migration von Legacy-Anwendungen in das Monorepo\r\n    - Nahtlose Integration verschiedener Mapping Engines (CesiumJS, Leaflet, MapLibre) in einer Applikation\r\n    - Integration von Vektor-Layern und -Styles über WMS Capabilities\r\n    - Innovative Ideen für zentrale GUI-Elemente (Gazetteer, Laden von Ressourcen, Layerbuttons etc.)\r\n    - Hilfe-Overlay als neuer Weg zur Unterstützung der Anwender/innen",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "7LJT7Z",
+          "name": "Stefan Sander",
+          "avatar": null,
+          "biography": "Ich leite seit 2019 das Ressort \"Vermessung, Katasteramt und Geodaten\" bei der Stadt Wuppertal. Wir führen das Liegenschaftskataster und sind innerhalb der Stadtverwaltung für nahezu alle Aspekte der raumbezogenen Datenverarbeitung zuständig. Davor war ich in Wuppertal in verschiedenen Funktionen mit dem Aufbau der Wuppertaler GDI und des themenübergreifenden Web-GIS WuNDa (Wuppertaler Navigations- und Datenmanagementsystem) befasst, zuletzt als Abteilungsleiter \"Informationsverarbeitung und Stadtkartographie\". Diese Infrastruktur basiert weitgehend auf Open-Source-Software.",
+          "public_name": "Stefan Sander",
+          "guid": "0b6b82ee-07b1-534c-b3ba-75db313331af",
+          "url": "https://pretalx.com/fossgis2025/speaker/7LJT7Z/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/HFKGJ7/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/HFKGJ7/",
+      "attachments": [
+        {
+          "title": "PDF-Variante des Vortrags, wegen fehlender Animationen nicht für die Präsentation geeignet.",
+          "url": "/media/fossgis2025/submissions/HFKGJ7/resources/20250327_DigiT_AqQfUe3.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "c355092a-5481-5f7e-acf0-46be6f2d5839",
+      "code": "3DPZFV",
+      "id": 58083,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/3DPZFV/ONLIKA_4.0_ohne_Legende_G6UrMu6.png",
+      "date": "2025-03-27T10:00:00+01:00",
+      "start": "10:00",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58083-masterportal-liegenschaftsauskunft-onlika-4-0-mit-keycloak-und-bundid",
+      "url": "https://pretalx.com/fossgis2025/talk/3DPZFV/",
+      "title": "Masterportal - Liegenschaftsauskunft ONLIKA 4.0 mit Keycloak und BundID",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Im Rahmen dieses Vortrags wird die „Online-Auskunft für die Daten des Liegenschaftskatasters“ Thüringen - kurz ONLIKA 4.0 - vorgestellt.  Das automatisierte Abrufverfahren wurde vom Thüringer Landesamt für Bodenmanagement und Geoinformation (TLBG) in Zusammenarbeit mit grit entwickelt. Das Rollen- und Rechtekonzept wird durch die Authentifizierung via BundID und Keycloak abgebildet. Basis ist die Open Source-Lösung Masterportal.",
+      "description": "Unter Verwendung der Open Source-Lösung Masterportal wurde eine modernisierte Oberfläche mit einer optimierten Benutzerführung, die den heutigen Anforderungen an Web Anwendungen gerecht wird und es den Anwendern ermöglicht, sensible Liegenschaftskatasterdaten effektiver abzurufen. Die für eine Weiterentwicklung erforderlichen Funktionen sind im Masterportal vorhanden. \r\nNeben der neuen Oberfläche bringt ONLIKA 4.0 weitere neue Funktionen, die die Arbeit mit Geodaten deutlich vereinfachen: So können Flurstücke nun direkt durch einen Klick im Kartenfenster ausgewählt werden. Weiterhin wird das Masterportal Höhenprofil Addon in der ONLIKA Oberfläche nachgenutzt.\r\nDie Authentifizierung erfolgt über das Service Konto Thüringen, das in der neuesten Version die Integration mit der BundID ermöglicht und damit die Grundlage für eine sichere Identitätsverwaltung auf Bundesebene schafft. \r\nDer Produktproxy, der als Schnittstelle zum Produktdienst für die ALKIS-Nachweisbereitstellung und zu den DHK-Diensten für die NAS-Abgaben dient, bleibt ein zentrales Element. Er ermöglicht die Kommunikation mit dem Siegel-Server zur Signierung mit einem qualifizierten eSiegel nach eIDAS.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "RNMSEY",
+          "name": "Laura Meierkort",
+          "avatar": "https://pretalx.com/media/avatars/RNMSEY_uKLwMxh.jpg",
+          "biography": "Laura Meierkort ist seit 2019 bei der grit GmbH. Dort leitet sie Projekte im Bereich Masterportal. Sie vertritt grit im technischen Komitee der Implementierungspartnerschaft Masterportal.",
+          "public_name": "Laura Meierkort",
+          "guid": "0e058dd9-3ea9-5d45-afb9-7a4e7019af85",
+          "url": "https://pretalx.com/fossgis2025/speaker/RNMSEY/"
+        },
+        {
+          "code": "TRLHHU",
+          "name": "Erik Jost",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Erik Jost",
+          "guid": "824571c2-601a-5436-9058-abd326382dd5",
+          "url": "https://pretalx.com/fossgis2025/speaker/TRLHHU/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/3DPZFV/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/3DPZFV/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/3DPZFV/resources/Masterportal_-_7qJgkJq.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "7c56cb6e-d25c-5933-9aca-fe855db48701",
+      "code": "3M3PTE",
+      "id": 57855,
+      "logo": null,
+      "date": "2025-03-27T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-57855-fossgis-bei-opencode-de",
+      "url": "https://pretalx.com/fossgis2025/talk/3M3PTE/",
+      "title": "FOSSGIS bei OpenCode.de",
+      "subtitle": "",
+      "track": "Offene Standards, z.B. INSPIRE, OGC",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "IT-Sicherheit spielt eine immer größere Rolle. Dabei ist die Zertifizierung ein wichtiger Schlüssel um Software in der öffentlichen Verwaltung einzusetzen. Anfang 2024 ist das Zentrum für Digitale Souveränität GmbH gestartet, um Open Source in der öffentlichen Verwaltung voranzutreiben.\r\nDer Nutzen für die FOSSGIS Community soll in diesem Vortrag beleuchtet werden.",
+      "description": "OpenCode ist aus einer Initiative des Bundesministerium des Innern und für Heimat hervorgegangen. Im letzten Jahr (2024) ist der Betrieb der Plattform an die ZenDiS GmbH übergegangen, die seitdem den Betrieb und die Weiterentwicklung der Plattform verantwortet. Im Zuge der Weiterentwicklung gab es am 15. Januar 2025 einen kompletten Relaunch. \r\nZiel der Plattform ist es Open-Source-Lösungen in der Öffentlichen Verwaltung zu stärken und die digitale Souveränität voranzutreiben. Die Plattform stellt einen Lizenkatalog und Informationen zu Open-Source-Kriterien und -Definitionen bereit.\r\nDie Vision einer zentralen Plattform, die gleichermaßen von Bund, Ländern und Kommunen genutzt werden kann, um gemeinsam an Open-Source-Lösungen zu arbeiten ist hiermit umgesetzt worden.\r\nOpenCode steht für alle Verwaltungsangestellten und Open-Source-Dienstleister zur Entwicklung, Kommunikation und zum Austausch von Softwarecode zur Verfügung.\r\nDie Plattform weißt das Potenzial auf sichere Softwarelieferketten zu schaffen und auszubauen. Gemeinsam mit dem Bundesamt für Sicherheit in der Informationstechnik (BSI) wird wird dieses gerade umgesetzt. Dabei sollen automatisierte Qualitäts- und Sicherheitschecks auf der Plattform umgesetzt werden.\r\nNutzern steht eine Wissensdatenbank rund um das Thema Lizenzen, Beschaffung und Nachnutzung bereit. Dabei ist es auch möglich über eine Diskussionsplattform miteinander ins Gespräch zu kommen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "BJKXQQ",
+          "name": "David Arndt",
+          "avatar": "https://pretalx.com/media/avatars/BJKXQQ_CEyKVuI.png",
+          "biography": "Diplom Geograph, seit Anfang 2014 beim Regionalverband Ruhr, Teamleiter für das Team Geodaten-Technik",
+          "public_name": "David Arndt",
+          "guid": "c0a61d13-2934-5198-821b-61ce941f3130",
+          "url": "https://pretalx.com/fossgis2025/speaker/BJKXQQ/"
+        },
+        {
+          "code": "CEGD79",
+          "name": "Torsten Friebe",
+          "avatar": null,
+          "biography": "Torsten arbeitet seit fast 25 Jahren mit FOSS. Er begann 1999 mit einer der ersten Implementierungen von OGC Simple Feature Spec mit Java für die Universität Bonn (Deutschland) und betreut heute als Mitglied des Technical Management Committees das OSGeo-Projekt deegree. Derzeit tätig bei lat/lon GmbH, Bonn, Deutschland.",
+          "public_name": "Torsten Friebe",
+          "guid": "1c540a5e-631b-58fb-a8ef-5876fbc10dce",
+          "url": "https://pretalx.com/fossgis2025/speaker/CEGD79/"
+        },
+        {
+          "code": "7KLQDK",
+          "name": "Alexandros Bouras (ZenDIS)",
+          "avatar": "https://pretalx.com/media/avatars/7KLQDK_WAbr0Fz.png",
+          "biography": "- Produktmanager bei openCode - ZenDiS (August 2024 - Heute)\r\nKomponentenentwicklung der Plattform openCode\r\n- Online Chefredakteur im DWD (DEC 2020 – Juli2024)\r\nLeitung des Website-Projekts mit Verantwortung für Inhalte und Technik, Digitale Transformation Einführung und Ausrollen von Confluence , Beschaffung von Cloud und SaaS-Kollaborationsplattformen.\r\n- Wissenschaftlicher Mitarbeiter, Projekt FloWKar, Produktentwicklung & Kundenkommunikation (DWD) (JAN 2018 – DEZ 2020) \r\nAnalyse von Fahrzeugsensordaten, technische Transferkontrolle und Datenübertragung in eine Oracle-Datenbank, Bereitstellung als WFS/WMS. \r\n- Wissenschaftlicher Mitarbeiter, Projekt Open Data, Customer Services and Development (MAR 2017 – DEZ 2017)\r\nPlanung, Koordination und Umsetzung von DWD Open Data sowie Optimierung des Dialogs zwischen Nutzern und Entwicklern.\r\n- Wissenschaftlicher Mitarbeiter, Projekt EweLiNE, Customer Services and Development (DEZ 2015 – NOV 2017)  \r\nEntwicklung einer nutzerfreundlichen GUI / Bereitstellung an die Geo Web Services.",
+          "public_name": "Alexandros Bouras (ZenDIS)",
+          "guid": "ecfee357-3106-5c5b-af0a-fbaa6c4762e0",
+          "url": "https://pretalx.com/fossgis2025/speaker/7KLQDK/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/3M3PTE/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/3M3PTE/",
+      "attachments": [
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/3M3PTE/resources/2025-03-27-ope_8nc8vjL.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "137beb49-3964-5295-a8f6-5813191a0baa",
+      "code": "3XHXZN",
+      "id": 58037,
+      "logo": null,
+      "date": "2025-03-27T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58037-xplanung-mit-open-source-software",
+      "url": "https://pretalx.com/fossgis2025/talk/3XHXZN/",
+      "title": "XPlanung mit Open Source Software",
+      "subtitle": "",
+      "track": "Offene Standards, z.B. INSPIRE, OGC",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Im April 2022 wurde der Quellcode der Software xPlanBox der Firma lat/lon im Rahmen eines Pilotprojekts auf der OpenCoDE-Plattform des BMI veröffentlicht. Seitdem wird die Software kontinuierlich weiterentwickelt und kommt im Rahmen des Onlinezugangsgesetz (OZG) und des \"Einer-für-Alle\"-Prinzips (EfA) zum Einsatz. Der Vortrag stellt kurz die wichtigsten Neuerungen der Version 8.0 und den erweiterten Möglichenkeiten für den Betrieb auf der Kubernetes-Plattform vor.",
+      "description": "Im Oktober 2017 hat der IT-Planungsrat die verbindliche Einführung der Standards XPlanung und XBau beschlossen. Daraus folgt, dass IT-Verfahren die neuen Standards zur Raum- und Bauleitplanung unterstützen sollen. Mit der Veröffentlichung der Software xPlanBox im Rahmen eines Pilotprojekts auf der OpenCoDE-Plattform des Bundesministeriums des Innern und für Heimat (BMI) steht nun eine umfassende Lösung zum Austausch des objektorientierten Datenaustauschformat XPlanGML (XPlanung) bereit. Im Rahmen des OZG-Umsetzungsprojekts \"Bürgerbeteiligung und Information\" aus dem Themenfeld \"Bauen & Wohnen\" werden die Komponenten der xPlanBox für die Bereitstellung von räumlichen Planwerken im Internet verwendet.\r\n\r\nAuf den vergangenen FOSSGIS-Konferenzen wurde das Projekt und die Einsatzmöglichkeiten der Software bereits präsentiert. In diesem Jahr sollen die Neuerungen der neuen Version 8.0 insbesondere die Erweiterungen für den Betrieb auf der Kubernetes-Plattform präsentiert werden. Außerdem wird es einen Überblick über zukünftige Entwicklungen im Projekt gegeben.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "CEGD79",
+          "name": "Torsten Friebe",
+          "avatar": null,
+          "biography": "Torsten arbeitet seit fast 25 Jahren mit FOSS. Er begann 1999 mit einer der ersten Implementierungen von OGC Simple Feature Spec mit Java für die Universität Bonn (Deutschland) und betreut heute als Mitglied des Technical Management Committees das OSGeo-Projekt deegree. Derzeit tätig bei lat/lon GmbH, Bonn, Deutschland.",
+          "public_name": "Torsten Friebe",
+          "guid": "1c540a5e-631b-58fb-a8ef-5876fbc10dce",
+          "url": "https://pretalx.com/fossgis2025/speaker/CEGD79/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/3XHXZN/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/3XHXZN/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/3XHXZN/resources/FOSSGIS_2025_X_tfl8w84.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "8eec51fd-5abf-5c72-adef-f4d882682b81",
+      "code": "NZSLWL",
+      "id": 57514,
+      "logo": null,
+      "date": "2025-03-27T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-57514-modellgetriebene-xplanung-von-uml-zur-ogc-api-for-features",
+      "url": "https://pretalx.com/fossgis2025/talk/NZSLWL/",
+      "title": "Modellgetriebene XPlanung: von UML zur OGC API for Features",
+      "subtitle": "",
+      "track": "Offene Standards, z.B. INSPIRE, OGC",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Basierend auf einem modellgetriebenen Ansatz können komplexe XPlanungsdaten mit dem Python-Projekt XPlan-Tools verarbeitet und manipuliert werden. So können sie u.a. in eine PostGIS-Datenbank überführt und mit ldproxy ohne Weiteres per OGC API for Features veröffentlicht werden. Darüber hinaus sind eine Versionsmigration (XPlanung v5 auf v6) sowie die Transformation der XPlanungsdaten nach INSPIRE PLU implementiert.",
+      "description": "[XPlanung](https://xleitstelle.de/xplanung) ist ein komplexer Standard, dessen Implementierung in tabellarisch/SF-0 orientierten Systemen herausfordernd ist und auf Grund des vergleichsweise kurzen Release-Zyklus des Standards ggf. einen hohen Pflegeaufwand nach sich zieht. Die [XLeitstelle Planen und Bauen](https://xleitstelle.de) setzt daher auf einen modellgetriebenen Ansatz, bei dem Implementierungsmodelle möglichst weitgehend aus dem zugrundeliegenden konzeptionellen (UML) Modell generiert werden.\r\n\r\nFür das Projekt XPlan-Tools wird dabei mit [Shapechange](https://github.com/ShapeChange/ShapeChange) ein JSON Schema für XPlanung erzeugt, das wiederum mit dem [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) in eine Python-Repräsentation auf Basis von [Pydantic](https://github.com/pydantic/pydantic) überführt wird. Diese bildet die Grundlage für die (De-)Serialisierung von XPlanungsdaten (mit integrierter Validierung) aus bzw. in verschiedene Encodings wie das \"klassische\" (XPlan)GML, aber auch JSON-FG, GeoPackage sowie PostGIS- und SpatiaLite-DBs. \r\n\r\nAuf die gleiche Weise wurde auch ein INSPIRE Pydantic Model erzeugt, mit Hilfe dessen die Transformation von XPlanGML in INSPIRE-PLU realisiert wurde. Mittels [ldproxy](https://github.com/interactive-instruments/ldproxy) und einer ebenfalls per Shapechange erzeugten ldproxy-Konfiguration können die komplexen XPlanungsdaten direkt über verschiedene OGC APIs veröffentlicht werden, vgl. z.B. [hier](https://coretable.ldproxy.net/xplangml_6_0/). Eine QGIS-Integration für die Digitalisierung und Editierung von XPlanungsdaten, bei der Attributformulare aus dem Pydantic Model generiert werden, befindet sich in Entwicklung.\r\n\r\nWie schon auf INSPIRE dürfte sich der Ansatz auf weitere in UML modellierte Anwendungsschemas wie 3A/ALKIS übertragen lassen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "BTUWJE",
+          "name": "Tobias Kraft",
+          "avatar": "https://pretalx.com/media/avatars/BTUWJE_THtjDie.jpg",
+          "biography": "Nach einer Station in der Stadt- und Regionalentwicklung bin ich seit 2020 beim LGV Hamburg im Fachbereich \"Digitalisierung Planen und Bauen\" tätig. Schwerpunkt ist der Standard XPlanung und die Bereitstellung entsprechender Daten über OGC Dienste.",
+          "public_name": "Tobias Kraft",
+          "guid": "5b09b3bd-9c0f-5bbf-921d-c372e2686fa8",
+          "url": "https://pretalx.com/fossgis2025/speaker/BTUWJE/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/NZSLWL/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/NZSLWL/",
+      "attachments": [
+        {
+          "title": "Präsentation PDF",
+          "url": "/media/fossgis2025/submissions/NZSLWL/resources/Modellgetriebe_aynzayC.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "4c3add43-1c78-5858-ab38-61947cf36990",
+      "code": "SCUQEL",
+      "id": 57887,
+      "logo": null,
+      "date": "2025-03-27T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-57887-kinder-karten-open-source",
+      "url": "https://pretalx.com/fossgis2025/talk/SCUQEL/",
+      "title": "Kinder, Karten, Open Source",
+      "subtitle": "",
+      "track": "Ausbildung, Lehre, Open Science",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Wie begeistern wir die nächste Generation für Open Source und OpenStreetMap?\r\n\r\nDer Vortrag soll eine Bestandsaufnahme bieten, was es an Bildungs- und Begeisterungsmaterial und -konzepten für verschiedene Altersgruppen unter 18 zum Raum Erfahren schon gibt. Es ist Zeit zu überlegen, welche Angebote wir machen können und wollen, um daran mit Open Source und OpenStreetMap anzuknüpfen.",
+      "description": "Wie begeistern wir die nächste Generation für Open Source und OpenStreetMap?\r\n\r\nEinerseits hat schon Jochen die Idee zur Mitgliederversammlung gebracht, am Maus-Türöffnertag die Themen kindertauglich zu präsentieren. Und in der Tat haben schon Vierjährige mitunter eine gute Orientierung im Raum, selbst vor dem Lesen lernen. Andererseits hat OpenStreetMap Minderjährige im Hinblick auf die umfangreichen Pflichten der DSVGO erst einmal abgewiesen.\r\n\r\nDer Vortrag soll eine Bestandsaufnahme bieten, was es an Bildungs- und Begeisterungsmaterial und -konzepten für verschiedene Altersgruppen unter 18 zum Raum Erfahren und OpenSource schon gibt. Es ist Zeit zu überlegen, welche Angebote wir machen können und wollen, um daran mit Open Source und OpenStreetMap anzuknüpfen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "KBTFX7",
+          "name": "Dr. Roland Olbricht",
+          "avatar": null,
+          "biography": "Roland ist seit über 15 Jahren vor allem bei OpenStreetMap aktiv. Seit über 10 Jahren ist er dabei als der Entwickler der Overpass API dabei und sitzt aktuell auch im Vorstand der globalen OpenStreetMap Foundation.\r\n\r\nPromoviert hat er in Mathematik. Er arbeitet bei der Firma MENTZ als Software-Entwickler für elektronische Fahrkarten.",
+          "public_name": "Dr. Roland Olbricht",
+          "guid": "f8681c3b-9bbc-589f-a792-ef6eb08a5aca",
+          "url": "https://pretalx.com/fossgis2025/speaker/KBTFX7/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/SCUQEL/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/SCUQEL/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/SCUQEL/resources/kinder_karten_kwgK2eO.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "247daf2a-1f7e-5a4e-824a-2e6c14257c3e",
+      "code": "EANSEP",
+      "id": 58025,
+      "logo": null,
+      "date": "2025-03-27T14:50:00+01:00",
+      "start": "14:50",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58025-openstreetmap-ist-doch-vollstandig",
+      "url": "https://pretalx.com/fossgis2025/talk/EANSEP/",
+      "title": "OpenStreetMap ist doch vollständig …",
+      "subtitle": "",
+      "track": "OpenStreetMap",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "OpenStreetMap ist letztes Jahr 20 Jahre zwar alt geworden. Dennoch ist die Datensammlung weder vollständig noch fertig. Der Erfassungsgrad in den einzelnen Themenfeldern ist regional äußerst unterschiedlich. Der Vortrag zeigt auf, wie man Gegenden und Themen findet, in denen OpenStreetMap noch Aufholbedarf hat. Zielgruppe des Vortrags sind Mapper, die vor Ort Daten erheben möchten. Die gezeigten Methoden eignen sich auch, um spannende Reiseziele zu finden.",
+      "description": "Das OpenStreetMap-Projekt feierte letztes Jahr sein 20-jähriges Jubiläum. Dennoch ist die Datenerfassung weder vollständig noch abgeschlossen. Der Erfassungsgrad in den einzelnen Themenfeldern ist regional sehr unterschiedlich unterschiedlich. Während in manchen Städten fast nur noch Datenpflege möglich ist, fehlen in manchen Dörfern noch die Briefkästen und Straßenbeläge.\r\n\r\nAusgehend von einem Bikepacking-Kurzurlaub des Autors in der Eifel zeigt der Vortrag, wie man Reiseziele für Mapping-Urlaube auswählt. Der geübte Blick auf gerenderte OpenStreetMap-Karten, OSM-Daten, und die Versionsgeschichte zeigt Datenlücken und Pflegebedarf auf. Manuelle Abgleiche mit Luftbildern und Fremdquellen ergänzt das Bild. Schwerpunkt des Vortrags sind Straßen und Wege, markierte Wanderrouten und Points of Interest.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "V3PC3M",
+          "name": "Michael Reichert",
+          "avatar": null,
+          "biography": "Michael trägt seit 13 Jahren als Datenerfasser zum OpenStreetMap-Projekt bei. Er verdient sein Geld als Angestellter in einer Firma, die Software-Entwicklung und Server-Betrieb rund um OpenStreetMap-Daten und -Dienste anbietet. In seiner Freizeit beschäftigt er sich mit Radverkehrsthemen und betreibt die OpenRailwayMap.",
+          "public_name": "Michael Reichert",
+          "guid": "c53e12db-11ba-5b45-8732-099083205532",
+          "url": "https://pretalx.com/fossgis2025/speaker/V3PC3M/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Vortragsfolien online",
+          "url": "https://michreichert.de/projects/fossgis-2025/",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/EANSEP/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/EANSEP/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien als PDF",
+          "url": "/media/fossgis2025/submissions/EANSEP/resources/Folien_OpenStr_6o4xcIc.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "2326e006-9976-5b45-a012-ab48fc2cd331",
+      "code": "FCQVSQ",
+      "id": 58235,
+      "logo": null,
+      "date": "2025-03-27T15:25:00+01:00",
+      "start": "15:25",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58235-overpass-turbo-goes-postgis",
+      "url": "https://pretalx.com/fossgis2025/talk/FCQVSQ/",
+      "title": "Overpass Turbo goes PostGIS",
+      "subtitle": "",
+      "track": "OpenStreetMap",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Der Vortrag stellt einen Dienst vor, der es erlaubt, das weit verbreitete \"Overpass Turbo\"-Webfrontend mit einer PostGIS-Datenbank anstelle einer Overpass-Datenbank zu verwenden und stellt einige Feature- und Performance-Vergleiche an.",
+      "description": "\"Overpass Turbo\" ist aus der OpenStreetMap-Welt kaum wegzudenken - jeder greift zu diesem Web-Dienst, wenn es darum geht, schnell einen Blick auf OpenStreetMap-Daten zu werfen und dabei auch hinter die Fassade der vorberechneten Karten zu blicken. Zeige mir alle italienischen Restaurants in Rom, welche Spielplätze in Kassel haben eine Altersbeschränkung - so etwas geht mit \"Overpass Turbo\" fix und, weil es auf der unter anderen vom FOSSGIS betriebenen Datenbank \"Overpass\" fußt, ohne jede lokale Softwareinstallation.\r\n\r\nWeil das \"Rapid Prototyping\" mit Overpass Turbo so leicht ist, entstehen auch viele kleine und größere Community-Projekte auf Basis von Overpass und seinen zwei etwas kryptischen Abfragesprachen. Viele Threads in Community-Foren, viele Seiten im OSM-Wiki drehen sich darum, wie man mit Overpass dieses oder jenes löst - und einiges davon wäre durchaus mit einer simplen PostGIS-Datenbank genauso gut oder besser möglich. Um \"Rapid Prototyping\" auch auf PostGIS-Basis zu ermöglichen, fehlt aber ein PostGIS-Backend zu Overpass Turbo.\r\n\r\nIn diesem Vortrag werden ein auf PostGIS basierendes Backend für Overpass Turbo sowie die notwendigen Änderungen an Overpass Turbo zur Nutzung dieses Backends präsentiert. Das Backend wird vom Autor in einer öffentlichen \"Ausprobierversion\" betrieben und könnte, wenn es Gefallen findet, künftig auch vom FOSSGIS betrieben werden. Backend sowie Overpass-Patches sind Open Source und werden bis zur Konferenz auf GitHub zur Verfügung stehen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "9GGAN8",
+          "name": "Frederik Ramm",
+          "avatar": "https://pretalx.com/media/avatars/9GGAN8_8EXeAo4.jpg",
+          "biography": "Frederik Ramm ist OpenStreetMap-Urgestein, früheres Vorstandsmitglied des FOSSGIS und der OpenStreetMap Foundation, Mit-Autor des ersten OpenStreetMap-Buches, Mitglied der OpenStreetMap Foundation Data Working Group und einer der Geschäftsführer der Geofabrik GmbH.",
+          "public_name": "Frederik Ramm",
+          "guid": "5e85dbbe-a9f9-55ff-9aea-fae2e859a527",
+          "url": "https://pretalx.com/fossgis2025/speaker/9GGAN8/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/FCQVSQ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/FCQVSQ/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/FCQVSQ/resources/Overpass_Turbo_2T9SRkc.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "d648c857-d4d2-5b0f-bf72-dd18f33f5cc4",
+      "code": "Q9NTDP",
+      "id": 57945,
+      "logo": null,
+      "date": "2025-03-27T16:45:00+01:00",
+      "start": "16:45",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-57945-automatische-veredelung-von-offenen-nahe-echtzeit-daten",
+      "url": "https://pretalx.com/fossgis2025/talk/Q9NTDP/",
+      "title": "Automatische Veredelung von offenen Nahe-Echtzeit-Daten",
+      "subtitle": "",
+      "track": "Raum-zeitliche Analysen und Modelle",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Vorgestellt wird eine Plattform zur Echtzeit-Verarbeitung von Erdbeobachtungs- und Wetterdaten, die in der Bewältigung von Extremereignissen unterstützt. Open-Data-Quellen wie EFAS, GLOFAS und DWD-Radardaten werden automatisiert auf einer skalierbaren Kubernetes-Plattform verarbeitet und z.B. den Versicherungsunternehmen nahezu in Echtzeit zur Verfügung gestellt. Der Vortrag erklärt das Plattformkonzept und den Mehrwert für verschiedene Branchen.",
+      "description": "Automatische Veredelung von offenen Nahe-Echtzeit-Daten zu einem hydro-meteorologischen Informationsprodukt \r\n\r\nAusgehend von der verheerenden Sturzflut im Ahrtal im Juli 2021 hat die Versicherungsbranche den dringenden Bedarf festgestellt, auf derartige Ereignisse besser vorbereitet zu sein. Durch den Klimawandel wird das Auftreten von Extremereignissen wahrscheinlicher, so dass das Risiko von Versicherungsrelevanten Ereignissen steigt.\r\n\r\nDaher hat die Versicherungsbranche das Ziel ausgegeben, eine Plattform zur Verarbeitung beliebiger Erdbeobachtungsdaten für die kurzfristige Integration von Echtzeitdaten von aktuellen Überflutungs- und Katastrophenereignissen zu erarbeiten und in Betrieb zu nehmen. In der ersten Ausbaustufe wurden Open Data Satelliten- und Wetter-Daten von Flood Awareness Systeme (wie EFAS, GLOFAS) und Flood Monitoring Systeme (GFM, EMSR), sowie Radardaten des DWD mit ihren jeweils unterschiedlichen Charakteristika untersucht, bewertet und als Branchen-Informationsprodukt bereitgestellt wird.\r\n\r\nDas Ziel ist es, schnellstmöglich und vollautomatisiert eine kontinuierliche Bereitstellung der genannten Inputdaten zu gewährleisten. Das resultierende Informationsprodukt beinhaltet die klassifizierten Datenquellen sowie die verwendeten Rohdaten und wird in nahezu Echtzeit („Near-Real-Time“ (NRT)) im WebGIS  für weitere Analysen den Endkunden bereitgestellt. \r\n\r\nDas gezeigte Plattformpattern implementiert die Datenstromveredelung mit umfangreichen Prozessierungen auf einer maximal skalierbaren Kubernetes-Plattform. Mithilfe von automatisierten Argo-Workflows wird täglich ein Informationsprodukt aus Vorhersage-, Überflutungs- und Verdachtsflächen erzeugt und über eine API für die Weiterverarbeitung angeboten.\r\n\r\nDer Vortrag stellt das Vorgehenspattern der NRT-Plattform und ihre eingebundenen Datenquellen sowie Nutzen und Mehrwerte für die Konsumenten der Datenaggregate vor und erlaubt einen tiefen Blick in die OpenSource-Maschinenhalle.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "BMVUCR",
+          "name": "Stephan Holl",
+          "avatar": "https://pretalx.com/media/avatars/BMVUCR_6KTNtL2.png",
+          "biography": "Nach dem Geographie- und Landschaftsökologie-Studium arbeitet Stephan Holl als Senior Project Manager bei der con terra GmbH und beschäftigt sich primär mit GeoIT-Themen rund um Versicherungen, Makler und Banken mit einem engen Bezug zu frei nutzbaren Geodaten.",
+          "public_name": "Stephan Holl",
+          "guid": "2d7846c1-1061-546c-bafa-eceac777b251",
+          "url": "https://pretalx.com/fossgis2025/speaker/BMVUCR/"
+        },
+        {
+          "code": "CQA73P",
+          "name": "Christian Autermann",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Christian Autermann",
+          "guid": "f4a3d51c-50f0-5d86-b5c8-553256e55c80",
+          "url": "https://pretalx.com/fossgis2025/speaker/CQA73P/"
+        },
+        {
+          "code": "Z3STD3",
+          "name": "Benedikt Gräler",
+          "avatar": "https://pretalx.com/media/avatars/Z3STD3_u5Ra0d1.jpg",
+          "biography": "Nach Mathematik Diplom und Promotion in der Geoinformatik nun als Spatial Data Scientist und Geschäftsführer der 52°North GmbH tätig.",
+          "public_name": "Benedikt Gräler",
+          "guid": "7c0dfad4-4802-520e-ac26-4b8b768ef287",
+          "url": "https://pretalx.com/fossgis2025/speaker/Z3STD3/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/Q9NTDP/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/Q9NTDP/",
+      "attachments": [
+        {
+          "title": "Folien als PDF",
+          "url": "/media/fossgis2025/submissions/Q9NTDP/resources/2025-03-27_NRT_i3PFVAg.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "4d1eebf1-1df9-5c6d-b7a2-874b04824462",
+      "code": "W8A9EE",
+      "id": 56913,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/W8A9EE/SAPOS-GEPOS_sjdjqqj.png",
+      "date": "2025-03-27T17:20:00+01:00",
+      "start": "17:20",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-56913-amtliche-satellitenpositionierung-2-0",
+      "url": "https://pretalx.com/fossgis2025/talk/W8A9EE/",
+      "title": "Amtliche Satellitenpositionierung 2.0",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Der neue Satellitenpositionierungsdienst des Bundes und der Länder ermöglicht die Positionierung mit einer Genauigkeit weniger Zentimeter als niederschwelliges Infrastrukturangebot für jeden als open data in Echtzeit.",
+      "description": "Die stetig steigenden Nutzerzahlen, insbesondere außerhalb der klassischen Vermessungsbranche machen Satellitenpositionierungsdienste zu einem sehr wichtigen Infrastrukturbeitrag der Geoinformationsverwaltungen und sind ein positives Beispiel für die Digitalisierung. Diese positive Entwicklung wird sich in Zukunft fortsetzen. Mit der Open Data Bereitstellung in den vergangenen Jahren verzeichnet SAPOS eine immer noch stetig hohe Zunahme der Nutzerzahlen. \r\nDamit die amtlichen GNSS-Korrekturdatendienste diesen Entwicklungen folgen und einen deutlich größeren Nutzerkreis bedienen können, hat die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) die Einführung eines neuen Bund-Länder-Dienstes beschlossen. Die in diesem Dienst verwendete PPP-RTK-Technologie hat das Potential einer Bereitstellung von Korrekturdaten an eine nahezu unbegrenzte Anzahl von Nutzern und öffnet sich somit perspektivisch auch für Massenmarkt-Anwendungen. Um eine hohe Verfügbarkeit zu erreichen, erfolgt die Berechnung der Korrekturdaten redundant sowohl durch das Bundesamt für Kartographie und Geodäsie (BKG) als auch durch die von der Zentralen Stelle SAPOS (ZSS) betriebene Instanz der Länder (ZSS-Instanz). Der Dienst ist seit dem 01.01.2025 als open data online.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "BSA3NX",
+          "name": "Andreas Gerschwitz",
+          "avatar": "https://pretalx.com/media/avatars/BSA3NX_sRWNyaf.jpg",
+          "biography": "1986-1992 Studium der Geodäsie in Braunschweig und Bonn\r\n1992-1994 Referendariat beim Land Niedersachsen bei der Bez.Reg. Hannover\r\nSeit 1994 Mitarbeiter im damaligen Landesvermessungsamt Schleswig-Holstein in der Abteilung Grundlagenvermessung\r\nSeit 1998 zuständig für den Raumbezug in Schleswig-Holstein und seitdem Mitglied im Arbeitskreis Raumbezug\r\nSeit 2009 Prüfer am Oberprüfungsamt\r\nSeit 2011 Leiter Abteilung Landesvermessung im LVermGeo SH\r\nSeit 2022 Leiter des AdV-Arbeitskreises Raumbezug",
+          "public_name": "Andreas Gerschwitz",
+          "guid": "aeb49283-9360-5f55-8e42-45215bd781a7",
+          "url": "https://pretalx.com/fossgis2025/speaker/BSA3NX/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/W8A9EE/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/W8A9EE/",
+      "attachments": [
+        {
+          "title": "Vortrag Amtliche Satellitenpositionierung 2.0",
+          "url": "/media/fossgis2025/submissions/W8A9EE/resources/fossgis_2025_G_ZrakdHE.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "b923d8c0-e3bf-5312-a369-43b92fc96096",
+      "code": "CFANYR",
+      "id": 58105,
+      "logo": null,
+      "date": "2025-03-27T17:55:00+01:00",
+      "start": "17:55",
+      "duration": "00:20",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-58105-neue-methoden-zur-autarken-indoor-positionsbestimmung",
+      "url": "https://pretalx.com/fossgis2025/talk/CFANYR/",
+      "title": "Neue Methoden zur autarken Indoor-Positionsbestimmung",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Wie kann die eigene Position in einem Gebäude bestimmt werden, wenn jede bekannte Infrastruktur fehlt? Im Projekt „Denied Areas“ erforscht das Bundesamt für Kartographie und Geodäsie innovative Wege zur autarken Positionsbestimmung – unabhängig von WLAN und Bluetooth. Mithilfe tragbarer Sensoren werden potenzielle Lösungen untersucht und erprobt. Erleben Sie spannende Einblicke in aktuelle Ansätze und Technologien im Bereich der Indoor-Positionsbestimmung und -Navigation.",
+      "description": "Wie können sich Personen schnell und präzise im Inneren eines Gebäudes orientieren? Welche Wege führen am effizientesten zum nächsten Ausgang oder zu einem bestimmten Raum? Diese Fragen sind nicht nur für die alltägliche Orientierung, sondern vor allem in Notfallsituationen wie Feuerwehreinsätzen oder im Katastrophenschutz von zentraler Bedeutung. Seit 2021 beschäftigt sich das Bundesamt für Kartographie und Geodäsie (BKG) im Projekt „Denied Areas“ mit dem Thema der Positionsbestimmung im Innenbereich. Die Besonderheit hierbei: Es soll nicht auf bestehende Infrastruktur wie WLAN oder Bluetooth-Beacons zurückgegriffen werden.\r\n\r\nUnser Ansatz konzentriert sich stattdessen auf die Nutzung tragbarer Sensoren, die eine eigenständige Orientierung in Gebäuden ermöglichen. Hierzu untersuchen wir verschiedene Technologien und Methoden, um die Vorteile der jeweiligen Sensoren zu nutzen und eine Sensorfusion durchzuführen. Bei dieser Technik werden Daten von mehreren Kleinstsensoren, darunter Barometer, Beschleunigungssensoren, Gyroskope oder Kameras, kombiniert, um die individuellen Schwächen der einzelnen Sensoren zu kompensieren und präzisere Positionsdaten zu erhalten.\r\n\r\nIm Projekt untersuchen und testen wir eine breite Palette an Systemen und Geräten, von handelsüblichen Smartphones über speziell entwickelte Prototypen auf Grundlage von Mikroprozessoren bis hin zu fortschrittlichen Inertialnavigationssystemen. Zusätzlich profitieren wir vom Austausch mit wissenschaftlichen Partnern, welche wichtige Impulse für neue Ansätze und Technologien liefern. Unsere bisherigen Forschungsergebnisse haben uns ein detailliertes Verständnis über die Stärken und Schwächen der verschiedenen Sensoren und Methoden in der Praxis vermittelt.\r\n\r\nIn unserem Vortrag möchten wir Einblicke in unsere bisherigen Erkenntnisse geben und die Potenziale der untersuchten Technologien für konkrete Anwendungen wie Rettungseinsätze und Katastrophenschutz erörtern. Darüber hinaus werden wir die praktischen Anforderungen diskutieren, die für einen erfolgreichen Einsatz erfüllt sein müssen, und einen Ausblick auf mögliche zukünftige Lösungen für die autarke Indoor-Navigation geben.",
+      "recording_license": "",
+      "do_not_record": true,
+      "persons": [
+        {
+          "code": "CJ9SFD",
+          "name": "Philipp Fiedler",
+          "avatar": null,
+          "biography": "Softwareentwickler beim Projekt Denied Areas im Bundesamt für Kartographie und Geodäsie",
+          "public_name": "Philipp Fiedler",
+          "guid": "fda7d221-813a-5621-937f-29d86df692f9",
+          "url": "https://pretalx.com/fossgis2025/speaker/CJ9SFD/"
+        },
+        {
+          "code": "8VTAWB",
+          "name": "Benjamin Würzler",
+          "avatar": "https://pretalx.com/media/avatars/8VTAWB_nX6bhOv.jpg",
+          "biography": "Projekt- und Produktmanager in der angewandten Forschung und Entwicklung beim Bundesamt für Kartographie und Geodäsie",
+          "public_name": "Benjamin Würzler",
+          "guid": "9bbcc545-a99c-599d-a57a-ad3d29fe3db2",
+          "url": "https://pretalx.com/fossgis2025/speaker/8VTAWB/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/CFANYR/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/CFANYR/",
+      "attachments": [
+        {
+          "title": "Neue Methoden zur autarken Indoor-Positionsbestimmung",
+          "url": "/media/fossgis2025/submissions/CFANYR/resources/2025-03-27_FOS_3W9AAw7.pdf",
+          "type": "related"
+        }
+      ]
+    }
+  ]
+}

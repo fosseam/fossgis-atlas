@@ -1,0 +1,206 @@
+[
+  {
+    "id": 58140,
+    "title": "Routing, aber mehr explorativ statt automatisch",
+    "track": "Routing und Mobilität",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Routing, Navigation, Mobilität",
+      "position": "02|02|01",
+      "tags": [
+        "Routing",
+        "Karten",
+        "Open Source",
+        "Erkunden",
+        "Visualisierung"
+      ]
+    }
+  },
+  {
+    "id": 58082,
+    "title": "Flexibles Open Source Routing mit Valhalla",
+    "track": "Routing und Mobilität",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Routing, Navigation, Mobilität",
+      "position": "02|02|01",
+      "tags": [
+        "Valhalla",
+        "Routing",
+        "Open Source",
+        "Profile",
+        "Fahrrad"
+      ]
+    }
+  },
+  {
+    "id": 58079,
+    "title": "Transitous - Freies Public Transport Routing",
+    "track": "Routing und Mobilität",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Routing, Navigation, Mobilität",
+      "position": "02|02|01",
+      "tags": [
+        "ÖPNV",
+        "Routing",
+        "GTFS",
+        "OpenTripPlanner",
+        "MOTIS"
+      ]
+    }
+  },
+  {
+    "id": 57842,
+    "title": "Barrierefreies Routing mit MOTIS",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Routing, Navigation, Mobilität",
+      "position": "02|02|01",
+      "tags": [
+        "MOTIS",
+        "Routing",
+        "Barrierefreiheit",
+        "Aufzüge",
+        "OpenStreetMap"
+      ]
+    }
+  },
+  {
+    "id": 58295,
+    "title": "Online-Karten für die Verkehrswende mit OpenData und FOSS",
+    "track": "Routing und Mobilität",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Kartografische Gestaltung & Gegenkarten",
+      "position": "03|01|03",
+      "tags": [
+        "Counter Mapping",
+        "Open Data",
+        "Kiel",
+        "Verkehrswende",
+        "FOSS"
+      ]
+    }
+  },
+  {
+    "id": 67092,
+    "title": "Querying the world with QLever",
+    "track": null,
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Wissenschaftliche & semantische Methoden",
+      "position": "04|01|03",
+      "tags": [
+        "SPARQL",
+        "Wikidata",
+        "QLever",
+        "Open Knowledge",
+        "Wissen"
+      ]
+    }
+  },
+  {
+    "id": 57539,
+    "title": "Fahrzeugortung DB Regio – mehr als GPS",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "FOSS4G in Energie & Infrastruktur",
+      "position": "03|01|01",
+      "tags": [
+        "GPS",
+        "Zugverfolgung",
+        "Open Source",
+        "Bahn",
+        "Datenfluss"
+      ]
+    }
+  },
+  {
+    "id": 58239,
+    "title": "DFS Deutsche Flugsicherung: Open Source und Sicherheit bei UAS? Ein Erfahrungsbericht",
+    "track": "Geodatenmanagement",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "FOSS4G in Energie & Infrastruktur",
+      "position": "03|01|01",
+      "tags": [
+        "Drohnen",
+        "UAS",
+        "FOSS",
+        "DFS",
+        "Luftraum"
+      ]
+    }
+  },
+  {
+    "id": 57031,
+    "title": "Geodatenmanagement in einer Baubehörde (WNA Nord Ostsee Kanal)",
+    "track": "Geodatenmanagement",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "GIS in Verwaltung & Prozesse",
+      "position": "03|03|01",
+      "tags": [
+        "QGIS",
+        "Baufeld",
+        "Kampfmittel",
+        "Nord-Ostsee-Kanal",
+        "Plugins"
+      ]
+    }
+  },
+  {
+    "id": 57307,
+    "title": "QField: Neue Strategie und Anwendungspotentiale",
+    "track": "Grundlagen Open-Source-GIS und OpenStreetMap",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "QField, Mergin, Mobile Mapping",
+      "position": "02|04|02",
+      "tags": [
+        "QField",
+        "Feldarbeit",
+        "Open Source",
+        "Nachhaltigkeit",
+        "Entwicklung"
+      ]
+    }
+  },
+  {
+    "id": 58026,
+    "title": "SMASH, Stand der Technik der digitalen Feldkartierungs-app",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "QField, Mergin, Mobile Mapping",
+      "position": "02|04|02",
+      "tags": [
+        "SMASH",
+        "Mobile Mapping",
+        "PostGIS",
+        "Formulare",
+        "Survey Server"
+      ]
+    }
+  },
+  {
+    "id": 57817,
+    "title": "MerginMaps - Mobile Geodatenerfassung beim Regionalverband Ruhr",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "QField, Mergin, Mobile Mapping",
+      "position": "02|04|02",
+      "tags": [
+        "MerginMaps",
+        "QGIS",
+        "Mobile Mapping",
+        "Versionierung",
+        "Baumkontrolle"
+      ]
+    }
+  }
+]

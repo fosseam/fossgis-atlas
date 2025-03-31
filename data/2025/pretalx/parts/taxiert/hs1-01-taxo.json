@@ -1,0 +1,171 @@
+[
+  {
+    "id": 59156,
+    "title": "Eröffnung",
+    "track": null,
+    "type": "Sonstiges",
+    "taxo": {
+      "sub": "Community & Konferenzkultur",
+      "position": "04|03|01",
+      "tags": [
+        "Begrüßung",
+        "FOSSGIS",
+        "Eröffnung",
+        "Konferenz"
+      ]
+    }
+  },
+  {
+    "id": 65632,
+    "title": "Keynote und Begrüßung",
+    "track": null,
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Community & Konferenzkultur",
+      "position": "04|03|01",
+      "tags": [
+        "Keynote",
+        "Verwaltung",
+        "Begrüßung",
+        "Digitalisierung",
+        "FOSSGIS"
+      ]
+    }
+  },
+  {
+    "id": 57803,
+    "title": "25. Jahre FOSSGIS e.V. - eine Zeitreise durch das Vereinsleben",
+    "track": "25 Jahre FOSSGIS e.V.",
+    "type": "Sonstiges",
+    "taxo": {
+      "sub": "Community & Konferenzkultur",
+      "position": "04|03|01",
+      "tags": [
+        "FOSSGIS e.V.",
+        "Jubiläum",
+        "Verein",
+        "Rückblick",
+        "Engagement"
+      ]
+    }
+  },
+  {
+    "id": 58249,
+    "title": "Eine Reise durch die Geoportale Deutschlands",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Geodateninfrastrukturen (GDI)",
+      "position": "01|01|01",
+      "tags": [
+        "Geoportale",
+        "GDI",
+        "Nutzerperspektive",
+        "Feldgrenzen",
+        "Open Data"
+      ]
+    }
+  },
+  {
+    "id": 58280,
+    "title": "GIS-Schulprojekte in Zusammenarbeit mit kommunalen Gebietskörperschaften",
+    "track": "Ausbildung, Lehre, Open Science",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "GIS in Lehre, Schule & Hochschule",
+      "position": "04|01|02",
+      "tags": [
+        "QGIS",
+        "PostGIS",
+        "Schule",
+        "Kommunen",
+        "Bildung",
+        "Vermessung"
+      ]
+    }
+  },
+  {
+    "id": 58131,
+    "title": "Open Data in D: Perfekte Idee, halbherzige Umsetzung? Ein Erfahrungsbericht.",
+    "track": "Open Data, Datenschutz und Lizenzen",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Lizenzen & Nutzbarkeit",
+      "position": "04|02|01",
+      "tags": [
+        "Open Data",
+        "GeoBasis",
+        "QGIS-Plugin",
+        "Erfahrungsbericht",
+        "Verfügbarkeit"
+      ]
+    }
+  },
+  {
+    "id": 58227,
+    "title": "Open Data des BKG (II)",
+    "track": "Open Data, Datenschutz und Lizenzen",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Lizenzen & Nutzbarkeit",
+      "position": "04|02|01",
+      "tags": [
+        "BKG",
+        "Open Data",
+        "HVD-Verordnung",
+        "High Value Datasets"
+      ]
+    }
+  },
+  {
+    "id": 57856,
+    "title": "Small seeds - FOSS Communities stärken!",
+    "track": null,
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Digitale Souveränität & Open Source Kultur",
+      "position": "04|01|01",
+      "tags": [
+        "FOSS",
+        "Community",
+        "Förderung",
+        "Prototype Fund",
+        "Nachhaltigkeit"
+      ]
+    }
+  },
+  {
+    "id": 58262,
+    "title": "Governance von Open-Source-Software im öffentlichen Sektor: Make, Buy or Contribute?",
+    "track": null,
+    "type": "Vortrag mit Paper im Academic Track",
+    "taxo": {
+      "sub": "Digitale Souveränität & Open Source Kultur",
+      "position": "04|01|01",
+      "tags": [
+        "OSS",
+        "Governance",
+        "Verwaltung",
+        "Masterportal",
+        "Akademisch"
+      ]
+    }
+  },
+  {
+    "id": 58038,
+    "title": "25 Jahre FOSSGIS e.V. - was haben wir geschafft und wo wollen wir hin",
+    "track": "25 Jahre FOSSGIS e.V.",
+    "type": "Sonstiges",
+    "taxo": {
+      "sub": "Community & Konferenzkultur",
+      "position": "04|03|01",
+      "tags": [
+        "FOSSGIS",
+        "Diskussion",
+        "Vergabe",
+        "Zukunft",
+        "Politik"
+      ]
+    }
+  }
+]

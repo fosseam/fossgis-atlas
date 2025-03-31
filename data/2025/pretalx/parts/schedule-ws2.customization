@@ -1,0 +1,380 @@
+{
+  "room": "ws2",
+  "events": [
+    {
+      "guid": "d3a0ec67-94e8-5953-81da-f214d91ace03",
+      "code": "KGFCGH",
+      "id": 56743,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/KGFCGH/MapbenderDevices_ocLTnWr.png",
+      "date": "2025-03-26T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "01:30",
+      "room": "WS2 (107)",
+      "slug": "fossgis2025-56743-mapbender-workshop",
+      "url": "https://pretalx.com/fossgis2025/talk/KGFCGH/",
+      "title": "Mapbender Workshop",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Mapbender ist eine WebGIS-Clientsuite und ermöglicht das einfache Management von Kartendiensten, Anwendungsoberflächen und deren Zugriff. Mit Mapbender haben Sie die Möglichkeit individuelle Anwendungen zu erzeugen, ohne eine Zeile Code schreiben zu müssen.",
+      "description": "Der Workshop richtet sich an Einsteiger und Fortgeschrittene.\r\n\r\nIm Workshop wird gezeigt, wie mit Mapbender mit wenigen Klicks eine eigene WebMapping-Anwendung erstellt werden kann (OGC WMS einbinden, Ebenenbaum, Legende, Druck & mehr).\r\n\r\nDer Workshop wird online auf einer Mapbender-Installation auf einem Server des Projekts durchgeführt.\r\n\r\n### Was ist Mapbender?\r\nIst eine Software zur Erstellung von webbasierten Kartenanwendungen. Mapbender bietet mächtige Werkzeuge zur Erfassung, Anzeige, Bearbeitung und Verwaltung von Geodaten.\r\n\r\nWie ein Content-Management-System (CMS) für Geodaten und Geodienste verfügt Mapbender über eine komfortable webbasierte Oberfläche, um individuelle Anwendungen zu erstellen.\r\n\r\nMit nur einer Installation können beliebig viele Anwendungen angelegt und individuell gestaltet werden.\r\n\r\nDarüber hinaus verfügt Mapbender über eine Benutzerverwaltung und ein Rechtemanagement, um den Zugriff auf Anwendungen zu steuern.\r\n\r\nDas flexible Rechtemanagement, die Verwaltung von Datenquellen und Kartendiensten, sowie Designanpassung der Oberfläche bieten bieten eine große Gestaltungsfreiheit beim Aufbau von Anwendungen.\r\n\r\n### Die Themen des Workshops sind:\r\n- Erstellung einer eigenen Anwendung\r\n- Vorstellung der Mapbender Funktionalität\r\n- Verwaltung von WMS in Mapbender\r\n- Rollen und Rechte in Mapbender\r\n- Drucken & Anpassung des Drucklayouts\r\n- Erstellung individueller Suchen\r\n- Datenerfassung mit dem Digitizer\r\n\r\nhttps://mapbender.org",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "XTSTXB",
+          "name": "Astrid Emde",
+          "avatar": "https://pretalx.com/media/avatars/XTSTXB_0B7DQZx.jpg",
+          "biography": "Astrid Emde war bisher bei allen FOSSGIS-Konferenzen dabei und freut sich auf die FOSSGIS 2025 in Münster.\r\n\r\nSie befasst sich seit vielen Jahren mit Geodaten und FOSSGIS und hat schon zahlreiche Projekte vor allem im WebGIS-Bereich umgesetzt.\r\n\r\nAstrid Emde arbeitet bei der WhereGroup in Bonn und hat schon viele Workshops und Präsentationen zu Mapbender, MapServer, GeoServer, PostgreSQL/PostGIS, OWS oder allgemein zum Aufbau einer GDI gehalten. Sie ist Dozentin der FOSS Academy, dem Schulungsinstitut der WhereGroup\r\n\r\nSeit vielen Jahren engagiert sie sich im Mapbender-Projekt und gehört zum Mapbender Team und dem Mapbender PSC (Project Steering Committee).\r\n\r\nAstrid Emde ist in der OSGeo Foundation aktiv. Sie ist 2010 zum Charter Member und war von 2017-2021 im OSGeo Board of Directors (Vorstand der OSGeo). Sie ist OSGeo Secretary und ist darüber hinaus im Bereich Marketing, Presse, Community Meetings und OSGeoLive aktiv. 2018 erhielt sie für ihr Engagement den Sol Katz Award der OSGeo.\r\n\r\nAuch im FOSSGIS e.V. ist Astrid Emde aktiv. Sie gehört zum Team der jährlich stattfindenden FOSSGIS-Konferenz, engagiert sich in der Vereins-Öffentlichkeitsarbeit und der Organisation von Community Events (https://fossgis.de).",
+          "public_name": "Astrid Emde",
+          "guid": "715f48b7-cddf-5338-9c54-bcb1ffaef50f",
+          "url": "https://pretalx.com/fossgis2025/speaker/XTSTXB/"
+        },
+        {
+          "code": "W9QUKB",
+          "name": "Thekla Wirkus",
+          "avatar": "https://pretalx.com/media/avatars/W9QUKB_s1wZhbc.png",
+          "biography": "Thekla Wirkus befasst sich seit vielen Jahren mit der Umsetzung von WebGIS-Projekten mit OpenSource-Software. Sie weist Erfahrungen in MapServer, PostgreSQL und PostGIS,QGIS, PostNAS Suite,  Mapbender, QGIS Server und MapProxy auf. \r\n\r\nSeit vielen Jahren arbeitet sie bei der WhereGroup in Bonn und ist Dozentin der FOSS Academy, dem Schulungsinstitut der WhereGroup\r\n\r\nSie gehört zum Mapbender-Team, ist an der Weiterentwicklung des Open-Source-Projektes involviert und setzt seit Jahren Mapbender-Projekte um.\r\n\r\nEin weiterer Schwerpunkt ihrer Arbeit liegt in der Umsetzung und Verarbeitung von ALKIS-Daten. Sie ist Mitglied in der PostNAS-Suite-Community.",
+          "public_name": "Thekla Wirkus",
+          "guid": "34701a65-f73d-58f4-acec-6fd7d7443cf2",
+          "url": "https://pretalx.com/fossgis2025/speaker/W9QUKB/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Folien auf Github",
+          "url": "https://github.com/astroidex/presentations/blob/master/FOSSGIS2025/fossgis-2025-mapbender-workshop-emde-wirkus.pdf",
+          "type": "related"
+        },
+        {
+          "title": "Mapbender Workshopunterlagen",
+          "url": "https://github.com/astroidex/presentations/tree/master/FOSSGIS2025",
+          "type": "related"
+        },
+        {
+          "title": "Mapbender Workshopunterlagen",
+          "url": "https://github.com/astroidex/presentations/tree/master/FOSSGIS2025",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/KGFCGH/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/KGFCGH/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/KGFCGH/resources/fossgis-2025-m_8DIY31f.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "3b3621ac-1132-5222-a344-4217fd2aa5af",
+      "code": "37LJMR",
+      "id": 58051,
+      "logo": null,
+      "date": "2025-03-26T16:30:00+01:00",
+      "start": "16:30",
+      "duration": "01:30",
+      "room": "WS2 (107)",
+      "slug": "fossgis2025-58051-datenschutz-und-geografische-informationen",
+      "url": "https://pretalx.com/fossgis2025/talk/37LJMR/",
+      "title": "Datenschutz und geografische Informationen",
+      "subtitle": "",
+      "track": null,
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Der Workshop beschäftigt sich mit den Besonderheiten des Datenschutzrechts im Bereich der geografischen Informationen. Angesprochen werden verschiedene Aspekte, die es beim Umgang mit raumbezogenen personenbezogenen Daten zu beachten gilt.",
+      "description": "Die Georeferenzierung von unterschiedlichsten Fachinformationen mit der Möglichkeit diese über die geografische Position in Beziehung zueinander zu setzen, macht das besondere wirtschaftliche Potenzial geografischer Informationen aus.\r\n\r\nSobald hier personenbezogene Informationen ins Spiel kommen, sind an die Verarbeitung geografischer Informationen besondere Anforderungen zu stellen.\r\n\r\nBei der Verknüpfung von Sachinformationen mit Grundstücken oder Adressen ist die Abgrenzung zwischen Sachinformation und personenbezogener Information besonders schwierig. Ein Personenbezug lässt sich hier über die entsprechenden Register (Kataster, Grundbuch) oder Adressverzeichnisse zu Eigentümern und Mietern herstellen.\r\n\r\nDer Workshop gibt Anhaltspunkte für die Abgrenzung von personenbezogenen und sachbezogenen Informationen im Zusammenhang mit Grundstücken.\r\n\r\nLiegen personenbezogenen geografische Informationen vor, so werden die formellen und materiellen Anforderungen der Datenschutzgrundverordnung an die Datenverarbeitung vorgestellt. Die soll Verarbeitern geografischer Informationen in die Lage versetzen, beurteilen zu können, ob im Hinblick auf den Datenschutz Handlungsbedarf besteht.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "AXN3UV",
+          "name": "Falk Zscheile",
+          "avatar": null,
+          "biography": "Sich für Datenschutz begeisternder Beitragender bei OpenStreetMap.",
+          "public_name": "Falk Zscheile",
+          "guid": "c73b4423-d7d4-5828-b995-6e4be8aedbe2",
+          "url": "https://pretalx.com/fossgis2025/speaker/AXN3UV/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/37LJMR/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/37LJMR/",
+      "attachments": []
+    },
+    {
+      "guid": "5c44b592-d7d3-58ed-af7a-c18f0d81b273",
+      "code": "HA3CRH",
+      "id": 58124,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/HA3CRH/Pic12-Apache-Superset-30_9rhJINZ.png",
+      "date": "2025-03-27T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "01:30",
+      "room": "WS2 (107)",
+      "slug": "fossgis2025-58124-erstellen-von-bi-dashboards-mit-apache-superset",
+      "url": "https://pretalx.com/fossgis2025/talk/HA3CRH/",
+      "title": "Erstellen von BI-Dashboards mit Apache Superset",
+      "subtitle": "",
+      "track": "Kartographie und Visualisierung",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Superset ist eine Open-Source Business-Intelligence-Plattform, die durch interaktive Datenvisualisierungen und Dashboards eine schnelle Exploration raum-zeitlicher Daten ermöglicht. In dem Workshop wird den Teilnehmenden ein Überblick über die Basis-Funktionalitäten von Superset - wie die Integration von eigenen Daten - und die Möglichkeiten der Erstellung eigener Visualisierungen von zeitlichen Trends sowie geographischer Muster gegeben.",
+      "description": "Superset ist eine Open-Source Business-Intelligence-Plattform, die für interaktive Datenvisualisierungen und Dashboards entwickelt wurde. Es bietet eine benutzerfreundliche Oberfläche für Datenanalysen, die es NutzerInnen ermöglicht, ohne tiefgehende Programmierkenntnisse aussagekräftige Dashboards zu erstellen. Durch eine intuitive Drag-and-Drop-Oberfläche und die Unterstützung gängiger Datenbanken ermöglicht Superset eine schnelle Datenexploration und -visualisierung. Superset unterstützt bereits \"out-of-the-box\" eine Vielzahl von Visualisierungsoptionen für diverse Diagrammtypen oder Metriken. Für die Integration von Geodaten und OGC-Diensten existiert ein Plugin, welches die Untersützung von u.a. Kartodiagrammen und Choroplethenkarten bereitstellt und auf dem OSGeo Community Projekt GeoStyler basiert.\r\nIn dem Workshop wird den Teilnehmenden ein Überblick über die Basis-Funktionalitäten von Superset - wie die Integration von eigenen Daten - und die Möglichkeiten der Erstellung eigener Visualisierungen von zeitlichen Trends sowie geographischer Muster gegeben. Vorkenntnisse in Superset sind nicht notwendig.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "RTASYG",
+          "name": "Jan Suleiman",
+          "avatar": "https://pretalx.com/media/avatars/RTASYG_LWn7Uam.jpg",
+          "biography": null,
+          "public_name": "Jan Suleiman",
+          "guid": "5e87329d-5486-5d90-b1d1-6ad93fde058b",
+          "url": "https://pretalx.com/fossgis2025/speaker/RTASYG/"
+        },
+        {
+          "code": "U7QH7V",
+          "name": "Daniel Koch",
+          "avatar": "https://pretalx.com/media/avatars/U7QH7V_06PJsee.jpg",
+          "biography": "Lead Developer der terrestris GmbH & Co. KG aus Bonn und OpenSource Enthusiast. Kernentwickler GeoStyler, react-geo, SHOGun.",
+          "public_name": "Daniel Koch",
+          "guid": "5f30477d-5255-5a79-b790-297e0afa021b",
+          "url": "https://pretalx.com/fossgis2025/speaker/U7QH7V/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/HA3CRH/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/HA3CRH/",
+      "attachments": []
+    },
+    {
+      "guid": "1adf123a-2506-589d-880d-72171c5c3e5d",
+      "code": "7R8JHL",
+      "id": 58055,
+      "logo": null,
+      "date": "2025-03-27T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "01:30",
+      "room": "WS2 (107)",
+      "slug": "fossgis2025-58055-hands-on-qgis-js-interaktive-qgis-basierte-webkarten-erstellen",
+      "url": "https://pretalx.com/fossgis2025/talk/7R8JHL/",
+      "title": "Hands-on qgis-js: Interaktive QGIS-basierte Webkarten erstellen",
+      "subtitle": "",
+      "track": null,
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "In diesem praxisorientierten Workshop entdecken wir die spannenden Möglichkeiten von qgis-js – einem innovativen Projekt, das die mächtigen Werkzeuge von QGIS direkt in den Browser bringt, ermöglicht durch die Portierung nach WebAssembly. Dieser Workshop richtet sich an Neulinge im Bereich qgis-js, die bereits grundlegende Kenntnisse in Webtechnologien und QGIS mitbringen. Hier hast du die Möglichkeit, qgis-js auszuprobieren und interaktive Webkarten mit QGIS und OpenLayers zu realisieren.",
+      "description": "Nach einer kurzen Einführung in die Grundlagen von qgis-js starten wir direkt mit einem Template-Projekt, das ein einfaches QGIS-Projekt mithilfe von qgis-js und OpenLayers im Browser visualisiert. Die Teilnehmer haben die Gelegenheit, die Daten und die Symbolisierung des Projekts eigenständig anzupassen, während wir gemeinsam die Webkarte interaktiv gestalten.\r\n\r\nDer Workshop endet mit einer anregenden Diskussion über die vielfältigen Möglichkeiten, die dieses Setup bietet, und wie es in zukünftigen Projekten eingesetzt werden kann.\r\n\r\nDie Teilnehmer sollten ein eigenes Gerät mitbringen und die folgenden Tools installiert haben:\r\n- Git\r\n- QGIS\r\n- Node.js und npm",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "ZQG9MC",
+          "name": "Michael Schmuki",
+          "avatar": "https://pretalx.com/media/avatars/ZQG9MC_tAwsSax.jpg",
+          "biography": "- Full-Stack GeoNinja @ [OPENGIS.ch](https://opengis.ch)\r\n- Web-Kartografie Lehrer @ [Baugewerbliche Berufsschule Zürich](https://www.bbzh.ch/)\r\n- [@boardend](https://github.com/boardend) auf GitHub",
+          "public_name": "Michael Schmuki",
+          "guid": "b81992e1-b2ce-5c88-880d-968d27eabfb5",
+          "url": "https://pretalx.com/fossgis2025/speaker/ZQG9MC/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/7R8JHL/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/7R8JHL/",
+      "attachments": []
+    },
+    {
+      "guid": "8c9e9380-0361-5451-8bc6-9fd23040b82e",
+      "code": "TEVYTG",
+      "id": 58213,
+      "logo": null,
+      "date": "2025-03-27T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "01:30",
+      "room": "WS2 (107)",
+      "slug": "fossgis2025-58213-einfaches-geodatenmanagement-mit-geonetwork-und-geonetwork-ui",
+      "url": "https://pretalx.com/fossgis2025/talk/TEVYTG/",
+      "title": "Einfaches Geodatenmanagement mit GeoNetwork und GeoNetwork-UI",
+      "subtitle": "",
+      "track": "Geodatenmanagement",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "In diesem Workshop zeigen wir, wie sich ein Geodatenkatalog einfach und effizient aufbauen lässt! In dem Workshop wird zuerst eine Standard GeoNetwork-Instanz eingerichtet. Im zweiten Schritt zeigen wir, wie weitere GeoNetwork-UI Apps integriert werden können, um eine intuitive Suche, Datenvisualisierung und mehr zu ermöglichen. Der Workshop ist ideal für alle, die das Management von Geodaten vereinfachen und in kurzer Zeit einen ansprechenden, leicht zugänglichen Katalog erstellen möchten.",
+      "description": "Der Workshop ist in zwei Teile gegliedert. Im ersten Teil wird eine grundlegende GeoNetwork-Instanz eingerichtet und mit einer Datenbank sowie einem ElasticSearch-Index verbunden. Im zweiten Teil erfolgt die Integration der Datahub- und Editor-Apps, um die häufigsten Aufgaben im Kontext eines Geodatenkatalogs vorzustellen.\r\n\r\nDer Workshop soll den Teilnehmenden vermitteln:\r\n- sich im Katalog anzumelden, einen Datensatz hochzuladen und diesen mithilfe von Metadaten zu beschreiben\r\n- vorhandene Einträge aus anderen Katalogen zu importieren\r\n- die importierten Datensätze im Datahub zu öffnen und nützliche Informationen, inklusive Datenvoransicht, abzurufen\r\n- die Datahub- und Editor-Apps an die eigenen Bedürfnisse und organisatorischen Anforderungen anzupassen\r\n\r\nDer Workshop wird auf den vorhandenen PCs im Raum durchgeführt. Optional kann das offizielle OsGeo Live ISO-Image auch auf dem eigenen Laptop genutzt werden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "W8839J",
+          "name": "Angelika Kinas",
+          "avatar": null,
+          "biography": "Seit Mai 2023 arbeite ich als Software Entwicklerin bei Camptocamp, einer Open-Source Firma, die Geospatial Solutions anbietet. Nach meinem Geographie Studium an der Universität Heidelberg habe ich seit 2018 als Frontend Entwicklerin gearbeitet.\r\nNeben meiner beruflichen Tätigkeit bei Camptocamp, habe ich den Studienabschluss als akademische Geoinformatikerin an der Uni Salzburg im Studienagng UniGIS professional erworben.",
+          "public_name": "Angelika Kinas",
+          "guid": "c26f51ec-e12f-5f7a-becf-4e2fc65989d3",
+          "url": "https://pretalx.com/fossgis2025/speaker/W8839J/"
+        },
+        {
+          "code": "W9MEPV",
+          "name": "Olivia Guyot",
+          "avatar": "https://pretalx.com/media/avatars/W9MEPV_YkK7o5t.jpg",
+          "biography": "Olivia ist Softwareentwicklerin bei Camptocamp und langjährige Contributor von GeoNetwork und dem Geodaten-Metadaten-Ökosystem.",
+          "public_name": "Olivia Guyot",
+          "guid": "7bcc11f7-eff6-5a37-a711-8e97c6def2bc",
+          "url": "https://pretalx.com/fossgis2025/speaker/W9MEPV/"
+        },
+        {
+          "code": "8MAFXA",
+          "name": "Andreas Jobst",
+          "avatar": "https://pretalx.com/media/avatars/8MAFXA_NJLJPMp.jpg",
+          "biography": "GIS Projektleiter und Teamlead",
+          "public_name": "Andreas Jobst",
+          "guid": "1576056c-cd53-5e2f-8764-f819ef6223d5",
+          "url": "https://pretalx.com/fossgis2025/speaker/8MAFXA/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/TEVYTG/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/TEVYTG/",
+      "attachments": []
+    },
+    {
+      "guid": "a359d71a-4d12-5007-8e3c-b75551343282",
+      "code": "3FCLGT",
+      "id": 58052,
+      "logo": null,
+      "date": "2025-03-27T16:45:00+01:00",
+      "start": "16:45",
+      "duration": "01:30",
+      "room": "WS2 (107)",
+      "slug": "fossgis2025-58052-die-open-database-license-odbl-erklart",
+      "url": "https://pretalx.com/fossgis2025/talk/3FCLGT/",
+      "title": "Die Open Database License (ODbL) erklärt",
+      "subtitle": "",
+      "track": null,
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Workshop zur Open Database License (ODbL). Es werden wichtige Aspekte zum Verständnis der Lizenz besprochen und Grundlagen nach dem Urheberrechtsgesetz geklärt.",
+      "description": "Die Open Database License (ODbL) ist die für OpenStreetMap-Daten verwendete Lizenz. Der Workshop gibt einen Überblick über die wichtigsten Lizenzbestimmungen und ihre potentiellen Fallstricke. Besprochen werden die Möglichkeit zur von der ODbL abweichenden Lizenzierung von Datenprodukten (Produced Work), die Anforderungen an die Quellenangabe (Attribution) für Daten und Produkt sowie die Share Alike Klausel (Copy Left). Abschließend werden noch kurz die Anforderungen der Datenschutzgrundverordnung im Hinblick auf OpenStreetMap-Daten in den Blick genommen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "AXN3UV",
+          "name": "Falk Zscheile",
+          "avatar": null,
+          "biography": "Sich für Datenschutz begeisternder Beitragender bei OpenStreetMap.",
+          "public_name": "Falk Zscheile",
+          "guid": "c73b4423-d7d4-5828-b995-6e4be8aedbe2",
+          "url": "https://pretalx.com/fossgis2025/speaker/AXN3UV/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/3FCLGT/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/3FCLGT/",
+      "attachments": []
+    },
+    {
+      "guid": "4bf49219-a9e8-57a7-aadb-aea08a56e6f9",
+      "code": "NEUGSA",
+      "id": 58234,
+      "logo": null,
+      "date": "2025-03-28T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "01:30",
+      "room": "WS2 (107)",
+      "slug": "fossgis2025-58234-mergin-maps-essentials",
+      "url": "https://pretalx.com/fossgis2025/talk/NEUGSA/",
+      "title": "Mergin Maps Essentials",
+      "subtitle": "",
+      "track": "Grundlagen Open-Source-GIS und OpenStreetMap",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "[English] Mergin Maps workshop will be exploration of the mobile app together with gathering data and analysing the results with the other attendees. Will will also look at the project in QGIS and talk about some tips and tricks that can make your projects perfect.",
+      "description": "Join us for the Mergin Maps workshop for QGIS users to empower you to master collaborative mapping in the field. Workshop will be held in English.\r\n\r\nWe will set up and synchronise your Mergin Maps project with QGIS to your mobile device, and gather some data together. During survey we will explore the mobile app and the recent additions to the software.\r\n\r\nAfterwards, we will explore the results on desktop QGIS and look at how to improve the project settings. We will also show best practices for setting up survey layers and background maps.\r\n\r\nWe will also equip you with the skills to manage your collaborative mapping projects effectively, including sharing, transferring, setting roles and permissions.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "GVR3BW",
+          "name": "Peter Petrik",
+          "avatar": "https://pretalx.com/media/avatars/GVR3BW_6xNYno4.JPG",
+          "biography": "Peter has been more than 8 years fully involved in software development and consultancy around open-source GIS solutions. First through developing QGIS plugins and features such as Mesh Layer, and more recently as the lead of the Mergin Maps project. In his free time, he enjoys spending time with his family and playing chess.",
+          "public_name": "Peter Petrik",
+          "guid": "b05266a2-6990-5156-8321-429055359f21",
+          "url": "https://pretalx.com/fossgis2025/speaker/GVR3BW/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/NEUGSA/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/NEUGSA/",
+      "attachments": []
+    },
+    {
+      "guid": "7db76d9f-84b2-5e56-abf5-81b1cf0de5f2",
+      "code": "9XYDM7",
+      "id": 58252,
+      "logo": null,
+      "date": "2025-03-28T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "01:30",
+      "room": "WS2 (107)",
+      "slug": "fossgis2025-58252-osm-transform-leistungsstarke-osm-datenvorbereitung-fur-routing-engines",
+      "url": "https://pretalx.com/fossgis2025/talk/9XYDM7/",
+      "title": "OSM-Transform —  Leistungsstarke OSM-Datenvorbereitung für Routing Engines",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Workshop (Präsenz)",
+      "language": "de-formal",
+      "abstract": "Der Workshop vermittelt den Einsatz von OSM-Transform, dem Präprozessor der Open-Source Routing-Engine openrouteservice (ORS). Teilnehmer*innen lernen, OSM-Daten für effizientes Routing per Regex zu filtern und Höhendaten sowie Ländergrenzen aus verschiedenen Quellen und Auflösungen zu integrieren. Anhand einfacher Beispiele wird gezeigt, wie man mit den prozessierten Daten in wenigen Schritten eine Routing-Engine aufsetzt und weitere Analysen möglich sind.",
+      "description": "Unser Workshop wird sich auf OSM-Transform fokussieren, der openrouteservice (ORS) Präprozessor für OpenStreetMap Daten. Wir haben in jüngster Vergangenheit unseren internen OSM-Präprozessor veröffentlicht und möchten diesen mit der Community teilen. Bevor wir Routinggraphen für unsere öffentliche ORS API erstellen, verwenden wir OSM-Transform, um OSM Daten in ein kleineres, maßgeschneidertes Datenpaket umzuwandeln. Diese Daten können auf Wunsch mit zusätzlichen Informationen wie z. B. Höhendaten direkt angereichert werden. Ergebnisse werden im OSM Format gespeichert und bleiben damit kompatibel mit sämtlichen OSM-Standards und können mit regulären OSM-Tools und anderen Routing-Engines, die in der Lage sind, die angereicherten Tags zu verwenden, weiterverarbeitet werden.\r\n\r\nDieses Tool wird aktiv genutzt und weiterentwickelt. Die derzeit integrierten Funktionen, die wir während des Workshops betrachten werden, sind momentan wie folgt:\r\n\r\n**Filtern**: Bereinigen von OSM-Daten, um sicherzustellen, dass nur das Nötigste für Routing-Engines enthalten ist. Unsere aktuelle Filterkette reduziert die Dateigrößen um fast 50 %, was zu einem wesentlich schnelleren Lesen und Verarbeiten der resultierenden OSM Daten zu Routinggraphen führt. Die Regex Filter können nach Wunsch angepasst werden  und bilden mehr ab als die Anforderungen von ORS.\r\n\r\n**Anreicherung**: Die derzeitige Version erlaubt die Anreicherung zusätzlicher Daten, wie Länderinformationen und Höhendaten.\r\n\r\n**Höhendaten**: Im Workshop werden wir zeigen, wie Höhendaten aus GMTED, SRTM und benutzerdefinierten hochauflösenden Höhendaten integriert werden können. GMTED- und SRTM-Daten werden bei Bedarf automatisch von OSM-Transform heruntergeladen, während die benutzerdefinierten Höhendaten so hochauflösend wie nötig sein dürfen. Die interne Höhendatenpriorisierung verwendet die benutzerdefinierten Höhendaten als Standard und greift bei Bedarf automatisch weniger gut aufgelöste Quellen, SRTM oder GMTED zurück.\r\n\r\n**Spezialisierte Algorithmen**: Bei höheren Auflösungen kann es passieren, dass sich eine Edge über mehrere Höhenwerte erstreckt. Wir haben uns etwas einfallen lassen, um diese Szenarien abzubilden ;).\r\n\r\n**Einfache Einrichtung**: Wir werden im Workshop den Umgang mit OSM-Transform zeigen und Scripte bereitstellen, mit denen die Teilnehmer*innen alle Arbeitsschritte reproduzieren können.\r\n\r\n**Weiterverarbeiten**: Im Anschluss an den Workshop teilen wir Tutorials, wie man die zuvor erstellten benutzerdefinierten osm-Dateien mit ORS nutzt, um Routing-Graphen zu erstellen. Auf diese Weise können die Teilnehmer in Eigeninitiative mit den Daten weiterarbeiten.\r\n\r\n\r\n\r\n**Kommende Funktionen:**\r\n\r\n**Globale, hochauflösende Höhendaten**: Es stehen kontinuierlich besser aufgelöste Höhendaten zur Verfügung. Wir werden in Zukunft daran arbeiten, diese zuverlässiger für die Vorprozessierung verfügbar zu machen.\r\n\r\n**Zeitzoneninformationen**: Die nächste logische Iteration für OSM-Transform sehen wir bei der Voranreicherung mit globalen Zeitzoneninformationen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "8RD9TG",
+          "name": "Julian Psotta",
+          "avatar": "https://pretalx.com/media/avatars/8RD9TG_xzhQkvh.png",
+          "biography": "Julian is currently the Product Owner of the Smart Mobility Team at the Heidelberg Institute for Geoinformation Technology that also takes care of the openrouteservice routing engine.",
+          "public_name": "Julian Psotta",
+          "guid": "dd0cf8ce-47e2-5f3e-a07d-8bf945010ad4",
+          "url": "https://pretalx.com/fossgis2025/speaker/8RD9TG/"
+        },
+        {
+          "code": "AHGNSW",
+          "name": "Jakob Schnell",
+          "avatar": "https://pretalx.com/media/avatars/AHGNSW_74TOJOG.jpg",
+          "biography": "Jakob Schnell nutzt seit über 15 Jahren die OSM und entwickelt seit über 10 Jahren Software.\r\nIn den letzten 4 Jahren überschneiden sich diese beiden Gebiete durch seine Tätigkeit als Software-Entwickler bei der HeiGIT gGmbH zunehmend. Sein Fokus liegt dabei auf klarer Kommunikation und Prozessoptimierung – sein Hintergrund aus der diskreten Optimierung kommt ihm dabei immer wieder in die Quere.\r\n\r\nEr ist als Dozent und Lehrgangsleiter in unversitärem und außeruniversitärem Umfeld tätig.",
+          "public_name": "Jakob Schnell",
+          "guid": "c8558974-6b34-54b8-9198-fb08aaa1d16f",
+          "url": "https://pretalx.com/fossgis2025/speaker/AHGNSW/"
+        },
+        {
+          "code": "FVRDEG",
+          "name": "Till Frankenbach",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Till Frankenbach",
+          "guid": "33dae24f-28ef-5445-80e0-0f4113d7db86",
+          "url": "https://pretalx.com/fossgis2025/speaker/FVRDEG/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Heidelberg Institute for Geoinformation Technology",
+          "url": "https://heigit.org",
+          "type": "related"
+        },
+        {
+          "title": "Openrouteservice",
+          "url": "https://openrouteservice.org",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/9XYDM7/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/9XYDM7/",
+      "attachments": []
+    }
+  ]
+}

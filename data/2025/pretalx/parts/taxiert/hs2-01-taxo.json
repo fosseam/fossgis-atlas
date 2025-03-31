@@ -1,0 +1,156 @@
+[
+  {
+    "id": 58247,
+    "title": "spatial.IO – Cloud-basierte Open-Source-Lösung zur Verwaltung räumlicher Daten",
+    "track": "Daten, Datenbanken und Datenprozessierung",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Cloud & Plattformen",
+      "position": "03|03|02",
+      "tags": [
+        "Cloud",
+        "GDI",
+        "Open Source",
+        "Hosting",
+        "PostGIS"
+      ]
+    }
+  },
+  {
+    "id": 57861,
+    "title": "eoAPI – eine skalierbare Geodateninfrastruktur",
+    "track": "Offene Standards, z.B. INSPIRE, OGC",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Geo-APIs & Backend-Technologien",
+      "position": "01|04|01",
+      "tags": [
+        "eoAPI",
+        "STAC",
+        "NASA",
+        "pgSTAC",
+        "TiTiler"
+      ]
+    }
+  },
+  {
+    "id": 58099,
+    "title": "Automatischer Import und Veröffentlichung von Betriebsmittelgeometrien mittels PyQGIS",
+    "track": "Daten, Datenbanken und Datenprozessierung",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "QGIS, GRASS, SAGA",
+      "position": "01|01|01",
+      "tags": [
+        "QGIS",
+        "PyQGIS",
+        "DXF",
+        "ETL",
+        "WMS"
+      ]
+    }
+  },
+  {
+    "id": 58085,
+    "title": "QGIS-Werkzeuge und Python",
+    "track": "Ausbildung, Lehre, Open Science",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Python in QGIS",
+      "position": "01|03|01",
+      "tags": [
+        "QGIS",
+        "Python",
+        "Werkzeugentwicklung",
+        "Model Builder",
+        "Plugins"
+      ]
+    }
+  },
+  {
+    "id": 58177,
+    "title": "Schnupperkurs: Das Potential von QGIS mit der Python-Konsole freischalten",
+    "track": "Ausbildung, Lehre, Open Science",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Python in QGIS",
+      "position": "01|03|01",
+      "tags": [
+        "QGIS",
+        "Python",
+        "Konsole",
+        "Einführung",
+        "Scripting"
+      ]
+    }
+  },
+  {
+    "id": 57982,
+    "title": "Von proprietären GIS-Lösungen zu QGIS",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Digitale Souveränität & Open Source Kultur",
+      "position": "04|01|01",
+      "tags": [
+        "QGIS",
+        "Migration",
+        "Open Source",
+        "Verwaltung",
+        "Kosten"
+      ]
+    }
+  },
+  {
+    "id": 58281,
+    "title": "Open-Source-GDI bei der Stadt Reutlingen",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Digitale Souveränität & Open Source Kultur",
+      "position": "04|01|01",
+      "tags": [
+        "Open Source",
+        "GDI",
+        "QGIS",
+        "Reutlingen",
+        "Digitale Souveränität"
+      ]
+    }
+  },
+  {
+    "id": 58081,
+    "title": "Migration eines Auskunftssystems bei den Stadtwerken München",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "GIS in Verwaltung & Prozesse",
+      "position": "03|03|01",
+      "tags": [
+        "QGIS",
+        "NIS",
+        "München",
+        "Migration",
+        "Utilities",
+        "Smallworld"
+      ]
+    }
+  },
+  {
+    "id": 58089,
+    "title": "Das Projekt GEOrg bei den Stadtwerken München – Entwicklung einer Geodatenplattform",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Cloud & Plattformen",
+      "position": "03|03|02",
+      "tags": [
+        "QGIS",
+        "PostGIS",
+        "QField",
+        "Plattform",
+        "Open Source"
+      ]
+    }
+  }
+]

@@ -1,0 +1,216 @@
+{
+  "id": "FOSSGIS25",
+  "name": "FOSSGIS25",
+  "primaries": [
+    {
+      "position": "01|00|00",
+      "name": "Tools & Technologie",
+      "secondaries": [
+        {
+          "position": "01|01|00",
+          "name": "GIS & Open-Source-Software",
+          "tertiaries": [
+            {
+              "position": "01|01|01",
+              "name": "QGIS, GRASS, SAGA"
+            },
+            {
+              "position": "01|01|02",
+              "name": "Desktop- & Mobile-GIS"
+            }
+          ]
+        },
+        {
+          "position": "01|02|00",
+          "name": "Geodateninfrastrukturen & Standards",
+          "tertiaries": [
+            {
+              "position": "01|02|01",
+              "name": "INSPIRE, WMS/WFS/WCS"
+            },
+            {
+              "position": "01|02|02",
+              "name": "Metadaten & Geoportale"
+            }
+          ]
+        },
+        {
+          "position": "01|03|00",
+          "name": "Automatisierung & Scripting",
+          "tertiaries": [
+            {
+              "position": "01|03|01",
+              "name": "Python in QGIS"
+            },
+            {
+              "position": "01|03|02",
+              "name": "Geo-ETL (ogr2ogr, n8n, Node-RED)"
+            },
+            {
+              "position": "01|03|03",
+              "name": "Datenpipelines & APIs"
+            }
+          ]
+        },
+        {
+          "position": "01|04|00",
+          "name": "Webmapping & Visualisierung",
+          "tertiaries": [
+            {
+              "position": "01|04|01",
+              "name": "Leaflet, MapLibre, OpenLayers"
+            },
+            {
+              "position": "01|04|02",
+              "name": "Kartenserver (MapServer, GeoServer)"
+            },
+            {
+              "position": "01|04|03",
+              "name": "UI/UX & 3D-Webmaps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": "02|00|00",
+      "name": "Daten & Quellen",
+      "secondaries": [
+        {
+          "position": "02|01|00",
+          "name": "OpenStreetMap & Community",
+          "tertiaries": [
+            {
+              "position": "02|01|01",
+              "name": "Mapping-Tools (JOSM, iD, StreetComplete)"
+            },
+            {
+              "position": "02|01|02",
+              "name": "Qualitätssicherung"
+            },
+            {
+              "position": "02|01|03",
+              "name": "Community-Projekte & OSM-basierte Dienste"
+            }
+          ]
+        },
+        {
+          "position": "02|02|00",
+          "name": "Open Data & Verwaltungsdaten",
+          "tertiaries": [
+            {
+              "position": "02|02|01",
+              "name": "Kommunale Datenportale"
+            },
+            {
+              "position": "02|02|02",
+              "name": "Lizenzen & Nutzbarkeit"
+            },
+            {
+              "position": "02|02|03",
+              "name": "Bürgerbeteiligung"
+            }
+          ]
+        },
+        {
+          "position": "02|03|00",
+          "name": "Fernerkundung & Bildverarbeitung",
+          "tertiaries": [
+            {
+              "position": "02|03|01",
+              "name": "Satellitendaten (Sentinel, Landsat)"
+            },
+            {
+              "position": "02|03|02",
+              "name": "Drohnen & Photogrammetrie"
+            },
+            {
+              "position": "02|03|03",
+              "name": "Lidar & Punktwolken"
+            }
+          ]
+        },
+        {
+          "position": "02|04|00",
+          "name": "Geodatenmanagement & Datenbanken",
+          "tertiaries": [
+            {
+              "position": "02|04|01",
+              "name": "PostGIS, SpatiaLite, GeoPackage"
+            },
+            {
+              "position": "02|04|02",
+              "name": "ETL-Prozesse & Formatkonvertierung"
+            },
+            {
+              "position": "02|04|03",
+              "name": "Datenqualität & Replikation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": "03|00|00",
+      "name": "Anwendung & Gestaltung",
+      "secondaries": [
+        {
+          "position": "03|01|00",
+          "name": "Kartographie & Storytelling",
+          "tertiaries": [
+            {
+              "position": "03|01|01",
+              "name": "Map Design & Typographie"
+            },
+            {
+              "position": "03|01|02",
+              "name": "Thematische Karten"
+            },
+            {
+              "position": "03|01|03",
+              "name": "StoryMaps & Data Journalism"
+            }
+          ]
+        },
+        {
+          "position": "03|02|00",
+          "name": "3D, VR/AR & immersives Mapping",
+          "tertiaries": [
+            {
+              "position": "03|02|01",
+              "name": "CesiumJS, A-Frame, WebXR"
+            },
+            {
+              "position": "03|02|02",
+              "name": "3D-Stadtmodelle & virtuelle Zwillinge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": "04|00|00",
+      "name": "Wissen & Gesellschaft",
+      "secondaries": [
+        {
+          "position": "04|01|00",
+          "name": "Ethik, Bildung & Community",
+          "tertiaries": [
+            {
+              "position": "04|01|01",
+              "name": "Digitale Souveränität & Open Source Kultur"
+            },
+            {
+              "position": "04|01|02",
+              "name": "GIS in Lehre, Schule & Hochschule"
+            },
+            {
+              "position": "04|01|03",
+              "name": "Community Building & Diversität"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

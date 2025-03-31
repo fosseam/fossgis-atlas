@@ -1,0 +1,49 @@
+FOSSGIS25/
+├── 01|00|00 Tools & Technologie
+│   ├── 01|01|00 GIS & Open-Source-Software
+│   │   ├── 01|01|01 QGIS, GRASS, SAGA
+│   │   └── 01|01|02 Desktop- & Mobile-GIS
+│   ├── 01|02|00 Geodateninfrastrukturen & Standards
+│   │   ├── 01|02|01 INSPIRE, WMS/WFS/WCS
+│   │   └── 01|02|02 Metadaten & Geoportale
+│   ├── 01|03|00 Automatisierung & Scripting
+│   │   ├── 01|03|01 Python in QGIS
+│   │   ├── 01|03|02 Geo-ETL (ogr2ogr, n8n, Node-RED)
+│   │   └── 01|03|03 Datenpipelines & APIs
+│   └── 01|04|00 Webmapping & Visualisierung
+│       ├── 01|04|01 Leaflet, MapLibre, OpenLayers
+│       ├── 01|04|02 Kartenserver (MapServer, GeoServer)
+│       └── 01|04|03 UI/UX & 3D-Webmaps
+│
+├── 02|00|00 Daten & Quellen
+│   ├── 02|01|00 OpenStreetMap & Community
+│   │   ├── 02|01|01 Mapping-Tools (JOSM, iD, StreetComplete)
+│   │   ├── 02|01|02 Qualitätssicherung
+│   │   └── 02|01|03 Community-Projekte & OSM-basierte Dienste
+│   ├── 02|02|00 Open Data & Verwaltungsdaten
+│   │   ├── 02|02|01 Kommunale Datenportale
+│   │   ├── 02|02|02 Lizenzen & Nutzbarkeit
+│   │   └── 02|02|03 Bürgerbeteiligung
+│   ├── 02|03|00 Fernerkundung & Bildverarbeitung
+│   │   ├── 02|03|01 Satellitendaten (Sentinel, Landsat)
+│   │   ├── 02|03|02 Drohnen & Photogrammetrie
+│   │   └── 02|03|03 Lidar & Punktwolken
+│   └── 02|04|00 Geodatenmanagement & Datenbanken
+│       ├── 02|04|01 PostGIS, SpatiaLite, GeoPackage
+│       ├── 02|04|02 ETL-Prozesse & Formatkonvertierung
+│       └── 02|04|03 Datenqualität & Replikation
+│
+├── 03|00|00 Anwendung & Gestaltung
+│   ├── 03|01|00 Kartographie & Storytelling
+│   │   ├── 03|01|01 Map Design & Typographie
+│   │   ├── 03|01|02 Thematische Karten
+│   │   └── 03|01|03 StoryMaps & Data Journalism
+│   └── 03|02|00 3D, VR/AR & immersives Mapping
+│       ├── 03|02|01 CesiumJS, A-Frame, WebXR
+│       └── 03|02|02 3D-Stadtmodelle & virtuelle Zwillinge
+│
+└── 04|00|00 Wissen & Gesellschaft
+    └── 04|01|00 Ethik, Bildung & Community
+        ├── 04|01|01 Digitale Souveränität & Open Source Kultur
+        ├── 04|01|02 GIS in Lehre, Schule & Hochschule
+        └── 04|01|03 Community Building & Diversität

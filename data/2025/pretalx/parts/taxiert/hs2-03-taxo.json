@@ -1,0 +1,257 @@
+[
+  {
+    "id": 58075,
+    "title": "QWC2 als WebGIS in der kommunalen Verwaltung einsetzen",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Web-GIS Clients & Frontend",
+      "position": "01|04|02",
+      "tags": [
+        "QWC2",
+        "Verwaltung",
+        "WebGIS",
+        "Frontend",
+        "Kommunen"
+      ]
+    }
+  },
+  {
+    "id": 58086,
+    "title": "OpenLayers – Neues und Nützliches",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Web-GIS Clients & Frontend",
+      "position": "01|04|02",
+      "tags": [
+        "OpenLayers",
+        "WebGIS",
+        "Frontend",
+        "JavaScript",
+        "Neuerungen"
+      ]
+    }
+  },
+  {
+    "id": 58088,
+    "title": "Mapbender – Neuigkeiten aus dem Projekt",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Web-GIS Clients & Frontend",
+      "position": "01|04|02",
+      "tags": [
+        "Mapbender",
+        "WebGIS",
+        "OGC",
+        "Administration",
+        "Frontend"
+      ]
+    }
+  },
+  {
+    "id": 58087,
+    "title": "QGIS Web Client (QWC) – Neues aus dem Projekt",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Web-GIS Clients & Frontend",
+      "position": "01|04|02",
+      "tags": [
+        "QWC",
+        "WebGIS",
+        "QGIS",
+        "Frontend",
+        "Open Source"
+      ]
+    }
+  },
+  {
+    "id": 57860,
+    "title": "State of SHOGun: Ein flexibles Web-GIS Framework",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Geo-APIs & Backend-Technologien",
+      "position": "01|04|01",
+      "tags": [
+        "SHOGun",
+        "Framework",
+        "GeoServer",
+        "OpenLayers",
+        "Plugins"
+      ]
+    }
+  },
+  {
+    "id": 58085,
+    "title": "GeoStyler - ArcGIS Unterstützung und weitere neue Features",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Web-GIS Clients & Frontend",
+      "position": "01|04|02",
+      "tags": [
+        "GeoStyler",
+        "Stile",
+        "ArcGIS",
+        "Konvertierung",
+        "SLD"
+      ]
+    }
+  },
+  {
+    "id": 57880,
+    "title": "State of GeoServer Cloud",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Geo-APIs & Backend-Technologien",
+      "position": "01|04|01",
+      "tags": [
+        "GeoServer",
+        "Cloud",
+        "Kubernetes",
+        "Microservices",
+        "Skalierung"
+      ]
+    }
+  },
+  {
+    "id": 58020,
+    "title": "Stand des GRASS GIS Projekts: Neuigkeiten und Perspektiven",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "QGIS, GRASS, SAGA",
+      "position": "01|01|01",
+      "tags": [
+        "GRASS",
+        "GIS",
+        "Python",
+        "Jupyter",
+        "8.4.0"
+      ]
+    }
+  },
+  {
+    "id": 58214,
+    "title": "Neues von actinia - mit Knative weiter wolkenwärts",
+    "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Geo-APIs & Backend-Technologien",
+      "position": "01|04|01",
+      "tags": [
+        "actinia",
+        "Knative",
+        "Cloud Native",
+        "REST",
+        "GRASS"
+      ]
+    }
+  },
+  {
+    "id": 57208,
+    "title": "Ableitung von Rasterkarten aus Vector Tiles für basemap.de",
+    "track": "Rasterdaten und Fernerkundung",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Web-GIS Clients & Frontend",
+      "position": "01|04|02",
+      "tags": [
+        "basemap.de",
+        "VT Raster Converter",
+        "Raster",
+        "MapProxy",
+        "Vector Tiles"
+      ]
+    }
+  },
+  {
+    "id": 58114,
+    "title": "PMTiles - das cloud-native Format für Kacheln",
+    "track": "Daten, Datenbanken und Datenprozessierung",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Geo-APIs & Backend-Technologien",
+      "position": "01|04|01",
+      "tags": [
+        "PMTiles",
+        "Cloud",
+        "Vektorkacheln",
+        "Raster",
+        "HTTP"
+      ]
+    }
+  },
+  {
+    "id": 58090,
+    "title": "RoutingPlus goes Masterportal: Unser Weg zu einer modernen Benutzeroberfläche",
+    "track": "Routing und Mobilität",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Web-GIS Clients & Frontend",
+      "position": "01|04|02",
+      "tags": [
+        "RoutingPlus",
+        "Masterportal",
+        "Frontend",
+        "BKG",
+        "Demoportal"
+      ]
+    }
+  },
+  {
+    "id": 58243,
+    "title": "fiboa - Standardisierte Feldgrenzen",
+    "track": "Offene Standards, z.B. INSPIRE, OGC",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Landwirtschaft, Umwelt, Fernerkundung",
+      "position": "02|03|01",
+      "tags": [
+        "fiboa",
+        "Feldgrenzen",
+        "GeoJSON",
+        "GeoParquet",
+        "Datenstandards"
+      ]
+    }
+  },
+  {
+    "id": 58284,
+    "title": "Absicherung von Diensten mit Keycloak",
+    "track": "Praxisberichte",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Security, Rechte & Zugang",
+      "position": "04|02|02",
+      "tags": [
+        "Keycloak",
+        "Zugriff",
+        "Authentifizierung",
+        "OAuth",
+        "Absicherung"
+      ]
+    }
+  },
+  {
+    "id": 57633,
+    "title": "Datenbankschema mit Mermaid visualisieren",
+    "track": "Daten, Datenbanken und Datenprozessierung",
+    "type": "Lightning-Talk",
+    "taxo": {
+      "sub": "Wissenschaftliche & semantische Methoden",
+      "position": "04|01|03",
+      "tags": [
+        "Mermaid",
+        "ER-Diagramm",
+        "PostgreSQL",
+        "CI",
+        "Visualisierung"
+      ]
+    }
+  }
+]

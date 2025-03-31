@@ -1,0 +1,485 @@
+{
+  "day": 1,
+  "date": "2025-03-26",
+  "room": "HS4 (S2)",
+  "events": [
+    {
+      "guid": "144e4c9b-7cad-525f-911a-8489e7654711",
+      "code": "A8US8F",
+      "id": 57049,
+      "logo": null,
+      "date": "2025-03-26T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57049-keine-angst-vor-der-geoinfodok-7-3a-datenverarbeitung-mit-postnas",
+      "url": "https://pretalx.com/fossgis2025/talk/A8US8F/",
+      "title": "Keine Angst vor der GeoInfoDok 7 - 3A-Datenverarbeitung mit PostNAS",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Für viele Andwendungen müssen 3A-Daten im Format der GeoInfoDok 7.1.2 verarbeitet werden. Vor dem Hintergrund der OpenData-Bereitstellung des LVermGeo Rheinland-Pfalz steigt nun auch das Interesse an originären 3A-Daten und an AdV-konformen WFS und WMS.\r\nImport- und Verarbeitungsschritte, mit denen 3A-Daten in eine PostGIS-Datenbank überführt werden, sind Teil dieses Vortrages. Ebenso werden eigene Skripte und hieraus erzeugte Geowebdienste vorgestellt.",
+      "description": "3A-Daten der Vermessungsverwaltungen lassen sich entweder mit proprietärer Software verarbeiten oder man entscheidet sich für die Opensource-Software PostNAS. Mit PostNAS werden die 3A-Daten mittels GDAL/OGR und einem hierfür entwickelten OGR-Treiber in eine PostGIS-\r\nDatenbank überführt. Zur weiteren Verarbeitung und anschließenden Präsentation als AdV-konformer ALKIS-WFS oder zur Darstellung einer Liegenschaftskarte sind zahlreiche weitere Schritte nötig. Anhand der Umsetzung im LVermGeo RP wird der Workflow gezeigt und die Möglichkeiten zur Anwendung präsentiert. Zudem werden weitere Entwicklungen präsentiert, wie beispielsweise die inkrementelle Aktualisierung der Liegenschaftskarte.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "9CXKJP",
+          "name": "Oliver Schmidt",
+          "avatar": "https://pretalx.com/media/avatars/9CXKJP_u8KoGKw.jpg",
+          "biography": "Oliver Schmidt ist Diplom-Geograph mit den Fachrichtungen Fernerkundung/Geoinformatik und Meteorologie. Nach dem Studium an der Universität Trier und einer Mitarbeit an Forschungsprojekten an der Universität Leipzig ist er seit 2014 Mitarbeiter des Landesamtes für Vermessung und Geobasisinformation Rheinland-Pfalz in Koblenz. Dort betreut er ein Serversystem zur Bereitstellung von WMS, WFS und INSPIRE-Diensten.",
+          "public_name": "Oliver Schmidt",
+          "guid": "ecffbdd6-60e1-58a2-bbb9-e805a90c4214",
+          "url": "https://pretalx.com/fossgis2025/speaker/9CXKJP/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/A8US8F/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/A8US8F/",
+      "attachments": [
+        {
+          "title": "Präsentation als PDF",
+          "url": "/media/fossgis2025/submissions/A8US8F/resources/Keine_Angst_vo_etZ3jWt.pdf",
+          "type": "related"
+        },
+        {
+          "title": "Präsentation",
+          "url": "/media/fossgis2025/submissions/A8US8F/resources/Keine_Angst_v_0r8uKo9.pptx",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "fd289c2f-92b9-56af-a925-e34f4956ebbe",
+      "code": "M79NLD",
+      "id": 57638,
+      "logo": null,
+      "date": "2025-03-26T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57638-gdi-per-knopfdruck-automatisierung-mit-devops-und-infrastruktur-als-code",
+      "url": "https://pretalx.com/fossgis2025/talk/M79NLD/",
+      "title": "GDI per Knopfdruck: Automatisierung mit DevOps und Infrastruktur als Code",
+      "subtitle": "",
+      "track": "Geodatenmanagement",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Der Vortrag zeigt auf wie eine Geodateninfrastruktur(GDI) automatisiert über Code eingerichtet werden kann und geht dabei auf die von uns genutzten Software-Bausteine und deren Alternativen ein.",
+      "description": "Es gibt viele Ansätze, eine Geodateninfrastruktur bereitzustellen. Durch die starke DevOps-Kultur bei siticom ist unsere haus­eigene Geodateninfrastruktur komplett über Code definiert und stark automatisiert. Dieser Vortrag beschreibt die Vorzüge und die Herausforderungen dieser Herangehensweise.\r\n\r\nUnsere Dienste laufen auf virtuellen Linux-Servern bei einem Cloud-Provider. Diese werden allerdings nicht manuell über eine Benutzeroberfläche „zusammengeklickt“, sondern mit dem Tool Terraform über Code definiert. Das ermöglicht Reproduzierbarkeit und einfache Anpassbarkeit.\r\n\r\nDas Einrichten der Server funktioniert über Ansible. Diese auf Python basierende Konfigurationssprache ist verhältnismäßig lesbar und stellt sicher, dass alle benötigten Programme auf den Servern installiert und alle notwendigen Dateien vorhanden sind.\r\n\r\nSowohl die Terraform- als auch die Ansible-Konfiguration sind in Git-Repositories versioniert und können über die GitLab CI ausgeführt werden. Dies ermöglicht eine hohe Transparenz der Infrastruktur bei allen Teammitgliedern. Außerdem stellt es die Reproduzierbarkeit der Geodateninfrastruktur sicher, da alle alten Stände wiederhergestellt werden können.\r\n\r\nDie benötigten Passwörter und Zugänge werden in einem eigenen Secret-Speicher vorgehalten und bei jedem Deployment per API abgefragt. Dieser Ansatz erleichtert das Ändern von Zugängen wesentlich, was zu erhöhter Sicherheit beiträgt.\r\n\r\nWir deployen unsere Software ausschließlich über Docker-Images, die wir sowohl aus öffentlichen als auch internen Docker-Registries beziehen. Die Konfiguration und Zusammenstellung wird über Docker-Compose-Dateien definiert, die selbstverständlich per Git versioniert sind.\r\n\r\nUm unsere Software aktuell zu halten, nutzen wir den Renovate Bot. Dieser prüft regelmäßig, ob alle Docker-Images bzw. Software-Bibliotheken auf dem neuesten Stand sind. Etwaige Updates können dann nach menschlicher Prüfung per Knopfdruck in die Konfiguration gemergt und direkt deployt werden.\r\n\r\nEin Anwendungsfall dieser Automatisierung ist das Veröffentlichen von QGIS-Plugins im Intranet. Sobald eine neue Version eines QGIS-Plugins bereitsteht, wird dieses per GitLab-Release als Download bereitgestellt und in das QGIS-Plugin-Repository eingepflegt, von wo aus es für QGIS-Nutzer komfortabel genutzt werden kann.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "7RZJR9",
+          "name": "Jakob Miksch",
+          "avatar": "https://pretalx.com/media/avatars/7RZJR9_80VaCN6.png",
+          "biography": "Lead Developer bei Logicalis Germany. OpenSource-Beitragender im Bereich Geoinformatik und OpenStreetMap.",
+          "public_name": "Jakob Miksch",
+          "guid": "af5ca2c4-79d5-51f9-ab3f-9e1857c8d871",
+          "url": "https://pretalx.com/fossgis2025/speaker/7RZJR9/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/M79NLD/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/M79NLD/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/M79NLD/resources/GDI_per_Knopfd_ACPX8Kl.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "68b59543-bff9-5536-ac45-7c101a886a59",
+      "code": "PTHZCL",
+      "id": 57772,
+      "logo": null,
+      "date": "2025-03-26T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "00:05",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57772-foss-basierte-schnittstelle-zum-management-von-heritage-bim-modellen",
+      "url": "https://pretalx.com/fossgis2025/talk/PTHZCL/",
+      "title": "FOSS-basierte Schnittstelle zum Management von Heritage BIM Modellen",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Die Integration von Heritage BIM in die Erhaltung historischer Gebäude ist insbesondere bei der zukünftigen Bewirtschaftung dieser von hoher Relevanz. Am Beispiel des UNESCO-Welterbes Speicherstadt Hamburg wurde eine benutzerorientierte Schnittstelle entwickelt, welche es Nutzer:innen ohne BIM-Kenntnisse ermöglicht, Zugang zu strukturierten Gebäudeinformationen zu gewähren. Dafür wurden offene Standards wie IFC und FOSS genutzt, wodurch die Interoperabilität und Kollaboration gefördert wurden.",
+      "description": "Im Lightning Talk wird ein webbasiertes Dashboard (entwickelt mit Streamlit (Apache-2.0) und IfcOpenShell (LGPL-3.0)) vorgestellt, welches am Beispiel des Blocks H des UNESCO-Welterbes Speicherstadt Hamburg entwickelt wurde. Das Dashboard ermöglicht es, Nutzer:innen auf das HBIM-Modell zuzugreifen, ohne (proprietäre) Autorensoftware zu verwenden. Über das Dashboard können Gebäudeinformationen, abgelegt in sogenannten PropertySets, gelesen, exportiert und modifiziert werden. Der niedrigschwellige Zugriff auf strukturierte Gebäudedaten verbessert die kollaborative Zusammenarbeit und ermöglicht insbesondere das Verwalten von Aufgaben und Zuständigkeiten. So können Veränderungen an Gebäudeeigenschaften direkt durch die Verantwortlichen eingetragen werden, ohne die BIM-Modellierenden zu beauftragen. Dies ermöglicht das Einsparen eines Arbeitsschrittes, die Interpretation von Daten durch eine dritte Person und das Vermeiden von Fehlern.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "UUD8SP",
+          "name": "Güren Tan Dinga",
+          "avatar": "https://pretalx.com/media/avatars/UUD8SP_75HoneM.jpg",
+          "biography": "Güren Tan Dinga ist Wissenschaftlicher Mitarbeiter im g2lab der HafenCity Universität Hamburg. Nach dem Abschluss des Studiums der Geodäsie und Geoinformatik promoviert er zu Explainable AI von Segmentierungsaufgaben mit Remote Sensing Daten.",
+          "public_name": "Güren Tan Dinga",
+          "guid": "ee6681f9-d969-572f-a6b0-69548e71a1be",
+          "url": "https://pretalx.com/fossgis2025/speaker/UUD8SP/"
+        },
+        {
+          "code": "AGCCK9",
+          "name": "Laura Fernandez Resta",
+          "avatar": "https://pretalx.com/media/avatars/AGCCK9_VlqvKOM.png",
+          "biography": "Laura Fernández Resta arbeitet seit Juli 2022 an der Professur für Entwurf und Analyse von Tragwerken und dem BIMlab@HCU an dem Projekt \"0-CO2-WSHH - CO2-neutrales Welterbe Speicherstadt Hamburg\".\r\n\r\nLaura absolvierte ihr Architekturstudium (Bachelor und Master) an der Universidad Pontificia de Salamanca (Spanien) und hatte während dieser Zeit die Möglichkeit, ein Jahr am Politecnico di Milano (Italien) zu studieren. Nach Abschluss ihres Studiums arbeitete sie in Architekturbüros und Bauunternehmen in Spanien und Deutschland, wo sie ihre berufliche Laufbahn auf die Anwendung der BIM-Methodik ausrichten konnte.",
+          "public_name": "Laura Fernandez Resta",
+          "guid": "cf3a4ef8-b4da-5e32-b8c7-18925965a75b",
+          "url": "https://pretalx.com/fossgis2025/speaker/AGCCK9/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/PTHZCL/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/PTHZCL/",
+      "attachments": [
+        {
+          "title": "PDF für LT",
+          "url": "/media/fossgis2025/submissions/PTHZCL/resources/20250326_BIM_F_eVDXbcz.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "e2c6ac9e-60f1-5345-b065-2f6701b7a966",
+      "code": "UAG3YL",
+      "id": 57804,
+      "logo": null,
+      "date": "2025-03-26T14:20:00+01:00",
+      "start": "14:20",
+      "duration": "00:05",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57804-amtliche-orthofotos-zentral-verfugbar-eine-open-source-losung-fur-deutschland",
+      "url": "https://pretalx.com/fossgis2025/talk/UAG3YL/",
+      "title": "Amtliche Orthofotos zentral verfügbar: Eine Open-Source-Lösung für Deutschland",
+      "subtitle": "",
+      "track": "Rasterdaten und Fernerkundung",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "In Deutschland werden amtliche Orthophotos mittlerweile in allen Bundesländern frei zugänglich bereitgestellt, geregelt durch die INSPIRE-Richtlinie. Doch die föderale Struktur führt zu 16 unterschiedlichen Diensten, die den Zugriff auf diese hochwertigen Bilddaten erschweren. Die vorgestellte Software bietet eine zentrale Lösung, die den deutschlandweiten Download vereinfacht.",
+      "description": "Orthophotos bieten durch hohe Bodenauflösung, spektrale Information und Lagegenauigkeit eine wertvolle Datenbasis für verschiedenste Anwendungsbereiche in der Fernerkundung, von Umweltforschung bis hin zur Stadtplanung. In Deutschland werden diese Aufnahmen im Zweijahresrhythmus erstellt und seit kurzem frei zugänglich gemacht, um der INSPIRE-Richtlinie zu entsprechen. Da Geobasisdaten in Deutschland Ländersache sind, wird die Aufnahme, Speicherung und Bereitstellung dieser Daten innerhalb der Bundesländer organisiert. Dies führt zu 16 unterschiedlichen Plattformen und Schnittstellen, die von modernen STAC-Katalogen bis hin zu WMS-Diensten reichen.\r\n\r\nDieses Projekt stellt eine Softwarelösung vor, die den deutschlandweiten Zugriff auf Orthophotos vereinfacht und Nutzer die Möglichkeit bietet, Bilder unabhängig vom jeweiligen Dienst herunterzuladen. Die Software unterstützt das Herunterladen von RGB- oder RGBI-Daten und ermöglicht flexible geografische Abfragen.\r\n\r\nDiese Lösung richtet sich sowohl an Forschende als auch an Entwickler\r\nund zielt darauf ab, die Nutzung und Weiterentwicklung zu fördern. Die zentrale Bereitstellung und der vereinfachte Zugriff können dabei helfen, die föderal organisierten Daten für größere, regionsübergreifende Projekte leichter nutzbar zu machen und neue Möglichkeiten zur Datennutzung in Wissenschaft und Praxis zu erschließen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "HMFY7L",
+          "name": "Moritz Lucas",
+          "avatar": "https://pretalx.com/media/avatars/HMFY7L_S6AlsuL.jpg",
+          "biography": "Moritz Lucas studierte Geographie und Geoinformatik an den Universitäten Bremen und Osnabrück. Seit 2023 promoviert er am Joint Lab Künstliche Intelligenz & Data Science in Osnabrück. In seiner Forschung untersucht er den Einfluss von Bäumen auf die Biodiversität in der deutschen Agrarlandschaft.",
+          "public_name": "Moritz Lucas",
+          "guid": "abaad459-376f-5c8b-81e9-d257dbaa2a76",
+          "url": "https://pretalx.com/fossgis2025/speaker/HMFY7L/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/UAG3YL/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/UAG3YL/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/UAG3YL/resources/Lucas_Orthopho_fSBhmAu.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "d73e19cc-3b3e-5d01-814f-9731008c5303",
+      "code": "PDKWKU",
+      "id": 59167,
+      "logo": null,
+      "date": "2025-03-26T14:25:00+01:00",
+      "start": "14:25",
+      "duration": "00:10",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-59167-ergebnisprasentation-des-hackathon-ifgihack25",
+      "url": "https://pretalx.com/fossgis2025/talk/PDKWKU/",
+      "title": "Ergebnispräsentation des Hackathon #ifgiHACK25",
+      "subtitle": "",
+      "track": null,
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "In diesem doppelten Lightning-Talk-Block werden im Schnelldurchlauf die Ergebnisse des Hackathon #ifgiHACK25 am Montag und Dienstag präsentiert.",
+      "description": "In diesem doppelten Lightning-Talk-Block werden im Schnelldurchlauf die Ergebnisse des  Hackathon [#ifgiHACK25](https://fossgis-konferenz.de/2025/socialevents/ifgiHACK.php) am Montag und Dienstag präsentiert. Die von der Jury nominierten drei besten Ergebnisse werden vorgestellt.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/PDKWKU/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/PDKWKU/",
+      "attachments": []
+    },
+    {
+      "guid": "a4939302-f842-519f-b368-787ef742681b",
+      "code": "7BYCBD",
+      "id": 58293,
+      "logo": null,
+      "date": "2025-03-26T14:50:00+01:00",
+      "start": "14:50",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58293-wie-maplibre-und-vektorkarten-die-welt-ubernehmen",
+      "url": "https://pretalx.com/fossgis2025/talk/7BYCBD/",
+      "title": "Wie MapLibre und Vektorkarten die Welt übernehmen",
+      "subtitle": "",
+      "track": "Kartographie und Visualisierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Vektorbasierte Karten sind die Zukunft! Oder vielleicht sogar schon die Gegenwart? In diesem Vortrag werden beide Perspektiven beleuchtet! Bart spricht aus der Perspektive der Entwicklung von MapLibre, und gibt einen Einblick in den neuesten Stand. Just erzählt von seinen Erfahrungen als Benutzer der MapLibre-Stack um vektorbasierte Karten zu gestalten.",
+      "description": "Bart Louwers, der seit zwei Jahren Maintainer von MapLibre Native ist, gibt ein Update über spannende neue Entwicklungen bei MapLibre. In der C++-Version von MapLibre stehen jetzt nicht nur eine, sondern zwei neue Rendering-Backends zur Verfügung (Vulkan und Metal). Seit Version 5.0.0 unterstützt MapLibre Web zudem die Darstellung der Erde als Globus.\r\n\r\nJust van den Broecke, ein erfahrener niederländischer Kartograph, spricht über die neuen Herausforderungen, die die Erstellung von vektorbasierten Karten mit dem MapLibre-Stack mit sich bringt – im Gegensatz zur Arbeit mit Rasterkarten in Tools wie Mapnik.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "8ZHUKC",
+          "name": "Bart Louwers",
+          "avatar": "https://pretalx.com/media/avatars/8ZHUKC_wyaNqUb.jpg",
+          "biography": "Bart Louwers ist seit 2 Jahren aktiv als Maintainer von MapLibre Native.",
+          "public_name": "Bart Louwers",
+          "guid": "3f91b89c-1365-5f50-adc1-522ff78cdefe",
+          "url": "https://pretalx.com/fossgis2025/speaker/8ZHUKC/"
+        },
+        {
+          "code": "GDFNCF",
+          "name": "Just van den Broecke",
+          "avatar": "https://pretalx.com/media/avatars/GDFNCF_WEkJmRs.jpg",
+          "biography": "Just van den Broecke ist ein unabhängiger Open-Source-Experte für Geodaten, der unter dem Handelsnamen „Just Objects“ arbeitet – https://justobjects.nl. In seiner täglichen Arbeit entwirft, entwickelt und implementiert er Open-Source-Infrastrukturen, -Stacks und -Produkte für Geodaten. Er ist ein wichtiger Mitwirkender an Open-Source-Projekten wie pygeoapi (auch PSC), GeoHealthCheck, Stetl und NLExtract. Er ist Gründungsmitglied (Charter Member) von OSGeo und Gründer/ehemaliger Vorsitzender von OSGeo.nl, dem niederländischen lokalen OSGeo-Chapter.",
+          "public_name": "Just van den Broecke",
+          "guid": "f1018d0a-0b48-5b29-ae31-2454995208bb",
+          "url": "https://pretalx.com/fossgis2025/speaker/GDFNCF/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/7BYCBD/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/7BYCBD/",
+      "attachments": [
+        {
+          "title": "slides",
+          "url": "/media/fossgis2025/submissions/7BYCBD/resources/slides-fossgis_nkWmbp2.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "4afd1b81-f98e-5882-b8cb-e4dcc1b41c41",
+      "code": "HEWMUB",
+      "id": 58089,
+      "logo": null,
+      "date": "2025-03-26T15:25:00+01:00",
+      "start": "15:25",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58089-vektor-tiles-fur-karten-mit-echtzeitdaten",
+      "url": "https://pretalx.com/fossgis2025/talk/HEWMUB/",
+      "title": "Vektor Tiles für Karten mit Echtzeitdaten",
+      "subtitle": "",
+      "track": "Kartographie und Visualisierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Vektorkacheln sind eine effiziente Art, um Karten mit grossen Mengen an Echtzeitdaten bereitzustellen.",
+      "description": "IoT-Anwendungen oder Karten mit Wetter-, Verkehrs- oder anderen Live-Daten benötigen ein\r\nkompaktes Format zur Übertragung aktualisierter Daten. Vektorkacheln mit ihren leistungsfähigen\r\nStyling-Möglichkeiten werden von diversen JavaScript-Kartenviewern unterstützt.\r\n\r\nDieser Vortrag zeigt, wie man Echtzeitdaten mit MapLibre und OpenLayers darstellen kann. Auf der\r\nServerseite wird [BBOX](https://www.bbox.earth/) verwendet, um Kacheln aus einer\r\nPostGIS-Datenbank bereitzustellen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "QWKZFY",
+          "name": "Pirmin Kalberer",
+          "avatar": "https://pretalx.com/media/avatars/QWKZFY_oijwyqY.jpg",
+          "biography": "Pirmin Kalberer ist Mitgründer von Sourcepole in Zürich und trägt selbst als Entwickler zu verschiedenen Open Source GIS Projekten bei.",
+          "public_name": "Pirmin Kalberer",
+          "guid": "ce707060-77f8-5d41-861c-ab6cc9ecabc9",
+          "url": "https://pretalx.com/fossgis2025/speaker/QWKZFY/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/HEWMUB/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/HEWMUB/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/HEWMUB/resources/vektor-tiles-m_GFFSccq.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "dae5e75d-c726-5d8c-ad4c-e802ef36f22a",
+      "code": "TRJW9F",
+      "id": 58192,
+      "logo": null,
+      "date": "2025-03-26T16:30:00+01:00",
+      "start": "16:30",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58192-open-alkis-oder-was-passiert-wenn-der-deutsche-foderalismus-auf-eu-recht-trifft",
+      "url": "https://pretalx.com/fossgis2025/talk/TRJW9F/",
+      "title": "Open ALKIS? – Oder was passiert, wenn der deutsche Föderalismus auf EU-Recht trifft",
+      "subtitle": "",
+      "track": "Open Data, Datenschutz und Lizenzen",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Wir befinden uns im Jahr 2024. Die Durchführungsverordnung (EU) 2023/138 tritt in Kraft und sorgt dafür, dass wesentliche Teile des Liegenschaftskatasters als Open Data zur Verfügung stehen. Das gilt auch in Deutschland für ALKIS. Doch hier sind die Bundesländer zuständig, was zu einem Sammelsurium von Umsetzungen führt. Und ein von unbeugsamen Bajuwaren bevölkertes Land hört nicht auf, den Europäern Widerstand zu leisten. Das Leben ist nicht leicht für Open Data-Enthusiasten...",
+      "description": "Seit dem 9. Juni 2024 gilt die „Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung“. Diese steht auch in Zusammenhang mit INSPIRE und legt für die Datenkategorien Georaum, Erdbeobachtung und Umwelt, Meteorologie, Statistik, Unternehmen und Eigentümerschaft von Unternehmen sowie Mobilität Datensätze fest, die unter den Bedingungen der Lizenz Creative Commons BY 4.0 oder einer gleichwertigen oder weniger einschränkenden offenen Lizenz in einem öffentlich dokumentierten, unionsweit oder international anerkannten offenen, maschinenlesbaren Format über Anwendungsprogrammierschnittstellen (APIs) und Massen-Download in ihrer jeweils aktuellsten Version zur Weiterverwendung zur Verfügung gestellt werden.\r\n\r\nDiese Datensätze umfassen insbesondere auch Gebäude, Flurstücke/Grundstücke (Katasterparzellen), Referenzparzellen und landwirtschaftliche Parzellen, die in Deutschland als wesentliche Inhalte des Amtlichen Liegenschaftskataster-Informationssystems (ALKIS) von den Vermessungsverwaltungen der Länder erfasst werden. Die Geltung der o.g. Durchführungsverordnung zum 9. Juni 2024 hat dazu geführt, dass nun 15 von 16 Bundesländern entweder die kompletten ALKIS-Daten gemäß GeoInfoDok (aber aus Datenschutzgründen ohne Eigentümerangaben) oder in der sogenannten Schemavariante „Vereinfachtes Datenaustauschschema“ als Open Data zur Verfügung stellen. Lediglich Bayern schert hier mit einer fragwürdigen Begründung aus.\r\n\r\nIm Vortrag wird der aktuelle Stand der Verfügbarkeit von ALKIS-Open Data in den verschiedenen Bundesländern aufgeschlüsselt und gegenübergestellt, insbesondere bzgl. Lizenzen, APIs, Massen-Download und Formaten sowie den sich daraus ergebenden Nutzungsmöglichkeiten in Open Source-Systemen wie QGIS und GeoServer. Des Weiteren werden Möglichkeiten vorgestellt, wie diese Daten als „Open Data++“ – besser als von den Ländern umgesetzt – bereitgestellt und genutzt werden können.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "HTTHBV",
+          "name": "Stefan Zaunseder",
+          "avatar": "https://pretalx.com/media/avatars/HTTHBV_WMZzKOA.jpg",
+          "biography": "Diplom-Informatiker mit Nebenfach Geographie (TU München), seit vielen Jahren Software-Entwickler, insbesondere GI-Software, früher u.a. im GISCAD-Institut BAULEIT.CAD für die Bauleitplanung und PCMap sowie w³GIS für thematische Kartografie und GIS. Inzwischen entwickeln wir bei GISCAD Technologies mit und für Open Source GI-Systemen, insbesondere PostGIS, GeoServer, OpenLayers sowie QGIS und GDAL. Schwerpunkte sind dabei ALKIS, Open Data und Big Geodata.",
+          "public_name": "Stefan Zaunseder",
+          "guid": "85949d92-a4c6-5755-a460-630d98be4aea",
+          "url": "https://pretalx.com/fossgis2025/speaker/HTTHBV/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/TRJW9F/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/TRJW9F/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/TRJW9F/resources/fossgis_2025_O_o7dunuo.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "6dad1574-330a-5f70-972c-f5e2eadcb24b",
+      "code": "3DRWEE",
+      "id": 58130,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/3DRWEE/cutcsl_urban_simulation__47dqV84.png",
+      "date": "2025-03-26T17:05:00+01:00",
+      "start": "17:05",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58130-was-ware-wenn-wir-algorithmen-demokratisieren-kollaborative-infrastrukturen-fur-udz",
+      "url": "https://pretalx.com/fossgis2025/talk/3DRWEE/",
+      "title": "Was wäre, wenn wir Algorithmen demokratisieren? Kollaborative Infrastrukturen für UDZ",
+      "subtitle": "",
+      "track": "Raum-zeitliche Analysen und Modelle",
+      "type": "Vortrag mit Paper im Academic Track",
+      "language": "de-formal",
+      "abstract": "Das Paper zeigt, wie neue kollaborative Infrastrukturen für Urbane Digitale Zwillinge eine bessere Teilhabe und Zugang zur Simulationsentwicklung schaffen können. Am Beispiel von drei Open-Source-Tools aus dem „Connected Urban Twins“-Projekt wird demonstriert, wie Szenarien für Stadtentwicklungsprozesse gemeinsam entwickelt, analysiert und zugänglich gemacht werden können. Ziel ist eine nachhaltigere, inklusivere Planung, die durch vielfältige Perspektiven blinde Flecken in Modellen reduziert.",
+      "description": "Was wäre, wenn wir Algorithmen demokratisieren? Neue kollaborative Infrastrukturen für Modelle und Simulationen in digitalen Stadtzwillingen\r\n\r\nAls Teil der Antwort auf die vielfältigen Herausforderungen des 21. Jahrhunderts widmen sich immer mehr Städte und Kommunen der Entwicklung und dem Einsatz von Urbanen Digitalen Zwillingen. Neben einer großen Bandbreite an Einsatzmöglichkeiten im Bereich der Visualisierung und Informationsbereitstellung steht vor allem die Erstellung von \"Was wäre, wenn?\"-Szenarien im Vordergrund. Die Auswirkungen von Planungen sollen, so das Versprechen, durch unterschiedlichste Analyse- und Simulationsalgorithmen bereits in einem frühen Stadium berechnet, analysiert und bewertet werden. Damit sollen nicht nur Effizienzgewinne ermöglicht, sondern auch die inhaltliche Qualität der Planung im Sinne einer nachhaltigen und integrierten Stadtentwicklung erhöht werden. Gleichzeitig existiert neben einer Bandbreite an proprietären Lösungen kaum eine offene und öffentliche Infrastruktur, die die systematische Erstellung, Bereitstellung und Nutzung von Simulationsmodellen und Algorithmen unterstützt. \r\n\r\nDieses Paper präsentiert drei miteinander verschränkte FOSS-Tools, die in den vergangenen zwei Jahren im City Science Lab der HafenCity Universität Hamburg im Rahmen des \"Connected Urban Twins\" Projektes entwickelt, getestet und angewandt wurden. Dazu zählt eine Urban Model Platform zum Bereitstellen und Ausführen von dezentralen Algorithmen (https://github.com/citysciencelab/urban-model-platform), ein Scenario Explorer Tool zur Erstellung, Verwaltung und Teilen von urbanen Szenarien zwischen diversen Stakeholdern (https://github.com/citysciencelab/materportal-scenario-explorer) und ein Urban Model Builder zur kollaborativen Neu- und Weiterentwicklung von Simulationsmodellen basierend auf urbanen Daten (https://github.com/citysciencelab/urban-model-builder). Alle Tools sind über offene Standards wie die OGC API Processes verknüpft, bauen auf anderen quelloffenen Projekte wie dem Masterportal oder der Open-Source Simulation Library des InsightMaker auf und ermöglichen die offene und kollaborative Erstellung von Simulationsmodellen sowie deren Nutzung in der Planungspraxis.\r\n\r\nKern der Tools ist die praktische Umsetzung und Überführung des Multi-modeling Ansatzes in die Stadtentwicklung: Nur durch eine vielfältige und offene digitale Repräsentation von städtischen Prozessen und Phänomenen durch eine Bandbreite an Expert:innen, zivilgesellschaftlichen Akteuren und interessierten Bürgern können unterschiedliche blinde Flecken von Simulationsmodellen erkannt und abgeschwächt werden. Dafür ist sowohl eine offene Umgebung zur gemeinsamen Entwicklung, Diskussion der enthaltenen Annahmen und Bereitstellung von Simulationsmodellen notwendig, als auch eine offene Plattform zum Teilen unterschiedlichster Algorithmen. Nicht zuletzt gilt es, das Teilen und Organisieren der resultierenden Szenarien zwischen unterschiedlichsten Stakeholdern zu ermöglichen. Neben der Funktionsweise der Tools werden erste Ergebnisse von diversen User-Testings sowie mögliche Weiterentwicklungen und Einsatzmöglichkeiten der Tools dargelegt.\r\n\r\n#### Einreichung im Akademic Track\r\nZenodo-DOI: https://zenodo.org/records/14615602",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "CKALCM",
+          "name": "Rico H Herzog",
+          "avatar": "https://pretalx.com/media/avatars/CKALCM_mTIbXV8.jpg",
+          "biography": "Rico Herzog ist der Lead für Modellierung, Simulation, KI und maschinelles Lernen in Deutschlands größtem Smart-City-Projekt „Connected Urban Twins“ und wissenschaftlicher Mitarbeiter am City Science Lab der HafenCity Universität Hamburg, einer Kooperation mit dem MIT Media Lab. Mit einem Hintergrund in der Raumplanung und in der computergestützten Modellierung und Simulation komplexer sozio-technischer Systeme, dreht sich seine Forschung um digitale urbane Zwillinge und deren Beitrag zu einer nachhaltigen urbanen Transformation. Er erforscht neue Ansätze zur Erfassung urbaner Komplexität im Digitalen und konzentriert sich dabei auf das Zusammenwirken von digitalen Modellen und Simulationen unterschiedlicher Art. Weitere akademische Interessen liegen in öffentlichen Wertkonflikten in der Stadtplanung und in Serious Gaming als Simulationsmethode.",
+          "public_name": "Rico H Herzog",
+          "guid": "adf44075-2033-5899-a5c0-c3f988980eaa",
+          "url": "https://pretalx.com/fossgis2025/speaker/CKALCM/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/3DRWEE/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/3DRWEE/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/3DRWEE/resources/2025-03-26_FOS_ByZekwa.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "3b188755-1def-513f-8a3f-ac6139eaa770",
+      "code": "EUMDZM",
+      "id": 57509,
+      "logo": null,
+      "date": "2025-03-26T17:40:00+01:00",
+      "start": "17:40",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57509-metadaten-fur-eine-verantwortungsvolle-und-kritische-geodatenpraxis",
+      "url": "https://pretalx.com/fossgis2025/talk/EUMDZM/",
+      "title": "Metadaten für eine verantwortungsvolle und kritische Geodatenpraxis",
+      "subtitle": "",
+      "track": "Open Data, Datenschutz und Lizenzen",
+      "type": "Vortrag mit Paper im Academic Track",
+      "language": "de-formal",
+      "abstract": "Die Open Data Bewegung ermöglicht den Zugang zu zahlreichen offenen Datensätzen. Allerdings fehlen oft detailliertere Metadaten, die den Kontext der Daten, wie Erhebungsmethoden oder Entscheidungen zu Klassifikationen, erklären. Für eine verantwortungsvolle und kritische Geodatenpraxis ist es jedoch essentiell, diesen Entstehungskontext einzubeziehen. Ansatzpunkte dafür können Frameworks zur Dokumentation und Reflexion des Datenkontextes sowie Metadaten Standards sein.",
+      "description": "Die Arbeit zeigt die Bedeutung des Entstehungskontextes für Datensätze auf und untersucht, welche Informationen für eine reflektierte und verantwortungsvolle Nutzung von Geodaten relevant sind. Dazu werden Dokumentations- und Reflexionsframeworks aus den Critical Data Studies sowie der Forschung zu Ethical AI und Maschinellem Lernen untersucht und in Bezug zum ISO-Standard für Metadaten geographischer Informationen gesetzt, da Kontextinformationen als Metadaten zur Verfügung gestellt werden können. Die Analyse offenbart zahlreiche Überschneidungen, aber auch inhaltliche Lücken und signifikante Unterschiede im Format der Frameworks und des Standards. Anhand der Open Source Anwendung [Grätzlfarben](https://cartolab.at/graetzlfarben/) werden die Metadaten von drei offenen Datensätzen, u.a. OSM, beispielhaft analysiert, um die Verfügbarkeit relevanter Kontextinformationen zu evaluieren. Die Ergebnisse zeigen, dass wesentliche Aspekte des Entstehungskontexts fehlen und dies den reflektierten Umgang mit Daten erschwert. Abschließend werden Potenziale und Bedarfe für die Integration und Weiterentwicklung von Kontextinformationen sowie deren Nutzbarmachung in Karten und GIS-Anwendungen skizziert.\r\n\r\n#### Einreichung im Akademic Track\r\nZenodo-DOI: https://zenodo.org/records/14616221",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "SLKL8X",
+          "name": "Ester Scheck",
+          "avatar": "https://pretalx.com/media/avatars/SLKL8X_UMEEXyq.jpg",
+          "biography": "Forscherin, Dozentin und Doktoratsstudentin an der TU Wien, [Forschungsgruppe Kartographie](https://cartography.tuwien.ac.at/), ursprünglich sozialwissenschaftlicher Hintergrund, aber zwischendurch im Open Data Bereich und jetzt in der Kartographie",
+          "public_name": "Ester Scheck",
+          "guid": "65c33484-e1f4-598d-bf40-adab7e7574f2",
+          "url": "https://pretalx.com/fossgis2025/speaker/SLKL8X/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/EUMDZM/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/EUMDZM/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/EUMDZM/resources/scheck-metadat_42uVEBx.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "02212770-81fd-51aa-b563-97d5eb777bca",
+      "code": "9HYKGN",
+      "id": 58059,
+      "logo": null,
+      "date": "2025-03-26T18:15:00+01:00",
+      "start": "18:15",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58059-mosidi-homogenisierung-von-offenen-daten-fur-die-kommunale-planung",
+      "url": "https://pretalx.com/fossgis2025/talk/9HYKGN/",
+      "title": "MOSIDI - Homogenisierung von offenen Daten  für die kommunale Planung",
+      "subtitle": "",
+      "track": "Open Data, Datenschutz und Lizenzen",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Im Rahmen des Projekts InNoWest wird ein homogenisiertes Datenschema für die kommunale Verwaltung entwickelt. Ziel ist es, heterogene räumliche Daten aus öffentlichen und Non-Profit-Quellen zu aggregieren und über ein niedrigschwelliges Benutzerinterface bereitzustellen. Durch die nutzerzentrierte Entwicklung, abgestimmt auf reale Bedürfnisse brandenburgischer Kommunen, können Daten flexibel kombiniert und neue Erkenntnisse für Planung und Daseinsvorsorge generiert werden.",
+      "description": "In der kommunalen Verwaltung gewinnen Daten eine immer zentralere Rolle bei der Planung, Analyse und strategischen Entscheidungsfindung. Dabei stellt die Heterogenität der verfügbaren Datenquellen eine große Herausforderung dar, da sie sich hinsichtlich Struktur, Format und Auflösung erheblich unterscheiden. Zudem fehlen gerade in kleinen Kommunen oft Datenexpert:innen, die das Aufbereiten und Verschneiden von Daten übernehmen könnten. Im Rahmen des Forschungsvorhabens InNoWest adressieren wir diese Problematik durch die Entwicklung eines homogenisierten Datenschemas für kommunale Planungsszenarien. Ziel ist die Aggregation und Standardisierung räumlicher Daten aus vielfältigen Quellen, um den Nutzer:innen in der Verwaltung eine flexible und umfassende Datenbasis bereitzustellen.\r\n\r\nIm Mittelpunkt steht die Aggregation heterogener räumlicher Datensätze aus verschiedenen öffentlichen und Non-Profit-Quellen wie dem Zensus, dem Deutschen Wetterdienst, dem Statistischen Bundesamt, den statistischen Landesämtern sowie OpenStreetMap und der Bertelsmann Stiftung. Diese Daten umfassen eine Vielzahl von relevanten Informationen zur Bevölkerungsstruktur, Infrastruktur, Umweltbedingungen und weiteren kommunal bedeutsamen Bereichen. Die Daten werden homogenisiert und auf ein einheitliches Schema gebracht, sodass die Nutzung über ein niedrigschwelliges Benutzerinterface vereinfacht wird. Die ausschließliche Verwendung offener Technologien wie Postgres und Geoserver stellt sicher, dass die Infrastruktur kostengünstig, transparent und für Weiterentwicklungen zugänglich bleibt.\r\n\r\nDas innovative Konzept erlaubt es den Kommunen, nicht nur als Datenlieferanten zu agieren, sondern auch als aktive Nutzer:innen eines konsolidierten Datenbestands. Über das Benutzerinterface können die Akteur:innen  Daten aus externen Quellen flexibel mit eigenen kommunalen Datensätzen kombinieren und spezifische Szenarien und Analysen erstellen. Der Zugriff auf einen breiten Datenpool ermöglicht die Berechnung neuer, wertschöpfender Erkenntnisse und erleichtert so die interkommunale Zusammenarbeit sowie die kommunale Daseinsvorsorge. Dies unterstützt evidenzbasierte Planung und fundierte Entscheidungsprozesse.\r\n\r\nDas Projekt wurde in einem nutzerzentrierten und partizipativen Prozess entwickelt. Die Bedürfnisse der beteiligten Kommunen aus Brandenburg wurden umfassend berücksichtigt und bildeten die Grundlage für die einzelnen Entwicklungsschritte. Durch regelmäßigen Austausch und Feedbackschleifen konnten reale Anforderungen und spezifische Bedarfe in die Gestaltung der Plattform integriert werden. So entstand ein System, das die tatsächlichen Herausforderungen und Wünsche der kommunalen Nutzer:innen adressiert und praxisgerechte Lösungen zur Unterstützung kommunaler Planungsaufgaben bietet.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "GXX8FD",
+          "name": "Sebastian Meier",
+          "avatar": "https://pretalx.com/media/avatars/GXX8FD_JSdbNTP.jpg",
+          "biography": "An der Schnittstelle von mensch-zentrierter Gestaltung und technologischer Innovation erforscht Sebastian Meier mit seinen Kolleg:innen am Interaction Design Lab der Fachhochschule Potsdam. Von urbaner Datenvisualisierung als Werkzeuge partizipativer Teilhabe, Expertenwerkzeugen zur Unterstützungs von Entscheidungsprozessen, bis hin zu Ausstellungen und Exponaten zur Vermittlung komplexer Sachverhalte, wird ein ganzheitlicher Ansatz verfolgt, um zielgruppengerechte Lösungen zu erforschen und entwickeln.\r\n\r\nForschungsschwerpunkte:\r\n\r\n- Klimawandel und Nachhaltigkeit in der Vermittlung\r\n- Digitale Teilhabe, Literacy und Souveranität\r\n- Stadtentwicklung und Partizipation\r\n- Open Data in Komunal-, Landes- und Bundesbehörden\r\n\r\nSebastian Meier ist Co-Inititator der CityVis Inititative, die sich um einen weltweiten Austausch in Forschung und Anwendung zu den Themen urbaner Datenvisualisierung bemüht. Neben zahlreichen Workshops, gibts Symposien und Ausstellungen, welche versuchen das Wissen einer breiten Zielgruppe aufzubereiten. Als Sektions- und Kommissionsleiter innerhalb der Deutschen Gesellschaft für Kartographie, betreibt er besonders Nachwuchsförderung an der Schnittstelle von Design und Kartographie.\r\n\r\nVor seiner Arbeit an der Fachhochschule Potsdam kooperierte er als Gastprofessor an der HafenCity Universität Hamburg mit dem dortigen CityScienceLab und dem g2lab, im Kontext von Stadtplanung und Partizipation. Als wissenschaftlicher Leiter des CityLAB Berlin, eine Einrichtung der Senatskanzlei Berlin und der Technologiestiftung Berlin, projektierte er Vorhaben auf Landesebene zu Themen rund um Open Data, Smart City und Nachhaltigkeit.",
+          "public_name": "Sebastian Meier",
+          "guid": "8bb9a1ca-7b92-5167-b285-2245e4a293ad",
+          "url": "https://pretalx.com/fossgis2025/speaker/GXX8FD/"
+        },
+        {
+          "code": "FVDWUN",
+          "name": "Leonard Higi",
+          "avatar": "https://pretalx.com/media/avatars/FVDWUN_jybPZ7W.jpg",
+          "biography": "Leonard Higi ist wissenschaftlicher Mitarbeiter am Institut für angewandte Forschung Urbane Zukunft der Fachhochschule Potsdam. Im Verbundprojekt \"InNoWest\" arbeitet er an angewandten Ansätzen zur Datennutzung für kleinere Kommunen. Mit einem Hintergrund in Architektur, Stadtplanung und Zukunftsforschung erforscht er als Promotionsstudent das Spannungsfeld von Urban Data Governance und Stadtentwicklung in Kleinstädten.",
+          "public_name": "Leonard Higi",
+          "guid": "055c87c0-cd77-5b92-be78-58a1f5516e0d",
+          "url": "https://pretalx.com/fossgis2025/speaker/FVDWUN/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/9HYKGN/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/9HYKGN/",
+      "attachments": [
+        {
+          "title": "MOSIDI Slides (ohne Animationen)",
+          "url": "/media/fossgis2025/submissions/9HYKGN/resources/250326-FOSSGIS_3mJO7Nc.pdf",
+          "type": "related"
+        }
+      ]
+    }
+  ]
+}

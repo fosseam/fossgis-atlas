@@ -1,0 +1,189 @@
+[
+  {
+    "id": 57964,
+    "title": "FOSS-GIS+FOSS in der Wind- und Solarbranche",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "FOSS4G in Energie & Infrastruktur",
+      "position": "03|01|01",
+      "tags": [
+        "QGIS",
+        "PostgreSQL",
+        "Windkraft",
+        "Solar",
+        "Vertragsmanagement"
+      ]
+    }
+  },
+  {
+    "id": 56862,
+    "title": "Unterstützung des regionalen Naturschutzes in Luxemburg mit Open Source GIS-Software",
+    "track": "Praxisberichte",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "FOSS4G in Umwelt & Naturschutz",
+      "position": "03|01|02",
+      "tags": [
+        "PostGIS",
+        "Lizmap",
+        "Monitoring",
+        "Artenvielfalt",
+        "Obstwiesen"
+      ]
+    }
+  },
+  {
+    "id": 57057,
+    "title": "Mit QGIS zum digitalen Prozess 1 - Gebäudeeigenschaften",
+    "track": "Geodatenmanagement",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "GIS in Verwaltung & Prozesse",
+      "position": "03|03|01",
+      "tags": [
+        "QGIS",
+        "Gebäudedaten",
+        "Verwaltung",
+        "Digitalisierung",
+        "Prozessdesign"
+      ]
+    }
+  },
+  {
+    "id": 58013,
+    "title": "Fehlende Bürgersteige",
+    "track": "OpenStreetMap",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Qualitätssicherung",
+      "position": "02|01|02",
+      "tags": [
+        "OSM",
+        "Fußwege",
+        "Sidewalk",
+        "Tagging",
+        "Mapping"
+      ]
+    }
+  },
+  {
+    "id": 58094,
+    "title": "radinfra.de – gute Daten und Kampagnen zur Radinfrastruktur für ganz Deutschland",
+    "track": "Daten, Datenbanken und Datenprozessierung",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "OpenStreetMap & Community",
+      "position": "02|01|01",
+      "tags": [
+        "Radverkehr",
+        "radinfra.de",
+        "OSM",
+        "Kampagnen",
+        "Verkehrswende"
+      ]
+    }
+  },
+  {
+    "id": 58143,
+    "title": "PTNA: Qualitätssicherung für ÖPNV-Linien in OpenStreetMap",
+    "track": "OpenStreetMap",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Qualitätssicherung",
+      "position": "02|01|02",
+      "tags": [
+        "OSM",
+        "ÖPNV",
+        "PTv2",
+        "GTFS",
+        "Routenrelationen"
+      ]
+    }
+  },
+  {
+    "id": 57896,
+    "title": "Koordinatenreferenzsysteme für D-A-CH",
+    "track": "Ausbildung, Lehre, Open Science",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "CRS, Projektionen, Transformationen",
+      "position": "01|03|01",
+      "tags": [
+        "CRS",
+        "ETRS89",
+        "LV95",
+        "vertikal",
+        "PROJ"
+      ]
+    }
+  },
+  {
+    "id": 58091,
+    "title": "Lebewohl Web Mercator",
+    "track": "Kartographie und Visualisierung",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "CRS, Projektionen, Transformationen",
+      "position": "01|03|01",
+      "tags": [
+        "Equal Earth",
+        "Web Mercator",
+        "Projektionen",
+        "Kartografie",
+        "Visualisierung"
+      ]
+    }
+  },
+  {
+    "id": 58136,
+    "title": "Ein Blick in die Koordinierungsstelle des FOSSGIS e.V.",
+    "track": "25 Jahre FOSSGIS e.V.",
+    "type": "Vortrag",
+    "taxo": {
+      "sub": "Community & Konferenzkultur",
+      "position": "04|03|01",
+      "tags": [
+        "FOSSGIS",
+        "Vereinsarbeit",
+        "Koordination",
+        "Ehrenamt",
+        "Konferenzorga"
+      ]
+    }
+  },
+  {
+    "id": 59154,
+    "title": "Abschlussveranstaltung",
+    "track": null,
+    "type": "Sonstiges",
+    "taxo": {
+      "sub": "Community & Konferenzkultur",
+      "position": "04|03|01",
+      "tags": [
+        "Abschluss",
+        "FOSSGIS",
+        "Ausblick",
+        "Konferenz",
+        "2026"
+      ]
+    }
+  },
+  {
+    "id": 59155,
+    "title": "Sektempfang im Foyer",
+    "track": null,
+    "type": "Sonstiges",
+    "taxo": {
+      "sub": "Community & Konferenzkultur",
+      "position": "04|03|01",
+      "tags": [
+        "Sektempfang",
+        "Foyer",
+        "FOSSGIS",
+        "Networking",
+        "Vereinsstand"
+      ]
+    }
+  }
+]

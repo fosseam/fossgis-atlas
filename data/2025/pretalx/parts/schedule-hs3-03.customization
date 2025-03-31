@@ -1,0 +1,256 @@
+{
+  "day": 3,
+  "date": "2025-03-28",
+  "room": "HS3 (S1)",
+  "events": [
+    {
+      "guid": "54f7caa6-dfdd-5a18-847c-262b4f2aa2e3",
+      "code": "DPNHSU",
+      "id": 58272,
+      "logo": null,
+      "date": "2025-03-28T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58272-nicht-von-neuen-algorithmen-uberflutet-osm-daten-fur-waterwaymap-verarbeiten",
+      "url": "https://pretalx.com/fossgis2025/talk/DPNHSU/",
+      "title": "Nicht von neuen Algorithmen überflutet: OSM-Daten für WaterwayMap verarbeiten",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Heutzutage gibt es viele komplizierte Tools und Datenbanken. WaterwayMap.org zeigt, dass alle Flüsse und Bäche miteinander verbunden sind und verschiedene QA-Datensätze für den gesamten Planeten erstellt werden.\r\n\r\nIn diesem Vortrag werden einige der grundlegenden Algorithmen erläutert, die zur Erstellung dieser Daten verwendet werden, sowie die sehr komplizierte Speichermethode „einfach in den Speicher einlesen“.\r\n\r\nAußerdem werden einige der neuen WWM-Funktionen behandelt.",
+      "description": "Heutzutage gibt es viele komplizierte Tools und Datenbanken. WaterwayMap.org zeigt, dass alle Flüsse und Bäche miteinander verbunden sind und verschiedene QA-Datensätze für den gesamten Planeten erstellt werden.\r\n\r\nIn diesem Vortrag werden einige der grundlegenden Algorithmen erläutert, die zur Erstellung dieser Daten verwendet werden, sowie die sehr komplizierte Speichermethode „einfach in den Speicher einlesen“.\r\n\r\nAußerdem werden einige der neuen WWM-Funktionen behandelt.\r\n\r\nFür normale Menschen ist immer noch alles möglich!",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "BFX3YR",
+          "name": "Amanda McCann",
+          "avatar": "https://pretalx.com/media/avatars/BFX3YR_zK5l5BH.jpg",
+          "biography": "Amanda McCann ist: Craft Mapperin, Hackerin, queer und trans. Sie kommt aus Irland, hat aber lange genug in Deutschland gelebt, um gerne zu wandern. Sie arbeitet bei der Geofabrik.",
+          "public_name": "Amanda McCann",
+          "guid": "6f9610a2-e1cb-52d9-9a7c-72bdcadf645f",
+          "url": "https://pretalx.com/fossgis2025/speaker/BFX3YR/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/DPNHSU/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/DPNHSU/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/DPNHSU/resources/output_FG8hWS8.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "c33536c6-5f93-55cf-8875-86ae3f1c7081",
+      "code": "KBFXRT",
+      "id": 57391,
+      "logo": null,
+      "date": "2025-03-28T09:35:00+01:00",
+      "start": "09:35",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-57391-osm2world-updates-fur-den-3d-pionier",
+      "url": "https://pretalx.com/fossgis2025/talk/KBFXRT/",
+      "title": "OSM2World: Updates für den 3D-Pionier",
+      "subtitle": "",
+      "track": "OpenStreetMap",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "OSM2World gehört zu den Pionieren der 3D-Darstellung von OpenStreetMap-Daten. Neue Features wie die Erzeugung von 3D Tiles und ein modernes Web-Frontend stellen sicher, dass der freie Renderer auch in Zukunft Maßstäbe setzt.",
+      "description": "OSM2World verwandelt OpenStreetMap-Daten in 3D-Modelle. Das Projekt wurde bereits 2010 gegründet und hat seither nicht nur enorm an Funktionalität hinzugewonnen, sondern sich auch den Veränderungen in der Softwarelandschaft angepasst und von den neuen Möglichkeiten profitiert.\r\n\r\nIn den letzten beiden Jahren gab es wieder zahlreiche Neuerungen, u.a. auch dank der finanziellen Förderung durch den Prototype Fund. Hierzu zählen das neue GeoDesk-Backend, Level-of-Detail-Unterstützung und umfangreiche Verbesserungen beim Import und Export von glTF-Modellen. Highlights sind eine browserbasierte Darstellung mit Babylon.js und die Erzeugung standardkonformer 3D Tiles. Diese Veränderungen bilden neben einem kurzen Überblick über die Möglichkeiten des freien 3D-Renderers den Schwerpunkt des Vortrags.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "PDWBJL",
+          "name": "Tobias Knerr",
+          "avatar": "https://pretalx.com/media/avatars/PDWBJL_SznkKpJ.jpg",
+          "biography": "Tobias ist selbstständiger Softwareentwickler und seit 2008 in der OpenStreetMap-Community aktiv. Seine Schwerpunkte sind 3D-Rendering und Indoor-Karten.",
+          "public_name": "Tobias Knerr",
+          "guid": "3ded0b94-91c7-57ba-8383-16fda7ce007d",
+          "url": "https://pretalx.com/fossgis2025/speaker/PDWBJL/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/KBFXRT/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/KBFXRT/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/KBFXRT/resources/OSM2World_Upda_AmON1oS.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "decc0a97-21a1-56c9-9b55-726f2802925a",
+      "code": "PVNHKU",
+      "id": 58056,
+      "logo": null,
+      "date": "2025-03-28T10:10:00+01:00",
+      "start": "10:10",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58056-text-und-data-mining-in-der-openstreetmap-datenbank-aus-rechtlicher-sicht",
+      "url": "https://pretalx.com/fossgis2025/talk/PVNHKU/",
+      "title": "Text und Data Mining in der OpenStreetMap-Datenbank aus rechtlicher Sicht",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Der Vortrag erläutert den Inhalt der relativ neuen rechtlichen Regelungen zum Text und Data Mining. Er geht der Frage nach, wer von dieser Regelung profitiert und welche Konsequenzen sich daraus für die OpenStreetMap-Daten als solche ergeben.",
+      "description": "Die OpenStreetMap-Datenbank ist als solche rechtlich geschützt (Datenbankherstellerrecht). Der Rahmen für die (freie) Nutzung wird durch die OpenDatabaseLicense (ODbL) gewährleistet.\r\n\r\nMit der Richtlinie über das Urheberrecht und die verwandten Schutzrechte im digitalen Binnenmarkt wurde das Recht zum Text und Daten Mining in Datenbanken eingeführt. Diese Regelung ist für das Anlernen von Large Language Model von nicht zu unterschätzender Bedeutung.\r\n\r\nDer Vortrag erläutert den Inhalt dieser relativ neuen rechtlichen Regelung. Er geht der Frage nach, wer von dieser Regelung profitiert und welche Konsequenzen sich daraus für die OpenStreetMap-Daten als solche ergeben. Dürfen OpenStreetMap-Daten für Zwecke des Text und Data Minings verwendet werden? Wird der (statistische) Vergleich mit anderen Datensätzen (bisher ein rechtlicher Graubereich) hierdurch einfacher?",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "AXN3UV",
+          "name": "Falk Zscheile",
+          "avatar": null,
+          "biography": "Sich für Datenschutz begeisternder Beitragender bei OpenStreetMap.",
+          "public_name": "Falk Zscheile",
+          "guid": "c73b4423-d7d4-5828-b995-6e4be8aedbe2",
+          "url": "https://pretalx.com/fossgis2025/speaker/AXN3UV/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/PVNHKU/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/PVNHKU/",
+      "attachments": [
+        {
+          "title": "Vortrag zur Einreichung",
+          "url": "/media/fossgis2025/submissions/PVNHKU/resources/2025_fossgis_v_VUAFOvE.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "3af6539e-f667-5ca3-8e22-571ff00bff94",
+      "code": "BDV3YY",
+      "id": 58128,
+      "logo": null,
+      "date": "2025-03-28T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58128-qgis-und-blender-fur-beeindruckende-3d-darstellungen",
+      "url": "https://pretalx.com/fossgis2025/talk/BDV3YY/",
+      "title": "QGIS und Blender für beeindruckende 3D-Darstellungen",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Blender ist eine freie Software für professionelle Visual Effects und Animationen. In Kombination mit QGIS können diese auch dafür verwendet werden, um Geo-Daten in 3D effektvoll darzustellen und zu animieren. Obwohl Blender sehr komplex ist, können sehr schnell und mit wenigen Schritten erste hervorragende Ergebnisse erzielt werden. Es wird ein Einstieg in den Workflow gegeben und die einzelnen relevanten Komponenten von Blender an mehreren Beispielen erklärt.",
+      "description": "Blender ist eine freie Software für professionelle Visual Effects und Animationen. In Kombination mit QGIS können diese auch dafür verwendet werden, um Geo-Daten in 3D effektvoll darzustellen und zu animieren. Obwohl Blender sehr komplex ist, können sehr schnell und mit wenigen Schritten erste hervorragende Ergebnisse erzielt werden. Es wird ein Einstieg in den Workflow gegeben und die einzelnen relevanten Komponenten von Blender an mehreren Beispielen erklärt.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "NJ9SF9",
+          "name": "Gordon Schlolaut",
+          "avatar": null,
+          "biography": "Gordon leitet bei geoSYS Projekte zur QGIS-Entwicklung, Geodatenbanken und Geostatistik. Und darüber hinaus beschäftigt er sich mit Visual Effects und Animationen.",
+          "public_name": "Gordon Schlolaut",
+          "guid": "486b9569-f642-5a2e-9700-c750182d8725",
+          "url": "https://pretalx.com/fossgis2025/speaker/NJ9SF9/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/BDV3YY/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/BDV3YY/",
+      "attachments": []
+    },
+    {
+      "guid": "547a2ac0-9563-5f1c-a237-8b7dbc412448",
+      "code": "FAMRQX",
+      "id": 58287,
+      "logo": null,
+      "date": "2025-03-28T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-58287-airborne-laserscanning-in-deutschland-verfugbarkeiten-herausforderungen-potenziale",
+      "url": "https://pretalx.com/fossgis2025/talk/FAMRQX/",
+      "title": "Airborne-Laserscanning in Deutschland: Verfügbarkeiten, Herausforderungen, Potenziale",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Airborne-Laserscanning (ALS)-Daten werden in Deutschland großflächig durch die Bundesländer erhoben. Trotz einer Entwicklung hin zu mehr Open Access bestehen weiterhin Hürden aufgrund uneinheitlicher Datenqualität, Verfügbarkeit und Zugangsregelungen. Der Vortrag gibt einen Überblick über die Verfügbarkeit von ALS-Daten in Deutschland, zeigt bestehende Probleme bei der Datennutzung auf und diskutiert Strategien für eine verbesserte Bereitstellung.",
+      "description": "Airborne-Laserscanning (ALS)-Daten sind für zahlreiche Anwendungsbereiche in Forschung und Entwicklung von großem Wert, da sie detaillierte Informationen zur dreidimensionalen Struktur von Landschaften liefern. Aus diesen Daten lassen sich hochpräzise Gelände- und Oberflächenmodelle erstellen, die beispielsweise zur Berechnung von Wasserabflüssen oder zur Schätzung der Holzbiomasse genutzt werden. Die Punktwolken liefern weitere Informationen, etwa wie die vertikale Bestandesstruktur zwischen Baumkronen und Boden aufbaut ist.\r\n\r\nIn Deutschland werden flächendeckende ALS-Kampagnen von den einzelnen Bundesländern und neuerdings auch vom Bund durchgeführt, jedoch ist die großflächige Nutzung dieser Daten nach wie vor mit Hürden verbunden. Während der Zugang in der Vergangenheit stark eingeschränkt war, zeigt sich zwar zunehmend ein Wandel hin zu mehr Open Access, die föderale Struktur führt allerdings weiterhin zu heterogenen Datenqualitäten, Verfügbarkeiten und Zugangsregelungen.\r\n\r\nDie Präsentation führt in die Welt der Lidar-Daten ein: Wie werden sie erfasst, welche Standards existieren, und mit welchen Tools lassen sich die Daten verarbeiten? Der Schwerpunkt liegt auf der aktuellen Verfügbarkeit von ALS-Daten in Deutschland. Dazu wurde eine umfassende Recherche in Geoportalen, Social Media, persönlichem Mailverkehr etc. durchgeführt. Die Verfügbarkeit und Zugänglichkeit in den einzelnen Bundesländern wird dargestellt und im internationalen Kontext betrachtet. Es wird aufgezeigt, welche spezifischen Daten vorhanden sind, wie sie bereitgestellt werden und unter welchen Lizenzen sie stehen. Möglichkeiten und Herausforderungen bei der Arbeit mit ALS-Daten werden aus der Perspektive der Nutzenden beleuchtet, und es werden offene Fragen sowie potenzielle Strategien für eine verbesserte Datenbereitstellung diskutiert.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "3XNKGA",
+          "name": "Jens Wiesehahn",
+          "avatar": "https://pretalx.com/media/avatars/3XNKGA_dzpyzJv.jpg",
+          "biography": "Studierter Forstwissenschaftler mit Interesse an den Themen Fernerkundung, GIS und OpenSource.",
+          "public_name": "Jens Wiesehahn",
+          "guid": "a2c0a9ad-3de2-5d30-ad3e-4f878aefef91",
+          "url": "https://pretalx.com/fossgis2025/speaker/3XNKGA/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Präsentation",
+          "url": "https://wiesehahn.github.io/presentation-fossgis25/presentation.html",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/FAMRQX/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/FAMRQX/",
+      "attachments": []
+    },
+    {
+      "guid": "3974535e-6f14-570b-a1ca-110a8ccd1414",
+      "code": "TL9T8V",
+      "id": 56997,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/TL9T8V/Screenshot_Museumsviewer_Trier_Overview_3SEsbpf.png",
+      "date": "2025-03-28T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:20",
+      "room": "HS3 (S1)",
+      "slug": "fossgis2025-56997-romische-grabdenkmaler-im-3d-webviewer",
+      "url": "https://pretalx.com/fossgis2025/talk/TL9T8V/",
+      "title": "Römische Grabdenkmäler im 3D-Webviewer",
+      "subtitle": "",
+      "track": null,
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Wie kann aus hochgenauen Geodaten wie 3D-Punktwolken und 3D-Objekten ein Museumsviewer entwickelt werden, der auch von fachfremden Personen genutzt werden kann? Hierfür wurden die Open-Source-Webframeworks Potree und 3D-HOP erweitert, um einen immersiven und intuitiven Museumsrundgang zu ermöglichen. Die Ergebnisse des digitalen Museums werden in einem Kurzvortrag präsentiert.",
+      "description": "In dem Vortrag wird ein Konzept vorgestellt, römische Grabmäler mithilfe digitaler Lösungen und Open-Source-Web-Frameworks zu visualisieren und zu präsentieren. Ein Museumsviewer wurde entwickelt, der es virtuellen Besuchern ermöglicht, die Gräberstraße des Rheinischen Landesmuseum in Trier zu erkunden, ohne physisch vor Ort sein zu müssen. Die dort ausgestellten Grabdenkmäler von monumentalen Ausmaß wurden im Vorhinein hochgenau aufgenommen. Oftmals scheitern archäologische Aufnahmen an der allgemeinen Visualisierung der Ergebnisse. Mit dem Museumsviewer wurde ein Lösungsmöglichkeit entwickelt Ausstellungsstücke in Museen maßstabsgetreu in einem 3D-Raum erkundbar zu machen.\r\nDabei wurde ein immersives Erlebnis geschaffen, das eine detaillierte Betrachtung der Grabdenkmäler sowie eine lehrreiche Nutzererfahrung ermöglicht. Ein zusätzlicher Objektviewer erlaubt eine ausführliche Analyse der Ausstellungsstücke und präsentiert Informationen in einer ansprechenden Weise.\r\nEin entwickelter Prozessablauf ermöglicht die effiziente Nutzung von Rohdaten aus verschiedenen Datenquellen. Hierbei wurden Konzepte erarbeitet, um mit Laserscannern aufgenommene Punktwolken der Räumlichkeiten und 3D-Objekte der Ausstellungsstück gemeinsam in einer Webumgebung darzustellen. Frameworks wie Potree konnten erweitert werden, um den Anwendungsfall eines digitalen Museums zu erfüllen. Dadurch konnten individuelle Informationstafeln, Rundflüge und Übersichtspläne als unterstützende Werkzeuge implementiert werden. Die dynamische Webseite des Museumsviewers kann leicht an neue Daten angepasst werden und fördert dessen Wiederverwendbarkeit. Dieser flexible Ansatz macht den Museumsviewer für eine Vielzahl von Museen und Ausstellungen nutzbar und bietet die Möglichkeit zur einfachen Erweiterung um weitere Ausstellungsstücke oder Räumlichkeiten.\r\n\r\nKeywords: 3D-Webviewer, Römische Grabdenkmäler, Potree, Museumsviewer",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "LWEQFQ",
+          "name": "Johannes Frank",
+          "avatar": "https://pretalx.com/media/avatars/LWEQFQ_NaiK8l7.png",
+          "biography": "Johannes Frank hat im Winter 2024 seinen Master in Geoinformatik und Vermessung an der Hochschule Mainz beendet. Während seines Studiums hat er sich mit verschiedenen Arten Datenverarbeitung und -visualisierung auseinandergesetzt.",
+          "public_name": "Johannes Frank",
+          "guid": "8bd844a3-ef6e-52d1-8264-19a69b9fd3f0",
+          "url": "https://pretalx.com/fossgis2025/speaker/LWEQFQ/"
+        },
+        {
+          "code": "QNQ9HW",
+          "name": "Homayoon Afsharpoor",
+          "avatar": "https://pretalx.com/media/avatars/QNQ9HW_3TUIoVQ.jpg",
+          "biography": "Homayoon Afsharpoor hat im Winter 2024 seinen Master in Geoinformatik und Vermessung an der Hochschule Mainz abgeschlossen. Während seiner Zeit als Werkstudent sammelte er praktische Erfahrungen in der Geodatenanalyse und -verwaltung. Derzeit arbeitet er als Referent für BIM und Datenmanagement.",
+          "public_name": "Homayoon Afsharpoor",
+          "guid": "910b0c03-db75-5477-b024-e61da03df9d5",
+          "url": "https://pretalx.com/fossgis2025/speaker/QNQ9HW/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/TL9T8V/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/TL9T8V/",
+      "attachments": []
+    }
+  ]
+}

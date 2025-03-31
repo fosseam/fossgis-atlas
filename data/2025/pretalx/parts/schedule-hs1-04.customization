@@ -1,0 +1,43 @@
+{
+  "day": 4,
+  "date": "2025-03-29",
+  "room": "HS1 (Aula)",
+  "events": [
+    {
+      "guid": "cd328542-5592-5ddd-b3f5-c6ffa500d400",
+      "code": "MAXAWK",
+      "id": 62462,
+      "logo": null,
+      "date": "2025-03-29T09:30:00+01:00",
+      "start": "09:30",
+      "duration": "01:00",
+      "room": "HS1 (Aula)",
+      "slug": "fossgis2025-62462-eroffnung-openstreetmap-samstag-und-community-sprint",
+      "url": "https://pretalx.com/fossgis2025/talk/MAXAWK/",
+      "title": "Eröffnung OpenStreetMap Samstag und Community Sprint",
+      "subtitle": "",
+      "track": null,
+      "type": "Sonstiges",
+      "language": "de-formal",
+      "abstract": "Es gibt wieder einen OpenStreetMap Samstag als Unconference von und für die OpenStreetMap-Community. Die  Eröffnung wird gestreamt  aber nicht aufgezeichnet, es werden gemeinsam die Themen sortiert.",
+      "description": "Wie beim OpenStreetMap Samstag üblich können Vorträge vorab im [OpenStreetMap-Wiki](https://wiki.openstreetmap.org/wiki/FOSSGIS_2025/OSM-Samstag) oder auch spontan am Tag der Veranstaltung eingereicht werden.",
+      "recording_license": "",
+      "do_not_record": true,
+      "persons": [
+        {
+          "code": "NDPY7C",
+          "name": "Christopher Lorenz",
+          "avatar": "https://pretalx.com/media/avatars/NDPY7C_PdUa7wP.jpg",
+          "biography": "Schon viele Jahre bei OpenStreetMap aktiv und kümmere mich um die Community in Brandenburg und Berlin.",
+          "public_name": "Christopher Lorenz",
+          "guid": "e251a3f3-adca-56d8-92f0-de2c507ea7ab",
+          "url": "https://pretalx.com/fossgis2025/speaker/NDPY7C/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/MAXAWK/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/MAXAWK/",
+      "attachments": []
+    }
+  ]
+}

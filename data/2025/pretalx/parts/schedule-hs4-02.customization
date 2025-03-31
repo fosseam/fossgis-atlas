@@ -1,0 +1,564 @@
+{
+  "day": 2,
+  "date": "2025-03-27",
+  "room": "HS4 (S2)",
+  "events": [
+    {
+      "guid": "107e9b47-16af-57ed-9313-82d4833e298c",
+      "code": "DGZBJV",
+      "id": 57589,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/DGZBJV/Screenshot_20241024_152409_Bw3Ohps.png",
+      "date": "2025-03-27T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57589-g3w-suite-das-os-framework-fur-die-veroffentlichung-und-verwaltung-von-qgis-projekte",
+      "url": "https://pretalx.com/fossgis2025/talk/DGZBJV/",
+      "title": "G3W-SUITE: das OS-Framework für die Veröffentlichung und Verwaltung von QGIS-Projekte",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "G3W-SUITE ist eine modulare Client-Server-Anwendung (basierend auf QGIS-Server) für die Verwaltung und Veröffentlichung von interaktiven kartographischen QGIS-Projekten verschiedener Art auf eine völlig unabhängige, einfache und schnelle Weise.\r\n\r\nDie Anwendung, die auf GitHub unter der Mozilla Public Licence 2.0 veröffentlicht wurde, ist mit den QGIS LTR Versionen kompatibel und basiert auf einer starken Integration mit der QGIS API.",
+      "description": "G3W-SUITE ist eine modulare Client-Server-Anwendung (basierend auf QGIS-Server) für die Verwaltung und Veröffentlichung von interaktiven kartographischen QGIS-Projekten verschiedener Art auf eine völlig unabhängige, einfache und schnelle Weise.\r\n\r\nDer Zugriff auf die Verwaltung, die Konsultation der Projekte, die Editierfunktionen und die Nutzung der verschiedenen Module basieren auf einem hierarchischen System von Benutzerprofilen, die bearbeitet und modifiziert werden können.\r\n\r\nDie Suite setzt sich aus zwei Hauptkomponenten zusammen: G3W-ADMIN (basierend auf Django und Python) als Webadministrations-schnittstelle und G3W-CLIENT (basierend auf OpenLayer und Vue) als kartographischer Client, die über REST-APIs miteinander kommunizieren.\r\n\r\nDie Anwendung, die auf GitHub unter der Mozilla Public Licence 2.0 veröffentlicht wurde, ist mit den QGIS LTR Versionen kompatibel und basiert auf einer starken Integration mit der QGIS API.\r\n\r\nDiese Präsentation wird einen kurzen Überblick über die Geschichte der Anwendung und Einblicke in die wichtigsten Projektentwicklungen des letzten Jahres geben.\r\n\r\nDie Entwicklungen betrafen sowohl die Verwaltungs- und Managementkomponente der WebGis-Dienste, als auch die Aspekte der Interaktion mit Webkarten und deren Inhalten, sowie die Aspekte und Funktionen im Zusammenhang mit dem Online-Editing mittels der Integration mit der QGIS API.\r\n\r\nEine spezifische Entwicklung betrifft die Integration mit der QGIS Processing API, um die Analysemodelle, die in QGIS über den ModelDesigner erstellt wurden, in einer Webumgebung auszuführen.\r\n\r\nDer Vortrag, der von Anwendungsbeispielen der Funktionen begleitet wird, richtet sich sowohl an Entwickler als auch an Benutzer verschiedener Ebenen, die ihre kartografische Infrastruktur mittels QGIS verwalten wollen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "PZGFDM",
+          "name": "Walter Lorenzetti",
+          "avatar": "https://pretalx.com/media/avatars/PZGFDM_y1UUagE.jpg",
+          "biography": "CEO bei Gis3W\r\nDjango- und Python-Entwickler und G3W-SUITE-Server-Entwicklungsmanager.\r\nBiologische Studien, PhD in Evolutionsbiologie, Web-PHP, Python-Entwicklung, WebGis-orientiert.\r\nAIKIDO-Student und -Lehrer.",
+          "public_name": "Walter Lorenzetti",
+          "guid": "c3a95256-b185-5f1f-a978-4a83d680e49d",
+          "url": "https://pretalx.com/fossgis2025/speaker/PZGFDM/"
+        },
+        {
+          "code": "XRFCPL",
+          "name": "Antonello Andrea",
+          "avatar": "https://pretalx.com/media/avatars/XRFCPL_iDAi9oe.jpg",
+          "biography": "Andrea Antonello ist ein Umweltingenieur, der seit über 20 Jahren an der Entwicklung von freier geografischer Software arbeitet. Er ist der Entwickler der HortonMachine und Smash Projekte und Teil des Entwicklungsteams des k.LAB ARIES.Derzeit ist er als Vertragsprofessor für Fortgeschrittene Geomatik an der Freien Universität Bozen tätig.",
+          "public_name": "Antonello Andrea",
+          "guid": "ece14d7c-82e8-5863-be11-27db53272d94",
+          "url": "https://pretalx.com/fossgis2025/speaker/XRFCPL/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/DGZBJV/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/DGZBJV/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/DGZBJV/resources/g3wsuite_fossg_VoL3hux.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "8216349b-bdc5-5be4-8936-db141c459078",
+      "code": "TFZCAP",
+      "id": 58149,
+      "logo": null,
+      "date": "2025-03-27T09:35:00+01:00",
+      "start": "09:35",
+      "duration": "00:45",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58149-historische-karten-mit-qgis-georeferenzieren",
+      "url": "https://pretalx.com/fossgis2025/talk/TFZCAP/",
+      "title": "Historische Karten mit QGIS georeferenzieren",
+      "subtitle": "",
+      "track": "Ausbildung, Lehre, Open Science",
+      "type": "Demo-Session",
+      "language": "de-formal",
+      "abstract": "Dank umfangreicher Digitalisierungskampagnen steht historisch Interessierten ein enormer Schatz an kartografischen Produkten aus mehr als zwei Jahrhunderten zur Verfügung. Mit dem QGIS-Georeferencer können diese einfach und niedrigschwellig für die Nutzung im beliebten Geoinformationssystem aufbereitet werden. Wir demonstrieren die wichtigsten Vorgehensweisen, weisen auf Fallstricke hin und geben wertvolle Produktivitätstipps für die Referenzierung.",
+      "description": "Der Vortrag bietet anhand unterschiedlicher, historischer Karten eine Einführung in die Georeferenzierung mit QGIS. Von der großmaßstäblichen Katasterkarte, über die verbreiteten Topografischen Karten im Maßstab 1:25.000 (sog. \"Meßtischblätter\") bis hin zu den kleinmaßstäblichen Übersichtskarten. Jeder Maßstab bringt dabei seine eigenen Herausforderungen mit sich. \r\n\r\nAlle Georeferenzierungen basieren auf dem Prinzip die Pixel-Koordinaten der historischen Karte mit Kontrollpunkten zu verknüpfen, um so historische Karte und moderne Geodaten in Beziehung zueinander setzen. Dies kann über die Identifizierung anhand von Gebäuden, Straßen, Kanälen u.v.m. erfolgen. Die so gesetzten Punkte (Ground control points, GCP) kommen jedoch mit Fallstricken: die kartografischen Prinzipien der Generealsieriung und Verdrängung bleiben hierbei häufig unberücksichtigt. Als Alternative bietet sich für einige Karten die Nutzung des aufgedruckten Koordinatengitters an. Auch für diese Methode braucht es ein gewisses Maß an Hintergrundwissen, so sind z.B. die historischen geografischen \r\nKoordinaten nicht mit modernen geografischen Koordinaten gleichzusetzen. \r\n\r\nJe nach Alter und Zustand der Karte, sowie der zur Verfügung stehenden Zeit, kommen verschiedene Algorithmen zur Georeferenzierung in Frage (Polynominal 1-3, Thin Plate Spline u.a.). Welcher Algorithmus gewählt wird hängt davon ab, wie viele Kontrollpunkte gesetzt wurden, in welchem Zustand die Karte ist (Falzen etc.) und ob etwaige Messfehler ausgeglichen werden sollen. \r\n\r\nZuletzt soll es auch um Möglichkeiten gehen den händischen Prozess der Referenzierung mittels Stapelverarbeitung zu beschleunigen und reproduzierbar zu machen.\r\n\r\n\r\nInhalte: \r\n\r\n - Nutzung manueller Ground Control Points (GCP) \r\n - Nutzung von historischen Koordinatengittern \r\n - Tipps und Kniffe \r\n - Was eignet sich zur Referenzierung? \r\n - Bedeutung von (historischen) Koordinatenreferenzsystem\r\n - Möglichkeiten der Automatisierung im Batch-Verfahren",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "L7ZM9P",
+          "name": "Niklas Alt",
+          "avatar": null,
+          "biography": "Niklas Alt ist wissenschaftlicher Mitarbeiter am Hessischen Institut für Landesgeschichte (HIL), Marburg mit Forschungsschwerpunkt Digital Humanities, Schwerpunkt Historische Karten.",
+          "public_name": "Niklas Alt",
+          "guid": "3e7d1cf1-81ad-5652-84fd-0bd441de5250",
+          "url": "https://pretalx.com/fossgis2025/speaker/L7ZM9P/"
+        },
+        {
+          "code": "YAKDRD",
+          "name": "Johannes Wagner",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Johannes Wagner",
+          "guid": "f6a2e0a8-bb89-542a-8002-beae80cd9bca",
+          "url": "https://pretalx.com/fossgis2025/speaker/YAKDRD/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/TFZCAP/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/TFZCAP/",
+      "attachments": []
+    },
+    {
+      "guid": "846eee4e-d035-59e2-a9b0-31de5b912afd",
+      "code": "KPEGLE",
+      "id": 57449,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/KPEGLE/374899254-a7bf16fb-44a2-4a21-9c0f-d4bf431ab9b5_ypYmiIy.png",
+      "date": "2025-03-27T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "00:05",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57449-10-jahre-opensensemap-neue-features-fur-die-zukunft-der-umweltdaten",
+      "url": "https://pretalx.com/fossgis2025/talk/KPEGLE/",
+      "title": "10 Jahre openSenseMap: Neue Features für die Zukunft der Umweltdaten",
+      "subtitle": "",
+      "track": "Open Data, Datenschutz und Lizenzen",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Die *openSenseMap* ist eine interaktive Karte für Umweltdaten, die von Schulen, Städten und Bürger*innen weltweit genutzt wird. Seit 2014 wurden über 14.000 Sensoren registriert und mehr als 10 Milliarden Messwerte in Echtzeit bereitgestellt. Die neue Version verbessert die Datenvisualisierung und bietet viele weitere neue Features. In unserem Lightning-Talk stellen wir diese Neuerungen vor und feiern 10 Jahre openSenseMap, die einen wichtigen Beitrag zu Forschung und Bildung leistet.",
+      "description": "Die *openSenseMap* ist eine für jeden frei nutzbare interaktive Karte mit Umweltdaten. Diese Daten werden von Schulen, Forschungseinrichtungen, Städten und engagierten Bürger:innen weltweit erhoben und genutzt. Sensoren können sowohl an stationären als auch mobilen Geräten  Messungen zu verschiedenen Umweltphänomenen erheben und stellen diese in Echtzeit über die eigene RESTful API als offene Daten zur Verfügung. Zudem gibt es ein angeschlossenes Archiv in dem alle Daten seit dem Start der *openSenseMap* in 2014 gespeichert werden.\r\n\r\nDie Nutzung ist vielfältig: engagierte Bürger*innen messen die Luftqualität und den Lärmpegel in ihrer Straße, Schüler*innen experimentieren im Unterricht und werden spielerisch für Naturwissenschaften, Technik und die Erforschung ihrer Umwelt begeistert, Wissenschaftler*innen nutzen die umfangreichen frei verfügbaren Daten für komplexe Forschungsprojekte, Städte betreiben Smart City-Anwendungen und informieren ihre Bürger*innen live über Temperatur, Luftfeuchtigkeit, Luftdruck, Feinstaub und geben nützliche Tipps, wie die Standorte freier Parkplätze.\r\n\r\nAls Reaktion auf die stetig wachsende Anzahl registrierter Stationen (über 14.000) und die über 10 Milliarden übermittelten Messwerte wurde eine neue Version der *openSenseMap* Plattform entwickelt. Dabei musste die Technologie teilweise neu konzipiert werden, um das steigende Datenvolumen effizient verarbeiten zu können. Die neue Version bringt zahlreiche Features mit sich, darunter die Anbindung an eine spezielle Sensordatenbank, die eine effizientere und strukturierte Verwaltung der gesammelten Daten ermöglicht. Zudem ist die Plattform jetzt mit einer Open Badges Plattform verknüpft, die es den Nutzern erlaubt, für ihre Beiträge digitale Auszeichnungen zu erhalten. Darüber hinaus bietet die neue Version erweiterte Möglichkeiten zur Durchführung detaillierter Datenanalysen, wodurch Bürger*innen, Forschende und Organisationen tiefere Einblicke in Umweltphänomene gewinnen können.\r\n\r\nIn diesem Lightning-Talk möchten wir genau diese neuen Features präsentieren und auf unser Nutzertreffen hinweisen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "9CNQVL",
+          "name": "Frederick Bruch",
+          "avatar": "https://pretalx.com/media/avatars/9CNQVL_I6RqHS8.jpg",
+          "biography": "Ich bin Softwareentwickler und arbeite an der *openSenseMap*, einer Citizen-Science-Plattform für offene Umweltdaten mit über 10.000 Nutzer:innen und mehr als 11 Milliarden Datenpunkten.  \r\n\r\nWährend meines Bachelorstudiums in Geoinformatik an der Universität Münster habe ich intensiv am *senseBox*-Projekt mitgearbeitet. Derzeit setze ich mein Wissen im Masterstudium *Geoinformatics and Spatial Data Science* an der Universität Münster fort und entwickle die *openSenseMap* weiter.",
+          "public_name": "Frederick Bruch",
+          "guid": "d1ef5a60-e4bf-542a-b884-17f212d9a614",
+          "url": "https://pretalx.com/fossgis2025/speaker/9CNQVL/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/KPEGLE/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/KPEGLE/",
+      "attachments": []
+    },
+    {
+      "guid": "2c18a7d8-90d9-52ad-a081-9572d663c7b5",
+      "code": "RMULNW",
+      "id": 59168,
+      "logo": null,
+      "date": "2025-03-27T11:15:00+01:00",
+      "start": "11:15",
+      "duration": "00:05",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-59168-performantes-nearest-poi-routing-neues-vom-geolinking-service-sora",
+      "url": "https://pretalx.com/fossgis2025/talk/RMULNW/",
+      "title": "Performantes Nearest POI Routing? - Neues vom Geolinking Service SoRa",
+      "subtitle": "",
+      "track": null,
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Spontan eingereichte Lightning Talks. Jeder kann einen Vortrag halten, Registrierung erfolgt an einer entsprechenden Pinnwand im Foyer.",
+      "description": "Spontan eingereichte Lightning Talks. Jeder kann einen Vortrag halten, Registrierung erfolgt an einer entsprechenden Pinnwand im Foyer.\r\nListe der Vortragenden mit Titel folgt, sobald wir den vom Zettel ins Programm übertragen haben.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "WJ3F7C",
+          "name": "Theodor Rieche",
+          "avatar": "https://pretalx.com/media/avatars/WJ3F7C_lAchiTJ.jpg",
+          "biography": null,
+          "public_name": "Theodor Rieche",
+          "guid": "6a0e27a0-d893-5f16-a33d-e546da8b043b",
+          "url": "https://pretalx.com/fossgis2025/speaker/WJ3F7C/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/RMULNW/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/RMULNW/",
+      "attachments": []
+    },
+    {
+      "guid": "9422bcc6-9ed2-53c8-bc3b-fa069b740088",
+      "code": "KBTU78",
+      "id": 57632,
+      "logo": null,
+      "date": "2025-03-27T11:20:00+01:00",
+      "start": "11:20",
+      "duration": "00:05",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57632-openstreetmap-featureinfo",
+      "url": "https://pretalx.com/fossgis2025/talk/KBTU78/",
+      "title": "OpenStreetMap FeatureInfo",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Der Vortrag stellt eine Implementierung vor, die es erlaubt Informationen zu OSM Objekten um einen Ort herum über eine einfache Schnittstelle abzufragen. Die Idee dahinter ist, das Rad nicht neu zu erfinden, sondern bewährte Software-Komponenten zu kombinieren und auf etablierte Standards zu setzen.",
+      "description": "Die Daten werden mit osm2pgsql in eine PostgreSQL/PostGIS Datenbank geladen und kontinuierlich auf dem neusten Stand gehalten. Die Abfrage wird mit einer parametrisierten SQL-Abfrage durchgeführt und das Ergebnis mittels pg_featureserv über eine REST-Schnittstelle verfügbar gemacht. Weitere Ideen sind die Schnittstelle konform zu OGC API Processes zu machen. Eine mögliche Anwendung wäre die Nutzung als Backend für Objektabfrage in der offiziellen OpenStreetMap Webseite.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "7RZJR9",
+          "name": "Jakob Miksch",
+          "avatar": "https://pretalx.com/media/avatars/7RZJR9_80VaCN6.png",
+          "biography": "Lead Developer bei Logicalis Germany. OpenSource-Beitragender im Bereich Geoinformatik und OpenStreetMap.",
+          "public_name": "Jakob Miksch",
+          "guid": "af5ca2c4-79d5-51f9-ab3f-9e1857c8d871",
+          "url": "https://pretalx.com/fossgis2025/speaker/7RZJR9/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/KBTU78/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/KBTU78/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/KBTU78/resources/OSM-Featureinf_zvg4KKl.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "51112754-5513-5505-a2a1-e5e906788318",
+      "code": "ERP9T9",
+      "id": 58204,
+      "logo": null,
+      "date": "2025-03-27T11:25:00+01:00",
+      "start": "11:25",
+      "duration": "00:05",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58204-punktlich-zur-uni-bus-tracking-mit-der-efa-json-api",
+      "url": "https://pretalx.com/fossgis2025/talk/ERP9T9/",
+      "title": "Pünktlich zur Uni? Bus-Tracking mit der EFA JSON API",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Im \"Bahnland Bayern\" sind Echtzeit-Mobilitätsdaten über eine Schnittstelle namens \"EFA JSON API\" verfügbar. Indem man diese mitschneidet, kann eine Pünktlichkeitsstatistik z.B. der Würzburger Stadtbusse erstellt werden, die aufgrund der nachwievor fehlenden Straßenbahnanbindung der Uni gerade zum morgendlichen Vorlesungsbeginn nicht prickelnd aussieht.",
+      "description": "Es wird eine kurze Übersicht über die API gegeben, dann der Ausleseprozess erklärt und was die Schwierigkeiten dabei waren, und anschließend die Ergebnisse der Analyse präsentiert. Insgesamt angelehnt an den Vortrag \"BahnMining\" beim CCC vor fünf Jahren.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "RWC7YG",
+          "name": "Christoph Friedrich",
+          "avatar": "https://pretalx.com/media/avatars/RWC7YG_WohGEjh.jpg",
+          "biography": "Bachelor Geoinformatik am _ifgi_ in Münster, anschließend Master Informatik ebenfalls in Münster. Während dieser Zeit lange als Studentische Hilfskraft in der AG Pebesma an der Entwicklung von _openEO_ beteiligt; außerdem SHK bei _52°North_ und für ein Praktikum bei _Geolytix_ in London. Knapp zwei Jahre als Wissenschaftlicher Mitarbeiter am _Earth Observation Research Cluster_ des Lehrstuhls für Fernerkundung der Uni Würzburg im Projekt _AgriSens DEMMIN 4.0_. Nach dessen Ende seit Kurzem überbrückungsweise bei _Matthias Mohr_ für Entwicklungen im EOEPCA-Projekt sowie des _STAC Browser_ angestellt und parallel auf der Suche nach einer neuen Festanstellung ;)",
+          "public_name": "Christoph Friedrich",
+          "guid": "e66d7e9c-f986-5ba9-91bc-fe280b427713",
+          "url": "https://pretalx.com/fossgis2025/speaker/RWC7YG/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/ERP9T9/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/ERP9T9/",
+      "attachments": [
+        {
+          "title": "Folien animiert",
+          "url": "/media/fossgis2025/submissions/ERP9T9/resources/Bustracking_an_pQno13H.pdf",
+          "type": "related"
+        },
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/ERP9T9/resources/Bustracking_rqcXs26.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "3523f339-4ba8-55ba-823c-d7bed151d69a",
+      "code": "8P79JV",
+      "id": 57656,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/8P79JV/LGLN-UnrealEngine-DigitalTwin_jVn0NA8.png",
+      "date": "2025-03-27T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:45",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57656-digitaler-zwilling-niedersachsen-auf-basis-der-unreal-engine-und-lgln-open-data",
+      "url": "https://pretalx.com/fossgis2025/talk/8P79JV/",
+      "title": "Digitaler Zwilling Niedersachsen auf Basis der Unreal Engine und LGLN Open Data",
+      "subtitle": "",
+      "track": "3D, Drohnen, LIDAR, Geo-AR/VR",
+      "type": "Demo-Session",
+      "language": "de-formal",
+      "abstract": "Dieses Projekt aus dem Bereich \"digitaler Zwilling\" erkundet die Verbindbarkeit von offenen Geodaten des LGLNs mit der Unreal Engine 5 um moderne Echtzeitanalysen zu entwickeln. Als Szenegrundlage dient das Geländemodell mit digitalen Orthophotos zur Texturierung und LOD 1 und 2 Gebäudemodellen. Auch 3D-Meshes und Punktwolken können geladen werden. Alle Daten werden aus der Cloud bezogen, was die Dateigröße der Anwendung an sich gering hält.",
+      "description": "Gezeigt wird prozedurale Generierung von Wohneinheiten in urbanen Gebieten basierend auf dem B-Plan am Beispiel Osnabrück, einziehen von Schallschutzmauern und einer Echtzeitanalyse und rudimentäre GIS-Funktionen, wie z.B. Strecken- und Flächenmessungen innerhalb der Szene. Es ist vorgesehen diese GIS-Funktionen als open-source Plugins zu entwickeln, die mindestens über den Epic Games Marketplace (jetzt \"FAB\") bezogen werden können. Ziel dieser Entwicklungen ist die architektonische Grundlage für einen Geobasiszwilling zu schaffen, der mit Fachdaten auch von anderen Ämtern angereichert werden kann und soll Analysemöglichkeiten zur Einschätzung von geplanten Vorhaben bieten. Ultimativ sollen die Ergebnisse der Analysen in Vorschlägen für Handlungsmaßnahmen münden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "KP8FFX",
+          "name": "Julian Müller",
+          "avatar": "https://pretalx.com/media/avatars/KP8FFX_UtEDQCn.jpg",
+          "biography": "Ich bin 32 Jahre alt, studierter Medieninformatiker und ausgebildeter Anwendungsentwickler, jetzt als Product Owner im LGLN tätig seit dem 01.07.2021. Seit Start meiner Berufslaufbahn beschäftige ich mich mit dem Thema digitale Zwillinge, zuerst im Automobilsektor, jetzt im öffentlichen Dienst für den landesweiten Außenbereich. Aktuell betreue ich mit 25% meiner Zeit Studenten und Praktikanten der Jade-Hochschule in Oldenburg und bringe mit dem Innovations-Team3D neue 3D Anwendungen und Workflows auf den Weg.",
+          "public_name": "Julian Müller",
+          "guid": "5d485f0c-27c9-5d10-9297-875f0e024156",
+          "url": "https://pretalx.com/fossgis2025/speaker/KP8FFX/"
+        },
+        {
+          "code": "EDRJQS",
+          "name": "Vincent-Aleister Raveling",
+          "avatar": null,
+          "biography": "Bi-Student beim Landesamt für Geoinformation und Landesvermessung Niedersachsen (LGLN)\r\n7. Semester Studiengang Geoinformatik bei der Jade Hochschule",
+          "public_name": "Vincent-Aleister Raveling",
+          "guid": "d45cee9d-4f8e-5301-b4e4-2e4efbb60a11",
+          "url": "https://pretalx.com/fossgis2025/speaker/EDRJQS/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/8P79JV/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/8P79JV/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien_UnrealEngineDigitalTwinNdsLGLN",
+          "url": "/media/fossgis2025/submissions/8P79JV/resources/FOSSGIS_LGLN_T_uCh8K6c.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "60074c2a-1fa2-5504-8eb0-b7cea88f1fe7",
+      "code": "NPUXUQ",
+      "id": 58053,
+      "logo": null,
+      "date": "2025-03-27T14:15:00+01:00",
+      "start": "14:15",
+      "duration": "00:05",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58053-qfield-plugins-beispiele-und-moglichkeiten",
+      "url": "https://pretalx.com/fossgis2025/talk/NPUXUQ/",
+      "title": "QField Plugins - Beispiele und Möglichkeiten",
+      "subtitle": "",
+      "track": null,
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "In diesem Lightning Talk tauchen wir in die faszinierende Welt der QField-Plugins ein und entdecken ihre vielfältigen Anwendungsmöglichkeiten. Es wird eine Auswahl an praktischen Beispielen vorgestellt und aufgezeigt, wie diese Plugins installiert und genutzt werden können. Lassen Sie sich inspirieren und erfahren Sie, wie Sie QField noch effektiver in Ihren Projekten einsetzen können.",
+      "description": "Links zum Thema:\r\n- Dokumentation: https://docs.qfield.org/how-to/plugins/\r\n- Blog Post: https://www.opengis.ch/2024/06/18/supercharge-your-fieldwork-with-qfields-project-and-app-wide-plugins/\r\n- Beispiel Plugin: https://github.com/opengisch/qfield-snap",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "ZQG9MC",
+          "name": "Michael Schmuki",
+          "avatar": "https://pretalx.com/media/avatars/ZQG9MC_tAwsSax.jpg",
+          "biography": "- Full-Stack GeoNinja @ [OPENGIS.ch](https://opengis.ch)\r\n- Web-Kartografie Lehrer @ [Baugewerbliche Berufsschule Zürich](https://www.bbzh.ch/)\r\n- [@boardend](https://github.com/boardend) auf GitHub",
+          "public_name": "Michael Schmuki",
+          "guid": "b81992e1-b2ce-5c88-880d-968d27eabfb5",
+          "url": "https://pretalx.com/fossgis2025/speaker/ZQG9MC/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/NPUXUQ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/NPUXUQ/",
+      "attachments": []
+    },
+    {
+      "guid": "fc4c37e0-ec2a-5ea2-8934-45696866207a",
+      "code": "VUMAM9",
+      "id": 65981,
+      "logo": null,
+      "date": "2025-03-27T14:20:00+01:00",
+      "start": "14:20",
+      "duration": "00:05",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-65981-oblique-mode-activated-from-mesh-to-magic-discover-oblique-in-a-new-perspictive",
+      "url": "https://pretalx.com/fossgis2025/talk/VUMAM9/",
+      "title": "Oblique Mode Activated: From Mesh to Magic - Discover Oblique in a new Perspictive",
+      "subtitle": "",
+      "track": null,
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Spontan eingereichte Lightning Talks. Jeder kann einen Vortrag halten, Registrierung erfolgt an einer entsprechenden Pinnwand im Foyer.",
+      "description": "Spontan eingereichte Lightning Talks. Jeder kann einen Vortrag halten, Registrierung erfolgt an einer entsprechenden Pinnwand im Foyer.\r\nListe der Vortragenden mit Titel folgt, sobald wir den vom Zettel ins Programm übertragen haben.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "JUAMA7",
+          "name": "Thorsten Hell",
+          "avatar": "https://pretalx.com/media/avatars/JUAMA7_of6ArRJ.png",
+          "biography": null,
+          "public_name": "Thorsten Hell",
+          "guid": "4a7146f7-65ab-5ad0-8b23-c8a3ae1d5009",
+          "url": "https://pretalx.com/fossgis2025/speaker/JUAMA7/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/VUMAM9/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/VUMAM9/",
+      "attachments": []
+    },
+    {
+      "guid": "1b831475-44e6-52cd-8c48-e4b881c588e8",
+      "code": "GSM3DN",
+      "id": 57634,
+      "logo": null,
+      "date": "2025-03-27T14:25:00+01:00",
+      "start": "14:25",
+      "duration": "00:05",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57634-qgis-server-per-rest-api-konfigurieren",
+      "url": "https://pretalx.com/fossgis2025/talk/GSM3DN/",
+      "title": "QGIS Server per REST API konfigurieren",
+      "subtitle": "",
+      "track": null,
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Das Projekt QSA (QGIS Server Administrator) ermöglicht es QGIS Projekte über eine REST-Schnittstelle zu konfigurieren.",
+      "description": "QGIS Server hat den Vorteil dass alle Einstellungen mit der Benutzeroberfläche von QGIS Desktop getätigt werden können. Manchmal kann es aber notwendig sein die veröffentlichten QGIS Projekte automatisiert zu verändern. Da kommt das Projekt QSA (QGIS Server Administrator) ins Spiel. Die in Python geschriebene Software stellt eine REST-Schnittstelle bereit mit der gängige Einstellungen an der QGIS Projekten durchgeführt werden können. Beispiele sind das Hinzufügen, Entfernen und Ändern von Layern, das Ändern von Stilen und das komplette Erstellen von neuen Projekten.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "7RZJR9",
+          "name": "Jakob Miksch",
+          "avatar": "https://pretalx.com/media/avatars/7RZJR9_80VaCN6.png",
+          "biography": "Lead Developer bei Logicalis Germany. OpenSource-Beitragender im Bereich Geoinformatik und OpenStreetMap.",
+          "public_name": "Jakob Miksch",
+          "guid": "af5ca2c4-79d5-51f9-ab3f-9e1857c8d871",
+          "url": "https://pretalx.com/fossgis2025/speaker/7RZJR9/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/GSM3DN/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/GSM3DN/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/GSM3DN/resources/QSA_4GAyofe.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "2e9bac8d-fbce-573d-bfac-751241c804b9",
+      "code": "XAESMM",
+      "id": 58290,
+      "logo": null,
+      "date": "2025-03-27T14:50:00+01:00",
+      "start": "14:50",
+      "duration": "00:45",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58290-zaubern-mit-dem-geopackage",
+      "url": "https://pretalx.com/fossgis2025/talk/XAESMM/",
+      "title": "Zaubern mit dem Geopackage",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Demo-Session",
+      "language": "de-formal",
+      "abstract": "Das Geopackage kann nicht nur Daten verpacken sondern ganz schnell im Hintergrund  Arbeit verrichten, die  anschließend im QGIS wie Zauberei sichtbar wird.  Die Verschneidung zweier Layer  aktualisiert sich, wenn die Quell-Layer geändert werden, ohne das ein weiterer Prozess aufgerufen werden muss. Aggregierungen und Auswertungen sind stets auf dem Stand. \r\nSchließlich ist das Geopackage eine SQLite-Datenbank, in welcher der SQL-Zauberstab zum effektiven GIS-Helferlein wird.",
+      "description": "Das Geopackage kann nicht nur Daten verpacken sondern ganz schnell im Hintergrund  Arbeit verrichten, die  anschließend im QGIS wie Zauberei sichtbar wird.  Die Verschneidung zweier Layer  aktualisiert sich, wenn die Quell-Layer geändert werden, ohne das ein weiterer Prozess aufgerufen werden muss. Aggregierungen und Auswertungen sind stets auf dem Stand. \r\nSchließlich ist das Geopackage eine SQLite-Datenbank, in welcher der SQL-Zauberstab zum effektiven GIS-Helferlein wird. Trigger und Views sind die Werkzeuge, mit dem das Geopackage Layer dynamisch aktualisert.  Änderungen von Steuertabellen stoßen Prozesse an. Dabei sind jedoch einige Hürden zu nehmen, damit die Views  ins QGIS geladen werden können und die Prozesse schnell ablaufen. Räumliche Indexe sind explizit anzusprechen und der Primärschlüssel darf nicht vergessen werden",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "3EU98S",
+          "name": "Claas Leiner",
+          "avatar": "https://pretalx.com/media/avatars/3EU98S_IX1oqNW.JPG",
+          "biography": "Claas Leiner arbeitet freiberuflich in Kassel und\r\nbietet Schulungen, Dienstleistungen und Support rund um die freien Geoinformationssysteme QGIS, GRASS, SpatiaLite, Postgis sowie GDAL/OGR an und hat einen kleinen ALKIS-Konverter auf Basis von ogr2ogr und SpatialLite geschrieben. Desweiteren bearbeitet er Aufträge zu Geodatenaufbereitung, -analysen sowie thematische Kartografie. Häufig geht es darum, komplexe Arbeitsabläufe für Anwender/innen zu strukturieren und zu vereinafachen.\r\nBesonders verbunden ist er mit QGIS - als Mitglied des QGIS-Anwendervereins QGIS-DE, als Mitorganisator der ersten QGIS-DEAnwendertreffen sowie als Bronze-Sponsor des Projektes",
+          "public_name": "Claas Leiner",
+          "guid": "151f4e1a-5595-5673-87bc-a191035d303f",
+          "url": "https://pretalx.com/fossgis2025/speaker/3EU98S/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Workshop Daten und Skript",
+          "url": "https://gkg-leiner.de/wp-content/uploads/2025/03/FOSSGIS_2025_ZaubernGeopackage-1.zip",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/XAESMM/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/XAESMM/",
+      "attachments": [
+        {
+          "title": "Workshop-Daten und Skript2",
+          "url": "/media/fossgis2025/submissions/XAESMM/resources/FOSSGIS_2025_Z_h7sGzHF.zip",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "b3673bc3-e168-5f3c-8c16-005d76e670e3",
+      "code": "WACLEG",
+      "id": 58132,
+      "logo": null,
+      "date": "2025-03-27T16:45:00+01:00",
+      "start": "16:45",
+      "duration": "00:20",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-58132-leerstandsmelder-a-thousand-channels-countermappings-aus-der-zivilgesellschaft",
+      "url": "https://pretalx.com/fossgis2025/talk/WACLEG/",
+      "title": "Leerstandsmelder & A Thousand Channels - Countermappings aus der Zivilgesellschaft",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Leerstandsmelder und A Thousand Channels sind zwei unkommerzielle, zivilgesellschaftliche Plattformen, die Openstreetmap und freie Software nutzen. Zwei Projekt-Beteiligte stellen die Entwicklung ihrer Plattformen vor, berichten von der Praxis mit OSM und FLOSS Software und von den jeweils spezifischen Ansätzen und Fragestellungen, die beim Visualisieren von Inhalten und Geoinformationen aufkommen.",
+      "description": "Leerstandsmelder ist eine interaktive Plattform zur Sammlung von Wohnraum-Leerständen in den beteiligten Städten und Regionen. A Thousand Channels entwickelt ein Counter-Mapping Werkzeug, das urbanen Akteur*innen und LGBTIQ+-Projekten die Möglichkeit bietet, von queeren Räumen, Ereignissen und Perspektiven zu berichten und diese Erzählungen räumlich zu visualisieren. Beide Projekte basieren auf Openstreetmap-Karten bzw. Karten, die aus den OSM Geodaten erzeugt werden. \r\n\r\nBeide sind Softwareprojekte, denn sie entwickeln freie Software für die Verwaltung wie auch Ausgabe und sie sind Projekte der Kartierung, denn sie nutzen Karten für die Visualisierungen ihrer Gegenerzählungen. Diese sollen – je nach Fokus – zu einer Problematisierung von gesellschaftlichen Defiziten wie der Wohnungskrise, oder der Sichtbarmachung marginalisierter Perspektiven und kollektiver Erinnerungen beitragen.\r\n\r\nSebastian Fuchs für den Leerstandsmelder und Ulf Treger für A Thousand Channels stellen die Entwicklung ihrer Plattformen und der spezifischen Herausforderungen beider Projekte bei der Arbeit mit Geodaten und ihrer Visualisierung vor. \r\n\r\n“Wir sehen unsere Projekte als Beispiele für eine Erprobung und Bottom-up Nutzung von digitalen Technologien, wie sie die durch offene Geodaten und Freie Software möglich werden. Wir wollen mit unserem Input anregen,  zivilgesellschaftliche Projekte mit OSM zu realisieren, aber auch darauf hinweisen, dass solche Projekte und besonders die ihnen zugrundeliegenden Infrastrukturen und Bibliotheken Unterstützung und Förderung brauchen, damit es mehr und nachhaltig funktionierende Civic Code Projekte geben kann.\" \r\n\r\nhttps://leerstandsmelder.de/\r\nhttps://www.a-thousand-channels.xyz/",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "PWNC7E",
+          "name": "Sebastian Fuchs",
+          "avatar": "https://pretalx.com/media/avatars/PWNC7E_necJ7WX.png",
+          "biography": "Sebastian lebt und arbeitet in Hamburg. Er ist Software-Entwickler und Recht auf Stadt Aktivist. In Projekten wie dem Leerstandsmelder, aber auch verschiedenen Anwendungen für selbstorganisierte Gruppen wie dem Gängeviertel in Hamburg versucht er Tech und Aktivismus zusammenzudenken und durch Software ehrenamtlich Arbeitende und ihre Infrastruktur zu unterstützen. Immer mal wieder schraubt er an 'City of OZ - Hamburg', einem (Counter-)Mapping des vergänglichen Werkes vom Graffiti Künstler OZ, rum.",
+          "public_name": "Sebastian Fuchs",
+          "guid": "92908f74-78ef-5b37-bbb1-e760bd08a9c0",
+          "url": "https://pretalx.com/fossgis2025/speaker/PWNC7E/"
+        },
+        {
+          "code": "QYGTPH",
+          "name": "Ulf Treger",
+          "avatar": "https://pretalx.com/media/avatars/QYGTPH_nuZxbb6.jpg",
+          "biography": "Ulf Treger lebt in Hamburg, arbeitet an urbanen Themen und realisiert digitale Projekte. Er hat Visuelle Kommunikation an der HFBK Hamburg studiert. Mit city/data/explosion organisiert er Projekte und Veranstaltungen zum Thema Stadt und Digitalisierung aus einer emanzipatorischen Perspektive. Ein Schwerpunkt seiner Arbeit ist das Mapping (als konkrete Praxis und in der Auseinandersetzung mit den politischen und ästhetischen Dimensionen von Karten). Verschiedene Projekte, Seminare und Workshops. Zuletzt war er im Winter 2023-24 Fellow am Center for Digital Cultures der Universität Lüneburg.",
+          "public_name": "Ulf Treger",
+          "guid": "426d9106-4411-53fe-961f-6600cbc2ac4a",
+          "url": "https://pretalx.com/fossgis2025/speaker/QYGTPH/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/WACLEG/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/WACLEG/",
+      "attachments": []
+    },
+    {
+      "guid": "5e0e1f3a-d641-5447-acd9-28a7e9ef7051",
+      "code": "V7BVJW",
+      "id": 57917,
+      "logo": null,
+      "date": "2025-03-27T17:20:00+01:00",
+      "start": "17:20",
+      "duration": "00:45",
+      "room": "HS4 (S2)",
+      "slug": "fossgis2025-57917-wie-mache-ich-eine-gute-karte-mit-qgis",
+      "url": "https://pretalx.com/fossgis2025/talk/V7BVJW/",
+      "title": "Wie mache ich eine gute Karte mit QGIS?",
+      "subtitle": "",
+      "track": "Kartographie und Visualisierung",
+      "type": "Demo-Session",
+      "language": "de-formal",
+      "abstract": "Eine Karte mit QGIS zu erstellen ist einfach – aber wie erstellt man eine gute Karte? Die Demosession soll Grundlagen der Kartengestaltung vermitteln: wie man gute Farben wählt, wie groß oder klein Schriften sein darf und welche Liniendicke gut aussieht. Nach einem kurzen Teil mit Theorie folgt die praktische Umsetzung in QGIS von Daten, über die Signaturen bis zum Drucklayout.",
+      "description": "Eine Karte mit QGIS zu erstellen ist einfach – aber wie erstellt man eine gute Karte? Die Demosession soll Grundlagen der Kartengestaltung vermitteln: wie man gute Farben wählt, wie groß oder klein Schriften sein darf und welche Liniendicke gut aussieht. Nach einem kurzen Teil mit Theorie folgt die praktische Umsetzung in QGIS: ausgehend von Daten, über die Signaturen bis zum Drucklayout. Dabei werden nützliche Tipps und Tricks gezeigt, wie man Daten gut lesbar und verständlich mit QGIS Funktionen visualisiert. Der Fokus liegt dabei darauf, alltägliche Funktionen (Farben, Schriften, Legende, Maßstab, Kartenrahmen) möglichst gut zu nutzen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "PCSECS",
+          "name": "Mathias Gröbe",
+          "avatar": "https://pretalx.com/media/avatars/PCSECS_sMU5vVC.jpg",
+          "biography": "Promovierter Kartograph, OpenStreetMapper und GIS-Nerd. Arbeitet als GIS-Experte bei der WhereGroup, leitet die Sektion Dresden der Deutschen Gesellschaft für Kartographie (DGfK) und hält Lehrveranstaltungen rund ums Thema Kartographie an der HTW Dresden.",
+          "public_name": "Mathias Gröbe",
+          "guid": "cdcb6b13-2f4f-5dec-8da5-3d8e953b3753",
+          "url": "https://pretalx.com/fossgis2025/speaker/PCSECS/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/V7BVJW/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/V7BVJW/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/V7BVJW/resources/2025-03-25_Kar_SUDsf0f.pdf",
+          "type": "related"
+        }
+      ]
+    }
+  ]
+}

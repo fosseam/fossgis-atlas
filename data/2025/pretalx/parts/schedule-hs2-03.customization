@@ -1,0 +1,673 @@
+{
+  "day": 3,
+  "date": "2025-03-28",
+  "room": "HS2 (S10)",
+  "events": [
+    {
+      "guid": "dab89ead-d139-586f-a34e-241da6060233",
+      "code": "VP79PM",
+      "id": 58095,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/VP79PM/qwc2_fossgis_AvgzT3O.png",
+      "date": "2025-03-28T09:00:00+01:00",
+      "start": "09:00",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58095-qwc2-als-webgis-in-der-kommunalen-verwaltung-und-einblick-in-die-3d-funktionalitat",
+      "url": "https://pretalx.com/fossgis2025/talk/VP79PM/",
+      "title": "QWC2 als WebGIS in der kommunalen Verwaltung und Einblick in die 3D Funktionalität",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Dieser Vortrag befasst sich mit der Web-GIS-Anwendung QGIS Web Client 2 (QWC2). Seit Herbst 2024 wird die bisherige 2D-Anwendung um eine 3D Ansicht erweitert. In diesem Vortrag wird zum einen der aktuelle Stand sowie ein Ausblick der Entwicklung der 3D Ansicht vorgestellt. Außerdem wird der Vortrag die Verwendung des QWC2 exemplarisch an ausgewählten Portalen präsentieren und dabei aufzeigen, welches Potential das System zur Anwendung in kommunalen Verwaltungen bietet.",
+      "description": "Der QGIS Webclient 2 (QWC2) ist ein umfangreiches und mächtiges Web-GIS, was durch seinen Funktionsumfang die verschiedensten Anwendungsfälle abbilden kann. Ob als reines Auskunftssystem oder als Werkzeug zur Erfassung und Bearbeitung von Geodaten, vieles ist damit möglich.\r\n\r\nMit der Anwendung können Dank des QGIS Servers Projekte mit demselben Rendering wie QGIS Desktop im Internet veröffentlicht werden. Die Umgebung besteht aus einem modernen responsiven Frontend, das in JavaScript auf Basis von ReactJS und OpenLayers geschrieben wurde. Mit den QWC-Services, ein Ökosystem von serverseitigen Python/Flask-Microservices, kann der Funktionsumfang zudem erweitert werden, um damit zum Beispiel Benutzerrechte steuern und in der Webanwendung Geodaten editieren.\r\n\r\nDurch die Veröffentlichung des Webclients als Open Source ist die Hürde zum Einsetzen des Web-GIS relativ gering. Es ist umfangreich nach den eigenen Vorstellungen konfigurierbar und auch mit etwas Grundwissen ohne externe Hilfe zu implementieren. Professionelle Unterstützung ist dennoch durch verschiedene Akteure gegeben. \r\n\r\nDer QWC2 bietet seit vielen Jahren eine ausgereifte 2D Kartenwebanwendung für die Publikation von QGIS Projekten im Web. Dank der Kooperation der Städte Detmold, Frankfurt, Jena und Wolfsburg wird die Anwendung seit Herbst 2024 um eine 3D Ansicht erweitert. Diese nutzt die auf THREE.js basierende 3D-Geovisualisierungsbibliothek Giro3D zum Darstellen von 3D-Tiles und Geländemodellen. Eine Tile-Prozessierungs-Pipeline erlaubt zudem das Generieren von 3D-Tiles aus verschiedenen gängigen 3D Formate wie CityGML oder CityJSON.\r\n\r\nIn diesem Vortrag wird zum einen der aktuelle Stand der 3D Ansicht des QWC2 vorgestellt, mit einem Einblick in dessen Architektur, einigen Anwendungsbeispielen und einem Ausblick auf künftige Funktionen. \r\n\r\nDie Weiterentwicklung des Systems lebt von dessen Nutzern, sodass jeder die Möglichkeit hat, Funktionen nach den eigenen Wünschen im Projekt beizutragen bzw. von Dritten entwickeln zu lassen. Dadurch eignet sich das Web-GIS unter anderem auch sehr gut zur Anwendung in kommunalen Verwaltungen! Ob als Auskunftssystem einer Gemeinde für dessen Bürger oder verwaltungsintern als Werkzeug in den eigenen Prozessen, vieles ist mit dem QWC2 möglich. \r\n\r\nDer Vortrag soll daher außerdem die Verwendung des QGIS Webclient 2 exemplarisch an ausgewählten Portalen präsentieren und dabei aufzeigen, welches Potential das System zur Anwendung bietet.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "ZDBD98",
+          "name": "Daniel Cebulla",
+          "avatar": "https://pretalx.com/media/avatars/ZDBD98_jHN4Ouj.jpg",
+          "biography": "Daniel Cebulla arbeitet in der Stadtverwaltung Jena im Regiebetrieb \"Kommunale Informationstechnologie und Telekommunikation (KITT)\" als \"Anwendungsbetreuer für das geografische Informationssystem (GIS)\". Dort kümmert er sich administrativ um die städtischen Geoinformationssysteme und deren Datenbanken und gibt Anwender-Support. Er studierte an der Friedrich-Schiller-Universität Jena zunächst Geographie im Bachelor und konnte 2017 seinen Masterabschluss im Studiengang Geoinformatik absolvieren.",
+          "public_name": "Daniel Cebulla",
+          "guid": "73b55527-644e-5393-a58a-0545ab1f62c7",
+          "url": "https://pretalx.com/fossgis2025/speaker/ZDBD98/"
+        },
+        {
+          "code": "MQTC8H",
+          "name": "Sandro Mani",
+          "avatar": null,
+          "biography": "Softwareentwickler bei der Firma Sourcepole.\r\nTechnischer Leiter bei der Firma EffettoVenturi.eu (Wasserdrohnen / Roboterbojen).\r\nPacket-Maintainer bei der Fedora Linux Distribution.",
+          "public_name": "Sandro Mani",
+          "guid": "5e52b0f0-f933-5de9-bead-07cd4c6e208a",
+          "url": "https://pretalx.com/fossgis2025/speaker/MQTC8H/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/VP79PM/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/VP79PM/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/VP79PM/resources/qwc2-fossgis25_k2UjDsX.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "c67f0f48-29a5-5e0b-9cdb-528720c345cd",
+      "code": "FBYXHL",
+      "id": 58072,
+      "logo": null,
+      "date": "2025-03-28T09:35:00+01:00",
+      "start": "09:35",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58072-openlayers-neues-und-nutzliches",
+      "url": "https://pretalx.com/fossgis2025/talk/FBYXHL/",
+      "title": "OpenLayers - Neues und Nützliches",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "OpenLayers, das Urgestein der Open Source Web Mapping Libraries, hat weiterhin steigende Nutzerzahlen und eine aktive Entwickler-Community. In diesem Vortrag zeigen wir neben neuen auch altbekannte nützliche Funktionen, aber auch spannende Anwendungsmöglichkeiten, die sich aus der Kombination mit anderen Libraries ergeben.",
+      "description": "ol-mapbox-style, Proj4js, PMTiles, GeoStyler, FlatGeobuf, Turf - das sind nur einige der Libraries, die sich mit OpenLayers verwenden lassen, dessen Funktionsumfang erweitern, oder das Arbeiten damit bequemer machen. Anhand einiger Beispiele wollen wir das konkret zeigen. Wir sehen uns aber auch an, was OpenLayers selbst kann. Dabei gehen wir nicht nur auf Neuigkeiten der letzten Jahre ein, sondern auch auf weniger bekannte Dinge, die über die reine Web-Mapping Funktionalität hinausgehen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "GN7SVH",
+          "name": "Andreas Hocevar",
+          "avatar": "https://pretalx.com/media/avatars/GN7SVH_6AyZVUo.png",
+          "biography": "Andreas ist Committer populärer JavaScript Open Source Projekte wie OpenLayers, proj4js oder ol-mapbox-style. Er teilt gerne sein Wissen auf Konferenzen, Universitäten oder bei Schulungen auf der ganzen Welt, und kennt als Geschäftsführer der w3geo GmbH in Wien neben der Entwicklerseite auch die Anwenderseite von Open Source Geospatial Software.",
+          "public_name": "Andreas Hocevar",
+          "guid": "f41c69d6-d6fa-585f-a156-c656bdb457fd",
+          "url": "https://pretalx.com/fossgis2025/speaker/GN7SVH/"
+        },
+        {
+          "code": "YVZTK7",
+          "name": "Marc Jansen",
+          "avatar": "https://pretalx.com/media/avatars/YVZTK7_e3CTUZH.jpg",
+          "biography": "Ich bin seit vielen Jahren in der OpenSource GIS-Szene aktiv, als Entwickler (u.a. [OpenLayers](https://openlayers.org/), [GeoExt](https://geoext.org), [SHOGun](https://terrestris.github.io/shogun/) usw.), als konzeptuell Beitragender (u.a. [react-geo](https://terrestris.github.io/react-geo/), [GeoStyler](https://geostyler.org) usw.), als Sprecher und Workshopleiter (international & national), als OSGeo Charter Member und als Geschäftsführer der Bonner Firma [terrestris](https://terrestris.de/) (OpenSource GIS-Lösungen, Beratungen und mehr).",
+          "public_name": "Marc Jansen",
+          "guid": "bf564b44-da0b-51a5-aea2-b4ea92b7768c",
+          "url": "https://pretalx.com/fossgis2025/speaker/YVZTK7/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Vortrag-Slides",
+          "url": "https://ahocevar.net/openlayers-neues-und-nuetzliches",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/FBYXHL/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/FBYXHL/",
+      "attachments": []
+    },
+    {
+      "guid": "e96c4ef2-fa0e-58fe-bcf4-ebc9e9848374",
+      "code": "8L8NBH",
+      "id": 58117,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/8L8NBH/MapbenderDevices_xOeLBLE.png",
+      "date": "2025-03-28T09:40:00+01:00",
+      "start": "09:40",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58117-mapbender-neuigkeiten-aus-dem-projekt",
+      "url": "https://pretalx.com/fossgis2025/talk/8L8NBH/",
+      "title": "Mapbender - Neuigkeiten aus dem Projekt",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Im Mapbender-Projekt ist im letzten Jahr wieder viel passiert.\r\n\r\nWir stellen Neuerungen vor\r\n\r\n- neues Element zum Routing\r\n- Auswahl von WMS Layer-Stilen im Ebenenbaum\r\n- Verbesserte Usability\r\n- REST API\r\n- Erweiterte Datenquellen\r\n- QGIS Plugin QGIS2Mapbender zur Administration von Mapbender aus QGIS heraus\r\n- Seriendruck\r\n\r\nAußerdem wollen wir einen Blick auf bestehende Mapbender-Lösungen richten und deren besondere Anforderungen oder Lösung vorstellen.",
+      "description": "Im Mapbender-Projekt ist im letzten Jahr wieder viel passiert. Es soll von den Neuigkeiten im Projekt berichtet werden und neue Features sollen vorgestellt werden.\r\n\r\nEs liegt ein neues Element zum Routing mit Mapbender vor. \r\n\r\nStile von WMS Layern können nun im Client im Ebenenbaum ausgewählt werden.\r\n\r\nDie Usability von Mapbender im Backend wurde an einigen Stellen verbessert.\r\n\r\nMapbender verfügt nun über eine REST API. Befehle, die bisher nur auf dem Server auf der Konsole ausgeführt wurden, z.B. zum Laden von Diensten, können nun auch über die REST API angesteuert werden.\r\n\r\nAuch im Bereich der Datenquellen geht es voran. Das Projekt arbeitet daran, weitere Datenquellen zu unterstützen.\r\n\r\nIn QGIS gibt es nun ein Plugin QGIS2Mapbender, das die Interaktion mit Mapbender aus QGIS ermöglicht. QGIS Server Projekte können über das Plugin leicht veröffentlicht werden und direkt in Anwendungen in Mapbender eingebunden werden.\r\n\r\nAußerdem wollen wir einen Blick auf bestehende Mapbender-Lösungen richten und deren besondere Anforderungen oder Lösung vorstellen.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "XTSTXB",
+          "name": "Astrid Emde",
+          "avatar": "https://pretalx.com/media/avatars/XTSTXB_0B7DQZx.jpg",
+          "biography": "Astrid Emde war bisher bei allen FOSSGIS-Konferenzen dabei und freut sich auf die FOSSGIS 2025 in Münster.\r\n\r\nSie befasst sich seit vielen Jahren mit Geodaten und FOSSGIS und hat schon zahlreiche Projekte vor allem im WebGIS-Bereich umgesetzt.\r\n\r\nAstrid Emde arbeitet bei der WhereGroup in Bonn und hat schon viele Workshops und Präsentationen zu Mapbender, MapServer, GeoServer, PostgreSQL/PostGIS, OWS oder allgemein zum Aufbau einer GDI gehalten. Sie ist Dozentin der FOSS Academy, dem Schulungsinstitut der WhereGroup\r\n\r\nSeit vielen Jahren engagiert sie sich im Mapbender-Projekt und gehört zum Mapbender Team und dem Mapbender PSC (Project Steering Committee).\r\n\r\nAstrid Emde ist in der OSGeo Foundation aktiv. Sie ist 2010 zum Charter Member und war von 2017-2021 im OSGeo Board of Directors (Vorstand der OSGeo). Sie ist OSGeo Secretary und ist darüber hinaus im Bereich Marketing, Presse, Community Meetings und OSGeoLive aktiv. 2018 erhielt sie für ihr Engagement den Sol Katz Award der OSGeo.\r\n\r\nAuch im FOSSGIS e.V. ist Astrid Emde aktiv. Sie gehört zum Team der jährlich stattfindenden FOSSGIS-Konferenz, engagiert sich in der Vereins-Öffentlichkeitsarbeit und der Organisation von Community Events (https://fossgis.de).",
+          "public_name": "Astrid Emde",
+          "guid": "715f48b7-cddf-5338-9c54-bcb1ffaef50f",
+          "url": "https://pretalx.com/fossgis2025/speaker/XTSTXB/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Folien",
+          "url": "https://github.com/astroidex/presentations/blob/master/FOSSGIS2025/fossgis-2025-mapbender-astrid-emde.pdf",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/8L8NBH/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/8L8NBH/",
+      "attachments": []
+    },
+    {
+      "guid": "48f415f7-e398-50e7-aafc-4dfdfb3c850e",
+      "code": "9J93ET",
+      "id": 58169,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/9J93ET/app_icon_bdnQzKH.png",
+      "date": "2025-03-28T09:45:00+01:00",
+      "start": "09:45",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58169-qgis-web-client-qwc-neues-aus-dem-projekt",
+      "url": "https://pretalx.com/fossgis2025/talk/9J93ET/",
+      "title": "QGIS Web Client (QWC) - Neues aus dem Projekt",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Dieser Vortrag stellt den QWC2 vor und gibt einen Überblick über die neuen Funktionen, die im letzten Jahr entwickelt wurden.",
+      "description": "Mit dem QWC2 (QGIS Web Client 2) können Sie, dank des QGIS Servers, ihre Projekte mit demselben Rendering wie QGIS Desktop im Internet veröffentlichen. Die Umgebung besteht aus einem modernen responsiven Frontend, das in JavaScript auf Basis von ReactJS und OpenLayers geschrieben wurde. Er bietet zudem eine 3D Ansicht auf Basis Giro3D an. Mit den qwc-services, ein Ökosystem von serverseitigen Python/Flask-Microservices, können Sie den Funktionsumfang zudem erweitern, und damit zum Beispiel Benutzerrechte steuern und in der Webanwendung Geodaten editieren.\r\n\r\nQWC2 ist modular und erweiterbar und bietet sowohl eine Standard-Webanwendung als auch ein Entwicklungs-Framework. Sie können einfach und leicht mit der Demo-Anwendung beginnen und dann Ihre Anwendung nach Belieben anpassen, je Webclientnach Ihren Bedürfnissen und Entwicklungsfähigkeiten.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "MQTC8H",
+          "name": "Sandro Mani",
+          "avatar": null,
+          "biography": "Softwareentwickler bei der Firma Sourcepole.\r\nTechnischer Leiter bei der Firma EffettoVenturi.eu (Wasserdrohnen / Roboterbojen).\r\nPacket-Maintainer bei der Fedora Linux Distribution.",
+          "public_name": "Sandro Mani",
+          "guid": "5e52b0f0-f933-5de9-bead-07cd4c6e208a",
+          "url": "https://pretalx.com/fossgis2025/speaker/MQTC8H/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/9J93ET/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/9J93ET/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/9J93ET/resources/qwc2-fossgis25_NOmdtsW.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "8573e601-ad01-5400-b533-8b8f92e967ad",
+      "code": "C9VGN8",
+      "id": 57859,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/C9VGN8/shogun_logo_MRpe6wU.png",
+      "date": "2025-03-28T09:50:00+01:00",
+      "start": "09:50",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57859-state-of-shogun-ein-flexibles-web-gis-framework",
+      "url": "https://pretalx.com/fossgis2025/talk/C9VGN8/",
+      "title": "State of SHOGun: Ein flexibles Web-GIS Framework",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "SHOGun ist ein Anwendungsframework zum Aufbau von einfachen bis komplexen Geodateninfrastrukturen. Dabei kann SHOGun direkt und ohne spezifische Anpassungen verwendet oder aber auch nach Bedarf stark angepasst werden, um die Anforderungen spezifischer Projekte zu erfüllen.",
+      "description": "SHOGun ist ein Open Source Anwendungsframework zum Aufbau von Geodateninfrastrukturen. SHOGun ist in seiner Architektur dabei so ausgelegt, dass es sich zwischen den Extremen „off-the-shelf“ (Standardprodukt von der Stange) und „fully handcrafted“ (spezifische Individualentwicklung) bewegen kann.\r\n\r\nFunktional stellt SHOGun die gewohnten Standardfunktionen eines modernen WebGIS bereit. Diese sind neben der Möglichkeit der Konfigurierbarkeit über eine Nutzeroberfläche z.B. um Tools wie die Editierungsfunktionen oder die Möglichkeit zur Vergabe von Berechtigungen auf Clients und OGC-Diensten auf Basis von externen Nutzerverwaltungssystemen ergänzt.\r\n\r\nIn dem Vortrag werden wir den aktuellen Stand des Projekts vorstellen und dabei das modulare Zusammenspiel der einzelnen Komponenten präsentieren. Wir werden auf die vorhandenen Funktionalitäten eingehen und dabei den Fokus auf die individuelle Erweiterbarkeit legen. Denn alle Komponenten können, z.B. durch Plugin-Systeme, auf spezifische Fragestellungen dynamisch erweitert und angepasst werden. Weiter sollen auch einige konkrete Projektbeispiele aus unterschiedlichen Branchen aufgezeigt werden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "U7QH7V",
+          "name": "Daniel Koch",
+          "avatar": "https://pretalx.com/media/avatars/U7QH7V_06PJsee.jpg",
+          "biography": "Lead Developer der terrestris GmbH & Co. KG aus Bonn und OpenSource Enthusiast. Kernentwickler GeoStyler, react-geo, SHOGun.",
+          "public_name": "Daniel Koch",
+          "guid": "5f30477d-5255-5a79-b790-297e0afa021b",
+          "url": "https://pretalx.com/fossgis2025/speaker/U7QH7V/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/C9VGN8/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/C9VGN8/",
+      "attachments": []
+    },
+    {
+      "guid": "fe65b6e2-344a-5952-b75e-eed26bcad8f2",
+      "code": "U7SLXZ",
+      "id": 58085,
+      "logo": null,
+      "date": "2025-03-28T10:10:00+01:00",
+      "start": "10:10",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58085-geostyler-arcgis-unterstutzung-und-weitere-neue-features",
+      "url": "https://pretalx.com/fossgis2025/talk/U7SLXZ/",
+      "title": "GeoStyler - ArcGIS Unterstützung und weitere neue Features",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Dieser Vortrag zeigt die aktuellsten Neuerungen des OSGeo Community Projekts GeoStyler. Hier wird besonders auf die Unterstützung von ArcGIS Stilen eingegangen, und wie diese in offene Formate wie QGIS Styles, SLD, etc. konvertiert werden können. Zusätzlich zeigen wir die Weiterentwicklungen am GeoStyler-CLI, und was sonst noch u.a. im letzten GeoStyler Code Sprint umgesetzt wurde.",
+      "description": "Der Weg aus einem Vendor Lock-in ist besonders im Bereich der Kartographie oft nicht leicht. Abgesehen von neuen Arbeitsabläufen und neuen Benutzeroberflächen, mit denen sich Anwender:innen auseinandersetzen müssen, ist ein Umstieg oftmals mit hohem Aufwand verbunden; bspw. bedingt durch das Nachbilden von Kartenstilen in andere Formate. Genau in diese Lücke tritt GeoStyler und bietet durch die neue Unterstützung von ArcGIS Stilen die Möglichkeit existierende Stile automatisiert in offene Formate wie SLD, QML (QGIS), und weitere zu konvertieren. Dies kann interaktiv über die GeoStyler-UI, oder mittels verschiedener Schnittstellen wie die GeoStyler-CLI oder GeoStyler-Rest geschehen.\r\n\r\nIn diesem Vortrag zeigen wir den aktuellen Stand des GeoStyler ArcGIS Parsers, sowie weitere Ergebnisse aus dem letzten GeoStyler Code Sprint.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "RTASYG",
+          "name": "Jan Suleiman",
+          "avatar": "https://pretalx.com/media/avatars/RTASYG_LWn7Uam.jpg",
+          "biography": null,
+          "public_name": "Jan Suleiman",
+          "guid": "5e87329d-5486-5d90-b1d1-6ad93fde058b",
+          "url": "https://pretalx.com/fossgis2025/speaker/RTASYG/"
+        },
+        {
+          "code": "GN3GKA",
+          "name": "Benjamin Gerber",
+          "avatar": "https://pretalx.com/media/avatars/GN3GKA_QfAo6lw.jpg",
+          "biography": "GIS and FOSS developer at Camptocamp SA, Switzerland.",
+          "public_name": "Benjamin Gerber",
+          "guid": "32d9ff00-3807-5933-a3dd-c92590e9e316",
+          "url": "https://pretalx.com/fossgis2025/speaker/GN3GKA/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Präsentation / Folien",
+          "url": "https://terrestris.github.io/fossgis2025/talks/2025-03-28-suleiman-geostyler.html",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/U7SLXZ/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/U7SLXZ/",
+      "attachments": []
+    },
+    {
+      "guid": "35fb0ecf-6bc0-52c3-9408-c4311d7bc606",
+      "code": "ZASYWN",
+      "id": 57880,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/ZASYWN/geoserver_logo_bAls3op.png",
+      "date": "2025-03-28T10:15:00+01:00",
+      "start": "10:15",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57880-state-of-geoserver-cloud",
+      "url": "https://pretalx.com/fossgis2025/talk/ZASYWN/",
+      "title": "State of GeoServer Cloud",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "GeoServer ist ein vielseitiger Kartenserver, der in Microservice-Architekturen an seine Grenzen stößt. GeoServer Cloud als eigenes Projekt \"on top\" transformiert den GeoServer in skalierbare Einzelkomponenten für Container-Umgebungen wie Kubernetes.",
+      "description": "Der [GeoServer](https://geoserver.org/) ist ein etablierter und extrem vielseitiger Kartenserver, der alle gängigen OGC-Standards sowie unzählige Datenformate unterstützt. Im Kontext von modernen Microservice-Architekturen, die eine Skalierung in Cloud-Umgebungen ermöglichen, gerät der GeoServer als monolithische Software jedoch an seine technische Grenzen. Vor diesem Hintergrund ist das [GeoServer Cloud](https://github.com/geoserver/geoserver-cloud) Projekt entstanden, welches\r\ndie bestehenden GeoServer-Implementierungen durch Erweiterung und Anpassung in individuell einsetzbare Einzelkomponenten transformiert. Diese können dann im Rahmen einer Microservice-Architektur in Container-basierten Verwaltungsumgebungen wie beispielsweise Kubernetes eingesetzt und beliebig skaliert werden.\r\n\r\nDer Vortrag beleuchtet im Allgemeinen die technischen Konzepte sowie entscheidenden Unterschiede zum \"Vanilla GeoServer\" (wie z.B. das Datenverzeichnis/Katalog), diskutiert Vor- und Nachteile dieser Entwicklungen, stellt die wichtigsten Neuerungen aus dem Projekt vor und liefert somit wertvolle Entscheidungshilfen für die Wahl einer geeigneten GeoServer-Variante.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "AUVC9D",
+          "name": "Nils Bühner",
+          "avatar": "https://pretalx.com/media/avatars/AUVC9D_JsLvLtC.jpg",
+          "biography": "Informatiker und langjähriger Software-Engineer bei terrestris mit viel Erfahrung in Einsatz und Verwendung des GeoServers.",
+          "public_name": "Nils Bühner",
+          "guid": "cea600d6-4b98-5a2f-9704-6bb32b56a560",
+          "url": "https://pretalx.com/fossgis2025/speaker/AUVC9D/"
+        },
+        {
+          "code": "U7QH7V",
+          "name": "Daniel Koch",
+          "avatar": "https://pretalx.com/media/avatars/U7QH7V_06PJsee.jpg",
+          "biography": "Lead Developer der terrestris GmbH & Co. KG aus Bonn und OpenSource Enthusiast. Kernentwickler GeoStyler, react-geo, SHOGun.",
+          "public_name": "Daniel Koch",
+          "guid": "5f30477d-5255-5a79-b790-297e0afa021b",
+          "url": "https://pretalx.com/fossgis2025/speaker/U7QH7V/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/ZASYWN/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/ZASYWN/",
+      "attachments": []
+    },
+    {
+      "guid": "233fa65f-6e50-5c17-be01-05520078e494",
+      "code": "JAWZUC",
+      "id": 58020,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/JAWZUC/grasslogo_huge_square_tr_LN53YEC.png",
+      "date": "2025-03-28T10:20:00+01:00",
+      "start": "10:20",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58020-stand-des-grass-gis-projekts-neuigkeiten-und-perspektiven",
+      "url": "https://pretalx.com/fossgis2025/talk/JAWZUC/",
+      "title": "Stand des GRASS GIS Projekts: Neuigkeiten und Perspektiven",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Wir geben einen Überblick über die neuesten Entwicklungen im GRASS GIS Projekt mit Fokus auf die Version 8.4.0: Der Begriff \"Location\" ist nun einfach \"Projekt\", die Support-Vektor-Machine Methode zur Bildklassifikation ist in GRASS-core verfügbar und optionale JSON Ausgabe neu in verschiedenen Tools. Verbesserungen in der grafischen Benutzeroberfläche und neue Werkzeuge für Jupyter Notebooks machen GRASS GIS zugänglicher und skalierbarer für Anwendungen von der Wissenschaft bis zur Industrie.",
+      "description": "Im Vortrag geben wir einen Überblick über die Fortschritte des [GRASS GIS Projekts](https://grass.osgeo.org/) und die Highlights der Version 8.4.0, die mit über 520 Verbesserungen und Korrekturen veröffentlicht wurde. Eine bemerkenswerte Änderung ist die Ersetzung des traditionellen (aber oft verwirrenden) Begriffs \"Location\" durch \"Project\" in der graphischen Benutzeroberfläche, bei der Kommandozeile und in der gesamten Python API, wobei die Abwärtskompatibilität gewährleistet bleibt. Dies wird die Datenhierarchie für die Benutzer:innen intuitiver machen. Die Version führt mehrere neue Werkzeuge und Verbesserungen ein, darunter eine GRASS-Kernfunktion zur Bildklassifikation mit Hilfe von Support Vector Machines (i.svm). Im Bereich der Datenverarbeitung und -ausgabe unterstützt GRASS GIS 8.4.0 nun das JSON Ausgabeformat für verschiedene Werkzeuge und führt eine neue Klasse für Jupyter Notebooks zur Animation von Vektor- oder Rasterzeitreihen ein. Zusätzlich ermöglicht die Integration von ipyleaflet eine einfachere Kartenvisualisierung in Jupyter Notebooks. Zu den Verbesserungen der Benutzeroberfläche gehören ein verbessertes Single-Window-GUI mit abdockbarer Kartenansicht und ein neues History-Browser-Panel, das die Navigation durch die Workflow-Historie vereinfacht. Ein neuer GRASS GIS Programming Style Guide erleichtert die Orientierung während der Entwicklung.\r\nWir stellen die [Roadmap](https://grass.osgeo.org/about/roadmap/) für zukünftige GRASS GIS Versionen vor, die einen beschleunigten Releasezyklus und neue Werkzeuge beinhaltet. Insgesamt verbessern diese Neuerungen die Fähigkeiten von GRASS GIS in den Bereichen Geodatenanalyse, Datenvisualisierung und Benutzerinteraktion erheblich und demonstrieren die kontinuierliche Weiterentwicklung des Projekts, um den Bedürfnissen sowohl von Anfänger:innen als auch von erfahrenen Profis in der Geo-Community gerecht zu werden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "GTQX8R",
+          "name": "Markus Neteler",
+          "avatar": "https://pretalx.com/media/avatars/GTQX8R_UUZTY9T.jpg",
+          "biography": "Dr. Markus Neteler ist Mitgründer der mundialis GmbH & Co KG in Bonn (<https://www.mundialis.de/>). Seine Interessenschwerpunkte sind Fernerkundung, Analyse großer Geodaten und Freie Software GIS-Entwicklung. Er ist seit 1997 Release Manager von GRASS GIS (<https://grass.osgeo.org/>) und Gründungsmitglied der ehemaligen GRASS Anwender-Vereinigung e.V. (Deutschland, jetzt [FOSSGIS.de](http://FOSSGIS.de)), der italienischen [GFOSS-Vereinigung](https://gfoss.it/associazione) und der Open Source Geospatial Foundation ([OSGeo.org](http://OSGeo.org), USA). In 2006 wurde er mit dem internationalen Sol Katz Award for Geospatial Free and Open Source Software (GFOSS) ausgezeichnet; in 2022 mit dem Life Achievement Award 2022 der OpenGeoHub Foundation.",
+          "public_name": "Markus Neteler",
+          "guid": "185935b0-c1f7-5d97-9d1a-527d1aec8cc6",
+          "url": "https://pretalx.com/fossgis2025/speaker/GTQX8R/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Vortragsfolien (HTML-basiert)",
+          "url": "https://htmlpreview.github.io/?https://github.com/neteler/grass-gis-talks-markus/blob/main/fossgis_grass_LT_2025.html",
+          "type": "related"
+        }
+      ],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/JAWZUC/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/JAWZUC/",
+      "attachments": []
+    },
+    {
+      "guid": "79b999e3-4783-5497-af44-de06c023447c",
+      "code": "JRW7QT",
+      "id": 58214,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/JRW7QT/actinia_logo_LSrR1kH.png",
+      "date": "2025-03-28T10:25:00+01:00",
+      "start": "10:25",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58214-neues-von-actinia-mit-knative-weiter-wolkenwarts",
+      "url": "https://pretalx.com/fossgis2025/talk/JRW7QT/",
+      "title": "Neues von actinia - mit Knative weiter wolkenwärts",
+      "subtitle": "",
+      "track": "Neuigkeiten und Interessantes aus den Open-Source-Projekten",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "\"Hallo, mein Name ist actinia. Ich bin eine REST API für GRASS GIS, die die Verwaltung und Visualisierung von Projects, Mapsets und Geodaten sowie die Ausführung von GRASS GIS Modulen ermöglicht und in einer Cloud-Umgebung installiert werden kann. Den aktuellen Trends folgend wird gezeigt, wie ich im ESA Projekt KNeo angepasst werde, um im Open Source Projekt Knative, einer Erweiterung für Kubernetes, installiert werden zu können. Um mehr Details zu erfahren, kommen Sie vorbei!\"",
+      "description": "\"Hallo, mein Name ist [actinia](https://actinia-org.github.io/). Ich wurde schon häufiger auf der FOSSGIS vorgestellt, also vielleicht bin ich bereits bekannt. Falls nicht - ich bin eine REST API für GRASS GIS, die die Verwaltung und Visualisierung von Locations/Projects, Mapsets und Geodaten sowie die Ausführung der vielen GRASS GIS Module und Addons ermöglicht. Andere Tools wie GDAL werden ebenfalls unterstützt.\r\nIch kann in einer Cloud-Umgebung installiert werden und helfe dabei, große Mengen an Geoinformationen aufzubereiten, zu analysieren und bereitzustellen. Da ich ursprünglich auch für den Einsatz in einer Cloud-Umgebung entwickelt wurde, ist es naheliegend, mich nach den aktuellen Trends zu richten und ständig weiter zu entwickeln. Das geschieht derzeit im Rahmen des ESA-geförderten Projektes KNeo. Hier werde ich so angepasst, dass ich mit [Knative](https://knative.dev/docs/) installiert werden kann. Knative ist ein von der [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) verwaltetes Open Source Community Projekt und eine Erweiterung der Container-Orchestrierungsplattform [Kubernetes](https://kubernetes.io/). Es ermöglicht, serverlose Workloads auf Kubernetes-Clustern auszuführen und Tools und Dienstprogramme bereitzustellen, die die Erstellung, Bereitstellung und das Management von containerisierten Anwendungen innerhalb von Kubernetes einfacher und „Kubernetes-nativer“ machen. Im Gegensatz zu früheren Serverless-Frameworks wurde Knative für die Bereitstellung aller modernen App-Workloads entwickelt - von monolithischen Apps bis hin zu Microservices und kleinen Funktionen.\r\nIn diesem Vortrag werden zunächst die Grundlagen von mir und Knative behandelt und anschließend gezeigt, wie ich für die Nutzung mit Knative angepasst wurde. Schlagwörter wie \"cloud-native\", \"serverless\", \"event-triggered\" und viele mehr werden nach diesem Vortrag keine Fremdwörter mehr sein. Um mehr Details zu erfahren, kommen Sie vorbei!\"\r\n\r\nSiehe auch [Vortragsfolien (HTML-basiert)](https://mundialis.github.io/fossgis2025/news-from-actinia)",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "8TB8Y9",
+          "name": "Carmen Tawalika",
+          "avatar": "https://pretalx.com/media/avatars/8TB8Y9_9xmHqDW.jpg",
+          "biography": null,
+          "public_name": "Carmen Tawalika",
+          "guid": "9b3a67c5-5ecc-54c3-a73b-374d4284b839",
+          "url": "https://pretalx.com/fossgis2025/speaker/8TB8Y9/"
+        },
+        {
+          "code": "3HPSZE",
+          "name": "Anika Weinmann",
+          "avatar": null,
+          "biography": null,
+          "public_name": "Anika Weinmann",
+          "guid": "61d55604-30c0-5b0e-87d8-0ec5dd2f5390",
+          "url": "https://pretalx.com/fossgis2025/speaker/3HPSZE/"
+        },
+        {
+          "code": "GTQX8R",
+          "name": "Markus Neteler",
+          "avatar": "https://pretalx.com/media/avatars/GTQX8R_UUZTY9T.jpg",
+          "biography": "Dr. Markus Neteler ist Mitgründer der mundialis GmbH & Co KG in Bonn (<https://www.mundialis.de/>). Seine Interessenschwerpunkte sind Fernerkundung, Analyse großer Geodaten und Freie Software GIS-Entwicklung. Er ist seit 1997 Release Manager von GRASS GIS (<https://grass.osgeo.org/>) und Gründungsmitglied der ehemaligen GRASS Anwender-Vereinigung e.V. (Deutschland, jetzt [FOSSGIS.de](http://FOSSGIS.de)), der italienischen [GFOSS-Vereinigung](https://gfoss.it/associazione) und der Open Source Geospatial Foundation ([OSGeo.org](http://OSGeo.org), USA). In 2006 wurde er mit dem internationalen Sol Katz Award for Geospatial Free and Open Source Software (GFOSS) ausgezeichnet; in 2022 mit dem Life Achievement Award 2022 der OpenGeoHub Foundation.",
+          "public_name": "Markus Neteler",
+          "guid": "185935b0-c1f7-5d97-9d1a-527d1aec8cc6",
+          "url": "https://pretalx.com/fossgis2025/speaker/GTQX8R/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/JRW7QT/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/JRW7QT/",
+      "attachments": []
+    },
+    {
+      "guid": "4c178321-81d5-5e0f-b3f5-598b0148d0b9",
+      "code": "ADTEVH",
+      "id": 57208,
+      "logo": null,
+      "date": "2025-03-28T11:10:00+01:00",
+      "start": "11:10",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57208-ableitung-von-rasterkarten-aus-vector-tiles-fur-basemap-de",
+      "url": "https://pretalx.com/fossgis2025/talk/ADTEVH/",
+      "title": "Ableitung von Rasterkarten aus Vector Tiles für basemap.de",
+      "subtitle": "",
+      "track": "Rasterdaten und Fernerkundung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "Für die Produktion der Rasterkarten von basemap.de wird die Open-Source-Software \"VT Raster Converter\" entwickelt, mit der Vector-Tiles-Karten in Rasterbilder konvertiert werden können. Der Vortrag gibt einen Überblick über die Software und deren Nutzung in Verbindung mit dem MapProxy. Es werden die Erfahrungen und Herausforderungen in der Produktion der basemap.de Rasterkarten mittels Vektor-Raster-Konvertierung erläutert.",
+      "description": "Der Kartendienst basemap.de stellt amtliche Karten u. a. in Form von Vector Tiles bereit. Da nicht alle Kartenanwendungen in der Lage sind Vector Tiles einzubinden, werden auch Rasterkarten-Dienste von basemap.de angeboten. Um die Pflege der Style-Konfigurationen zu vereinfachen und das Kartenbild der Vektor- und Rasterkarten zu vereinheitlichen, werden die Rasterbilder aus den Vector Tiles erzeugt. Dafür erfolgt eine Konvertierung mit der auf MapLibre Native basierenden Software \"VT Raster Converter\", die für die Produktion der basemap.de Rasterkarten entwickelt wurde. Für die Speicherung der konvertierten Rasterbilder wird der MapProxy verwendet. \r\n\r\nDer Vortrag gibt einen Überblick über die Software \"VT Raster Converter\" und deren Nutzung in Verbindung mit dem MapProxy. Es werden die Erfahrungen und Herausforderungen in der Produktion der basemap.de Rasterkarten mittels Vektor-Raster-Konvertierung erläutert.  \r\n\r\nDie Software \"VT Raster Converter\" ist unter der Open-Source-Lizenz MIT veröffentlicht (https://github.com/Smart-Mapping/vt-raster-converter). Entwickelt werden die Dienste und Anwendungen von basemap.de in Zusammenarbeit der Vermessungsverwaltungen der Länder (AdV) und dem Bundesamt für Kartographie und Geodäsie (BKG).",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "VGJNTE",
+          "name": "Sebastian Ratjens",
+          "avatar": null,
+          "biography": "Softwareentwickler beim Landesamt für Geoinformation und Landesvermessung Niedersachsen (LGLN) und Mitarbeit in der Entwicklung von basemap.de",
+          "public_name": "Sebastian Ratjens",
+          "guid": "b0af5016-57ed-5c2a-bedf-de6cac19276a",
+          "url": "https://pretalx.com/fossgis2025/speaker/VGJNTE/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/ADTEVH/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/ADTEVH/",
+      "attachments": [
+        {
+          "title": "Vortragsfolien",
+          "url": "/media/fossgis2025/submissions/ADTEVH/resources/FOSSGIS-2025-R_IhHQPVY.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "16e080f0-2ca8-50f0-9687-e90d63cc34cf",
+      "code": "PGKDEV",
+      "id": 58114,
+      "logo": null,
+      "date": "2025-03-28T11:45:00+01:00",
+      "start": "11:45",
+      "duration": "00:20",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58114-pmtiles-das-cloud-native-format-fur-kacheln",
+      "url": "https://pretalx.com/fossgis2025/talk/PGKDEV/",
+      "title": "PMTiles - das cloud-native Format für Kacheln",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Vortrag",
+      "language": "de-formal",
+      "abstract": "[PMTiles](https://docs.protomaps.com/pmtiles/) ist ein neues Format zur effizienten Speicherung und einfachen Publikation von Vektor- und Rasterkacheln.",
+      "description": "PMTiles ist ein cloud-natives Format, welches die Veröffentlichung von Tiles ohne spezielle Serverapplikation ermöglicht. Es wird nur ein HTTP-Server benötigt, um Vektor- oder Rasterkacheln auszuliefern.\r\n\r\nEin kompletter OpenStreetMap Vektor-Tiles Datensatz mit den Zoomstufen 0-15 kann in einem ca. 150 GB grossen PMTiles-Archiv gespeichert werden. Inzwischen wir die direkte Generierung von PMTiles von mehreren Tools unterstützt.\r\n\r\nDieser Vortrag zeigt die Vor- und Nachteile von PMTiles, wie man sie erzeugt und wie sie mit verschiedenen Karten-Viewern verwendet werden können.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "QWKZFY",
+          "name": "Pirmin Kalberer",
+          "avatar": "https://pretalx.com/media/avatars/QWKZFY_oijwyqY.jpg",
+          "biography": "Pirmin Kalberer ist Mitgründer von Sourcepole in Zürich und trägt selbst als Entwickler zu verschiedenen Open Source GIS Projekten bei.",
+          "public_name": "Pirmin Kalberer",
+          "guid": "ce707060-77f8-5d41-861c-ab6cc9ecabc9",
+          "url": "https://pretalx.com/fossgis2025/speaker/QWKZFY/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/PGKDEV/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/PGKDEV/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/PGKDEV/resources/pmtiles-fossgi_hNP3BJU.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "3bafc26e-098e-5be9-88f3-556bf7e28cd6",
+      "code": "ZPD8YR",
+      "id": 58090,
+      "logo": null,
+      "date": "2025-03-28T12:20:00+01:00",
+      "start": "12:20",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58090-routingplus-goes-masterportal-unser-weg-zu-einer-modernen-benutzeroberflache",
+      "url": "https://pretalx.com/fossgis2025/talk/ZPD8YR/",
+      "title": "RoutingPlus goes Masterportal: Unser Weg zu einer modernen Benutzeroberfläche",
+      "subtitle": "",
+      "track": "Routing und Mobilität",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Steigt mit ein in unseren Lightning Talk und hört von unseren Erkenntnissen aus dem agilen Entwicklungsprozess einer neuen graphischen Benutzeroberfläche für den Routingdienst RoutingPlus des Bundesamtes für Kartographie und Geodäsie (BKG). Dabei erfahrt ihr die Gründe, warum wir uns für die Open Source Lösung Masterportal entschieden haben, und welche Vorteile sich dadurch nicht nur für uns, sondern auch die Open Source Community ergeben.",
+      "description": "Geplante Entwicklungsroute: \r\nDas bewährte, aber in die Jahre gekommene RoutingPlus Demoportal ablösen und auf Grundlage des Masterportal 3.0 durch eine neue Anwendung ersetzen. \r\n\r\nBerechnete Entwicklungsfahrzeit: \r\nFertigstellung innerhalb von knapp 2 Jahren bis 2025. \r\n\r\nWer möchte mitkommen?\r\n\r\nBasierend auf dem leistungsstarken openrouteservice (ORS) des Heidelberg Institute for Geoinformation Technology (HeiGIT) ist RoutingPlus seit mehreren Jahren als etablierten Routingdienst des Bundes anerkannt. Für die Bundesverwaltung stellt dieser Dienst eine wichtige Infrastruktur dar, die über eine flexible Dienste-API in eigene Anwendungen und Prozesse integriert werden kann. \r\n\r\nSeit einigen Jahren wächst jedoch der Bedarf die RoutingPlus Dienste auch über eine graphische Benutzeroberfläche verwenden zu können. Vor allem für weniger technikaffine Nutzerinnen und Nutzer wurde dafür 2017 das RoutingPlus Demoportal veröffentlicht. Dieses dient zudem als Demonstrator, welcher die umfangreichen Funktionalitäten sichtbar und zugänglich macht. Gleichzeitig hat das Masterportal in den letzten Jahren mit einem Interface-Modul eine weitere Möglichkeit geschaffen, die Routingdienste des BKG anzubieten und den Zugang für alle Anwender zu erleichtern. \r\n\r\nAufgrund von veränderten Anforderungen und Sicherheitsaspekten sowie steigenden Erwartungen an die Leistungsfähigkeit und Flexibilität des Softwarebetriebs haben wir Anfang 2023 den Startschuss für die Ablösung des bisherigen RoutingPlus Demoportals gegeben. Diese Entscheidung markierte den Beginn eines umfassenden Projekts, das ein völlig neues, zukunftsfähiges Portal hervorbringen soll. Welche Fortschritte wir seither gemacht haben, welche Herausforderungen uns begegneten und welche „Abkürzungen“ oder unerwarteten „Umwege“ wir genommen haben, erfahrt ihr in unserem Beitrag auf der FOSSGIS 2025.\r\n\r\nSteigt deshalb mit ein in unseren Lightning Talk und hört von unseren Erkenntnissen aus dem agilen Entwicklungsprozess einer neuen graphischen Benutzeroberfläche für den Routingdienst RoutingPlus des Bundesamtes für Kartographie und Geodäsie (BKG). Dabei erfahrt ihr die Gründe, warum wir uns für die Open Source Lösung Masterportal entschieden haben, und welche Vorteile sich dadurch nicht nur für uns, sondern auch die Open Source Community ergeben. Als Early-Adopter der Masterportal Version 3.0 teilen wir die Erfahrungen, die wir während der Entwicklung gesammelt haben, und die dabei aufgetretenen Herausforderungen, sowohl technisch als auch organisatorischer Natur. \r\n\r\nZudem geben wir Einblicke, wie wir durch agile Prozesse und enge Zusammenarbeit die Erfassung und Umsetzung von User-Anforderungen vorantreiben, um das neue RoutingPlus Portal optimal an die Bedürfnisse zukünftiger Nutzerinnen und Nutzer anzupassen. Natürlich führen wir auch den aktuellen Entwicklungsstand der neuen Anwendung vor und zeigen darüber hinaus, wie das Projekt langfristig angelegt ist, um den neuen Herausforderungen und amtlichen Anforderungen gerecht zu werden.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "8VTAWB",
+          "name": "Benjamin Würzler",
+          "avatar": "https://pretalx.com/media/avatars/8VTAWB_nX6bhOv.jpg",
+          "biography": "Projekt- und Produktmanager in der angewandten Forschung und Entwicklung beim Bundesamt für Kartographie und Geodäsie",
+          "public_name": "Benjamin Würzler",
+          "guid": "9bbcc545-a99c-599d-a57a-ad3d29fe3db2",
+          "url": "https://pretalx.com/fossgis2025/speaker/8VTAWB/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/ZPD8YR/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/ZPD8YR/",
+      "attachments": [
+        {
+          "title": "RoutingPlus goes Masterportal PDF",
+          "url": "/media/fossgis2025/submissions/ZPD8YR/resources/2025-03-28_Rou_l4mcz9a.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "fe835a59-de7a-5715-bfef-4658e87ee557",
+      "code": "NQK7TP",
+      "id": 58243,
+      "logo": "https://pretalx.com/media/fossgis2025/submissions/NQK7TP/157402571_8SzdTdG.png",
+      "date": "2025-03-28T12:25:00+01:00",
+      "start": "12:25",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58243-fiboa-standardisierte-feldgrenzen",
+      "url": "https://pretalx.com/fossgis2025/talk/NQK7TP/",
+      "title": "fiboa - Standardisierte Feldgrenzen",
+      "subtitle": "",
+      "track": "Offene Standards, z.B. INSPIRE, OGC",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Das Projekt Field Boundaries for Agriculture (fiboa) zielt darauf ab, Feldgrenzen / Feldblöcke in einem einheitlichen Format auf globaler Ebene offen zugänglich zu machen. Dies wird ermöglicht durch eine offene Spezifikation für Feldgrenzen. Dazu sind quelloffene Programme und frei evrfügbare Daten verfügbar, mit denen man schnell und einfach loslegen kann. Diese Präsentation gibt eine kurze EInführung in das Projekt, mit der Hoffnung auf einen regen Austausch im Anschluss.",
+      "description": "Das Projekt Field Boundaries for Agriculture (fiboa) zielt darauf ab, Feldgrenzen / Feldblöcke in einem einheitlichen Format auf globaler Ebene offen zugänglich zu machen. Dies wird ermöglicht durch eine offene Spezifikation für Feldgrenzen. Dazu sind quelloffene Programme und frei evrfügbare Daten verfügbar, mit denen man schnell und einfach loslegen kann. Diese Präsentation gibt eine kurze EInführung in das Projekt, mit der Hoffnung auf einen regen Austausch im Anschluss.\r\n\r\nDer Kern von fiboa ist eine Spezifikation für die Darstellung von Feldbegrenzungsdaten in GeoJSON und GeoParquet in einer standardisierten Form, mit mehreren optionalen Erweiterungen, die zusätzliche Attribute spezifizieren. Das Kerndatenschema von fiboa ist recht einfach - es besteht aus einer Reihe von Definitionen für Attributnamen und -werte. Die Anzahl der Attribute im Kern ist von vornherein recht gering. Die Idee ist, dass die meisten der „interessanten“ Daten über das Feld in den „Erweiterungen“ zu finden sind.\r\n\r\nMehr über die Technologien hinter der fiboa-Spezifikation erfahren, den vollständigen Text der Spezifikation lesen und verfügbare offene Datensätze und Erweiterungen unter dem folgenden Link erkunden: https://fiboa.org",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "NWJLBD",
+          "name": "Matthias Mohr",
+          "avatar": "https://pretalx.com/media/avatars/NWJLBD_HuSAXlE.jpeg",
+          "biography": "Ich bin ein freiberuflicher Softwareentwickler und Berater. Ich habe maßgeblich an der Definition der openEO-API-Spezifikation für interoperable Geoprozessierung in der Cloud mitgewirkt und betreue Teile des openEO-Ökosystems. Ebenso bin ich einer der Autoren der STAC-Spezifikation und betreue eine große Anzahl der Erweiterungen. Ich entwickle zudem STAC Browser und diverse JavaScript STAC Tools, außerdem betreue ich STAC Index. Neuerdings arbeite ich auch an einer Spezifikation für Feldblöcke, fiboa.",
+          "public_name": "Matthias Mohr",
+          "guid": "2591f8df-44ef-59f4-bdca-2f9834cd0b9e",
+          "url": "https://pretalx.com/fossgis2025/speaker/NWJLBD/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/NQK7TP/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/NQK7TP/",
+      "attachments": [
+        {
+          "title": "Präsentationsfolien (PDF)",
+          "url": "/media/fossgis2025/submissions/NQK7TP/resources/fiboa_und_FTW_d9S4SkZ.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "37928568-2390-5d33-904c-74e3ea7d5ad4",
+      "code": "GJKHAG",
+      "id": 58284,
+      "logo": null,
+      "date": "2025-03-28T12:30:00+01:00",
+      "start": "12:30",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-58284-absicherung-von-diensten-mit-keycloak",
+      "url": "https://pretalx.com/fossgis2025/talk/GJKHAG/",
+      "title": "Absicherung von Diensten mit Keycloak",
+      "subtitle": "",
+      "track": "Praxisberichte",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Nicht jeder OWS Dienst soll offen verfügbar sein. Nicht jeder Serversoftware über die Dienste konfiguriert werden können, stellt eine Möglichkeit der Absicherung zur Verfügung. Wie kann eine einfache und einheitliche Lösung für den geschützten Zugriff aussehen?\r\n\r\nHier kommt Keycloak ins Spiel. \r\n\r\nIn nur 5 Minuten wird das Projekt vorgestellt und versucht, Lust auf den Einsatz von Keycloak zu machen.",
+      "description": "Nicht jeder OWS Dienst soll offen verfügbar sein. Nicht jeder Serversoftware über die Dienste konfiguriert werden können, stellt eine Möglichkeit der Absicherung zur Verfügung. Wie kann eine einfache und einheitliche Lösung für den geschützten Zugriff aussehen?\r\n\r\nHier kommt Keycloak ins Spiel. \r\n\r\nKeycloak ist ein Open Source Projekt und unterstützt Single Sign-On mit Identitäts- und Zugriffsmanagement für Anwendungen und Dienste. Dabei unterstützt Keycloak verschiedene Protokolle wie z.B OpenID oder OAuth. Es wird eine Benutzerverwaltung sowie der Aufbau von Rollen unterstützt. Die Möglichkeiten sind sehr umfangreich.\r\n\r\nAnhand eines einfachen Beispiels wird die Absicherung demonstriert.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "XTSTXB",
+          "name": "Astrid Emde",
+          "avatar": "https://pretalx.com/media/avatars/XTSTXB_0B7DQZx.jpg",
+          "biography": "Astrid Emde war bisher bei allen FOSSGIS-Konferenzen dabei und freut sich auf die FOSSGIS 2025 in Münster.\r\n\r\nSie befasst sich seit vielen Jahren mit Geodaten und FOSSGIS und hat schon zahlreiche Projekte vor allem im WebGIS-Bereich umgesetzt.\r\n\r\nAstrid Emde arbeitet bei der WhereGroup in Bonn und hat schon viele Workshops und Präsentationen zu Mapbender, MapServer, GeoServer, PostgreSQL/PostGIS, OWS oder allgemein zum Aufbau einer GDI gehalten. Sie ist Dozentin der FOSS Academy, dem Schulungsinstitut der WhereGroup\r\n\r\nSeit vielen Jahren engagiert sie sich im Mapbender-Projekt und gehört zum Mapbender Team und dem Mapbender PSC (Project Steering Committee).\r\n\r\nAstrid Emde ist in der OSGeo Foundation aktiv. Sie ist 2010 zum Charter Member und war von 2017-2021 im OSGeo Board of Directors (Vorstand der OSGeo). Sie ist OSGeo Secretary und ist darüber hinaus im Bereich Marketing, Presse, Community Meetings und OSGeoLive aktiv. 2018 erhielt sie für ihr Engagement den Sol Katz Award der OSGeo.\r\n\r\nAuch im FOSSGIS e.V. ist Astrid Emde aktiv. Sie gehört zum Team der jährlich stattfindenden FOSSGIS-Konferenz, engagiert sich in der Vereins-Öffentlichkeitsarbeit und der Organisation von Community Events (https://fossgis.de).",
+          "public_name": "Astrid Emde",
+          "guid": "715f48b7-cddf-5338-9c54-bcb1ffaef50f",
+          "url": "https://pretalx.com/fossgis2025/speaker/XTSTXB/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/GJKHAG/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/GJKHAG/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/GJKHAG/resources/fossgis-2025-A_p3vaVSg.pdf",
+          "type": "related"
+        }
+      ]
+    },
+    {
+      "guid": "f3a04d15-6337-5b4b-8720-bc596301273d",
+      "code": "H33WMC",
+      "id": 57633,
+      "logo": null,
+      "date": "2025-03-28T12:35:00+01:00",
+      "start": "12:35",
+      "duration": "00:05",
+      "room": "HS2 (S10)",
+      "slug": "fossgis2025-57633-datenbankschema-mit-mermaid-visualisieren",
+      "url": "https://pretalx.com/fossgis2025/talk/H33WMC/",
+      "title": "Datenbankschema mit Mermaid visualisieren",
+      "subtitle": "",
+      "track": "Daten, Datenbanken und Datenprozessierung",
+      "type": "Lightning-Talk",
+      "language": "de-formal",
+      "abstract": "Vorstellung von mermerd und Mermaid zu visuellen Darstellung von  (Geo)-Datenbankstrukturen. Zusätzlich wird gezeigt wie man diesen Prozess automatisiert.",
+      "description": "Einer Geodateninfrastruktur liegt üblicherweise ein durchdachtes Datenbankschema zugrunde. Um dies allen Beteiligten verständlich zu machen bieten sich ER-Diagramme (Entitiy-Relationsship) an. Mittels mermerd ist es möglich die Tabellenstruktur einer Datenbank (z.B. Postgres) zu extrahieren und mittels der Aufzeichnungssprache Mermaid visuell darzustellen. Dieser Vortrag beschreibt wie dieser Prozess mittels Continuous Integration automatisiert werden kann, damit jederzeit das eine visuelle Darstellung des Datenbank Schemas für alle Team-Mitglieder zu sehen ist.",
+      "recording_license": "",
+      "do_not_record": false,
+      "persons": [
+        {
+          "code": "7RZJR9",
+          "name": "Jakob Miksch",
+          "avatar": "https://pretalx.com/media/avatars/7RZJR9_80VaCN6.png",
+          "biography": "Lead Developer bei Logicalis Germany. OpenSource-Beitragender im Bereich Geoinformatik und OpenStreetMap.",
+          "public_name": "Jakob Miksch",
+          "guid": "af5ca2c4-79d5-51f9-ab3f-9e1857c8d871",
+          "url": "https://pretalx.com/fossgis2025/speaker/7RZJR9/"
+        }
+      ],
+      "links": [],
+      "feedback_url": "https://pretalx.com/fossgis2025/talk/H33WMC/feedback/",
+      "origin_url": "https://pretalx.com/fossgis2025/talk/H33WMC/",
+      "attachments": [
+        {
+          "title": "Folien",
+          "url": "/media/fossgis2025/submissions/H33WMC/resources/DB_Mermaid_Hs43siJ.pdf",
+          "type": "related"
+        }
+      ]
+    }
+  ]
+}
